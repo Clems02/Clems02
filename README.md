@@ -1,27 +1,28 @@
+
 <h1>Les blagues du jours pour se détendre ! 😇</h1>
 
 ```diff
-Comment répare-t-on un fichier corrompu ?
+Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 
-On lui donne encore plus d'argent !
+À cause des pare-feu
 ```
 
 ```diff
-Qu'est-ce qui est mieux que de gagner une médaille d'or aux jeux paralympiques ?
+Papa ! Pourquoi mamie court en zigzag ?
 
-Marcher.
+Ta gueule p'tit con, et passe-moi les cartouches !
 ```
 
 ```diff
-À quoi sert le Dolipranus ?
+Quelle est la différence entre un 69 et le brouillard ?
 
-À aller mieux lorsque tu as la tête dans le cul !
+Dans le brouillard, on ne voit pas le trou du cul qui est devant...
 ```
 
 ```diff
-Quel est l'inverse du divorce ?
+Quelle est la différence entre un macho et un pêcheur ?
 
-Le partage
+Le macho ne se vantera jamais d'en avoir attrapé une grosse.
 ```
 
 <br/>
@@ -32,13 +33,15 @@ Le partage
 
 <br/>
 
-<p align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClems02%2Fhit-counter&count_bg=%23003E80&title_bg=%235C9FE1&icon=powershell.svg&icon_color=%23FFFFFF&title=Visite&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
+
 
 <br/>
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify) ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/13:58-white?style=for-the-badge)
+
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/14:04-white?style=for-the-badge)
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
