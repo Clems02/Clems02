@@ -2,27 +2,27 @@
 <h1>Les blagues du jours pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek après avoir fait l'amour ?
+Comment répare-t-on un fichier corrompu ?
 
-Il efface l'historique.
+On lui donne encore plus d'argent !
 ```
 
 ```diff
-Arrêtez les blagues sur les nains.
+Qu'est-ce qui est mieux que de gagner une médaille d'or aux jeux paralympiques ?
 
-Il faut grandir un peu.
+Marcher.
 ```
 
 ```diff
-Que fait un oiseau au-dessus d'un camp de concentration ?
+À quoi sert le Dolipranus ?
 
-Cuit Cuit !
+À aller mieux lorsque tu as la tête dans le cul !
 ```
 
 ```diff
-Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
+Quel est l'inverse du divorce ?
 
-Le garçon répond : "C'est la moche qui gagne !"
+Le partage
 ```
 
 <br/>
@@ -37,5 +37,5 @@ Le garçon répond : "C'est la moche qui gagne !"
 
 <br/>
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/13:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/13:58-white?style=for-the-badge)
 
