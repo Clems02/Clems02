@@ -1,0 +1,43 @@
+name: Update README all day
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Compile TypeScript
+        run: npm run build
+
+      - name: Run main script
+        env:
+          TOKEN_API: ${{ secrets.TOKEN_API }}
+        run: node ./dist/index.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Clems02"
+          git config user.email "chaumont.clement@outlook.fr"
+          git add README.md
+          git commit -m "Update README.md with latest data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
