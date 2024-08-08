@@ -1,28 +1,28 @@
-Création README réussi.
-pour se détendre ! 😇</h1>
+
+<h1>Les blagues du jours pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le dieu favori des développeurs ?
+Comment répare-t-on un fichier corrompu ?
 
-Tor
+On lui donne encore plus d'argent !
 ```
 
 ```diff
-L'autre jour, j'ai dit à un SDF que l'argent ne fait pas le bonheur...
+Qu'est-ce qui est mieux que de gagner une médaille d'or aux jeux paralympiques ?
 
-Je crois qu'il l'a mal pris.
+Marcher.
 ```
 
 ```diff
-Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
+À quoi sert le Dolipranus ?
 
-Car elles aiment les gigabits!
+À aller mieux lorsque tu as la tête dans le cul !
 ```
 
 ```diff
-Quelle est la différence entre une dinde et ma sœur ?
+Quel est l'inverse du divorce ?
 
-La dinde, je ne l'ai pas encore fourrée.
+Le partage
 ```
 
 <br/>
@@ -37,5 +37,5 @@ La dinde, je ne l'ai pas encore fourrée.
 
 <br/>
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/12:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/13:58-white?style=for-the-badge)
 
