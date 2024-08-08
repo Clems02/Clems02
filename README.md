@@ -2,27 +2,27 @@
 <h1>Les blagues du jours pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre le C et les impôts ?
+Que fait un geek après avoir fait l'amour ?
 
-Il faut tout déclarer.
+Il efface l'historique.
 ```
 
 ```diff
-Pourquoi Ray Charles et Stevie Wonder chantent toujours en se balançant de gauche à droite ?
+Arrêtez les blagues sur les nains.
 
-Parce qu'ils cherchent leur micro
+Il faut grandir un peu.
 ```
 
 ```diff
-Deux hommes sans pénis se battent...
+Que fait un oiseau au-dessus d'un camp de concentration ?
 
-... ce fut un combat sanglant.
+Cuit Cuit !
 ```
 
 ```diff
-Qui est le plus menteur entre un boucher et un jardinier ?
+Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
 
-Le jardinier, car il ne raconte que des salades.
+Le garçon répond : "C'est la moche qui gagne !"
 ```
 
 <br/>
@@ -37,5 +37,5 @@ Le jardinier, car il ne raconte que des salades.
 
 <br/>
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/13:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/13:49-white?style=for-the-badge)
 
