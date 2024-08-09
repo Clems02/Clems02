@@ -1,34 +1,34 @@
 
-<h1>Les blagues du jours pour se détendre ! 😇</h1>
+<h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+Jusqu'à combien peut-on compter avec nos doigts ?
 
-À cause des pare-feu
+1024
 ```
 
 ```diff
-Ma copine ne transforme pas les chats en pâtés ou en kebabs.
+Quel hôtel est le plus étoilé ?
 
-Elle les transforme en crêpes sur l'autoroute.
+Auschwitz
 ```
 
 ```diff
-Lui : Moi tu sais : cinq centimètres de plus et je serais un roi.
+Quel est le point commun entre une étoile d'un sapin et le clitoris ?
 
-Elle : Oui et deux centimètres de moins tu serais une reine.
+Les deux sont difficiles à atteindre.
 ```
 
 ```diff
-Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
+Quel est le légume le plus alcoolique ?
 
-Alors pourquoi tu continues ?
+L'épinard
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 145 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 144 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Alors pourquoi tu continues ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/22:21-white?style=for-the-badge)
 
 
 <p align="center">
