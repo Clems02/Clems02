@@ -1,5 +1,5 @@
 export const README_to_edit = `
-<h1>Les blagues du jours pour se détendre ! 😇</h1>
+<h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 \`\`\`diff
 <#promise_blague_dev_1_joke>
