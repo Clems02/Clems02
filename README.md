@@ -8,21 +8,21 @@ Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 ```
 
 ```diff
-Papa ! Pourquoi mamie court en zigzag ?
+Ma copine ne transforme pas les chats en pâtés ou en kebabs.
 
-Ta gueule p'tit con, et passe-moi les cartouches !
+Elle les transforme en crêpes sur l'autoroute.
 ```
 
 ```diff
-Quelle est la différence entre un 69 et le brouillard ?
+Lui : Moi tu sais : cinq centimètres de plus et je serais un roi.
 
-Dans le brouillard, on ne voit pas le trou du cul qui est devant...
+Elle : Oui et deux centimètres de moins tu serais une reine.
 ```
 
 ```diff
-Quelle est la différence entre un macho et un pêcheur ?
+Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
 
-Le macho ne se vantera jamais d'en avoir attrapé une grosse.
+Alors pourquoi tu continues ?
 ```
 
 <br/>
@@ -40,7 +40,7 @@ Le macho ne se vantera jamais d'en avoir attrapé une grosse.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/14:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
 
 
 <p align="center">
