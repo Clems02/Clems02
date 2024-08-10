@@ -2,27 +2,27 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien peut-on compter avec nos doigts ?
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-1024
+Le mode jour des applications !
 ```
 
 ```diff
-Quel hôtel est le plus étoilé ?
+Qu’est ce qu’un noir avec un chapeau blanc ?
 
-Auschwitz
+Un pot de Nutella !
 ```
 
 ```diff
-Quel est le point commun entre une étoile d'un sapin et le clitoris ?
+Quel est le point commun entre un motard célibataire et sa moto ?
 
-Les deux sont difficiles à atteindre.
+Ils dorment tous les deux sur la béquille.
 ```
 
 ```diff
-Quel est le légume le plus alcoolique ?
+En Normandie, quand il y a de la moule...
 
-L'épinard
+On a la frite.
 ```
 
 <br/>
@@ -40,7 +40,7 @@ L'épinard
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/22:21-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:46-white?style=for-the-badge)
 
 
 <p align="center">
