@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Jusqu'à combien savent compter les geeks ?
 
-Le mode jour des applications !
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Qu’est ce qu’un noir avec un chapeau blanc ?
+Comment appelle-t-on une fête avec des arabes ?
 
-Un pot de Nutella !
+Une boom
 ```
 
 ```diff
-Quel est le point commun entre un motard célibataire et sa moto ?
+Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
 
-Ils dorment tous les deux sur la béquille.
+C'était le jour du changement d'heure !
 ```
 
 ```diff
-En Normandie, quand il y a de la moule...
+Ta mère c’est comme Pac-Man...
 
-On a la frite.
+Elle aime manger les boules...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 144 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 143 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On a la frite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:50-white?style=for-the-badge)
 
 
 <p align="center">
