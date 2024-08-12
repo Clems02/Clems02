@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+C'est l'histoire d'une cocotte-minute connectée...
 
-404... car après, ils ne s'y retrouvent plus !
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Comment appelle-t-on une fête avec des arabes ?
+Un jour, Hitler a dit...
 
-Une boom
+Toi le petit Juif, tu as intérêt à choisir ton camp.
 ```
 
 ```diff
-Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
+Le sperme c'est comme la vérité,
 
-C'était le jour du changement d'heure !
+soit ça saute aux yeux, soit c'est dur à avaler.
 ```
 
 ```diff
-Ta mère c’est comme Pac-Man...
+Pourquoi les alcooliques sont-ils des animaux à sang froid ?
 
-Elle aime manger les boules...
+Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 143 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 142 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle aime manger les boules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
 
 
 <p align="center">
