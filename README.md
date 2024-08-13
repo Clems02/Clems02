@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Que fait un geek quand il a peur ?
 
-... qui utilise WinRAR pour décompresser.
+Il URL
 ```
 
 ```diff
-Un jour, Hitler a dit...
+Quelle est la différence entre un hibou et un arabe ?
 
-Toi le petit Juif, tu as intérêt à choisir ton camp.
+Y'en a pas. Ils dorment le jour et volent la nuit.
 ```
 
 ```diff
-Le sperme c'est comme la vérité,
+Qu'est-ce qui se lève quand tu t'en sers, qui s'abaisse quand tu as fini de t'en servir et qui goutte après usage ?
 
-soit ça saute aux yeux, soit c'est dur à avaler.
+Un parapluie
 ```
 
 ```diff
-Pourquoi les alcooliques sont-ils des animaux à sang froid ?
+Pourquoi les sorcières ne portent-elles jamais de culottes ?
 
-Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
+Pour avoir une meilleure adhérence avec le balai...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 142 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 141 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
 
 
 <p align="center">
