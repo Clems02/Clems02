@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek quand il a peur ?
+Quel est le réseau social où tout le monde se prend la tête ?
 
-Il URL
+Discord
 ```
 
 ```diff
-Quelle est la différence entre un hibou et un arabe ?
+Qu'est-ce qui a deux pattes et qui saigne ?
 
-Y'en a pas. Ils dorment le jour et volent la nuit.
+Un demi-chien...
 ```
 
 ```diff
-Qu'est-ce qui se lève quand tu t'en sers, qui s'abaisse quand tu as fini de t'en servir et qui goutte après usage ?
+Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
 
-Un parapluie
+L'enfant djihadiste ne se fait sauter qu'une seule fois.
 ```
 
 ```diff
-Pourquoi les sorcières ne portent-elles jamais de culottes ?
+Monsieur, savez-vous que votre chien aboie toute la nuit ?
 
-Pour avoir une meilleure adhérence avec le balai...
+Oh, ce n'est pas grave, il dort toute la journée !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 141 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 140 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir une meilleure adhérence avec le balai...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:47-white?style=for-the-badge)
 
 
 <p align="center">
