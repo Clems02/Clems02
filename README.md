@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+Pourquoi les développeurs n'aiment-ils pas 2020 ?
 
-Discord
+Car il y a la co vide.
 ```
 
 ```diff
-Qu'est-ce qui a deux pattes et qui saigne ?
+Quelle est la différence entre un Juif et une patate ?
 
-Un demi-chien...
+La patate ne crie pas quand on la brûle.
 ```
 
 ```diff
-Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
+Une prostituée c'est comme Dracula...
 
-L'enfant djihadiste ne se fait sauter qu'une seule fois.
+...elle suce pour vivre !
 ```
 
 ```diff
-Monsieur, savez-vous que votre chien aboie toute la nuit ?
+Quelle est la différence entre un bonhomme de neige et une bonne femme de neige ?
 
-Oh, ce n'est pas grave, il dort toute la journée !
+Les boules-de-neige.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 140 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 139 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oh, ce n'est pas grave, il dort toute la journée !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:43-white?style=for-the-badge)
 
 
 <p align="center">
