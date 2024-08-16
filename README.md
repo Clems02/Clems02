@@ -2,9 +2,9 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment-ils pas 2020 ?
+Que fait un développeur quand il a soif ?
 
-Car il y a la co vide.
+this.drink('water')
 ```
 
 ```diff
@@ -14,21 +14,21 @@ La patate ne crie pas quand on la brûle.
 ```
 
 ```diff
-Une prostituée c'est comme Dracula...
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-...elle suce pour vivre !
+Bah dans son cul.
 ```
 
 ```diff
-Quelle est la différence entre un bonhomme de neige et une bonne femme de neige ?
+Qu'est-ce qu'un cochon qui rit ?
 
-Les boules-de-neige.
+Un porc tout gai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 139 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 138 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les boules-de-neige.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:47-white?style=for-the-badge)
 
 
 <p align="center">
