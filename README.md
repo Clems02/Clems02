@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a soif ?
+Quel logiciel de conception est très prisé des gourmands ?
 
-this.drink('water')
+SketchUp
 ```
 
 ```diff
-Quelle est la différence entre un Juif et une patate ?
+Comment appelle-t-on une bonne mère espagnole d'origine Africaine ?
 
-La patate ne crie pas quand on la brûle.
+Mamadouoé
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Que signifie expatriées ?
 
-Bah dans son cul.
+Anciennes petites amies non rangées.
 ```
 
 ```diff
-Qu'est-ce qu'un cochon qui rit ?
+Qui va à la chasse perd sa place mais ...
 
-Un porc tout gai.
+... qui a la chiasse tire la chasse.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 138 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 137 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un porc tout gai.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:45-white?style=for-the-badge)
 
 
 <p align="center">
