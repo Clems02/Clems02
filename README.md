@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel logiciel de conception est très prisé des gourmands ?
+J'ai fait un test de QI en ligne.
 
-SketchUp
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-Comment appelle-t-on une bonne mère espagnole d'origine Africaine ?
+Les maisons de retraite, c'est comme Koh-Lanta...
 
-Mamadouoé
+À la fin, il n'en restera qu'un.
 ```
 
 ```diff
-Que signifie expatriées ?
+Melon et Meleche trouvent une maison à vendre...
 
-Anciennes petites amies non rangées.
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Qui va à la chasse perd sa place mais ...
+A quelle fête vend-on le plus de rasoirs au Portugal ?
 
-... qui a la chiasse tire la chasse.
+A la fête des mères.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 137 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 136 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Qui va à la chasse perd sa place mais ...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:45-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
 
 
 <p align="center">
