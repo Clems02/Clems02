@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+Ma copine m'a larguée après avoir donné son nom à une classe.
 
-Apparemment, j'en ai 404.
+Elle avait l'impression que je la traitais comme un objet.
 ```
 
 ```diff
-Les maisons de retraite, c'est comme Koh-Lanta...
+Mohammed et Karim sont devant une porte. Qui sonne en premier ?
 
-À la fin, il n'en restera qu'un.
+L'alarme
 ```
 
 ```diff
-Melon et Meleche trouvent une maison à vendre...
+Le viagra, c'est comme l'enfer.
 
-…Melon l’achète et Meleche l’habite.
+Satan l'habite.
 ```
 
 ```diff
-A quelle fête vend-on le plus de rasoirs au Portugal ?
+Qu'est-ce qu'un cochon qui rit ?
 
-A la fête des mères.
+Un porc tout gai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 136 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 135 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ A la fête des mères.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
 
 
 <p align="center">
