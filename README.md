@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Ma copine m'a larguée après avoir donné son nom à une classe.
+Pourquoi vaut il mieux être software que hardware ?
 
-Elle avait l'impression que je la traitais comme un objet.
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Mohammed et Karim sont devant une porte. Qui sonne en premier ?
+Qu'est-ce qu'un Noir avec un bâton dans l'cul ?
 
-L'alarme
+Une glace Magnum.
 ```
 
 ```diff
-Le viagra, c'est comme l'enfer.
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-Satan l'habite.
+Bah dans son cul.
 ```
 
 ```diff
-Qu'est-ce qu'un cochon qui rit ?
+Les seins c'est comme l'argent.
 
-Un porc tout gai.
+Ceux qui en ont ne veulent pas partager.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 135 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 134 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un porc tout gai.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
 
 
 <p align="center">
