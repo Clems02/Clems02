@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Qu'accepte un geek a son mariage ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Les conditions et termes d'utilisation.
 ```
 
 ```diff
-Qu'est-ce qu'un Noir avec un bâton dans l'cul ?
+La vie, c'est comme un 100 mètres.
 
-Une glace Magnum.
+Les asthmatiques et les obèses n'arrivent pas jusqu'au bout.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-Bah dans son cul.
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
-Les seins c'est comme l'argent.
+Ta mère est tellement grosse que quand elle meurt...
 
-Ceux qui en ont ne veulent pas partager.
+elle n’arrive pas à monter au ciel...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 134 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 133 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ceux qui en ont ne veulent pas partager.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:46-white?style=for-the-badge)
 
 
 <p align="center">
