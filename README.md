@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'accepte un geek a son mariage ?
+Que fait un développeur s'il veut se marier ?
 
-Les conditions et termes d'utilisation.
+Une fille en C
 ```
 
 ```diff
-La vie, c'est comme un 100 mètres.
+Quel est le point commun entre les petites filles et les bouteilles de vin ?
 
-Les asthmatiques et les obèses n'arrivent pas jusqu'au bout.
+Les meilleures ont douze d'âge et sont dans ma cave.
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+Une femme musulmane fait une fellation à son mari pendant le ramadan.
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+Attention ma chère, vous devrez attendre ce soir avant d'avaler !
 ```
 
 ```diff
-Ta mère est tellement grosse que quand elle meurt...
+Quel est le point commun entre un mauvais musicien et un cancre ?
 
-elle n’arrive pas à monter au ciel...
+Les deux ont de mauvaises notes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 133 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 132 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ elle n’arrive pas à monter au ciel...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
 
 
 <p align="center">
