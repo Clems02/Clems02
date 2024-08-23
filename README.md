@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+Pourquoi les développeurs sont-ils en bonne santé ?
 
-Une fille en C
+Parce qu'ils ont des fibres !
 ```
 
 ```diff
-Quel est le point commun entre les petites filles et les bouteilles de vin ?
+Je ne suis pas raciste,
 
-Les meilleures ont douze d'âge et sont dans ma cave.
+Pour preuve, mon jardinier, qui ramasse mon coton, est noir.
 ```
 
 ```diff
-Une femme musulmane fait une fellation à son mari pendant le ramadan.
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-Attention ma chère, vous devrez attendre ce soir avant d'avaler !
+Mais pas votre voisin.
 ```
 
 ```diff
-Quel est le point commun entre un mauvais musicien et un cancre ?
+2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
 
-Les deux ont de mauvaises notes.
+Non. La guerre, c'est pour les durs !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 132 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 131 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont de mauvaises notes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
 
 
 <p align="center">
