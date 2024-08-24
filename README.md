@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs sont-ils en bonne santé ?
+Une notice me disait : Nécessite Windows XP ou mieux.
 
-Parce qu'ils ont des fibres !
+J'ai donc installé Linux.
 ```
 
 ```diff
-Je ne suis pas raciste,
+Que voit un malvoyant après s'être battu ?
 
-Pour preuve, mon jardinier, qui ramasse mon coton, est noir.
+Il voit flou.
 ```
 
 ```diff
-Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
+Pourquoi Cendrillon est-elle morte à minuit ?
 
-Mais pas votre voisin.
+Parce que son tampon s'est transformé en citrouille.
 ```
 
 ```diff
-2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
+Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
 
-Non. La guerre, c'est pour les durs !
+"Mais justement !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 131 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 130 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non. La guerre, c'est pour les durs !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:47-white?style=for-the-badge)
 
 
 <p align="center">
