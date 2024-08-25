@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une notice me disait : Nécessite Windows XP ou mieux.
+Pourquoi les développeurs vont en boîte de nuit ?
 
-J'ai donc installé Linux.
+Pour faire la java.
 ```
 
 ```diff
-Que voit un malvoyant après s'être battu ?
+Pourquoi Jésus a été crucifié et non pas noyé ?
 
-Il voit flou.
+Tu te vois avec un aquarium au-dessus de ta porte ?
 ```
 
 ```diff
-Pourquoi Cendrillon est-elle morte à minuit ?
+Que dit une fille après une nuit avec un juif ?
 
-Parce que son tampon s'est transformé en citrouille.
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
+Quelle est la partie de la voiture la plus dangereuse ?
 
-"Mais justement !"
+La conductrice.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 130 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 129 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
 
 
 <p align="center">
