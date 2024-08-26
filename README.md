@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+Quel est le 2ème métier d’un développeur ?
 
-Pour faire la java.
+CSharpentier
 ```
 
 ```diff
-Pourquoi Jésus a été crucifié et non pas noyé ?
+Qu'est-ce qui est pire qu'un bébé dans une poubelle ?
 
-Tu te vois avec un aquarium au-dessus de ta porte ?
+Un bébé dans deux poubelles
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Qu'est-ce qui est pire que de doigter sa sœur ?
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+Y trouver l'alliance de son père.
 ```
 
 ```diff
-Quelle est la partie de la voiture la plus dangereuse ?
+Quel est le point commun entre une diarrhée et une voiture électrique ?
 
-La conductrice.
+La peur de ne pas arriver à la maison !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 129 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 128 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La conductrice.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
 
 
 <p align="center">
