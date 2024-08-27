@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Quel est le comble pour un serveur ?
 
-CSharpentier
+C'est de ne pas répondre.
 ```
 
 ```diff
-Qu'est-ce qui est pire qu'un bébé dans une poubelle ?
+Quelle question est posée dans le bac de chimie en Allemagne ?
 
-Un bébé dans deux poubelles
+Déterminer la concentration de la solution finale.
 ```
 
 ```diff
-Qu'est-ce qui est pire que de doigter sa sœur ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-Y trouver l'alliance de son père.
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Quel est le point commun entre une diarrhée et une voiture électrique ?
+Je suis anti-féministe.
 
-La peur de ne pas arriver à la maison !
+Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 128 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 127 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La peur de ne pas arriver à la maison !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
 
 
 <p align="center">
