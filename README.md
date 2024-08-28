@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour un serveur ?
+Qu'est-ce qui permet à un ordinateur d'avancer dans l'eau ?
 
-C'est de ne pas répondre.
+Les barrettes de RAMe !
 ```
 
 ```diff
-Quelle question est posée dans le bac de chimie en Allemagne ?
+Quel est le point commun entre un nécrophile et un homme qui se baigne en Bretagne ?
 
-Déterminer la concentration de la solution finale.
+Tous les deux disent : Elle est froide, mais une fois dedans, elle est bonne.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Quel est le point commun entre un chien et toi ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+Vous jouez tout les deux avec votre queue.
 ```
 
 ```diff
-Je suis anti-féministe.
+Deux fesses se croisent.
 
-Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
+- Alors, ça gaze ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 127 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 126 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais si les femmes montrent leurs nibards pour militer, je veux bien les souteni
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
 
 
 <p align="center">
