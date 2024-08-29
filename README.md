@@ -2,9 +2,9 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qui permet à un ordinateur d'avancer dans l'eau ?
+Pourquoi les bots ne parlent pas avec les humains ?
 
-Les barrettes de RAMe !
+Par peur de leur ressembler.
 ```
 
 ```diff
@@ -14,21 +14,21 @@ Tous les deux disent : Elle est froide, mais une fois dedans, elle est bonne.
 ```
 
 ```diff
-Quel est le point commun entre un chien et toi ?
+Melon et melèche veulent faire un couscous.
 
-Vous jouez tout les deux avec votre queue.
+Melon achète la semoule et melèche la saucisse.
 ```
 
 ```diff
-Deux fesses se croisent.
+Il ne faut pas donner du pain aux canards...
 
-- Alors, ça gaze ?
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 126 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 125 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux fesses se croisent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:52-white?style=for-the-badge)
 
 
 <p align="center">
