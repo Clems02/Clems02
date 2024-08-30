@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les bots ne parlent pas avec les humains ?
+J'ai fait un test de QI en ligne.
 
-Par peur de leur ressembler.
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-Quel est le point commun entre un nécrophile et un homme qui se baigne en Bretagne ?
+Comment a été élu Vladimir Poutine ?
 
-Tous les deux disent : Elle est froide, mais une fois dedans, elle est bonne.
+Par élimination.
 ```
 
 ```diff
-Melon et melèche veulent faire un couscous.
+Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
 
-Melon achète la semoule et melèche la saucisse.
+Parce que la vérité sort toujours de la bouche des enfants !
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
 
-Aux connards non plus !
+Non, tatoué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 125 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 124 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:52-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:52-white?style=for-the-badge)
 
 
 <p align="center">
