@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 
-Apparemment, j'en ai 404.
+À cause des pare-feu
 ```
 
 ```diff
-Comment a été élu Vladimir Poutine ?
+Deux Arabes sont dans une voiture, qui conduit ?
 
-Par élimination.
+La police.
 ```
 
 ```diff
-Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
+Pourquoi les filles se frottent les yeux au réveil ?
 
-Parce que la vérité sort toujours de la bouche des enfants !
+Parce qu’elles ont pas de boules à gratter.
 ```
 
 ```diff
-2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
+Quel est le point commun entre un homme et un chat ?
 
-Non, tatoué.
+Les deux ont très peur de l'aspirateur.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 124 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 123 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non, tatoué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:52-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
 
 
 <p align="center">
