@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
 
-À cause des pare-feu
+Alors qu’en fait, il était tar.
 ```
 
 ```diff
-Deux Arabes sont dans une voiture, qui conduit ?
+C'est un panda qui en avait marre de la vie et un jour...
 
-La police.
+Il se panda...
 ```
 
 ```diff
-Pourquoi les filles se frottent les yeux au réveil ?
+Pourquoi j'ai appelé mon pénis Bidou ?
 
-Parce qu’elles ont pas de boules à gratter.
+Parce que quand je vais pisser, je s'coue Bidou.
 ```
 
 ```diff
-Quel est le point commun entre un homme et un chat ?
+Hey Google, pourquoi je suis célibataire ?
 
-Les deux ont très peur de l'aspirateur.
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 123 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 122 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont très peur de l'aspirateur.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
