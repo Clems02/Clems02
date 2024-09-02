@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
+C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
 
-Alors qu’en fait, il était tar.
+... PATH le chemin !
 ```
 
 ```diff
-C'est un panda qui en avait marre de la vie et un jour...
+Qu'est-ce qu'un enfant de chœur encore puceau ?
 
-Il se panda...
+Un enfant qui court plus vite que le prêtre.
 ```
 
 ```diff
-Pourquoi j'ai appelé mon pénis Bidou ?
+C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
 
-Parce que quand je vais pisser, je s'coue Bidou.
+Parce que je vais t’enculer.
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Ce sont 2 nombrils qui se rencontrent.
 
-D'accord ! J'ouvre la caméra.
+L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 122 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 121 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
