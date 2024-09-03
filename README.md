@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
+Quelle est la déesse du Wi-Fi ?
 
-... PATH le chemin !
+La déesse L.
 ```
 
 ```diff
-Qu'est-ce qu'un enfant de chœur encore puceau ?
+Une mère chinoise emmena son fils au parc. Il trouva un chien et se mit à jouer avec lui. Soudain, sa mère cria :
 
-Un enfant qui court plus vite que le prêtre.
+Chen Li ! Combien de fois dois-je te le répéter ? On ne joue pas avec la nourriture !
 ```
 
 ```diff
-C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
+Si un rapeur nique sa mère, que fait un campeur ?
 
-Parce que je vais t’enculer.
+Il monte sa tante !
 ```
 
 ```diff
-Ce sont 2 nombrils qui se rencontrent.
+Quel est le comble pour un joueur de rugby ?
 
-L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
+Se faire plaquer par sa femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 121 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 120 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
 
 
 <p align="center">
