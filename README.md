@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse du Wi-Fi ?
+Quel logiciel de conception est très prisé des gourmands ?
 
-La déesse L.
+SketchUp
 ```
 
 ```diff
-Une mère chinoise emmena son fils au parc. Il trouva un chien et se mit à jouer avec lui. Soudain, sa mère cria :
+C'est un père Noël juif qui entre et qui dit...
 
-Chen Li ! Combien de fois dois-je te le répéter ? On ne joue pas avec la nourriture !
+Bonjour les enfants, qu'est-ce que je vous vends ?
 ```
 
 ```diff
-Si un rapeur nique sa mère, que fait un campeur ?
+Lui : Moi tu sais : cinq centimètres de plus et je serais un roi.
 
-Il monte sa tante !
+Elle : Oui et deux centimètres de moins tu serais une reine.
 ```
 
 ```diff
-Quel est le comble pour un joueur de rugby ?
+Quel est le point commun entre la Méditerranée et ta maman ?
 
-Se faire plaquer par sa femme.
+Ce sont toutes les deux des mers chaudes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 120 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 119 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Se faire plaquer par sa femme.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:52-white?style=for-the-badge)
 
 
 <p align="center">
