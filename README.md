@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel logiciel de conception est très prisé des gourmands ?
+Pourquoi Half Life 3 ne sortira jamais ?
 
-SketchUp
+Par ce qu'on arrive pas a retrouver la Source.
 ```
 
 ```diff
-C'est un père Noël juif qui entre et qui dit...
+Quel est le jeu auquel les orphelins ne peuvent pas jouer ?
 
-Bonjour les enfants, qu'est-ce que je vous vends ?
+Le loup famille
 ```
 
 ```diff
-Lui : Moi tu sais : cinq centimètres de plus et je serais un roi.
+Quelle est la différence entre un 69 et le brouillard ?
 
-Elle : Oui et deux centimètres de moins tu serais une reine.
+Dans le brouillard, on ne voit pas le trou du cul qui est devant...
 ```
 
 ```diff
-Quel est le point commun entre la Méditerranée et ta maman ?
+Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
 
-Ce sont toutes les deux des mers chaudes.
+L'emplacement du balai !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 119 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 118 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont toutes les deux des mers chaudes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:52-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:53-white?style=for-the-badge)
 
 
 <p align="center">
