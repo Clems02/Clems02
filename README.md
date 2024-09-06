@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi Half Life 3 ne sortira jamais ?
+Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
 
-Par ce qu'on arrive pas a retrouver la Source.
+Aujourd'hui il s'appelle "Challenge Accepted"...
 ```
 
 ```diff
-Quel est le jeu auquel les orphelins ne peuvent pas jouer ?
+Quel est le point commun entre un pédophile et Vladimir Poutine ?
 
-Le loup famille
+Ils entrent tous les deux sans demander.
 ```
 
 ```diff
-Quelle est la différence entre un 69 et le brouillard ?
+Quel est le point commun entre une blonde et une princesse ?
 
-Dans le brouillard, on ne voit pas le trou du cul qui est devant...
+Elles aiment quand tu rentres dans leur palais.
 ```
 
 ```diff
-Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
+Qu'est-ce qu'une luciole qui a pris du viagra ?
 
-L'emplacement du balai !
+Un néon !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 118 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 117 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'emplacement du balai !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
 
 
 <p align="center">
