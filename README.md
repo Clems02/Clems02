@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs sont-ils en bonne santé ?
+Que fait un développeur qui a froid ?
 
-Parce qu'ils ont des fibres !
+Il met une C-Sharp.
 ```
 
 ```diff
-C'est un enfant qui écrit sa lettre au Père Noël : "Cher Père Noël. Pour Noël, je veux une petite soeur."
+L'autre jour, j'ai dit à un SDF que l'argent ne fait pas le bonheur...
 
-Le Père Noël lui renvoya une lettre, lui disant : "Pas de problème, amène moi ta mère et on vas s'arranger."
+Je crois qu'il l'a mal pris.
 ```
 
 ```diff
-Quelle est la tarte préférée des putes ?
+Qu'est-ce qu'une prostituée qui se reconvertit dans la politique ?
 
-La tarte catin
+Une députée
 ```
 
 ```diff
-Quel est le comble du boulanger ?
+Les femmes ne sont pas vos objets sexuels.
 
-Plus il a de la brioche, moins on voit sa baguette.
+Ce sont les miens !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 116 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 115 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Plus il a de la brioche, moins on voit sa baguette.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
