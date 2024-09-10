@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un bug sur une plateforme musicale ?
+En programmation, c'est le seul endroit où...
 
-Une Spoti-faille.
+...tu arrives à faire rentrer deux bool dans un string.
 ```
 
 ```diff
-En Suède, ils ont du fer et ils ne savent pas quoi en foutre
+Quel est le produit phare des supermarchés portugais ?
 
-Au Vatican, c'est l'inverse.
+Le lait en brique.
 ```
 
 ```diff
-Monsieur le Curé, je peux rejoindre mes parents ?
+Qu'est-ce qui rentre dur et sec et qui ressort mou et mouillé ?
 
-D'accord, mais remonte ton slip avant.
+Un chewing-gum.
 ```
 
 ```diff
-Quel est le comble pour un joueur de rugby ?
+Pourquoi la diarrhée est très répandue ?
 
-Se faire plaquer par sa femme.
+Car c'est une maladie courante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 114 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 113 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Se faire plaquer par sa femme.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
