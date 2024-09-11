@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-En programmation, c'est le seul endroit où...
+Pourquoi vaut il mieux être software que hardware ?
 
-...tu arrives à faire rentrer deux bool dans un string.
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Quel est le produit phare des supermarchés portugais ?
+Quel est le comble pour un Espagnol ?
 
-Le lait en brique.
+Y aller Franco !
 ```
 
 ```diff
-Qu'est-ce qui rentre dur et sec et qui ressort mou et mouillé ?
+Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
 
-Un chewing-gum.
+Parce que la vérité sort toujours de la bouche des enfants !
 ```
 
 ```diff
-Pourquoi la diarrhée est très répandue ?
+Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
 
-Car c'est une maladie courante.
+"Mais justement !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 113 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 112 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est une maladie courante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:53-white?style=for-the-badge)
 
 
 <p align="center">
