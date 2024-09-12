@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Jusqu'à combien savent compter les geeks ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Quel est le comble pour un Espagnol ?
+Qui est le plus grand esclavagiste ?
 
-Y aller Franco !
+Jeff Bezos
 ```
 
 ```diff
-Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
+Mon papa, il a un pénis de 20cm!
 
-Parce que la vérité sort toujours de la bouche des enfants !
+Mon papa lui, il a juste 15cm mais ça fait mal quand même
 ```
 
 ```diff
-Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
+Un enfant dit : "Ma maman a toujours faim !"
 
-"Mais justement !"
+"Elle n'arrête pas de manger le zizi de mon papa !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 112 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 111 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
 
 
 <p align="center">
