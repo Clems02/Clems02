@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+J'allais faire une blague sur l'erreur 404...
 
-404... car après, ils ne s'y retrouvent plus !
+Je ne l'ai pas trouvée...
 ```
 
 ```diff
-Qui est le plus grand esclavagiste ?
+Comment appelle-t-on un chien sans organes ?
 
-Jeff Bezos
+On ne l'appelle pas, il est mort.
 ```
 
 ```diff
-Mon papa, il a un pénis de 20cm!
+Comment appelle-t-on une lesbienne qui n'a pas de seins ?
 
-Mon papa lui, il a juste 15cm mais ça fait mal quand même
+Une homoplate.
 ```
 
 ```diff
-Un enfant dit : "Ma maman a toujours faim !"
+Quel est le meilleur dans le lait maternel ?
 
-"Elle n'arrête pas de manger le zizi de mon papa !"
+L'emballage
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 111 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 110 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un enfant dit : "Ma maman a toujours faim !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
