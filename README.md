@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Quel est le dieu favori des développeurs ?
 
-Je ne l'ai pas trouvée...
+Tor
 ```
 
 ```diff
-Comment appelle-t-on un chien sans organes ?
+Que fait un DJ djihadiste ?
 
-On ne l'appelle pas, il est mort.
+Il fait péter le son.
 ```
 
 ```diff
-Comment appelle-t-on une lesbienne qui n'a pas de seins ?
+Maman, maman pourquoi tu gémis ?
 
-Une homoplate.
+Tais-toi et lèche !
 ```
 
 ```diff
-Quel est le meilleur dans le lait maternel ?
+Pourquoi le cerveau des femmes est divisé en 5 ?
 
-L'emballage
+Pour chaque bouton de la cuisinière.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 110 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 109 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'emballage
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
 
 
 <p align="center">
