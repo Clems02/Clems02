@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le dieu favori des développeurs ?
+Qu'accepte un geek a son mariage ?
 
-Tor
+Les conditions et termes d'utilisation.
 ```
 
 ```diff
-Que fait un DJ djihadiste ?
+Quelle est la différence entre un Juif et une pizza ?
 
-Il fait péter le son.
+la pizza ne crie pas quand on la met au four.
 ```
 
 ```diff
-Maman, maman pourquoi tu gémis ?
+Pourquoi les hommes sont dotés d'un pénis ?
 
-Tais-toi et lèche !
+Pour vérifier la beauté intérieure des femmes.
 ```
 
 ```diff
-Pourquoi le cerveau des femmes est divisé en 5 ?
+Quel est l'avantage d'un gamer ?
 
-Pour chaque bouton de la cuisinière.
+Il a une gigabyte...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 109 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 108 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque bouton de la cuisinière.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
 
 
 <p align="center">
