@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'accepte un geek a son mariage ?
+Quel est le biscuit préféré d'Internet ?
 
-Les conditions et termes d'utilisation.
+Le cookie
 ```
 
 ```diff
-Quelle est la différence entre un Juif et une pizza ?
+Une femme dit à son mari : "Je vais faire les courses, demain, c'est l'anniversaire de ma mère, tu aurais une idée d'appareil électrique à lui offrir ?"
 
-la pizza ne crie pas quand on la met au four.
+Pourquoi pas une chaise ?
 ```
 
 ```diff
-Pourquoi les hommes sont dotés d'un pénis ?
+Quel est le point commun entre ta mère et le coupe de la LDC ?
 
-Pour vérifier la beauté intérieure des femmes.
+Tout le monde a envie de la soulever.
 ```
 
 ```diff
-Quel est l'avantage d'un gamer ?
+Deux fesses se croisent.
 
-Il a une gigabyte...
+- Alors, ça gaze ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 108 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 107 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il a une gigabyte...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
