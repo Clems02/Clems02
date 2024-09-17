@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Où partent les développeurs en vacances ?
 
-Le cookie
+Aux C-Shell
 ```
 
 ```diff
-Une femme dit à son mari : "Je vais faire les courses, demain, c'est l'anniversaire de ma mère, tu aurais une idée d'appareil électrique à lui offrir ?"
+Pourquoi Marine Le Pen ne s'épile que les poils blancs de son cul ?
 
-Pourquoi pas une chaise ?
+Pour mettre les noirs dans la merde.
 ```
 
 ```diff
-Quel est le point commun entre ta mère et le coupe de la LDC ?
+Comment on sait quand il faut rompre ?
 
-Tout le monde a envie de la soulever.
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-Deux fesses se croisent.
+Comment appelle-t-on une orgie de nains?
 
-- Alors, ça gaze ?
+Une passe-partouze
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 107 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 106 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux fesses se croisent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:35-white?style=for-the-badge)
 
 
 <p align="center">
