@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+Les programmes informatiques, c’est comme la masturbation :
 
-Aux C-Shell
+Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
 ```
 
 ```diff
-Pourquoi Marine Le Pen ne s'épile que les poils blancs de son cul ?
+Vous savez comment on convertit de l'argent africain en argent européen ?
 
-Pour mettre les noirs dans la merde.
+Non ? Eh bien, on fait du blanchiment d'argent !
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+Quelle est la vitesse maximale autorisée lors d'un rapport ?
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+68km/h car à 69... Ça fait une tête-à-queue.
 ```
 
 ```diff
-Comment appelle-t-on une orgie de nains?
+Qui est le plus menteur entre un boucher et un jardinier ?
 
-Une passe-partouze
+Le jardinier, car il ne raconte que des salades.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 106 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 105 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une passe-partouze
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
