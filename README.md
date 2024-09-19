@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les programmes informatiques, c’est comme la masturbation :
+J'ai une blague sur la mémoire vive...
 
-Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
+... mais attendez elle RAM.
 ```
 
 ```diff
-Vous savez comment on convertit de l'argent africain en argent européen ?
+Spiderman grimpe au-dessus des murs, Superman vole au-dessus...
 
-Non ? Eh bien, on fait du blanchiment d'argent !
+Et musulman les explose !
 ```
 
 ```diff
-Quelle est la vitesse maximale autorisée lors d'un rapport ?
+Quelle est la différance entre une femme et une grue ?
 
-68km/h car à 69... Ça fait une tête-à-queue.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Qui est le plus menteur entre un boucher et un jardinier ?
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-Le jardinier, car il ne raconte que des salades.
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 105 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 104 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le jardinier, car il ne raconte que des salades.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
