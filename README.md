@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai une blague sur la mémoire vive...
+Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
 
-... mais attendez elle RAM.
+... ensuite il demande à quoi il doit servir.
 ```
 
 ```diff
-Spiderman grimpe au-dessus des murs, Superman vole au-dessus...
+Que font 1+2-1x2 ?
 
-Et musulman les explose !
+Le nombre de jambes d'un Manchot.
 ```
 
 ```diff
-Quelle est la différance entre une femme et une grue ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-La grue débite des caisses et la femme encaisse des bites.
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Quel est le point commun entre les blagues et les jupes ?
 
-Mr Propre
+Les plus courtes sont les meilleures.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 104 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 103 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
