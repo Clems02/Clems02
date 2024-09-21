@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
+Ma copine m'a larguée après avoir donné son nom à une classe.
 
-... ensuite il demande à quoi il doit servir.
+Elle avait l'impression que je la traitais comme un objet.
 ```
 
 ```diff
-Que font 1+2-1x2 ?
+Pourquoi on n'enterre jamais les Français sur le dos ?
 
-Le nombre de jambes d'un Manchot.
+Parce qu'il n'y aurait pas assez de terre pour remplir leur grande gueule.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Quelle est la différence entre la bite et un gite ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+Le gîte, on l’a bite et la bite on la gîte !
 ```
 
 ```diff
-Quel est le point commun entre les blagues et les jupes ?
+Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
 
-Les plus courtes sont les meilleures.
+... on est romantique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 103 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 102 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les plus courtes sont les meilleures.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
