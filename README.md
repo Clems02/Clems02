@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Ma copine m'a larguée après avoir donné son nom à une classe.
+Quel est le chanteur préféré des développeurs ?
 
-Elle avait l'impression que je la traitais comme un objet.
+Michael Json
 ```
 
 ```diff
-Pourquoi on n'enterre jamais les Français sur le dos ?
+Comment on appelle un bébé musulman ?
 
-Parce qu'il n'y aurait pas assez de terre pour remplir leur grande gueule.
+Un Baby Bommer
 ```
 
 ```diff
-Quelle est la différence entre la bite et un gite ?
+Comment s'appellent les poils de couille déjà ?
 
-Le gîte, on l’a bite et la bite on la gîte !
+Je m'en souviens plus bien...
 ```
 
 ```diff
-Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
+Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 
-... on est romantique.
+Ça fait 2 verres en moins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 102 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 101 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
