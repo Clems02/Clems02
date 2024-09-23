@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le chanteur préféré des développeurs ?
+Quel est le comble pour la mémoire vive ?
 
-Michael Json
+C'est qu'elle RAM.
 ```
 
 ```diff
-Comment on appelle un bébé musulman ?
+Quel hôtel est le plus étoilé ?
 
-Un Baby Bommer
+Auschwitz
 ```
 
 ```diff
-Comment s'appellent les poils de couille déjà ?
+Le sexe, c'est l'inverse des maths.
 
-Je m'en souviens plus bien...
+Plus c'est dur et mieux ça rentre.
 ```
 
 ```diff
-Pourquoi faut-il enlever ses lunettes avant un alcootest ?
+Pourquoi les fonctionnaires ne regardent jamais par la fenêtre le matin ?
 
-Ça fait 2 verres en moins.
+Pour avoir quelque chose à faire l’après-midi !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 101 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 100 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
