@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour la mémoire vive ?
+Que dit un informaticien quand il s'ennuie ?
 
-C'est qu'elle RAM.
+Je me fichier.
 ```
 
 ```diff
-Quel hôtel est le plus étoilé ?
+Pourquoi Marine Le Pen aime-t-elle le ski ?
 
-Auschwitz
+Parce qu'elle peut descendre des noirs !
 ```
 
 ```diff
-Le sexe, c'est l'inverse des maths.
+Dis à ta mère de manger moins de citron.
 
-Plus c'est dur et mieux ça rentre.
+Ma bite est toute fripée.
 ```
 
 ```diff
-Pourquoi les fonctionnaires ne regardent jamais par la fenêtre le matin ?
+Vous savez pourquoi Valbuena rigole quand il joue au foot ?
 
-Pour avoir quelque chose à faire l’après-midi !
+Parce que l'herbe lui chatouille les couilles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 100 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 99 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir quelque chose à faire l’après-midi !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
