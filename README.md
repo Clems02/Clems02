@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Je me fichier.
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Pourquoi Marine Le Pen aime-t-elle le ski ?
+Avec quoi fait-on sortir un bébé d'un mixeur ?
 
-Parce qu'elle peut descendre des noirs !
+Une paille.
 ```
 
 ```diff
-Dis à ta mère de manger moins de citron.
+Quel est le point commun entre un prof et des hémorroïdes ?
 
-Ma bite est toute fripée.
+Les deux sortent du corps enseignant.
 ```
 
 ```diff
-Vous savez pourquoi Valbuena rigole quand il joue au foot ?
+Si je couche avec ma soeur que suis-je?
 
-Parce que l'herbe lui chatouille les couilles !
+Nord-mal.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 99 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 98 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que l'herbe lui chatouille les couilles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
