@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Pourquoi les pirates ont rarement raison ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Avec quoi fait-on sortir un bébé d'un mixeur ?
+Qu'elle est la salle de sport préféré des obèses ?
 
-Une paille.
+Le Basic Frite.
 ```
 
 ```diff
-Quel est le point commun entre un prof et des hémorroïdes ?
+Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
 
-Les deux sortent du corps enseignant.
+Car elles aiment les gigabits!
 ```
 
 ```diff
-Si je couche avec ma soeur que suis-je?
+Pourquoi le cerveau des femmes est divisé en 5 ?
 
-Nord-mal.
+Pour chaque bouton de la cuisinière.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 98 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 97 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Nord-mal.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
 
 
 <p align="center">
