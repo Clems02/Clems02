@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+Comment appelle-t-on un trucage photo ?
 
-Parce qu'ils ont souvent Tor.
+Un Faux-to-chopage
 ```
 
 ```diff
-Qu'elle est la salle de sport préféré des obèses ?
+Quelle est la différence entre un incident et une catastrophe ?
 
-Le Basic Frite.
+Un incident, c'est quand un bateau de migrants coule et une catastrophe, c'est quand ils savent nager.
 ```
 
 ```diff
-Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
+Dis à ta mère de manger moins de citron.
 
-Car elles aiment les gigabits!
+Ma bite est toute fripée.
 ```
 
 ```diff
-Pourquoi le cerveau des femmes est divisé en 5 ?
+Deux fesses se croisent.
 
-Pour chaque bouton de la cuisinière.
+- Alors, ça gaze ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 97 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 96 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque bouton de la cuisinière.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
