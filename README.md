@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+En programmation, c'est le seul endroit où...
 
-Un Faux-to-chopage
+...tu arrives à faire rentrer deux bool dans un string.
 ```
 
 ```diff
-Quelle est la différence entre un incident et une catastrophe ?
+Spiderman grimpe au-dessus des murs, Superman vole au-dessus...
 
-Un incident, c'est quand un bateau de migrants coule et une catastrophe, c'est quand ils savent nager.
+Et musulman les explose !
 ```
 
 ```diff
-Dis à ta mère de manger moins de citron.
+Quel est le point commun entre un chien et toi ?
 
-Ma bite est toute fripée.
+Vous jouez tout les deux avec votre queue.
 ```
 
 ```diff
-Deux fesses se croisent.
+Il ne faut pas donner du pain aux canards...
 
-- Alors, ça gaze ?
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 96 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 95 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux fesses se croisent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
