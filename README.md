@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-En programmation, c'est le seul endroit où...
+Quel logiciel de conception est très prisé des gourmands ?
 
-...tu arrives à faire rentrer deux bool dans un string.
+SketchUp
 ```
 
 ```diff
-Spiderman grimpe au-dessus des murs, Superman vole au-dessus...
+Mon chat est mort... Je voudrais tellement en avoir un autre pareil !
 
-Et musulman les explose !
+Mais qu'est-ce que tu ferais de deux chats morts ?
 ```
 
 ```diff
-Quel est le point commun entre un chien et toi ?
+Quelle est la différence entre un tampon et un téléphone ?
 
-Vous jouez tout les deux avec votre queue.
+Avec le tampon, on sait qui est au bout du fil.
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+Qu'est-ce qui peut rendre un homme millionaire ?
 
-Aux connards non plus !
+Une femme, si il était milliardaire avant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 95 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 94 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
