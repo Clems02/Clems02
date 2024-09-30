@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel logiciel de conception est très prisé des gourmands ?
+Chuck Norris vends le jeu, gagne des millions...
 
-SketchUp
+... puis crée le jeu...
 ```
 
 ```diff
-Mon chat est mort... Je voudrais tellement en avoir un autre pareil !
+Pourquoi les homophobes n'aiment pas les vélos ?
 
-Mais qu'est-ce que tu ferais de deux chats morts ?
+Parce qu'ils n'aiment pas les pédales.
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+Mon papa, il a un pénis de 20cm!
 
-Avec le tampon, on sait qui est au bout du fil.
+Mon papa lui, il a juste 15cm mais ça fait mal quand même
 ```
 
 ```diff
-Qu'est-ce qui peut rendre un homme millionaire ?
+Quand fête-t-on la journée des fumeurs ?
 
-Une femme, si il était milliardaire avant.
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 94 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 93 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme, si il était milliardaire avant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
