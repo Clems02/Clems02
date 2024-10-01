@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+Qu'est-ce qu'un pirate informatique fait le mieux ?
 
-... puis crée le jeu...
+Ce qui lui tient hackeur !
 ```
 
 ```diff
-Pourquoi les homophobes n'aiment pas les vélos ?
+Quelle différence y'a t'il entre une chaussette et une petite fille?
 
-Parce qu'ils n'aiment pas les pédales.
+Contrairement à la petite fille, la chaussette ne saigne pas quand tu l'enfile.
 ```
 
 ```diff
-Mon papa, il a un pénis de 20cm!
+Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
 
-Mon papa lui, il a juste 15cm mais ça fait mal quand même
+Je sais, maman me l'a déjà dit...
 ```
 
 ```diff
-Quand fête-t-on la journée des fumeurs ?
+Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
 
-Le 1er juin
+Bonne à nez !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 93 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 92 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le 1er juin
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
