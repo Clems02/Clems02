@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un pirate informatique fait le mieux ?
+Ma copine m'a larguée après avoir donné son nom à une classe.
 
-Ce qui lui tient hackeur !
+Elle avait l'impression que je la traitais comme un objet.
 ```
 
 ```diff
-Quelle différence y'a t'il entre une chaussette et une petite fille?
+Quelle est la différence entre une mine d'or et une mousse au chocolat ?
 
-Contrairement à la petite fille, la chaussette ne saigne pas quand tu l'enfile.
+Aucune, dans les 2 cas, c'est le noir qui se fait fouetter.
 ```
 
 ```diff
-Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
+Que disent deux fesses sur un bateau ?
 
-Je sais, maman me l'a déjà dit...
+Dis donc ça commence à ramer du cul.
 ```
 
 ```diff
-Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
+Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
 
-Bonne à nez !
+... par contre ne pas trouver de chiottes ça fait chier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 92 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 91 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bonne à nez !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
