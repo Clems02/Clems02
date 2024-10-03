@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Ma copine m'a larguée après avoir donné son nom à une classe.
+J'allais faire une blague sur l'erreur 404...
 
-Elle avait l'impression que je la traitais comme un objet.
+Je ne l'ai pas trouvé...
 ```
 
 ```diff
-Quelle est la différence entre une mine d'or et une mousse au chocolat ?
+Quel est le point commun entre la sodomie et les choux-fleurs ?
 
-Aucune, dans les 2 cas, c'est le noir qui se fait fouetter.
+Même avec du beurre, les enfants n'aiment pas.
 ```
 
 ```diff
-Que disent deux fesses sur un bateau ?
+Quel est le point commun entre ta mère et la coupe de la LDC ?
 
-Dis donc ça commence à ramer du cul.
+Tout le monde a envie de la soulever.
 ```
 
 ```diff
-Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-... par contre ne pas trouver de chiottes ça fait chier.
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 91 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 90 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
