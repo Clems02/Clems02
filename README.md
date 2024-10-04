@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Quelle est la meilleure version de Windows ?
 
-Je ne l'ai pas trouvé...
+Question débile, Windows Vista bien évidemment !
 ```
 
 ```diff
-Quel est le point commun entre la sodomie et les choux-fleurs ?
+C'est une femme qui dit à son mari : -"Chéri, peut tu aller nourrir le bébé ?" -"Ok mais j'attend qu'il pleure." "Mais pourquoi ?"
 
-Même avec du beurre, les enfants n'aiment pas.
+"Car je le retrouve plus."
 ```
 
 ```diff
-Quel est le point commun entre ta mère et la coupe de la LDC ?
+Quelles sont vos matières préférées ?
 
-Tout le monde a envie de la soulever.
+Maths et Dessin !
 ```
 
 ```diff
-Qu'est-ce qu'une future mère toujours sur son portable ?
+Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
 
-Une enceinte connectée.
+Car les cyclistes pédalent et les autres pagaies.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 90 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 89 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une enceinte connectée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
