@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la meilleure version de Windows ?
+Tu ne serais pas un câble Ethernet ?
 
-Question débile, Windows Vista bien évidemment !
+Car je sens qu'il y a une connexion entre nous deux.
 ```
 
 ```diff
-C'est une femme qui dit à son mari : -"Chéri, peut tu aller nourrir le bébé ?" -"Ok mais j'attend qu'il pleure." "Mais pourquoi ?"
+Comment fait-on descendre sa belle-mère d'un arbre ?
 
-"Car je le retrouve plus."
+En coupant la corde.
 ```
 
 ```diff
-Quelles sont vos matières préférées ?
+Savez-vous comment faire crier une femme deux fois de suite en lui faisant l’amour ?
 
-Maths et Dessin !
+La première fois en la sodomisant et la seconde en s’essuyant la bite dans le rideau !
 ```
 
 ```diff
-Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
+En quel objet veut être récussiter un clochard ?
 
-Car les cyclistes pédalent et les autres pagaies.
+En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 89 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 88 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car les cyclistes pédalent et les autres pagaies.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
