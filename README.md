@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu ne serais pas un câble Ethernet ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Car je sens qu'il y a une connexion entre nous deux.
+Car c’est le hardware qui prend des coups quand le software plante.
 ```
 
 ```diff
-Comment fait-on descendre sa belle-mère d'un arbre ?
+Tu sais ce qui est écrit sur les portes du Bataclan ?
 
-En coupant la corde.
+Tirez !
 ```
 
 ```diff
-Savez-vous comment faire crier une femme deux fois de suite en lui faisant l’amour ?
+Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
 
-La première fois en la sodomisant et la seconde en s’essuyant la bite dans le rideau !
+Oh oui, si c'est une épreuve de vitesse !
 ```
 
 ```diff
-En quel objet veut être récussiter un clochard ?
+Ta mère est tellement grosse que quand elle meurt...
 
-En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
+elle n’arrive pas à monter au ciel...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 88 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 87 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les ma
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
