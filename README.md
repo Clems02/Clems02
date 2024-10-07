@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-Car c’est le hardware qui prend des coups quand le software plante.
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Tu sais ce qui est écrit sur les portes du Bataclan ?
+- Maman, je suis juif ou arabe ? - Je suis Algérienne et ton père est juif, donc les deux, pourquoi ?
 
-Tirez !
+Il y a un scooter là-bas, et j'hésite entre le voler ou le vendre.
 ```
 
 ```diff
-Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
+Quelle est la différence entre une prostituée et une boule de bowling ?
 
-Oh oui, si c'est une épreuve de vitesse !
+On ne peut mettre que 3 doigts à la fois dans la boule.
 ```
 
 ```diff
-Ta mère est tellement grosse que quand elle meurt...
+Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
 
-elle n’arrive pas à monter au ciel...
+L'aspirateur
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 87 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 86 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ elle n’arrive pas à monter au ciel...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
