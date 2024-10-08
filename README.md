@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Quel est le comble pour la mémoire vive ?
 
-Les mauvais pilotes sont problématiques.
+C'est qu'elle RAM.
 ```
 
 ```diff
-- Maman, je suis juif ou arabe ? - Je suis Algérienne et ton père est juif, donc les deux, pourquoi ?
+Vous savez comment on dit se nourrir en Somalien ?
 
-Il y a un scooter là-bas, et j'hésite entre le voler ou le vendre.
+Eux non plus.
 ```
 
 ```diff
-Quelle est la différence entre une prostituée et une boule de bowling ?
+Comment appelle - t - on une pute qui ne se lave pas ?
 
-On ne peut mettre que 3 doigts à la fois dans la boule.
+Une sale pute.
 ```
 
 ```diff
-Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
+Ta mère est tellement grosse que quand elle meurt...
 
-L'aspirateur
+elle n’arrive pas à monter au ciel...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 86 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 85 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'aspirateur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
