@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour la mémoire vive ?
+Les villageois de Minecraft ne sont que des images…
 
-C'est qu'elle RAM.
+ce sont des .png.
 ```
 
 ```diff
-Vous savez comment on dit se nourrir en Somalien ?
+Qu'est ce qui est jaune et qui attend ?
 
-Eux non plus.
+Un Ouïghours à l'entrée du camp
 ```
 
 ```diff
-Comment appelle - t - on une pute qui ne se lave pas ?
+Que fais un zoophile dans une ferme ?
 
-Une sale pute.
+Il passe du coq à l'âne...
 ```
 
 ```diff
-Ta mère est tellement grosse que quand elle meurt...
+C'est en voyant un moustique se poser sur ses testicules...
 
-elle n’arrive pas à monter au ciel...
+...qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 85 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 84 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ elle n’arrive pas à monter au ciel...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
