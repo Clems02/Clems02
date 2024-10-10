@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+Comment appelle-t-on un bug sur une plateforme musicale ?
 
-ce sont des .png.
+Une Spoti-faille.
 ```
 
 ```diff
-Qu'est ce qui est jaune et qui attend ?
+Les enfants c'est comme les clés.
 
-Un Ouïghours à l'entrée du camp
+Quand tu les perds tu en fais d'autres.
 ```
 
 ```diff
-Que fais un zoophile dans une ferme ?
+Mon papa, il a un pénis de 20cm!
 
-Il passe du coq à l'âne...
+Mon papa lui, il a juste 15cm mais ça fait mal quand même
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+Quel est le point commun entre la poitrine d'une femme et un train électrique ?
 
-...qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+C'est fait pour les enfants, mais c'est papa qui y joue.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 84 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 83 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
