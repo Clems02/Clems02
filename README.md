@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un bug sur une plateforme musicale ?
+Il y a quoi après 403 ?
 
-Une Spoti-faille.
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-Les enfants c'est comme les clés.
+J'appellerai ma fille coupe du monde.
 
-Quand tu les perds tu en fais d'autres.
+Pour qu'aucun africain ne la soulève.
 ```
 
 ```diff
-Mon papa, il a un pénis de 20cm!
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-Mon papa lui, il a juste 15cm mais ça fait mal quand même
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
-Quel est le point commun entre la poitrine d'une femme et un train électrique ?
+Comment appelle-t-on une blonde pendue par les pieds dans un garage ?
 
-C'est fait pour les enfants, mais c'est papa qui y joue.
+Une clé à pipe
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 83 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 82 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est fait pour les enfants, mais c'est papa qui y joue.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
