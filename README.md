@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a quoi après 403 ?
+Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 
-Bah, je ne sais pas, je n'ai pas trouvé...
+À cause des pare-feu
 ```
 
 ```diff
-J'appellerai ma fille coupe du monde.
+Quel est la youtubeuse préférée des allemands ?
 
-Pour qu'aucun africain ne la soulève.
+Lena zi
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+2 paysannes ramassent des patates. La première en saisie deux grosses pleines de terre et dit à l'autre :
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+Vindiou ! Elles sont comme les couilles de mon mari ! Aussi grosses ? Non, aussi sales !
 ```
 
 ```diff
-Comment appelle-t-on une blonde pendue par les pieds dans un garage ?
+Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?
 
-Une clé à pipe
+Pour chaque cas c'est un homme qui la sortie trop tard.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 82 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 81 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une clé à pipe
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
