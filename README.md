@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+Chuck Norris vends le jeu, gagne des millions...
 
-À cause des pare-feu
+... puis crée le jeu...
 ```
 
 ```diff
-Quel est la youtubeuse préférée des allemands ?
+Comment appelle-t-on 6 gays à la guerre ?
 
-Lena zi
+Rainbow six
 ```
 
 ```diff
-2 paysannes ramassent des patates. La première en saisie deux grosses pleines de terre et dit à l'autre :
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-Vindiou ! Elles sont comme les couilles de mon mari ! Aussi grosses ? Non, aussi sales !
+Mais pas votre voisin.
 ```
 
 ```diff
-Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?
+Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 
-Pour chaque cas c'est un homme qui la sortie trop tard.
+Ça fait 2 verres en moins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 81 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 80 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque cas c'est un homme qui la sortie trop tard.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
 
 
 <p align="center">
