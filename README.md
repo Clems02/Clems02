@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+Quelle est la meilleure version de Windows ?
 
-... puis crée le jeu...
+Question débile, Windows Vista bien évidemment !
 ```
 
 ```diff
-Comment appelle-t-on 6 gays à la guerre ?
+Quel est le point commun entre les noirs et la crème ?
 
-Rainbow six
+C'est meilleur quand c'est fouetté !
 ```
 
 ```diff
-Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
+Quelle est la différence entre un 69 et le brouillard ?
 
-Mais pas votre voisin.
+Dans le brouillard, on ne voit pas le trou du cul qui est devant...
 ```
 
 ```diff
-Pourquoi faut-il enlever ses lunettes avant un alcootest ?
+Pourquoi la diarrhée est très répandue ?
 
-Ça fait 2 verres en moins.
+Car c'est une maladie courante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 80 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 79 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
 
 
 <p align="center">
