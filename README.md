@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la meilleure version de Windows ?
+Pourquoi les développeurs vont en boîte de nuit ?
 
-Question débile, Windows Vista bien évidemment !
+Pour faire la java.
 ```
 
 ```diff
-Quel est le point commun entre les noirs et la crème ?
+Quelle fut la profession de Kennedy après son mandat de président ?
 
-C'est meilleur quand c'est fouetté !
+Ramasseur de balles
 ```
 
 ```diff
-Quelle est la différence entre un 69 et le brouillard ?
+Qu'est-ce qui est vert et qui nique ?
 
-Dans le brouillard, on ne voit pas le trou du cul qui est devant...
+Véronique
 ```
 
 ```diff
-Pourquoi la diarrhée est très répandue ?
+Comment appelle-t-on une orgie de nains?
 
-Car c'est une maladie courante.
+Une passe-partouze
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 79 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 78 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est une maladie courante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
 
 
 <p align="center">
