@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+Quel est le dieu favori des développeurs ?
 
-Pour faire la java.
+Tor
 ```
 
 ```diff
-Quelle fut la profession de Kennedy après son mandat de président ?
+On m'a dit de toujours voir le bon côté des choses.
 
-Ramasseur de balles
+Du coup quand je suis tombé de l'escalier, je me suis réjouit d'être déjà en bas.
 ```
 
 ```diff
-Qu'est-ce qui est vert et qui nique ?
+Comment on appelle les femmes des terroristes ?
 
-Véronique
+Des bombes sexuelles.
 ```
 
 ```diff
-Comment appelle-t-on une orgie de nains?
+L'amour, c'est comme la grippe...
 
-Une passe-partouze
+... on l'attrape dans la rue, et on le résout au lit.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 78 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 77 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une passe-partouze
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
