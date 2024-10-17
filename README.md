@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le dieu favori des développeurs ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Tor
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-On m'a dit de toujours voir le bon côté des choses.
+Un couple vient d'accoucher d'un bébé sans oreille, soudain, l'oncle beauf arrive dans la matérnité et dit :
 
-Du coup quand je suis tombé de l'escalier, je me suis réjouit d'être déjà en bas.
+- J'espère qu'il ne sera pas myope, sinon ça sera dûr de porter des lunettes.
 ```
 
 ```diff
-Comment on appelle les femmes des terroristes ?
+Comment on sait quand il faut rompre ?
 
-Des bombes sexuelles.
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-L'amour, c'est comme la grippe...
+Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
 
-... on l'attrape dans la rue, et on le résout au lit.
+... on est romantique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 77 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 76 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'amour, c'est comme la grippe...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
 
 
 <p align="center">
