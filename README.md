@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quelle est la maladie la plus répandue chez les développeurs Rust ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Le tétanos.
 ```
 
 ```diff
-Un couple vient d'accoucher d'un bébé sans oreille, soudain, l'oncle beauf arrive dans la matérnité et dit :
+C'est l'histoire d'un jeune homme qui veut adopter un enfant.
 
-- J'espère qu'il ne sera pas myope, sinon ça sera dûr de porter des lunettes.
+L'hotesse lui répond "Comme tu as grandi !"
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+Qu'est-ce qui est rose, fait 5 cm, 15 cm dépliés et qui fait rêver toutes les filles de 18 ans ?
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+Le permis de conduire
 ```
 
 ```diff
-Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
+Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
 
-... on est romantique.
+Bonne à nez !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 76 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 75 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
 
 
 <p align="center">
