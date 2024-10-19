@@ -2,15 +2,15 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+Quel est le chanteur préféré des développeurs ?
 
-Le tétanos.
+Michael Json
 ```
 
 ```diff
-C'est l'histoire d'un jeune homme qui veut adopter un enfant.
+Qu'est-ce qui est pire qu'un bébé dans une poubelle ?
 
-L'hotesse lui répond "Comme tu as grandi !"
+Un bébé dans deux poubelles
 ```
 
 ```diff
@@ -20,15 +20,15 @@ Le permis de conduire
 ```
 
 ```diff
-Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
+Quel est le point commun entre la poitrine d'une femme et un train électrique ?
 
-Bonne à nez !
+C'est fait pour les enfants, mais c'est papa qui y joue.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 75 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 74 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bonne à nez !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
