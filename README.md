@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le chanteur préféré des développeurs ?
+Quel est l'animal le plus connecté ?
 
-Michael Json
+Le porc USB
 ```
 
 ```diff
-Qu'est-ce qui est pire qu'un bébé dans une poubelle ?
+Quelle est la différence entre une tronçonneuse et un noir ?
 
-Un bébé dans deux poubelles
+Aucune, les deux fonctionnent mieux avec des chaînes.
 ```
 
 ```diff
-Qu'est-ce qui est rose, fait 5 cm, 15 cm dépliés et qui fait rêver toutes les filles de 18 ans ?
+Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
 
-Le permis de conduire
+Oh oui, si c'est une épreuve de vitesse !
 ```
 
 ```diff
-Quel est le point commun entre la poitrine d'une femme et un train électrique ?
+Un homme dit à sa femme : Ton cul est comme le Soleil.
 
-C'est fait pour les enfants, mais c'est papa qui y joue.
+On le voit de loin...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 74 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 73 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est fait pour les enfants, mais c'est papa qui y joue.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
