@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal le plus connecté ?
+Que dit un ordinateur pour draguer ?
 
-Le porc USB
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Quelle est la différence entre une tronçonneuse et un noir ?
+Quand est-ce qu'Hitler s'est suicidé ?
 
-Aucune, les deux fonctionnent mieux avec des chaînes.
+Après avoir reçu sa facture de gaz.
 ```
 
 ```diff
-Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
+Mon papa, il a un pénis de 20cm!
 
-Oh oui, si c'est une épreuve de vitesse !
+Mon papa lui, il a juste 15cm mais ça fait mal quand même
 ```
 
 ```diff
-Un homme dit à sa femme : Ton cul est comme le Soleil.
+Quel est le point commun entre la poitrine d'une femme et un train électrique ?
 
-On le voit de loin...
+C'est fait pour les enfants, mais c'est papa qui y joue.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 73 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 72 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On le voit de loin...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
