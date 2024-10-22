@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
 
-Coucou, tu veux voir mes 64 bits ?
+Alors qu’en fait, il était tar.
 ```
 
 ```diff
-Quand est-ce qu'Hitler s'est suicidé ?
+Un prêtre dit à un autre : "Dis, tu aurais pas un peu grandit ?"
 
-Après avoir reçu sa facture de gaz.
+Non, je rentre encore dans du 8 ans.
 ```
 
 ```diff
-Mon papa, il a un pénis de 20cm!
+Maman, c'est quoi de la lingerie coquine ?
 
-Mon papa lui, il a juste 15cm mais ça fait mal quand même
+De la hot couture !
 ```
 
 ```diff
-Quel est le point commun entre la poitrine d'une femme et un train électrique ?
+Quel est le style préféré d'un roux ?
 
-C'est fait pour les enfants, mais c'est papa qui y joue.
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 72 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 71 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est fait pour les enfants, mais c'est papa qui y joue.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
 
 
 <p align="center">
