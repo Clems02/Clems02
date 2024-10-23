@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
+Que fait un développeur s'il veut se marier ?
 
-Alors qu’en fait, il était tar.
+Une fille en C
 ```
 
 ```diff
-Un prêtre dit à un autre : "Dis, tu aurais pas un peu grandit ?"
+Pourquoi compare-t-on les Somaliens à des marteaux-piqueurs ?
 
-Non, je rentre encore dans du 8 ans.
+Parce qu'ils crèvent la dalle !
 ```
 
 ```diff
-Maman, c'est quoi de la lingerie coquine ?
+Melon et melèche veulent faire un couscous.
 
-De la hot couture !
+Melon achète la semoule et melèche la saucisse.
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Pourquoi le cerveau des femmes est divisé en 5 ?
 
-Le roustique.
+Pour chaque bouton de la cuisinière.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 71 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 70 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
 
 
 <p align="center">
