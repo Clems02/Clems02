@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
 
-Une fille en C
+... c'est quand le message d'erreur qu'il obtient est différent du précédent.
 ```
 
 ```diff
-Pourquoi compare-t-on les Somaliens à des marteaux-piqueurs ?
+Qu'est-ce qu'un selfie pour un orphelin ?
 
-Parce qu'ils crèvent la dalle !
+Une photo de famille
 ```
 
 ```diff
-Melon et melèche veulent faire un couscous.
+On aurait dû filmer notre nuit d'amour !
 
-Melon achète la semoule et melèche la saucisse.
+Oh, moi tu sais, les courts métrages...
 ```
 
 ```diff
-Pourquoi le cerveau des femmes est divisé en 5 ?
+C'est l'histoire d'un mec qui a 5 pénis.
 
-Pour chaque bouton de la cuisinière.
+Son slip lui va comme un gant !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 70 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 69 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque bouton de la cuisinière.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
