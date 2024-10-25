@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
+Quelle erreur ne peut-on pas abandonner ?
 
-... c'est quand le message d'erreur qu'il obtient est différent du précédent.
+L'erreur 403.
 ```
 
 ```diff
-Qu'est-ce qu'un selfie pour un orphelin ?
+Comment les enfants de Tchernobyl comptent-ils jusqu'à 33 ?
 
-Une photo de famille
+Sur leurs doigts...
 ```
 
 ```diff
-On aurait dû filmer notre nuit d'amour !
+Comment s'appellent les poils de couille déjà ?
 
-Oh, moi tu sais, les courts métrages...
+Je m'en souviens plus bien...
 ```
 
 ```diff
-C'est l'histoire d'un mec qui a 5 pénis.
+Quel est le point commun entre les places de parking et les femmes ?
 
-Son slip lui va comme un gant !
+Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 69 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 68 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Son slip lui va comme un gant !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
