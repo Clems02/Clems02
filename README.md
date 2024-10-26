@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle erreur ne peut-on pas abandonner ?
+Quel composant a un classement correct dans la société ?
 
-L'erreur 403.
+La carte maire
 ```
 
 ```diff
-Comment les enfants de Tchernobyl comptent-ils jusqu'à 33 ?
+Une jeune soupçonnée de sorcellerie demande à sa mère : "Pourquoi est-ce qu'on flotte ?"
 
-Sur leurs doigts...
+"Pour la même raison qu'on brûle."
 ```
 
 ```diff
-Comment s'appellent les poils de couille déjà ?
+Quelle est la vitesse maximale autorisée lors d'un rapport ?
 
-Je m'en souviens plus bien...
+68km/h car à 69... Ça fait une tête-à-queue.
 ```
 
 ```diff
-Quel est le point commun entre les places de parking et les femmes ?
+Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
 
-Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
+Un site de rencontres.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 68 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 67 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
