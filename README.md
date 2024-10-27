@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+Que fait un développeur en hiver ?
 
-La carte maire
+Du saut ASCII
 ```
 
 ```diff
-Une jeune soupçonnée de sorcellerie demande à sa mère : "Pourquoi est-ce qu'on flotte ?"
+Comment appelle-t-on une fête avec des arabes ?
 
-"Pour la même raison qu'on brûle."
+Une boom
 ```
 
 ```diff
-Quelle est la vitesse maximale autorisée lors d'un rapport ?
+Quel plat sent le cul de vache ?
 
-68km/h car à 69... Ça fait une tête-à-queue.
+La langue de beuf !
 ```
 
 ```diff
-Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
+Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
 
-Un site de rencontres.
+Bonne à nez !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 67 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 66 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un site de rencontres.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
