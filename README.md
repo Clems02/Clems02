@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en hiver ?
+Quel est l'endroit le moins vu de stackoverflow ?
 
-Du saut ASCII
+La page d'accueil.
 ```
 
 ```diff
-Comment appelle-t-on une fête avec des arabes ?
+Que sépare l'homme de l'animal ?
 
-Une boom
+La mer Méditerranée
 ```
 
 ```diff
-Quel plat sent le cul de vache ?
+Quelle est la différence entre toi et un chirurgien ?
 
-La langue de beuf !
+Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
 ```
 
 ```diff
-Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
+Un enfant dit : "Ma maman a toujours faim !"
 
-Bonne à nez !
+"Elle n'arrête pas de manger le zizi de mon papa !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 66 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 65 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bonne à nez !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
