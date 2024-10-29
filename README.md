@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'endroit le moins vu de stackoverflow ?
+Que dit un ordinateur pour draguer ?
 
-La page d'accueil.
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Que sépare l'homme de l'animal ?
+Comment droguer un juif ?
 
-La mer Méditerranée
+Au gaz hilarant
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
-Un enfant dit : "Ma maman a toujours faim !"
+Pourquoi la Saint-Valentin est-elle davantage fêtée dans le Nord ?
 
-"Elle n'arrête pas de manger le zizi de mon papa !"
+Parce que ça se fête en famille.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 65 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 64 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un enfant dit : "Ma maman a toujours faim !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
