@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+Une notice me disait : Nécessite Windows XP ou mieux.
 
-Coucou, tu veux voir mes 64 bits ?
+J'ai donc installé Linux.
 ```
 
 ```diff
-Comment droguer un juif ?
+Vous saviez que la famille Le Pen a du sang arabe ?
 
-Au gaz hilarant
+Sur le capot de leur voiture...
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+Quel est le point commun entre une meuf et une merguez ?
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+Les deux donnent du jus quand elles sont chaudes !
 ```
 
 ```diff
-Pourquoi la Saint-Valentin est-elle davantage fêtée dans le Nord ?
+Quel est le point commun entre les places de parking et les femmes ?
 
-Parce que ça se fête en famille.
+Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 64 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 63 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que ça se fête en famille.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
 
 
 <p align="center">
