@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une notice me disait : Nécessite Windows XP ou mieux.
+Tu ne serais pas un câble Ethernet ?
 
-J'ai donc installé Linux.
+Car je sens qu'il y a une connexion entre nous deux.
 ```
 
 ```diff
-Vous saviez que la famille Le Pen a du sang arabe ?
+Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
 
-Sur le capot de leur voiture...
+Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
 ```
 
 ```diff
-Quel est le point commun entre une meuf et une merguez ?
+Comment faire pour qu’un macho arrête de se vanter sur la taille de son sexe pendant l’amour ?
 
-Les deux donnent du jus quand elles sont chaudes !
+En lui demandant : "Est-ce qu’elle est dedans là ?"
 ```
 
 ```diff
-Quel est le point commun entre les places de parking et les femmes ?
+Quel est l'avantage d'un gamer ?
 
-Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
+Il a une gigabyte...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 63 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 62 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
