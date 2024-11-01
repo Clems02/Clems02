@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu ne serais pas un câble Ethernet ?
+Comment un développeur se met-il à jour ?
 
-Car je sens qu'il y a une connexion entre nous deux.
+Il se met à l'apache.
 ```
 
 ```diff
-Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
+Quel est le point commun entre un verre de Pastis et un tsunami ?
 
-Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
+Plus il y a d'eau moins il y a de jaune !
 ```
 
 ```diff
-Comment faire pour qu’un macho arrête de se vanter sur la taille de son sexe pendant l’amour ?
+Pourquoi j'ai appelé mon pénis Bidou ?
 
-En lui demandant : "Est-ce qu’elle est dedans là ?"
+Parce que quand je vais pisser, je s'coue Bidou.
 ```
 
 ```diff
-Quel est l'avantage d'un gamer ?
+2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
 
-Il a une gigabyte...
+Non. La guerre, c'est pour les durs !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 62 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 61 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il a une gigabyte...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
 
 
 <p align="center">
