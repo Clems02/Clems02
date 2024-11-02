@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Chuck Norris vends le jeu, gagne des millions...
 
-Il se met à l'apache.
+... puis crée le jeu...
 ```
 
 ```diff
-Quel est le point commun entre un verre de Pastis et un tsunami ?
+Qu'est-ce qui est jaune et qui attend ?
 
-Plus il y a d'eau moins il y a de jaune !
+Un Ouïghours à l'entrée du camp.
 ```
 
 ```diff
-Pourquoi j'ai appelé mon pénis Bidou ?
+Que disent deux fesses sur un bateau ?
 
-Parce que quand je vais pisser, je s'coue Bidou.
+Dis donc ça commence à ramer du cul.
 ```
 
 ```diff
-2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimes. Il me font de la peine...
 
-Non. La guerre, c'est pour les durs !
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 61 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 60 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non. La guerre, c'est pour les durs !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
