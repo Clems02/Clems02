@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+Pourquoi un développeur doit être fidèle en amour ?
 
-... puis crée le jeu...
+Il a énormément de périodes de crush !
 ```
 
 ```diff
-Qu'est-ce qui est jaune et qui attend ?
+Quelle est la différence entre un spermatozoïde et un migrant ?
 
-Un Ouïghours à l'entrée du camp.
+Ils viennent tous les deux par millions mais un seul trouve du travail.
 ```
 
 ```diff
-Que disent deux fesses sur un bateau ?
+Qu'est-ce que deux trous dans un trou ?
 
-Dis donc ça commence à ramer du cul.
+Mon nez dans ton cul...
 ```
 
 ```diff
-Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimes. Il me font de la peine...
+Hey Google, pourquoi je suis célibataire ?
 
-Je pense que je vais les faire rentrer.
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 60 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 59 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je pense que je vais les faire rentrer.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
