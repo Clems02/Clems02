@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un développeur doit être fidèle en amour ?
+Comment appelle-t-on un trucage photo ?
 
-Il a énormément de périodes de crush !
+Un Faux-to-chopage
 ```
 
 ```diff
-Quelle est la différence entre un spermatozoïde et un migrant ?
+Qu'est-ce qu’un nain qui fait une crise d’épilepsie ?
 
-Ils viennent tous les deux par millions mais un seul trouve du travail.
+Un vibromasseur
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-Mon nez dans ton cul...
+Bah dans son cul.
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 
-D'accord ! J'ouvre la caméra.
+Ça fait 2 verres en moins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 59 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 58 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
