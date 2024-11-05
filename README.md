@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+J'ai fait un test de QI en ligne.
 
-Un Faux-to-chopage
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-Qu'est-ce qu’un nain qui fait une crise d’épilepsie ?
+Hier il y a eu un concours de sosie en Chine...
 
-Un vibromasseur
+Et tout le monde a gagné.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Dans le métro, une femme sent qu'un homme lui met la main sur la cuisse. Elle se retourne et lui dit : - Vous ne pourriez pas mettre votre main ailleurs ?
 
-Bah dans son cul.
+- J'y ai pensé, mais je n'osais pas...
 ```
 
 ```diff
-Pourquoi faut-il enlever ses lunettes avant un alcootest ?
+Quel est le point commun entre Bigard l'humoriste et Bigard la marque ?
 
-Ça fait 2 verres en moins.
+Les deux aiment vérifier la viande pour voir si elle est fraîche.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 58 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 57 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
