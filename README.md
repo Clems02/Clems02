@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+Que prend un développeur avant d'écrire ?
 
-Apparemment, j'en ai 404.
+Il prend de la MD.
 ```
 
 ```diff
-Hier il y a eu un concours de sosie en Chine...
+Quelle est la différence entre un hibou et un arabe ?
 
-Et tout le monde a gagné.
+Y'en a pas. Ils dorment le jour et volent la nuit.
 ```
 
 ```diff
-Dans le métro, une femme sent qu'un homme lui met la main sur la cuisse. Elle se retourne et lui dit : - Vous ne pourriez pas mettre votre main ailleurs ?
+Pourquoi les portes sont des putes ?
 
-- J'y ai pensé, mais je n'osais pas...
+Parce qu'elles se font toucher par tout le monde.
 ```
 
 ```diff
-Quel est le point commun entre Bigard l'humoriste et Bigard la marque ?
+Un jour, une chinoise cherchait son mari dans la foule, en vain.
 
-Les deux aiment vérifier la viande pour voir si elle est fraîche.
+C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 57 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 56 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux aiment vérifier la viande pour voir si elle est fraîche.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
