@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que prend un développeur avant d'écrire ?
+Quel est le comble pour un serveur ?
 
-Il prend de la MD.
+C'est de ne pas répondre.
 ```
 
 ```diff
-Quelle est la différence entre un hibou et un arabe ?
+Comment écrivent les gros ?
 
-Y'en a pas. Ils dorment le jour et volent la nuit.
+En gras
 ```
 
 ```diff
-Pourquoi les portes sont des putes ?
+Quelle est la différence entre la bite et un gite ?
 
-Parce qu'elles se font toucher par tout le monde.
+Le gîte, on l’a bite et la bite on la gîte !
 ```
 
 ```diff
-Un jour, une chinoise cherchait son mari dans la foule, en vain.
+Les gens disent que les femmes ne sont pas drôles...
 
-C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
+... mais hier, ma femme m'a demandé de faire à manger.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 56 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 55 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
