@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour un serveur ?
+Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
 
-C'est de ne pas répondre.
+Parce que les bugs ne se reproduisent pas à cette heure-là.
 ```
 
 ```diff
-Comment écrivent les gros ?
+Que redoutent le plus les ouvriers de Tchernobyl ?
 
-En gras
+Le radiateur
 ```
 
 ```diff
-Quelle est la différence entre la bite et un gite ?
+Quelle est la différence entre une prostituée et une boule de bowling ?
 
-Le gîte, on l’a bite et la bite on la gîte !
+On ne peut mettre que 3 doigts à la fois dans la boule.
 ```
 
 ```diff
-Les gens disent que les femmes ne sont pas drôles...
+Pourquoi la statue de la liberté est-elle une femme ?
 
-... mais hier, ma femme m'a demandé de faire à manger.
+Parce qu'il fallait une tête vide pour y mettre un restaurant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 55 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 54 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les gens disent que les femmes ne sont pas drôles...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
