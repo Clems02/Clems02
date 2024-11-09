@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+En programmation, c'est le seul endroit où...
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+...tu arrives à faire rentrer deux bool dans un string.
 ```
 
 ```diff
-Que redoutent le plus les ouvriers de Tchernobyl ?
+Comment appelle-t-on un enfant qui tue son père et sa mère ?
 
-Le radiateur
+Un orphelin.
 ```
 
 ```diff
-Quelle est la différence entre une prostituée et une boule de bowling ?
+Pourquoi les prêtres ont-ils inventé le baptême ?
 
-On ne peut mettre que 3 doigts à la fois dans la boule.
+Parce qu'il faut toujours laver des sextoys après usage !
 ```
 
 ```diff
-Pourquoi la statue de la liberté est-elle une femme ?
+Que disent deux fesses dans une pirogue ?
 
-Parce qu'il fallait une tête vide pour y mettre un restaurant.
+Dis donc, ça commence à ramer du cul là non ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 54 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 53 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'il fallait une tête vide pour y mettre un restaurant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:56-white?style=for-the-badge)
 
 
 <p align="center">
