@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-En programmation, c'est le seul endroit où...
+Quel est le shell préféré des adolescents ?
 
-...tu arrives à faire rentrer deux bool dans un string.
+Le WESH
 ```
 
 ```diff
-Comment appelle-t-on un enfant qui tue son père et sa mère ?
+Pourquoi n'y a-t-il pas de noirs roux ?
 
-Un orphelin.
+Parce que Dieu ne punit jamais deux fois.
 ```
 
 ```diff
-Pourquoi les prêtres ont-ils inventé le baptême ?
+Tu sais ce que c'est un suppositoire ?
 
-Parce qu'il faut toujours laver des sextoys après usage !
+C'est une invention qui restera dans les annales.
 ```
 
 ```diff
-Que disent deux fesses dans une pirogue ?
+Quelle est l'église la plus petite ?
 
-Dis donc, ça commence à ramer du cul là non ?
+Le soutien-gorge, on ne peut y mettre que deux seins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 53 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 52 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Dis donc, ça commence à ramer du cul là non ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
 
 
 <p align="center">
