@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le shell préféré des adolescents ?
+$ npm find LaFemmeDeMaVie
 
-Le WESH
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-Pourquoi n'y a-t-il pas de noirs roux ?
+Qu'elle est l'expression favorite de John Kennedy ?
 
-Parce que Dieu ne punit jamais deux fois.
+Rien de tel qu'une balade en voiture pour se vider la tête !
 ```
 
 ```diff
-Tu sais ce que c'est un suppositoire ?
+Comment appelle-t-on un préservatif pour statue ?
 
-C'est une invention qui restera dans les annales.
+Une capote en glaise.
 ```
 
 ```diff
-Quelle est l'église la plus petite ?
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimes. Il me font de la peine...
 
-Le soutien-gorge, on ne peut y mettre que deux seins.
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 52 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 51 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le soutien-gorge, on ne peut y mettre que deux seins.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
