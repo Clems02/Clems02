@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Quelles sont les îles les plus instables au monde ?
 
-Il se met à l'apache.
+Ce sont les Îles Canaries.
 ```
 
 ```diff
-Thomas, penses-tu que je suis une mauvaise mère ?
+L'humour noir c'est comme les parents...
 
-Mon nom est Paul...
+... certains en n'ont pas.
 ```
 
 ```diff
-Qu'est-ce qu'une prostituée qui se reconvertit dans la politique ?
+Quelle est la différence entre un tampon et un téléphone ?
 
-Une députée
+Avec le tampon, on sait qui est au bout du fils.
 ```
 
 ```diff
-Pourquoi les femmes se maquillent et se parfument ?
+Hier, j'ai croisé 2 roux. Vous savez ce que je leur ai demandé ?
 
-Parce qu'elles sont moches et qu'elles puent.
+Bah alors, il est où le guidon ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 50 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 49 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles sont moches et qu'elles puent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
