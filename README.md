@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les îles les plus instables au monde ?
+Comment un développeur se met-il à jour ?
 
-Ce sont les Îles Canaries.
+Il se met à l'apache.
 ```
 
 ```diff
-L'humour noir c'est comme les parents...
+Comment Mimie Mathy est-elle décédée ?
 
-... certains en n'ont pas.
+Elle s'est pendue sur un bonsaï.
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+Comment faire pour qu’un macho arrête de se vanter sur la taille de son sexe pendant l’amour ?
 
-Avec le tampon, on sait qui est au bout du fils.
+En lui demandant : "Est-ce qu’elle est dedans là ?"
 ```
 
 ```diff
-Hier, j'ai croisé 2 roux. Vous savez ce que je leur ai demandé ?
+Pourquoi aucun éléphant n'est informaticien ?
 
-Bah alors, il est où le guidon ?
+Parce qu'ils ont peur de la souris.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 49 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 48 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bah alors, il est où le guidon ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
