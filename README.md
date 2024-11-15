@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Quel est le réseau social où tout le monde se prend la tête ?
 
-Il se met à l'apache.
+Discord
 ```
 
 ```diff
-Comment Mimie Mathy est-elle décédée ?
+L'autre jour, j'ai dit à un SDF que l'argent ne fait pas le bonheur...
 
-Elle s'est pendue sur un bonsaï.
+Je crois qu'il l'a mal pris.
 ```
 
 ```diff
-Comment faire pour qu’un macho arrête de se vanter sur la taille de son sexe pendant l’amour ?
+Quelle est la différence entre toi et un chirurgien ?
 
-En lui demandant : "Est-ce qu’elle est dedans là ?"
+Le chirurgien ampute des jambes et tu enjambes des putes !
 ```
 
 ```diff
-Pourquoi aucun éléphant n'est informaticien ?
+Ta mère est tellement grosse que quand elle meurt...
 
-Parce qu'ils ont peur de la souris.
+elle n’arrive pas à monter au ciel...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 48 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 47 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont peur de la souris.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
