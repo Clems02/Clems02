@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Discord
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-L'autre jour, j'ai dit à un SDF que l'argent ne fait pas le bonheur...
+Pourquoi les homophobes n'aiment pas les vélos ?
 
-Je crois qu'il l'a mal pris.
+Parce qu'ils n'aiment pas les pédales.
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Sais-tu pourquoi je ne regarde jamais de porno ?
 
-Le chirurgien ampute des jambes et tu enjambes des putes !
+Parce que je suis de l'autre côté de la caméra.
 ```
 
 ```diff
-Ta mère est tellement grosse que quand elle meurt...
+Lorsqu'une consonne est suivie d'une voyelle entre 2 mots, on doit faire la liaison. Mais il y a des exceptions.
 
-elle n’arrive pas à monter au ciel...
+"L'habit à papa" et "l'achat à maman" par exemple.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 47 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 46 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ elle n’arrive pas à monter au ciel...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
