@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Vous connaissez l'histoire de l'erreur 403 ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+J'ai interdiction de vous la dire...
 ```
 
 ```diff
-Pourquoi les homophobes n'aiment pas les vélos ?
+Comment reconnaît-on une lettre envoyée par un lépreux ?
 
-Parce qu'ils n'aiment pas les pédales.
+La langue est collée sur le timbre.
 ```
 
 ```diff
-Sais-tu pourquoi je ne regarde jamais de porno ?
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-Parce que je suis de l'autre côté de la caméra.
+Bah dans son cul.
 ```
 
 ```diff
-Lorsqu'une consonne est suivie d'une voyelle entre 2 mots, on doit faire la liaison. Mais il y a des exceptions.
+Les femmes ne sont pas vos objets sexuels.
 
-"L'habit à papa" et "l'achat à maman" par exemple.
+Ce sont les miens !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 46 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 45 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsqu'une consonne est suivie d'une voyelle entre 2 mots, on doit faire la liai
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
