@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous connaissez l'histoire de l'erreur 403 ?
+$ npm find LaFemmeDeMaVie
 
-J'ai interdiction de vous la dire...
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-Comment reconnaît-on une lettre envoyée par un lépreux ?
+Comment sauver une fille d'un viol ?
 
-La langue est collée sur le timbre.
+Il faut la convaincre.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Mon papa, il a un pénis de 20cm!
 
-Bah dans son cul.
+Mon papa lui, il a juste 15cm mais ça fait mal quand même
 ```
 
 ```diff
-Les femmes ne sont pas vos objets sexuels.
+Une jardinerie est un endroit merveilleux !
 
-Ce sont les miens !
+Si tu te prends trois râteaux, on t'offre une pelle.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 45 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 44 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont les miens !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
 
 
 <p align="center">
