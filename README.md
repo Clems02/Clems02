@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-$ npm find LaFemmeDeMaVie
+Pourquoi les pirates ont rarement raison ?
 
-Error: Unable to find package ‘LaFemmeDeMaVie’
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Comment sauver une fille d'un viol ?
+Quel est le point commun entre un nécrophile et un homme qui se baigne en Bretagne ?
 
-Il faut la convaincre.
+Tous les deux disent : Elle est froide, mais une fois dedans, elle est bonne.
 ```
 
 ```diff
-Mon papa, il a un pénis de 20cm!
+Deux hommes sans pénis se battent...
 
-Mon papa lui, il a juste 15cm mais ça fait mal quand même
+... ce fut un combat sanglant.
 ```
 
 ```diff
-Une jardinerie est un endroit merveilleux !
+Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
 
-Si tu te prends trois râteaux, on t'offre une pelle.
+L'autre répond alors : "Parfois la nuit porte conseil."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 44 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 43 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Si tu te prends trois râteaux, on t'offre une pelle.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
