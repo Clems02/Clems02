@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+De nos jours, le zip...
 
-Parce qu'ils ont souvent Tor.
+... ça devient rar...
 ```
 
 ```diff
-Quel est le point commun entre un nécrophile et un homme qui se baigne en Bretagne ?
+Pourquoi les femmes ont de plus petits pieds que les hommes ?
 
-Tous les deux disent : Elle est froide, mais une fois dedans, elle est bonne.
+Pour être plus près de l'évier!
 ```
 
 ```diff
-Deux hommes sans pénis se battent...
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-... ce fut un combat sanglant.
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
+Ce sont 2 nombrils qui se rencontrent.
 
-L'autre répond alors : "Parfois la nuit porte conseil."
+L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 43 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 42 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'autre répond alors : "Parfois la nuit porte conseil."
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
