@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De nos jours, le zip...
+$ npm find LaFemmeDeMaVie
 
-... ça devient rar...
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-Pourquoi les femmes ont de plus petits pieds que les hommes ?
+Où trouve-t-on les marchés illégaux ?
 
-Pour être plus près de l'évier!
+En Afrique, car ce sont des marchés noirs.
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
 ```
 
 ```diff
-Ce sont 2 nombrils qui se rencontrent.
+C'est l'histoire d'un mec qui a 5 pénis.
 
-L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
+Son slip lui va comme un gant !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 42 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 41 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
