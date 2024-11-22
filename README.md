@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-$ npm find LaFemmeDeMaVie
+Comment on appelle une situation qui est gérée ?
 
-Error: Unable to find package ‘LaFemmeDeMaVie’
+Une situation sous CTRL
 ```
 
 ```diff
-Où trouve-t-on les marchés illégaux ?
+Quelle est la différence entre un enfant et une prostituée ?
 
-En Afrique, car ce sont des marchés noirs.
+Si tu ne la vois pas, pose toi des questions...
 ```
 
 ```diff
-Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
+Violer quelqu'un, c'est comme un cambriolage...
 
-Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
+... tu pénètres par effraction et tu casses tout.
 ```
 
 ```diff
-C'est l'histoire d'un mec qui a 5 pénis.
+Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
 
-Son slip lui va comme un gant !
+L'emplacement du balai !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 41 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 40 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Son slip lui va comme un gant !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
