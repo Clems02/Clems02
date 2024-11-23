@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment on appelle une situation qui est gérée ?
+Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
 
-Une situation sous CTRL
+Parce qu'il y en a-sset
 ```
 
 ```diff
-Quelle est la différence entre un enfant et une prostituée ?
+Comment appelle-t-on un développeur pédophile ?
 
-Si tu ne la vois pas, pose toi des questions...
+Un pédofile.
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Mon papa, il a un pénis de 20cm!
 
-... tu pénètres par effraction et tu casses tout.
+Mon papa lui, il a juste 15cm mais ça fait mal quand même
 ```
 
 ```diff
-Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimes. Il me font de la peine...
 
-L'emplacement du balai !
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 40 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 39 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'emplacement du balai !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
