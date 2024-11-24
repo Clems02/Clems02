@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
+Quel est l'élevage préféré des programmeurs ?
 
-Parce qu'il y en a-sset
+L'apiculture
 ```
 
 ```diff
-Comment appelle-t-on un développeur pédophile ?
+J'ai une blague sur les talibans.
 
-Un pédofile.
+Mais je ne veux pas la dévoiler.
 ```
 
 ```diff
-Mon papa, il a un pénis de 20cm!
+Le sperme c'est comme la vérité,
 
-Mon papa lui, il a juste 15cm mais ça fait mal quand même
+soit ça saute aux yeux, soit c'est dur à avaler.
 ```
 
 ```diff
-Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimes. Il me font de la peine...
+Les seins c'est comme l'argent.
 
-Je pense que je vais les faire rentrer.
+Ceux qui en ont ne veulent pas partager.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 39 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 38 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je pense que je vais les faire rentrer.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
