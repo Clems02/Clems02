@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'élevage préféré des programmeurs ?
+Que fait un développeur s'il veut se marier ?
 
-L'apiculture
+Une fille en C
 ```
 
 ```diff
-J'ai une blague sur les talibans.
+Pourquoi les chinois ne sont pas éco-responsables ?
 
-Mais je ne veux pas la dévoiler.
+Car les souvenirs qu'ils ramènent de Paris sont toujours fabriqués dans leur pays.
 ```
 
 ```diff
-Le sperme c'est comme la vérité,
+Pourquoi les prêtres ont-ils inventé le baptême ?
 
-soit ça saute aux yeux, soit c'est dur à avaler.
+Parce qu'il faut toujours laver des sextoys après usage !
 ```
 
 ```diff
-Les seins c'est comme l'argent.
+Quel est le comble pour un campeur nordiste ?
 
-Ceux qui en ont ne veulent pas partager.
+Démonter sa tante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 38 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 37 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ceux qui en ont ne veulent pas partager.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
 
 
 <p align="center">
