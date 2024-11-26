@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+Les villageois de Minecraft ne sont que des images…
 
-Une fille en C
+ce sont des .png.
 ```
 
 ```diff
-Pourquoi les chinois ne sont pas éco-responsables ?
+Le Ricard, c'est comme un tsunami...
 
-Car les souvenirs qu'ils ramènent de Paris sont toujours fabriqués dans leur pays.
+Plus y a d'eau, moins y a de jaune.
 ```
 
 ```diff
-Pourquoi les prêtres ont-ils inventé le baptême ?
+Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
 
-Parce qu'il faut toujours laver des sextoys après usage !
+L'autre répond : "Désolée, j'ai roté."
 ```
 
 ```diff
-Quel est le comble pour un campeur nordiste ?
+Quel est le point commun entre un gynécologue myope et un chien en bonne santé ?
 
-Démonter sa tante.
+Ils ont tous les deux le nez mouillé.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 37 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 36 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Démonter sa tante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
