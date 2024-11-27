@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
 
-ce sont des .png.
+Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
 ```
 
 ```diff
-Le Ricard, c'est comme un tsunami...
+Quelle fut la profession de Kennedy après son mandat de président ?
 
-Plus y a d'eau, moins y a de jaune.
+Ramasseur de balles
 ```
 
 ```diff
-Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
+Quelle est la vitesse maximale autorisée lors d'un rapport ?
 
-L'autre répond : "Désolée, j'ai roté."
+68km/h car à 69... Ça fait une tête-à-queue.
 ```
 
 ```diff
-Quel est le point commun entre un gynécologue myope et un chien en bonne santé ?
+Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
 
-Ils ont tous les deux le nez mouillé.
+Un site de rencontres.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 36 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 35 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils ont tous les deux le nez mouillé.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
