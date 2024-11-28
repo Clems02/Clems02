@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
+J'ai une blague sur la mémoire vive...
 
-Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
+... mais attendez elle RAM.
 ```
 
 ```diff
-Quelle fut la profession de Kennedy après son mandat de président ?
+Je ne suis pas raciste,
 
-Ramasseur de balles
+Pour preuve, mon jardinier, qui ramasse mon coton, est noir.
 ```
 
 ```diff
-Quelle est la vitesse maximale autorisée lors d'un rapport ?
+Quel est le point commun entre les hommes et les crevettes ?
 
-68km/h car à 69... Ça fait une tête-à-queue.
+Rien dans la tête tout dans la queue.
 ```
 
 ```diff
-Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
+Vous savez pourquoi Valbuena rigole quand il joue au foot ?
 
-Un site de rencontres.
+Parce que l'herbe lui chatouille les couilles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 35 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 34 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un site de rencontres.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
