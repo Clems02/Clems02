@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai une blague sur la mémoire vive...
+Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
 
-... mais attendez elle RAM.
+Ça s'appelle une int err 0.
 ```
 
 ```diff
-Je ne suis pas raciste,
+Comment appelle-t-on une entreprise dont les travailleurs sont exclusivement chauves ?
 
-Pour preuve, mon jardinier, qui ramasse mon coton, est noir.
+Une boite à œufs
 ```
 
 ```diff
-Quel est le point commun entre les hommes et les crevettes ?
+Monsieur le Curé, je peux rejoindre mes parents ?
 
-Rien dans la tête tout dans la queue.
+D'accord, mais remonte ton slip avant.
 ```
 
 ```diff
-Vous savez pourquoi Valbuena rigole quand il joue au foot ?
+Quel président bande 2 fois le matin ?
 
-Parce que l'herbe lui chatouille les couilles !
+Charles de Gaulle
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 34 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 33 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que l'herbe lui chatouille les couilles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
