@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
+Quand Chuck Norris lance son code pour la première fois...
 
-Ça s'appelle une int err 0.
+... il fonctionne.
 ```
 
 ```diff
-Comment appelle-t-on une entreprise dont les travailleurs sont exclusivement chauves ?
+J'aimerais mourir comme mon grand-père : dans son sommeil
 
-Une boite à œufs
+Pas en hurlant comme tous les passagers du bus qu'il conduisait.
 ```
 
 ```diff
-Monsieur le Curé, je peux rejoindre mes parents ?
+Quelle est la différence entre une femme et une grue ?
 
-D'accord, mais remonte ton slip avant.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Quel président bande 2 fois le matin ?
+Ce sont 2 nombrils qui se rencontrent.
 
-Charles de Gaulle
+L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 33 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 32 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Charles de Gaulle
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
