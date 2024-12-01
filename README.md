@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris lance son code pour la première fois...
+Qu’est ce qu’un code obèse ?
 
-... il fonctionne.
+Un code qui ne run pas.
 ```
 
 ```diff
-J'aimerais mourir comme mon grand-père : dans son sommeil
+Dans les pubs pour la lessive, on montre comment se débarrasser des tâches de sang...
 
-Pas en hurlant comme tous les passagers du bus qu'il conduisait.
+... mais pas des corps.
 ```
 
 ```diff
-Quelle est la différence entre une femme et une grue ?
+Hé Chéri ! On mate un film porno ou un match de Foot ce soir ?
 
-La grue débite des caisses et la femme encaisse des bites.
+Un film porno ! Vu que tu sais déjà jouer au foot !
 ```
 
 ```diff
-Ce sont 2 nombrils qui se rencontrent.
+Quelle est l'activité préférée d'un électricien ?
 
-L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
+Branler un poteau pour voir s'il a du jus.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 32 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 31 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'un dit à l'autre : "J'pense qu'il y a une soirée en bas".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
