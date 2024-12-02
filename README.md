@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu’est ce qu’un code obèse ?
+Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
 
-Un code qui ne run pas.
+Le temps d’accès !
 ```
 
 ```diff
-Dans les pubs pour la lessive, on montre comment se débarrasser des tâches de sang...
+Pourquoi la femme d'Hitler l'a t'elle quitté ?
 
-... mais pas des corps.
+Elle a vu la facture de gaz.
 ```
 
 ```diff
-Hé Chéri ! On mate un film porno ou un match de Foot ce soir ?
+À quoi reconnaît-on le slip de Dark Vador ?
 
-Un film porno ! Vu que tu sais déjà jouer au foot !
+À son côté obscur.
 ```
 
 ```diff
-Quelle est l'activité préférée d'un électricien ?
+Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 
-Branler un poteau pour voir s'il a du jus.
+Ça fait 2 verres en moins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 31 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 30 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Branler un poteau pour voir s'il a du jus.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
 
 
 <p align="center">
