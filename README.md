@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
+Où partent les développeurs en vacances ?
 
-Le temps d’accès !
+Aux C-Shell
 ```
 
 ```diff
-Pourquoi la femme d'Hitler l'a t'elle quitté ?
+Quelle est la différence entre un incident et une catastrophe ?
 
-Elle a vu la facture de gaz.
+Un incident, c'est quand un bateau de migrants coule et une catastrophe, c'est quand ils savent nager.
 ```
 
 ```diff
-À quoi reconnaît-on le slip de Dark Vador ?
+C'est l'histoire du nain aux 26 enfants.
 
-À son côté obscur.
+Elle est courte, mais elle est bonne.
 ```
 
 ```diff
-Pourquoi faut-il enlever ses lunettes avant un alcootest ?
+Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
 
-Ça fait 2 verres en moins.
+Le garçon répond : "C'est la moche qui gagne !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 30 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 29 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
 
 
 <p align="center">
