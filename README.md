@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+C'est l'histoire d'un développeur qui déclare sa flamme à une femme. Il dit "Veux-tu sortir avec moi" ?
 
-Aux C-Shell
+Elle répondit "!Oui"
 ```
 
 ```diff
-Quelle est la différence entre un incident et une catastrophe ?
+Que dit un terroriste au centre ville ?
 
-Un incident, c'est quand un bateau de migrants coule et une catastrophe, c'est quand ils savent nager.
+Je vais m'éclater.
 ```
 
 ```diff
-C'est l'histoire du nain aux 26 enfants.
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-Elle est courte, mais elle est bonne.
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
+Comment reconnaît-on une femme intelligente ?
 
-Le garçon répond : "C'est la moche qui gagne !"
+Elle commence toujours ses phrases par "Mon mari m'a dit que..."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 29 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 28 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le garçon répond : "C'est la moche qui gagne !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
