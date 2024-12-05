@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un développeur qui déclare sa flamme à une femme. Il dit "Veux-tu sortir avec moi" ?
+À quel jeu jouent les développeurs russes ?
 
-Elle répondit "!Oui"
+À la roulette-rust.
 ```
 
 ```diff
-Que dit un terroriste au centre ville ?
+Qu'est ce qui est jaune et qui attend ?
 
-Je vais m'éclater.
+Un Ouïghours à l'entrée du camp
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Pourquoi un homme rentre-t-il dans un bar ?
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+Parce qu'il est zoophile.
 ```
 
 ```diff
-Comment reconnaît-on une femme intelligente ?
+Pourquoi les femmes se maquillent et se parfument ?
 
-Elle commence toujours ses phrases par "Mon mari m'a dit que..."
+Parce qu'elles sont moches et qu'elles puent.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 28 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 27 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle commence toujours ses phrases par "Mon mari m'a dit que..."
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
 
 
 <p align="center">
