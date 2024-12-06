@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quel jeu jouent les développeurs russes ?
+Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
 
-À la roulette-rust.
+Une RC-XD
 ```
 
 ```diff
-Qu'est ce qui est jaune et qui attend ?
+Comment surprendre un aveugle ?
 
-Un Ouïghours à l'entrée du camp
+Vous laissez la ventouse dans les toilettes.
 ```
 
 ```diff
-Pourquoi un homme rentre-t-il dans un bar ?
+Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
 
-Parce qu'il est zoophile.
+D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
 ```
 
 ```diff
-Pourquoi les femmes se maquillent et se parfument ?
+Pourquoi les sorcières ne portent-elles jamais de culottes ?
 
-Parce qu'elles sont moches et qu'elles puent.
+Pour avoir une meilleure adhérence avec le balai...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 27 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 26 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles sont moches et qu'elles puent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
