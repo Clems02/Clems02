@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+Quel est le réseau social où tout le monde se prend la tête ?
 
-Une RC-XD
+Discord
 ```
 
 ```diff
-Comment surprendre un aveugle ?
+Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
 
-Vous laissez la ventouse dans les toilettes.
+Car il faut séparer le jaune du blanc.
 ```
 
 ```diff
-Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
+Une pucelle et une mère sont sur un bateau, l'une des deux tombe à l'eau. Laquelle ?
 
-D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
+La pucelle, car elle a paniqué.
 ```
 
 ```diff
-Pourquoi les sorcières ne portent-elles jamais de culottes ?
+Quelle est la différence entre un macho et un pêcheur ?
 
-Pour avoir une meilleure adhérence avec le balai...
+Le macho ne se vantera jamais d'en avoir attrapé une grosse.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 26 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 25 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir une meilleure adhérence avec le balai...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
