@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+À quel jeu jouent les développeurs russes ?
 
-Discord
+À la roulette-rust.
 ```
 
 ```diff
-Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
+Quelle est la différence entre une Geox et George Floyd ?
 
-Car il faut séparer le jaune du blanc.
+La Geox, elle respire.
 ```
 
 ```diff
-Une pucelle et une mère sont sur un bateau, l'une des deux tombe à l'eau. Laquelle ?
+Violer quelqu'un, c'est comme un cambriolage...
 
-La pucelle, car elle a paniqué.
+... tu pénètres par effraction et tu casses tout.
 ```
 
 ```diff
-Quelle est la différence entre un macho et un pêcheur ?
+Qu'est-ce qui est pire qu'un meurtrier ?
 
-Le macho ne se vantera jamais d'en avoir attrapé une grosse.
+Un policier fanatique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 25 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 24 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le macho ne se vantera jamais d'en avoir attrapé une grosse.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
