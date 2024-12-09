@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quel jeu jouent les développeurs russes ?
+Pourquoi un ordinateur se gratte-t-il tout le temps ?
 
-À la roulette-rust.
+Car il a des puces.
 ```
 
 ```diff
-Quelle est la différence entre une Geox et George Floyd ?
+Pourquoi Hitler s'en sort bien dans "Cauchemars en cuisine" ?
 
-La Geox, elle respire.
+Car il sait se servir d'un four.
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Quel plat sent le cul de vache ?
 
-... tu pénètres par effraction et tu casses tout.
+La langue de bœuf !
 ```
 
 ```diff
-Qu'est-ce qui est pire qu'un meurtrier ?
+Pourquoi les chasseurs tirent sur les panneaux routiers?
 
-Un policier fanatique.
+Pour que les aveugles puissent les   lire.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 24 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 23 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un policier fanatique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
