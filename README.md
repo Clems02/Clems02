@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un ordinateur se gratte-t-il tout le temps ?
+Ma copine m'a larguée après avoir donné son nom à une classe.
 
-Car il a des puces.
+Elle avait l'impression que je la traitais comme un objet.
 ```
 
 ```diff
-Pourquoi Hitler s'en sort bien dans "Cauchemars en cuisine" ?
+Barman, c'est ici que vous avez des chiottes en or ?
 
-Car il sait se servir d'un four.
+Patrick ! J'ai trouvé celui qui a chié dans ton saxo !
 ```
 
 ```diff
-Quel plat sent le cul de vache ?
+Qu'est-ce que les hommes apprécient plus que le sexe ?
 
-La langue de bœuf !
+Que leurs amis les croient quand ils en parlent.
 ```
 
 ```diff
-Pourquoi les chasseurs tirent sur les panneaux routiers?
+Quel est le point commun entre un homme et un chat ?
 
-Pour que les aveugles puissent les   lire.
+Les deux ont très peur de l'aspirateur.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 23 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 22 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour que les aveugles puissent les   lire.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
