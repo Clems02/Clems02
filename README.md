@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Ma copine m'a larguée après avoir donné son nom à une classe.
+Quel est le film préféré des hackers ?
 
-Elle avait l'impression que je la traitais comme un objet.
+Le magicien DDoZ
 ```
 
 ```diff
-Barman, c'est ici que vous avez des chiottes en or ?
+Que cause une éclipse durant le ramadan ?
 
-Patrick ! J'ai trouvé celui qui a chié dans ton saxo !
+3 minutes pour vite manger.
 ```
 
 ```diff
-Qu'est-ce que les hommes apprécient plus que le sexe ?
+Quelle est la durée de vie d’une moule ?
 
-Que leurs amis les croient quand ils en parlent.
+Douze ou treize ans, car après, il y a des poils et ça s’appelle une chatte.
 ```
 
 ```diff
-Quel est le point commun entre un homme et un chat ?
+Pourquoi les Portugais sont forts en cuisine ?
 
-Les deux ont très peur de l'aspirateur.
+Parce qu'ils ont plein de poêles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 22 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 21 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont très peur de l'aspirateur.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
