@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le film préféré des hackers ?
+J'allais faire une blague sur l'erreur 404...
 
-Le magicien DDoZ
+Je ne l'ai pas trouvée...
 ```
 
 ```diff
-Que cause une éclipse durant le ramadan ?
+Quel est la différence entre un chômeur et une pizza ?
 
-3 minutes pour vite manger.
+Une pizza peut nourrir une famille.
 ```
 
 ```diff
-Quelle est la durée de vie d’une moule ?
+Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
 
-Douze ou treize ans, car après, il y a des poils et ça s’appelle une chatte.
+Bah non, je rentre encore dans du 12 ans.
 ```
 
 ```diff
-Pourquoi les Portugais sont forts en cuisine ?
+Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
 
-Parce qu'ils ont plein de poêles !
+L'autre répond alors : "Parfois la nuit porte conseil."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 21 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 20 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont plein de poêles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
