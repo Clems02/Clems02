@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Quel est le film préféré des hackers ?
 
-Je ne l'ai pas trouvée...
+Le magicien DDoZ
 ```
 
 ```diff
-Quel est la différence entre un chômeur et une pizza ?
+Que fait un Chinois qui tombe de la tour Eiffel ?
 
-Une pizza peut nourrir une famille.
+CHIIIIIIIIIN... toc
 ```
 
 ```diff
-Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
+La vie, c'est comme un toboggan.
 
-Bah non, je rentre encore dans du 12 ans.
+Pour aller plus vite faut coucher, même si parfois ça fait mal au cul.
 ```
 
 ```diff
-Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
+Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
 
-L'autre répond alors : "Parfois la nuit porte conseil."
+... par contre ne pas trouver de chiottes ça fait chier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 20 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 19 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'autre répond alors : "Parfois la nuit porte conseil."
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
 
 
 <p align="center">
