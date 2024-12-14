@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le film préféré des hackers ?
+Mon processeur est super musclé :
 
-Le magicien DDoZ
+Un tel corps, c'est exceptionnel !
 ```
 
 ```diff
-Que fait un Chinois qui tombe de la tour Eiffel ?
+Quelle est la différence entre un pédophile et un car scolaire ?
 
-CHIIIIIIIIIN... toc
+Le car ne fais pas exprès de rentrer dans la petite fille...
 ```
 
 ```diff
-La vie, c'est comme un toboggan.
+Quelle est le point commun entre la vie et une bite ?
 
-Pour aller plus vite faut coucher, même si parfois ça fait mal au cul.
+Elles sont simples, relax, et soudain une femme les rend dures.
 ```
 
 ```diff
-Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
+Quel est le point commun entre un Gynécologue et un Pizzaiolo ?
 
-... par contre ne pas trouver de chiottes ça fait chier.
+Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 19 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 18 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
