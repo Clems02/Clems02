@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Mon processeur est super musclé :
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-Un tel corps, c'est exceptionnel !
+Car ils font des petits Mo...
 ```
 
 ```diff
-Quelle est la différence entre un pédophile et un car scolaire ?
+Comment un terroriste dit "au revoir" ?
 
-Le car ne fais pas exprès de rentrer dans la petite fille...
+A un de C4.
 ```
 
 ```diff
-Quelle est le point commun entre la vie et une bite ?
+Le viagra, c'est comme l'enfer.
 
-Elles sont simples, relax, et soudain une femme les rend dures.
+Satan l'habite.
 ```
 
 ```diff
-Quel est le point commun entre un Gynécologue et un Pizzaiolo ?
+Peut-on prendre un bain quand on a la diarrhée ?
 
-Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
+Oui, si on en a assez.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 18 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 17 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
