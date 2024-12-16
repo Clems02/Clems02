@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Que dit un informaticien quand il s'ennuie ?
 
-Car ils font des petits Mo...
+Je me fichier.
 ```
 
 ```diff
-Comment un terroriste dit "au revoir" ?
+Comment appelle-t-on une femme qui a perdu son intelligence ?
 
-A un de C4.
+Une veuve.
 ```
 
 ```diff
-Le viagra, c'est comme l'enfer.
+Melon et Meleche trouvent une maison à vendre...
 
-Satan l'habite.
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Peut-on prendre un bain quand on a la diarrhée ?
+Pourquoi les alcooliques sont-ils des animaux à sang froid ?
 
-Oui, si on en a assez.
+Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 17 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 16 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oui, si on en a assez.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
