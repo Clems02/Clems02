@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-Je me fichier.
+Le mode jour des applications !
 ```
 
 ```diff
-Comment appelle-t-on une femme qui a perdu son intelligence ?
+C'est un père Noël juif qui entre et qui dit...
 
-Une veuve.
+Bonjour les enfants, qu'est-ce que je vous vends ?
 ```
 
 ```diff
-Melon et Meleche trouvent une maison à vendre...
+Quel est le point commun entre de la neige et une bite ?
 
-…Melon l’achète et Meleche l’habite.
+On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
 ```
 
 ```diff
-Pourquoi les alcooliques sont-ils des animaux à sang froid ?
+Comment appelle-t-on une orgie de nains?
 
-Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
+Une passe-partouze
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 16 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 15 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
