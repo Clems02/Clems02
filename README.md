@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Quel composant a un classement correct dans la société ?
 
-Le mode jour des applications !
+La carte maire
 ```
 
 ```diff
-C'est un père Noël juif qui entre et qui dit...
+Quel est l'endroit le plus peuplé d'Ethiopie ?
 
-Bonjour les enfants, qu'est-ce que je vous vends ?
+Ça dépend le sens du vent.
 ```
 
 ```diff
-Quel est le point commun entre de la neige et une bite ?
+Qu'est-ce qui se lève quand tu t'en sers, qui s'abaisse quand tu as fini de t'en servir et qui goutte après usage ?
 
-On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
+Un parapluie
 ```
 
 ```diff
-Comment appelle-t-on une orgie de nains?
+Quel est le point commun entre une femme et une voiture de sport ?
 
-Une passe-partouze
+Les deux font du bruit lorsqu'on accélère.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 15 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 14 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une passe-partouze
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
