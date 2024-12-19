@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+J'allais faire une blague sur l'erreur 404...
 
-La carte maire
+Je ne l'ai pas trouvé...
 ```
 
 ```diff
-Quel est l'endroit le plus peuplé d'Ethiopie ?
+Pourquoi les décapités deviennent-ils fous ?
 
-Ça dépend le sens du vent.
+Parce qu'ils perdent la tête !
 ```
 
 ```diff
-Qu'est-ce qui se lève quand tu t'en sers, qui s'abaisse quand tu as fini de t'en servir et qui goutte après usage ?
+Quel est le point commun entre un sourd et un gynécologue ?
 
-Un parapluie
+Les deux savent lire sur les lèvres.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une voiture de sport ?
+Pourquoi les mamies sont les meilleures putes ?
 
-Les deux font du bruit lorsqu'on accélère.
+Parce qu'elles se laissent toujours peloter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 14 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 13 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux font du bruit lorsqu'on accélère.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
