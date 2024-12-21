@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
 
-Je ne l'ai pas trouvé...
+Ça s'appelle une int err 0.
 ```
 
 ```diff
-Pourquoi les décapités deviennent-ils fous ?
+Quel est le point commun entre les noirs et la crème ?
 
-Parce qu'ils perdent la tête !
+C'est meilleur quand c'est fouetté !
 ```
 
 ```diff
-Quel est le point commun entre un sourd et un gynécologue ?
+Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
 
-Les deux savent lire sur les lèvres.
+C'était le jour du changement d'heure !
 ```
 
 ```diff
-Pourquoi les mamies sont les meilleures putes ?
+Ta mère c’est comme Pac-Man...
 
-Parce qu'elles se laissent toujours peloter !
+Elle aime manger les boules...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 13 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 11 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles se laissent toujours peloter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
