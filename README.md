@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
+Où partent les développeurs en vacances ?
 
-Ça s'appelle une int err 0.
+Aux C-Shell
 ```
 
 ```diff
-Quel est le point commun entre les noirs et la crème ?
+J’ai voulu recoller les morceaux avec mon ex…
 
-C'est meilleur quand c'est fouetté !
+Mais je sais plus où sont enterrés ses jambes…
 ```
 
 ```diff
-Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
+Comment appelle-t-on la mère du phoque ?
 
-C'était le jour du changement d'heure !
+Mother phoquer
 ```
 
 ```diff
-Ta mère c’est comme Pac-Man...
+Quel est le point commun entre une diarrhée et une voiture électrique ?
 
-Elle aime manger les boules...
+La peur de ne pas arriver à la maison !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 11 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 10 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle aime manger les boules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
 
 
 <p align="center">
