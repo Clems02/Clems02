@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+$ npm find LaFemmeDeMaVie
 
-Aux C-Shell
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-J’ai voulu recoller les morceaux avec mon ex…
+Si mon futur oncle crée le 4ème Reich comment je l'appellerai ?
 
-Mais je sais plus où sont enterrés ses jambes…
+Le für-oncle.
 ```
 
 ```diff
-Comment appelle-t-on la mère du phoque ?
+Comment appelle-t-on une gothique qui suce ?
 
-Mother phoquer
+Une pompe funèbre
 ```
 
 ```diff
-Quel est le point commun entre une diarrhée et une voiture électrique ?
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-La peur de ne pas arriver à la maison !
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 10 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 9 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La peur de ne pas arriver à la maison !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
 
 
 <p align="center">
