@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-$ npm find LaFemmeDeMaVie
+Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
 
-Error: Unable to find package ‘LaFemmeDeMaVie’
+Une RC-XD
 ```
 
 ```diff
-Si mon futur oncle crée le 4ème Reich comment je l'appellerai ?
+C'est un père Noël juif qui entre et qui dit...
 
-Le für-oncle.
+Bonjour les enfants, qu'est-ce que je vous vends ?
 ```
 
 ```diff
-Comment appelle-t-on une gothique qui suce ?
+Pourquoi les hommes sont dotés d'un pénis ?
 
-Une pompe funèbre
+Pour vérifier la beauté intérieure des femmes.
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Quand mon verre est plein, je le vide
 
-Mr Propre
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 9 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 8 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
