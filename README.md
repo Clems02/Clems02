@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+De quelle couleur sont tes yeux ?
 
-Une RC-XD
+#1292f4 et toi ?
 ```
 
 ```diff
-C'est un père Noël juif qui entre et qui dit...
+Savez-vous comment la femme d'Hitler est morte ?
 
-Bonjour les enfants, qu'est-ce que je vous vends ?
+En se trompant de douche.
 ```
 
 ```diff
-Pourquoi les hommes sont dotés d'un pénis ?
+Quelle est la différence entre un 69 et le brouillard ?
 
-Pour vérifier la beauté intérieure des femmes.
+Dans le brouillard, on ne voit pas le trou du cul qui est devant...
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+Quelle est l'église la plus petite ?
 
-Quand mon verre est vide, je me plains !
+Le soutien-gorge, on ne peut y mettre que deux seins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 8 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 7 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
