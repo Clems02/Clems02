@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De quelle couleur sont tes yeux ?
+Quel est le comble pour un serveur ?
 
-#1292f4 et toi ?
+C'est de ne pas répondre.
 ```
 
 ```diff
-Savez-vous comment la femme d'Hitler est morte ?
+Quelle est la différence entre un séducteur et un violeur ?
 
-En se trompant de douche.
+La patience
 ```
 
 ```diff
-Quelle est la différence entre un 69 et le brouillard ?
+Comment casser les dents d'une blonde?
 
-Dans le brouillard, on ne voit pas le trou du cul qui est devant...
+Tu dessines une bite sur un mur.
 ```
 
 ```diff
-Quelle est l'église la plus petite ?
+Comment appelle-t-on une vache qui joue de la musique ?
 
-Le soutien-gorge, on ne peut y mettre que deux seins.
+Une meeuhsiciene.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 7 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 6 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le soutien-gorge, on ne peut y mettre que deux seins.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
