@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour un serveur ?
+Il y a 10 types de gens dans le monde.
 
-C'est de ne pas répondre.
+Ceux qui parlent binaire, et les autres.
 ```
 
 ```diff
-Quelle est la différence entre un séducteur et un violeur ?
+Vous savez ce qu'était Klaus Barbie ?
 
-La patience
+C'était un bon aryen.
 ```
 
 ```diff
-Comment casser les dents d'une blonde?
+Qu'est-ce que deux trous dans un trou ?
 
-Tu dessines une bite sur un mur.
+Mon nez dans ton cul...
 ```
 
 ```diff
-Comment appelle-t-on une vache qui joue de la musique ?
+Pourquoi la diarrhée est très répandue ?
 
-Une meeuhsiciene.
+Car c'est une maladie courante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 6 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 5 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une meeuhsiciene.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
