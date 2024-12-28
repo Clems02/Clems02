@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a 10 types de gens dans le monde.
+De nos jours, le zip...
 
-Ceux qui parlent binaire, et les autres.
+... ça devient rar...
 ```
 
 ```diff
-Vous savez ce qu'était Klaus Barbie ?
+Ma fille vient de perdre sa première dent.
 
-C'était un bon aryen.
+Ça lui apprendra à me répondre !
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+Avec quel fromage peut-on faire grossir les seins ?
 
-Mon nez dans ton cul...
+Du Boursin.
 ```
 
 ```diff
-Pourquoi la diarrhée est très répandue ?
+Quand mon verre est plein, je le vide
 
-Car c'est une maladie courante.
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 5 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 4 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est une maladie courante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
