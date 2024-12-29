@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De nos jours, le zip...
+Ma copine m'a larguée après avoir donné son nom à une classe.
 
-... ça devient rar...
+Elle avait l'impression que je la traitais comme un objet.
 ```
 
 ```diff
-Ma fille vient de perdre sa première dent.
+Quel est le point commun entre les petites filles et les bouteilles de vin ?
 
-Ça lui apprendra à me répondre !
+Les meilleures ont douze ans d'âge et sont dans ma cave.
 ```
 
 ```diff
-Avec quel fromage peut-on faire grossir les seins ?
+Comment s'appelle le cul de la Schtroumpfette ?
 
-Du Boursin.
+Le blu-ray.
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+Quel est le point commun entre un homme et un chat ?
 
-Quand mon verre est vide, je me plains !
+Les deux ont très peur de l'aspirateur.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 4 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 3 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
