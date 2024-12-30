@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Ma copine m'a larguée après avoir donné son nom à une classe.
+Que fait un développeur quand il a soif ?
 
-Elle avait l'impression que je la traitais comme un objet.
+this.drink('water')
 ```
 
 ```diff
-Quel est le point commun entre les petites filles et les bouteilles de vin ?
+Barman, c'est ici que vous avez des chiottes en or ?
 
-Les meilleures ont douze ans d'âge et sont dans ma cave.
+Patrick ! J'ai trouvé celui qui a chié dans ton saxo !
 ```
 
 ```diff
-Comment s'appelle le cul de la Schtroumpfette ?
+Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
 
-Le blu-ray.
+L'enfant djihadiste ne se fait sauter qu'une seule fois.
 ```
 
 ```diff
-Quel est le point commun entre un homme et un chat ?
+Comment appelle-t-on un roux dans un four ?
 
-Les deux ont très peur de l'aspirateur.
+Un roux-ti.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 3 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 2 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont très peur de l'aspirateur.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
 
 
 <p align="center">
