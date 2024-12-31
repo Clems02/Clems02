@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a soif ?
+Comment un développeur se met-il à jour ?
 
-this.drink('water')
+Il se met à l'apache.
 ```
 
 ```diff
-Barman, c'est ici que vous avez des chiottes en or ?
+Mon rire est tellement jaune...
 
-Patrick ! J'ai trouvé celui qui a chié dans ton saxo !
+... qu'il mange avec des baguettes.
 ```
 
 ```diff
-Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
+Comment on appelle t’on un voleur de viagra ?
 
-L'enfant djihadiste ne se fait sauter qu'une seule fois.
+Un criminel endurci !
 ```
 
 ```diff
-Comment appelle-t-on un roux dans un four ?
+Que disent deux fesses dans une pirogue ?
 
-Un roux-ti.
+Dis donc, ça commence à ramer du cul là non ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 2 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 1 jours de blagues avant la fin de l'année 2024 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un roux-ti.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
