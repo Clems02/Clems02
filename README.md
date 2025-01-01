@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Quel est l'animal préféré des développeurs ?
 
-Il se met à l'apache.
+Le python
 ```
 
 ```diff
-Mon rire est tellement jaune...
+Quelle est la différence entre un cancer et un politicien ?
 
-... qu'il mange avec des baguettes.
+L'un commence dans une cellule et l'autre termine dans une cellule.
 ```
 
 ```diff
-Comment on appelle t’on un voleur de viagra ?
+Deux hommes sans pénis se battent...
 
-Un criminel endurci !
+... ce fut un combat sanglant.
 ```
 
 ```diff
-Que disent deux fesses dans une pirogue ?
+Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
 
-Dis donc, ça commence à ramer du cul là non ?
+L'aspirateur
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 1 jours de blagues avant la fin de l'année 2024 ! <br/>
+> Il reste 365 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Dis donc, ça commence à ramer du cul là non ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
