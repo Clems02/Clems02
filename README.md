@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal préféré des développeurs ?
+Un développeur ne descend pas du métro.
 
-Le python
+Il libère la RAM.
 ```
 
 ```diff
-Quelle est la différence entre un cancer et un politicien ?
+Quelle est la différence entre Johnny Hallyday et Michael Jackson ?
 
-L'un commence dans une cellule et l'autre termine dans une cellule.
+Les enfants de Johnny se battent pour toucher quelque chose.
 ```
 
 ```diff
-Deux hommes sans pénis se battent...
+Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
 
-... ce fut un combat sanglant.
+"Dans ma bouche"
 ```
 
 ```diff
-Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
+Quel est le temps de "le bébé est né" ?
 
-L'aspirateur
+Le préservatif imparfait
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 365 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 364 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'aspirateur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
