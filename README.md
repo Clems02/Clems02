@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
 
-Il libère la RAM.
+et node_modules...
 ```
 
 ```diff
-Quelle est la différence entre Johnny Hallyday et Michael Jackson ?
+Mon rire est tellement jaune...
 
-Les enfants de Johnny se battent pour toucher quelque chose.
+... qu'il mange avec des baguettes.
 ```
 
 ```diff
-Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
+Quelle est la fée préférée des hommes ?
 
-"Dans ma bouche"
+La fée Lation
 ```
 
 ```diff
-Quel est le temps de "le bébé est né" ?
+Quelle est la différence entre un stressé et un puceau ?
 
-Le préservatif imparfait
+Ils ont tous les deux pa-niqué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 364 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 363 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le préservatif imparfait
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
