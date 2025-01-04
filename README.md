@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
+Comment appelle-t-on un trucage photo ?
 
-et node_modules...
+Un Faux-to-chopage
 ```
 
 ```diff
-Mon rire est tellement jaune...
+Savez-vous où l'on trouve le meilleur jardin d'enfants à New York ?
 
-... qu'il mange avec des baguettes.
+À Manhattan, il y a deux tours niquées.
 ```
 
 ```diff
-Quelle est la fée préférée des hommes ?
+Le sperme, c’est comme un gros mensonge.
 
-La fée Lation
+C’est toujours difficile à faire avaler !
 ```
 
 ```diff
-Quelle est la différence entre un stressé et un puceau ?
+2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
 
-Ils ont tous les deux pa-niqué.
+Non. La guerre, c'est pour les durs !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 363 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 362 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils ont tous les deux pa-niqué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
