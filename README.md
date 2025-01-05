@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Un Faux-to-chopage
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Savez-vous où l'on trouve le meilleur jardin d'enfants à New York ?
+Qu'est-ce qui est bleu, blanc et rouge ?
 
-À Manhattan, il y a deux tours niquées.
+Un Schtroumpf à qui on a coupé la tête.
 ```
 
 ```diff
-Le sperme, c’est comme un gros mensonge.
+Melon et Melèche nettoient le billard...
 
-C’est toujours difficile à faire avaler !
+Melon astique les boules et Melèche la queue !
 ```
 
 ```diff
-2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
+Quel est le point commun entre un homme au réveil et un élastique ?
 
-Non. La guerre, c'est pour les durs !
+Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 362 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 361 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non. La guerre, c'est pour les durs !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
 
 
 <p align="center">
