@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Quel est le comble pour la mémoire vive ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+C'est qu'elle RAM.
 ```
 
 ```diff
-Qu'est-ce qui est bleu, blanc et rouge ?
+Que fait un Juif dans un tas de cendres ?
 
-Un Schtroumpf à qui on a coupé la tête.
+Il cherche ses parents.
 ```
 
 ```diff
-Melon et Melèche nettoient le billard...
+Quelle est la différence entre une prostituée et une boule de bowling ?
 
-Melon astique les boules et Melèche la queue !
+On ne peut mettre que 3 doigts à la fois dans la boule.
 ```
 
 ```diff
-Quel est le point commun entre un homme au réveil et un élastique ?
+Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
 
-Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
+L'aspirateur
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 361 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 360 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
 
 
 <p align="center">
