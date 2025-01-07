@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour la mémoire vive ?
+Comment reconnait on un développeur quand il compte ?
 
-C'est qu'elle RAM.
+Il commence toujours par 0 !
 ```
 
 ```diff
-Que fait un Juif dans un tas de cendres ?
+Quelle est la fête préféré des kamikazes ?
 
-Il cherche ses parents.
+Une boum
 ```
 
 ```diff
-Quelle est la différence entre une prostituée et une boule de bowling ?
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-On ne peut mettre que 3 doigts à la fois dans la boule.
+La mer Méditerranée.
 ```
 
 ```diff
-Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
+Pourquoi les femmes n’ont pas besoin de permis ?
 
-L'aspirateur
+Car il n’y a pas de route entre la machine à laver et la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 360 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 359 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'aspirateur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
 
 
 <p align="center">
