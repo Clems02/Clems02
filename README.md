@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment reconnait on un développeur quand il compte ?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-Il commence toujours par 0 !
+Car ils font des petits Mo...
 ```
 
 ```diff
-Quelle est la fête préféré des kamikazes ?
+Que font 1+2-1x2 ?
 
-Une boum
+Le nombre de jambes d'un Manchot.
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Dans le métro, une femme sent qu'un homme lui met la main sur la cuisse. Elle se retourne et lui dit : - Vous ne pourriez pas mettre votre main ailleurs ?
 
-La mer Méditerranée.
+- J'y ai pensé, mais je n'osais pas...
 ```
 
 ```diff
-Pourquoi les femmes n’ont pas besoin de permis ?
+Hey Google, pourquoi je suis célibataire ?
 
-Car il n’y a pas de route entre la machine à laver et la cuisine.
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 359 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 358 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car il n’y a pas de route entre la machine à laver et la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
