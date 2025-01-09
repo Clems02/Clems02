@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+De quelle couleur sont tes yeux ?
 
-Car ils font des petits Mo...
+#1292f4 et toi ?
 ```
 
 ```diff
-Que font 1+2-1x2 ?
+Que y a-t-il de blanc chez un noir ?
 
-Le nombre de jambes d'un Manchot.
+Les dents, les yeux, et le patron.
 ```
 
 ```diff
-Dans le métro, une femme sent qu'un homme lui met la main sur la cuisse. Elle se retourne et lui dit : - Vous ne pourriez pas mettre votre main ailleurs ?
+Le sperme c'est comme la vérité,
 
-- J'y ai pensé, mais je n'osais pas...
+soit ça saute aux yeux, soit c'est dur à avaler.
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Quelle est la différence entre un bonhomme de neige et une bonne femme de neige ?
 
-D'accord ! J'ouvre la caméra.
+Les boules-de-neige.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 358 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 357 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
