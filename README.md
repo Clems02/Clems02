@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un développeur doit être fidèle en amour ?
+Où partent les développeurs en vacances ?
 
-Il a énormément de périodes de crush !
+Aux C-Shell
 ```
 
 ```diff
-Quelle est le point commun entre un président et un juge ?
+Pourquoi Marine Le Pen aime-t-elle le ski ?
 
-Ils enferment tous les deux des gens pour protéger le monde.
+Parce qu'elle peut descendre des noirs !
 ```
 
 ```diff
-Le sperme c'est comme la vérité,
+Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
 
-soit ça saute aux yeux, soit c'est dur à avaler.
+Dimanche, Pique se repose.
 ```
 
 ```diff
-Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
+Quand est-ce que le pain devient noir ?
 
-... on est romantique.
+Quand il s'est pris une cuite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 355 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 354 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
