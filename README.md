@@ -2,15 +2,15 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Aux C-Shell
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Pourquoi Marine Le Pen aime-t-elle le ski ?
+Que se passe-t-il lorsqu'on écrase un diabétique ?
 
-Parce qu'elle peut descendre des noirs !
+Il y a du caramel partout...
 ```
 
 ```diff
@@ -20,15 +20,15 @@ Dimanche, Pique se repose.
 ```
 
 ```diff
-Quand est-ce que le pain devient noir ?
+Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
 
-Quand il s'est pris une cuite.
+Leurs parents !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 354 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 353 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand il s'est pris une cuite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
