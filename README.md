@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Quel est le fruit préféré des développeurs ?
 
-Elle repart, car il n'y a pas de table.
+La pomme d'API !
 ```
 
 ```diff
-Que se passe-t-il lorsqu'on écrase un diabétique ?
+J'ai eu un rencard avec une Juive, elle m'a demandé mon numéro.
 
-Il y a du caramel partout...
+Je lui ai répondu que nous, on avait des noms.
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+Pourquoi les filles baissent-elles toujours les yeux quand on leur dit "Je t'aime" ?
 
-Dimanche, Pique se repose.
+Pour voir si c'est vrai.
 ```
 
 ```diff
-Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
+Qu'est ce qu'une boite sans eau ?
 
-Leurs parents !
+Une bite
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 353 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 352 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Leurs parents !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:53-white?style=for-the-badge)
 
 
 <p align="center">
