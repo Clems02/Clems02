@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Pourquoi les développeurs n'aiment-ils pas 2020 ?
 
-Il libère la RAM.
+Car il y a la co vide.
 ```
 
 ```diff
-Ma pote a invité son cruch chez elle.  Quand elle lui a demandé ce qu'il voulait manger il a répondu "es-tu une option ?"
+Les humains, c'est comme les pensées.
 
-elle a moins rougi dans son assiette...
+On ne les aime pas en noir.
 ```
 
 ```diff
-Quelle est la différence entre l'homme et le homard ?
+Quel est le point commun entre une blonde et une princesse ?
 
-L'homme n'a pas besoin de mayonnaise pour qu'on lui bouffe la queue.
+Elles aiment quand tu rentres dans leur palais.
 ```
 
 ```diff
-Quelle est la différence entre une dinde et ma sœur ?
+Pourquoi la statue de la liberté est-elle une femme ?
 
-La dinde, je ne l'ai pas encore fourrée.
+Parce qu'il fallait une tête vide pour y mettre un restaurant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 351 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 350 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La dinde, je ne l'ai pas encore fourrée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
