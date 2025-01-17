@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment-ils pas 2020 ?
+Quelle est la déesse d'Internet ?
 
-Car il y a la co vide.
+La déesse L
 ```
 
 ```diff
-Les humains, c'est comme les pensées.
+Quelle est la différence entre un pédophile et un car scolaire ?
 
-On ne les aime pas en noir.
+Le car ne fais pas exprès de rentrer dans la petite fille...
 ```
 
 ```diff
-Quel est le point commun entre une blonde et une princesse ?
+Dis à ta mère de manger moins de citron.
 
-Elles aiment quand tu rentres dans leur palais.
+Ma bite est toute fripée.
 ```
 
 ```diff
-Pourquoi la statue de la liberté est-elle une femme ?
+Pourquoi les Portugais sont forts en cuisine ?
 
-Parce qu'il fallait une tête vide pour y mettre un restaurant.
+Parce qu'ils ont plein de poêles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 350 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 349 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'il fallait une tête vide pour y mettre un restaurant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
