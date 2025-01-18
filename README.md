@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse d'Internet ?
+Un développeur ne descend pas du métro.
 
-La déesse L
+Il libère la RAM.
 ```
 
 ```diff
-Quelle est la différence entre un pédophile et un car scolaire ?
+Ne fais pas ton Kennedy !
 
-Le car ne fais pas exprès de rentrer dans la petite fille...
+ Ne te laisse pas abattre !
 ```
 
 ```diff
-Dis à ta mère de manger moins de citron.
+Qu'est-ce qu'un spermatozoïde avec une valise ?
 
-Ma bite est toute fripée.
+Un représentant de mes couilles.
 ```
 
 ```diff
-Pourquoi les Portugais sont forts en cuisine ?
+Quel est le comble pour un campeur nordiste ?
 
-Parce qu'ils ont plein de poêles !
+Démonter sa tante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 349 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 348 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont plein de poêles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
 
 
 <p align="center">
