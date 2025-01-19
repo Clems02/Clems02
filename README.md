@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+J'ai fait un test de QI en ligne.
 
-Il libère la RAM.
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-Ne fais pas ton Kennedy !
+Comment dire bonjour à un Juif ?
 
- Ne te laisse pas abattre !
+Hey ! Ça gaz ?
 ```
 
 ```diff
-Qu'est-ce qu'un spermatozoïde avec une valise ?
+Tu sais ce que c'est un suppositoire ?
 
-Un représentant de mes couilles.
+C'est une invention qui restera dans les annales.
 ```
 
 ```diff
-Quel est le comble pour un campeur nordiste ?
+Ce que j'ai en commun avec mon mari ?
 
-Démonter sa tante.
+On s'est mariés le même jour.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 348 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 347 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Démonter sa tante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
