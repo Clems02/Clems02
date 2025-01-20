@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+Quel est le chanteur préféré des développeurs ?
 
-Apparemment, j'en ai 404.
+Michael Json
 ```
 
 ```diff
-Comment dire bonjour à un Juif ?
+Pourquoi un cul-de-jatte cherche-t-il à acheter une maison ?
 
-Hey ! Ça gaz ?
+Pour avoir un pied-à-terre.
 ```
 
 ```diff
-Tu sais ce que c'est un suppositoire ?
+Melon et Melèche jouent au Scrabble.
 
-C'est une invention qui restera dans les annales.
+Melon pioche le W et Melèche le Q.
 ```
 
 ```diff
-Ce que j'ai en commun avec mon mari ?
+Pourquoi les oiseaux volent-ils vers le sud ?
 
-On s'est mariés le même jour.
+Car à pied, c'est beaucoup trop long.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 347 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 346 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On s'est mariés le même jour.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
