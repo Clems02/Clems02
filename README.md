@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le chanteur préféré des développeurs ?
+C'est l'histoire d'un développeur qui déclare sa flamme à une femme. Il dit "Veux-tu sortir avec moi" ?
 
-Michael Json
+Elle répondit "!Oui"
 ```
 
 ```diff
-Pourquoi un cul-de-jatte cherche-t-il à acheter une maison ?
+Quelle est la différence entre le shampooing traditionnel et le shampooing juif ?
 
-Pour avoir un pied-à-terre.
+Le shampooing juif ne brûle pas que les yeux.
 ```
 
 ```diff
-Melon et Melèche jouent au Scrabble.
+Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
 
-Melon pioche le W et Melèche le Q.
+Dimanche, Pique se repose.
 ```
 
 ```diff
-Pourquoi les oiseaux volent-ils vers le sud ?
+Si à la Saint Valentin elle te tient la main...
 
-Car à pied, c'est beaucoup trop long.
+...vivement la Sainte Marguerite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 346 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 345 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car à pied, c'est beaucoup trop long.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
