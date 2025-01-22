@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un développeur qui déclare sa flamme à une femme. Il dit "Veux-tu sortir avec moi" ?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-Elle répondit "!Oui"
+Car ils font des petits Mo...
 ```
 
 ```diff
-Quelle est la différence entre le shampooing traditionnel et le shampooing juif ?
+Pourquoi les orphelins regards beaucoup de films pour adulte ?
 
-Le shampooing juif ne brûle pas que les yeux.
+Car il n'y a pas le contrôle parental.
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
 
-Dimanche, Pique se repose.
+Parce que je vais t’enculer.
 ```
 
 ```diff
-Si à la Saint Valentin elle te tient la main...
+Pourquoi les mamies sont les meilleures putes ?
 
-...vivement la Sainte Marguerite.
+Parce qu'elles se laissent toujours peloter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 345 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 344 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Si à la Saint Valentin elle te tient la main...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
