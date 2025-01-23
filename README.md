@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Quel est le fruit préféré des développeurs ?
 
-Car ils font des petits Mo...
+La pomme d'API !
 ```
 
 ```diff
-Pourquoi les orphelins regards beaucoup de films pour adulte ?
+Un prof de physique interroge sa classe d’élèves : Quels sont les meilleurs matériaux combustibles ?
 
-Car il n'y a pas le contrôle parental.
+Un élève juif lève la main avec excitation : "Je sais ! Je sais ! Moi Monsieur ! Moi !" Le professeur lui répond : "Excellente réponse, et quoi d’autres ?"
 ```
 
 ```diff
-C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
+Maman maman, comment tu m'as fait ?
 
-Parce que je vais t’enculer.
+Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
 ```
 
 ```diff
-Pourquoi les mamies sont les meilleures putes ?
+Quelle est la différence entre une femme et un dobermann ?
 
-Parce qu'elles se laissent toujours peloter !
+Le prix du collier
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 344 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 343 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles se laissent toujours peloter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
