@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le fruit préféré des développeurs ?
+Qu'est ce qu'un pirateur fait le mieux ?
 
-La pomme d'API !
+Ce qui lui tient hackeur (à cœur) !
 ```
 
 ```diff
-Un prof de physique interroge sa classe d’élèves : Quels sont les meilleurs matériaux combustibles ?
+Que disait Eve pour faire avancer le bateau ?
 
-Un élève juif lève la main avec excitation : "Je sais ! Je sais ! Moi Monsieur ! Moi !" Le professeur lui répond : "Excellente réponse, et quoi d’autres ?"
+Ramadan
 ```
 
 ```diff
-Maman maman, comment tu m'as fait ?
+Comment on sait quand il faut rompre ?
 
-Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-Quelle est la différence entre une femme et un dobermann ?
+Savez-vous pourquoi il n’y a pas de femmes au paradis ?
 
-Le prix du collier
+Parce que ça serait l'enfer !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 343 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 342 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:56-white?style=for-the-badge)
 
 
 <p align="center">
