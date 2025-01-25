@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est ce qu'un pirateur fait le mieux ?
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-Ce qui lui tient hackeur (à cœur) !
+Le mode jour des applications !
 ```
 
 ```diff
-Que disait Eve pour faire avancer le bateau ?
+Comment appelle-t-on une journée de promotion d'esclave ?
 
-Ramadan
+Le black friday
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+J'ai dit non ! Mon gynécologue m'a dit pas de sexe pendant 3 semaines.
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+Et que t'as dit ton dentiste ?
 ```
 
 ```diff
-Savez-vous pourquoi il n’y a pas de femmes au paradis ?
+Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
 
-Parce que ça serait l'enfer !
+Leurs parents !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 342 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 341 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que ça serait l'enfer !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
 
 
 <p align="center">
