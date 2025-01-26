@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Pourquoi les développeurs vont en boîte de nuit ?
 
-Le mode jour des applications !
+Pour faire la java.
 ```
 
 ```diff
-Comment appelle-t-on une journée de promotion d'esclave ?
+Quand est-ce qu'un bœuf arrive chez le boucher ?
 
-Le black friday
+Tard-tard.
 ```
 
 ```diff
-J'ai dit non ! Mon gynécologue m'a dit pas de sexe pendant 3 semaines.
+Hé Chéri ! On mate un film porno ou un match de Foot ce soir ?
 
-Et que t'as dit ton dentiste ?
+Un film porno ! Vu que tu sais déjà jouer au foot !
 ```
 
 ```diff
-Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
+Pourquoi les Portugais sont forts en cuisine ?
 
-Leurs parents !
+Parce qu'ils ont plein de poêles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 341 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 340 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Leurs parents !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
