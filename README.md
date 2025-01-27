@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+Les villageois de Minecraft ne sont que des images…
 
-Pour faire la java.
+ce sont des .png.
 ```
 
 ```diff
-Quand est-ce qu'un bœuf arrive chez le boucher ?
+Quel dinosaure peut aller au micro-ondes ?
 
-Tard-tard.
+Le Pyrex
 ```
 
 ```diff
-Hé Chéri ! On mate un film porno ou un match de Foot ce soir ?
+Pourquoi Cendrillon est-elle morte à minuit ?
 
-Un film porno ! Vu que tu sais déjà jouer au foot !
+Parce que son tampon s'est transformé en citrouille.
 ```
 
 ```diff
-Pourquoi les Portugais sont forts en cuisine ?
+Pourquoi Adolf Hitler détestait-il la mousse au chocolat ?
 
-Parce qu'ils ont plein de poêles !
+Parce que la moustache.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 340 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 339 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont plein de poêles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
