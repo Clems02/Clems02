@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
 
-ce sont des .png.
+Car ils préfèrent les scratch.
 ```
 
 ```diff
-Quel dinosaure peut aller au micro-ondes ?
+Quelle est la différence entre une sortie scolaire et un nuage ?
 
-Le Pyrex
+J'ai roulé droit dans l'un, mais pas dans l'autre.
 ```
 
 ```diff
-Pourquoi Cendrillon est-elle morte à minuit ?
+Pourquoi les pharaons ont ils 2 fesses ?
 
-Parce que son tampon s'est transformé en citrouille.
+Parce qu'Anubis !
 ```
 
 ```diff
-Pourquoi Adolf Hitler détestait-il la mousse au chocolat ?
+Quel est le légume le plus alcoolique ?
 
-Parce que la moustache.
+L'épinard
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 339 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 338 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que la moustache.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
