@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai une blague sur la mémoire vive...
+Pourquoi Half Life 3 ne sortira jamais ?
 
-... mais attendez elle RAM.
+Par ce qu'on arrive pas a retrouver la Source.
 ```
 
 ```diff
-Qu'elle est le nom de ma femme de ménage ?
+En 2022, on doit plus dire "pédophile".
 
-Sarah Masse.
+On dit "béta-testeurs" maintenant.
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+Pourquoi les poules n'ont-elles pas de seins ?
 
-Dimanche, Pique se repose.
+Parce que les coqs n'ont pas de mains !
 ```
 
 ```diff
-Quel est le point commun entre un lave-linge et un alcoolique ?
+Pourquoi quand on vise on ferme un œil ?
 
-Plus c'est bourré, moins ça tourne bien.
+Car si on fermait les deux, on ne verrait plus rien.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 337 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 336 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Plus c'est bourré, moins ça tourne bien.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:53-white?style=for-the-badge)
 
 
 <p align="center">
