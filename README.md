@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi Half Life 3 ne sortira jamais ?
+Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
 
-Par ce qu'on arrive pas a retrouver la Source.
+Parce qu'il y en a-sset
 ```
 
 ```diff
-En 2022, on doit plus dire "pédophile".
+En cours de sport, le prof cri "Faites 10 pompes !"
 
-On dit "béta-testeurs" maintenant.
+Le chinois se retourne brusquement et demande "Nike ou Adidas ?"
 ```
 
 ```diff
-Pourquoi les poules n'ont-elles pas de seins ?
+Tu connais le cri du spermatozoïde ?
 
-Parce que les coqs n'ont pas de mains !
+Bah, la prochaine fois, au lieu de l'avaler, tu croques.
 ```
 
 ```diff
-Pourquoi quand on vise on ferme un œil ?
+Quelle est la partie de la voiture la plus dangereuse ?
 
-Car si on fermait les deux, on ne verrait plus rien.
+La conductrice.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 336 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 335 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car si on fermait les deux, on ne verrait plus rien.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
 
 
 <p align="center">
