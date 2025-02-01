@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
+Quel est l'animal le plus connecté ?
 
-Parce qu'il y en a-sset
+Le porc USB
 ```
 
 ```diff
-En cours de sport, le prof cri "Faites 10 pompes !"
+Pourquoi on ne met pas de Somaliens dans un caddie ?
 
-Le chinois se retourne brusquement et demande "Nike ou Adidas ?"
+Parce qu'il passe à travers les barreaux
 ```
 
 ```diff
-Tu connais le cri du spermatozoïde ?
+Quel est le point commun entre une blonde et une princesse ?
 
-Bah, la prochaine fois, au lieu de l'avaler, tu croques.
+Elles aiment quand tu rentres dans leur palais.
 ```
 
 ```diff
-Quelle est la partie de la voiture la plus dangereuse ?
+En Normandie, quand il y a de la moule...
 
-La conductrice.
+On a la frite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 335 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 334 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La conductrice.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
