@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal le plus connecté ?
+Comment appelle-t-on un bug sur une plateforme musicale ?
 
-Le porc USB
+Une Spoti-faille.
 ```
 
 ```diff
-Pourquoi on ne met pas de Somaliens dans un caddie ?
+Quelle est la voiture préférée des kamikazes ?
 
-Parce qu'il passe à travers les barreaux
+La Citroën C4.
 ```
 
 ```diff
-Quel est le point commun entre une blonde et une princesse ?
+Ce n'est pas bien de regarder sous les jupes des filles.
 
-Elles aiment quand tu rentres dans leur palais.
+Il faut regarder sous la culotte.
 ```
 
 ```diff
-En Normandie, quand il y a de la moule...
+Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
 
-On a la frite.
+Le prix du collier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 334 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 333 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On a la frite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
