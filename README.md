@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un bug sur une plateforme musicale ?
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
 
-Une Spoti-faille.
+Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
 ```
 
 ```diff
-Quelle est la voiture préférée des kamikazes ?
+Quelle est la dernière chose que Claude François a mangée ?
 
-La Citroën C4.
+Une décharge
 ```
 
 ```diff
-Ce n'est pas bien de regarder sous les jupes des filles.
+Quel est le point commun entre un prof et des hémorroïdes ?
 
-Il faut regarder sous la culotte.
+Les deux sortent du corps enseignant.
 ```
 
 ```diff
-Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
+Quel est le point commun entre un mauvais musicien et un cancre ?
 
-Le prix du collier.
+Les deux ont de mauvaises notes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 333 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 332 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
