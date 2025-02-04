@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+Que fait un développeur en python qui a trop bu ?
 
-Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
+Il va faire pypi !
 ```
 
 ```diff
-Quelle est la dernière chose que Claude François a mangée ?
+Pourquoi un orphelin n'a pas un bon pc ?
 
-Une décharge
+Car il n'a pas de carte mère.
 ```
 
 ```diff
-Quel est le point commun entre un prof et des hémorroïdes ?
+Quelle est la différance entre une femme et une grue ?
 
-Les deux sortent du corps enseignant.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Quel est le point commun entre un mauvais musicien et un cancre ?
+Pourquoi les oiseaux volent-ils vers le sud ?
 
-Les deux ont de mauvaises notes.
+Car à pied, c'est beaucoup trop long.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 332 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 331 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont de mauvaises notes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:56-white?style=for-the-badge)
 
 
 <p align="center">
