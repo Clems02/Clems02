@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en python qui a trop bu ?
+Pourquoi lorsqu'on mange une poutine le goût arrive 5 secondes après ?
 
-Il va faire pypi !
+Parce que le GouLag
 ```
 
 ```diff
-Pourquoi un orphelin n'a pas un bon pc ?
+Quelle est la différence entre un sanglier  et un migrant ?
 
-Car il n'a pas de carte mère.
+Le bruit sur le capot.
 ```
 
 ```diff
-Quelle est la différance entre une femme et une grue ?
+Connaissez-vous le point commun entre Neymar et une femme ?
 
-La grue débite des caisses et la femme encaisse des bites.
+Les deux savent simuler.
 ```
 
 ```diff
-Pourquoi les oiseaux volent-ils vers le sud ?
+Pourquoi les alcooliques sont-ils des animaux à sang froid ?
 
-Car à pied, c'est beaucoup trop long.
+Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 331 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 330 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car à pied, c'est beaucoup trop long.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
