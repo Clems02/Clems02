@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi lorsqu'on mange une poutine le goût arrive 5 secondes après ?
+Pourquoi un développeur doit être fidèle en amour ?
 
-Parce que le GouLag
+Il a énormément de périodes de crush !
 ```
 
 ```diff
-Quelle est la différence entre un sanglier  et un migrant ?
+Superman vole au-dessus des immeubles, Spiderman vole entre les immeubles...
 
-Le bruit sur le capot.
+... et musulman vole dans les immeubles.
 ```
 
 ```diff
-Connaissez-vous le point commun entre Neymar et une femme ?
+L'amour, c'est comme les cartes.
 
-Les deux savent simuler.
+Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
 ```
 
 ```diff
-Pourquoi les alcooliques sont-ils des animaux à sang froid ?
+Quel est le point commun entre un homme au réveil et un élastique ?
 
-Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
+Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 330 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 329 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
