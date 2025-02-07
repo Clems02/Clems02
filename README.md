@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un développeur doit être fidèle en amour ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-Il a énormément de périodes de crush !
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Superman vole au-dessus des immeubles, Spiderman vole entre les immeubles...
+Quelle est la différence entre un prêtre et l'acné ?
 
-... et musulman vole dans les immeubles.
+L'acné attend que les enfants aient 14 ans avant de les toucher !
 ```
 
 ```diff
-L'amour, c'est comme les cartes.
+Quelle est la différence entre un tampon et un téléphone ?
 
-Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
+Avec le tampon, on sait qui est au bout du fils.
 ```
 
 ```diff
-Quel est le point commun entre un homme au réveil et un élastique ?
+Pourquoi les moutons aiment le chewing-gum ?
 
-Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
+Car c'est bon pour la laine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 329 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 328 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
