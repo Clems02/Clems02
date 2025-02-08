@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Quelle est la meilleure version de Windows ?
 
-Les mauvais pilotes sont problématiques.
+Question débile, Windows Vista bien évidemment !
 ```
 
 ```diff
-Quelle est la différence entre un prêtre et l'acné ?
+Mamadou, au tableau!
 
-L'acné attend que les enfants aient 14 ans avant de les toucher !
+J'y suis déjà, madame...
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+On aurait dû filmer notre nuit d'amour !
 
-Avec le tampon, on sait qui est au bout du fils.
+Oh ... Moi tu sais, les courts métrages...
 ```
 
 ```diff
-Pourquoi les moutons aiment le chewing-gum ?
+Qui est le plus menteur entre un boucher et un jardinier ?
 
-Car c'est bon pour la laine.
+Le jardinier, car il ne raconte que des salades.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 328 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 327 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est bon pour la laine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
 
 
 <p align="center">
