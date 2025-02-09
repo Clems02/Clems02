@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la meilleure version de Windows ?
+Quel est le comble pour la mémoire vive ?
 
-Question débile, Windows Vista bien évidemment !
+C'est qu'elle RAM.
 ```
 
 ```diff
-Mamadou, au tableau!
+Le Ricard, c'est comme un tsunami...
 
-J'y suis déjà, madame...
+Plus y a d'eau, moins y a de jaune.
 ```
 
 ```diff
-On aurait dû filmer notre nuit d'amour !
+Savez-vous comment faire crier une femme deux fois de suite en lui faisant l’amour ?
 
-Oh ... Moi tu sais, les courts métrages...
+La première fois en la sodomisant et la seconde en s’essuyant la bite dans le rideau !
 ```
 
 ```diff
-Qui est le plus menteur entre un boucher et un jardinier ?
+Qu'est-ce qui est mieux qu'un plan A ?
 
-Le jardinier, car il ne raconte que des salades.
+Un plan Q
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 327 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 326 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le jardinier, car il ne raconte que des salades.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
