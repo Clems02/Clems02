@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
 
-Le cookie
+Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
 ```
 
 ```diff
-C'est un panda qui en avait marre de la vie et un jour...
+Qu'est-ce qu'un Noir avec un bâton dans l'cul ?
 
-Il se panda...
+Une glace Magnum.
 ```
 
 ```diff
-Passer le bac, c'est comme faire la lessive.
+Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
 
-On mouille, on sèche, et on repasse.
+Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
 ```
 
 ```diff
-Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
+Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
 
-Les deux
+L'autre répond alors : "Parfois la nuit porte conseil."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 325 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 324 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
