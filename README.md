@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+Comment répare-t-on un fichier corrompu ?
 
-Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
+On lui donne encore plus d'argent !
 ```
 
 ```diff
-Qu'est-ce qu'un Noir avec un bâton dans l'cul ?
+Quand est-ce qu'Hitler s'est suicidé ?
 
-Une glace Magnum.
+Après avoir reçu sa facture de gaz.
 ```
 
 ```diff
-Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
+Quelle est la différence entre une femme et une grue ?
 
-Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
+Un enfant dit : "Ma maman a toujours faim !"
 
-L'autre répond alors : "Parfois la nuit porte conseil."
+"Elle n'arrête pas de manger le zizi de mon papa !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 324 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 323 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'autre répond alors : "Parfois la nuit porte conseil."
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
