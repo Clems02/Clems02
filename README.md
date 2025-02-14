@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur non-binaire qui code, ça ferait quoi ?
+C'est l'histoire d'une cocotte-minute connectée...
 
-Ça causerait des bugs.
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Tu as déjà mangé en Ethiopie ? Non ?
+Que fait un DJ djihadiste ?
 
-Bah eux non plus.
+Il fait péter le son.
 ```
 
 ```diff
-Que signifie expatriées ?
+Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
 
-Anciennes petites amies non rangées.
+L'enfant djihadiste ne se fait sauter qu'une seule fois.
 ```
 
 ```diff
-Qu'est-ce qui est mieux qu'un plan A ?
+Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
 
-Un plan Q
+Bonne à nez !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 322 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 321 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un plan Q
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
 
 
 <p align="center">
