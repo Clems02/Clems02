@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 
-... qui utilise WinRAR pour décompresser.
+À cause des pare-feu
 ```
 
 ```diff
-Que fait un DJ djihadiste ?
+Qu'est-ce qu’un nain qui fait une crise d’épilepsie ?
 
-Il fait péter le son.
+Un vibromasseur
 ```
 
 ```diff
-Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-L'enfant djihadiste ne se fait sauter qu'une seule fois.
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
-Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
+Hey Google, pourquoi je suis célibataire ?
 
-Bonne à nez !
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 321 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 320 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bonne à nez !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
