@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+Mon processeur est super musclé :
 
-À cause des pare-feu
+Un tel corps, c'est exceptionnel !
 ```
 
 ```diff
-Qu'est-ce qu’un nain qui fait une crise d’épilepsie ?
+Le Ricard, c'est comme un tsunami...
 
-Un vibromasseur
+Plus y a d'eau, moins y a de jaune.
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+La vie c’est comme un pénis,
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+Simple, relax et soudain, une femme le/la rend dur(e).
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Lorsqu'une consonne est suivie d'une voyelle entre 2 mots, on doit faire la liaison. Mais il y a des exceptions.
 
-D'accord ! J'ouvre la caméra.
+"L'habit à papa" et "l'achat à maman" par exemple.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 320 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 319 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
