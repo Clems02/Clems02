@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un ordinateur sur un bateau?
+Que fait un développeur en hiver ?
 
-Il rame.
+Du saut ASCII
 ```
 
 ```diff
-Quel est le moyen de contraception le plus sûr au monde ?
+Que dit un aveugle lorsqu'on lui donne du papier de verre ?
 
-Être grosse et moche.
+C’est écrit en tout petit.
 ```
 
 ```diff
-Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
+Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
 
-La femme répliqua « Je suis pro stituée ! »
+PAPA, CACA ! Bon ok, je me retire
 ```
 
 ```diff
-Pourquoi le jeu Among-US est-il autant joué par les filles ?
+Pourquoi les femmes n’ont pas besoin de permis ?
 
-Parce qu'elles n'ont pas à se battre pour avoir le droit de vote.
+Car il n’y a pas de route entre la machine à laver et la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 318 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 317 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles n'ont pas à se battre pour avoir le droit de vote.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
