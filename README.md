@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en hiver ?
+Quel composant a un classement correct dans la société ?
 
-Du saut ASCII
+La carte maire
 ```
 
 ```diff
-Que dit un aveugle lorsqu'on lui donne du papier de verre ?
+En attendant avec d'autres parents devant la maternelle, on m'a demandé "C'est lequel le votre ?"
 
-C’est écrit en tout petit.
+J'ai répondu : "J'ai pas encore choisi". Bref j'ai 3 ans ferme.
 ```
 
 ```diff
-Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
+Maman, c'est quoi de la lingerie coquine ?
 
-PAPA, CACA ! Bon ok, je me retire
+De la hot couture !
 ```
 
 ```diff
-Pourquoi les femmes n’ont pas besoin de permis ?
+Quel est le comble pour un campeur nordiste ?
 
-Car il n’y a pas de route entre la machine à laver et la cuisine.
+Démonter sa tante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 317 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 316 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car il n’y a pas de route entre la machine à laver et la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
