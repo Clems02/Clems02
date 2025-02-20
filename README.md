@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
 
-La carte maire
+Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
 ```
 
 ```diff
-En attendant avec d'autres parents devant la maternelle, on m'a demandé "C'est lequel le votre ?"
+Quel est l'animal le plus rapide du monde ?
 
-J'ai répondu : "J'ai pas encore choisi". Bref j'ai 3 ans ferme.
+Le poulet qui traverse le village Somalien.
 ```
 
 ```diff
-Maman, c'est quoi de la lingerie coquine ?
+Comment appelle-t-on la mère du phoque ?
 
-De la hot couture !
+Mother phoquer
 ```
 
 ```diff
-Quel est le comble pour un campeur nordiste ?
+Quand fête-t-on la journée des fumeurs ?
 
-Démonter sa tante.
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 316 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 315 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Démonter sa tante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
 
 
 <p align="center">
