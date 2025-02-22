@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse du Wi-Fi ?
+Je pense qu'il faut désinstaller et réinstaller 2020.
 
-La déesse L.
+Je pense qu'il y a un virus.
 ```
 
 ```diff
-Quel est le point commun entre les petites filles et les bouteilles de vin ?
+Pourquoi un groupe de Juifs rentrent déçu chez eux ?
 
-Les meilleures ont douze d'âge et sont dans ma cave.
+Parce qu'ils ont raté leur train.
 ```
 
 ```diff
-Quelle est la différence entre une porte et une femme ?
+Quel est le point commun entre une femme et une pantoufle?
 
-La porte ne dit pas "Oh, oui" quand on la défonce.
+Plus tu la mets plus elle sent !
 ```
 
 ```diff
-Quel est le point commun entre une diarrhée et une voiture électrique ?
+Quelle est la différence entre une femme et un dobermann ?
 
-La peur de ne pas arriver à la maison !
+Le prix du collier
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 314 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 313 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La peur de ne pas arriver à la maison !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
 
 
 <p align="center">
