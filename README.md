@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Je pense qu'il faut désinstaller et réinstaller 2020.
+J'ai fait un test de QI en ligne.
 
-Je pense qu'il y a un virus.
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-Pourquoi un groupe de Juifs rentrent déçu chez eux ?
+Pourquoi voulez-vous cet emploi ?
 
-Parce qu'ils ont raté leur train.
+Le fait de ne pas mourir de faim me passionne depuis toujours.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une pantoufle?
+Quelle est la différence entre un vieux et un renard ?
 
-Plus tu la mets plus elle sent !
+Le renard a la queue touffue et le vieux a la queue foutue.
 ```
 
 ```diff
-Quelle est la différence entre une femme et un dobermann ?
+Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
 
-Le prix du collier
+L'autre répond alors : "Parfois la nuit porte conseil."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 313 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 312 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
