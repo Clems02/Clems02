@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+Que dit un informaticien quand il s'ennuie ?
 
-Discord
+Je me fichier.
 ```
 
 ```diff
-Pourquoi les Juifs sont-ils toujours propres ?
+C'est quoi la différence entre les terroristes et les époux Balkany ?
 
-Parce qu'ils prennent des douches !
+Les terroristes, ils ne détournent que des avions.
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
 
-... tu pénètres par effraction et tu casses tout.
+Oh oui, si c'est une épreuve de vitesse !
 ```
 
 ```diff
-En quel objet veut être ressuscité un clochard ?
+L'amour, c'est comme la grippe...
 
-En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
+... on l'attrape dans la rue, et on le résout au lit.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 310 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 309 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les ma
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
 
 
 <p align="center">
