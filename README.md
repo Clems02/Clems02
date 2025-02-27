@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Je me fichier.
+Car c’est le hardware qui prend des coups quand le software plante.
 ```
 
 ```diff
-C'est quoi la différence entre les terroristes et les époux Balkany ?
+Voici en quelques lignes le concept du billard :
 
-Les terroristes, ils ne détournent que des avions.
+Il s'agit d'un blanc qui met hors jeu des rouges, des jaunes et un noir.
 ```
 
 ```diff
-Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
+Le viagra, c'est comme l'enfer.
 
-Oh oui, si c'est une épreuve de vitesse !
+Satan l'habite.
 ```
 
 ```diff
-L'amour, c'est comme la grippe...
+Quelle est la différence entre un zèbre et un barman ?
 
-... on l'attrape dans la rue, et on le résout au lit.
+Le zèbre a des barres autour de son trou du cul, alors que le barman a des trous du cul autour de son bar.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 309 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 308 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'amour, c'est comme la grippe...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
