@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quel composant a un classement correct dans la société ?
 
-Car c’est le hardware qui prend des coups quand le software plante.
+La carte maire
 ```
 
 ```diff
-Voici en quelques lignes le concept du billard :
+Comment surprendre un aveugle ?
 
-Il s'agit d'un blanc qui met hors jeu des rouges, des jaunes et un noir.
+Vous laissez la ventouse dans les toilettes.
 ```
 
 ```diff
-Le viagra, c'est comme l'enfer.
+Le sexe, c'est l'inverse des maths.
 
-Satan l'habite.
+Plus c'est dur et mieux ça rentre.
 ```
 
 ```diff
-Quelle est la différence entre un zèbre et un barman ?
+Comment la chouette sait que son mari fait la gueule ?
 
-Le zèbre a des barres autour de son trou du cul, alors que le barman a des trous du cul autour de son bar.
+Parce qu'Hiboude.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 308 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 307 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zèbre a des barres autour de son trou du cul, alors que le barman a des trou
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
 
 
 <p align="center">
