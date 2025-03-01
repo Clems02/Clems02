@@ -2,21 +2,21 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+Pourquoi vaut il mieux être software que hardware ?
 
-La carte maire
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Comment surprendre un aveugle ?
+Pourquoi on n'enterre jamais les Français sur le dos ?
 
-Vous laissez la ventouse dans les toilettes.
+Parce qu'il n'y aurait pas assez de terre pour remplir leur grande gueule.
 ```
 
 ```diff
-Le sexe, c'est l'inverse des maths.
+Monsieur et Madame Kûlasek ont un fils, comment s'appelle-t-il ?
 
-Plus c'est dur et mieux ça rentre.
+Jean
 ```
 
 ```diff
@@ -28,7 +28,7 @@ Parce qu'Hiboude.
 <br/>
 
 > [!NOTE]
-> Il reste 307 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 306 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'Hiboude.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
