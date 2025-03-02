@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Un développeur non-binaire qui code, ça ferait quoi ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Ça causerait des bugs.
 ```
 
 ```diff
-Pourquoi on n'enterre jamais les Français sur le dos ?
+Que fait un esclave éthiopien quand on lui souffle dessus ?
 
-Parce qu'il n'y aurait pas assez de terre pour remplir leur grande gueule.
+Un serf-volant
 ```
 
 ```diff
-Monsieur et Madame Kûlasek ont un fils, comment s'appelle-t-il ?
+Quel est le point commun entre les seins d'une femme et un train électrique ?
 
-Jean
+Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
 ```
 
 ```diff
-Comment la chouette sait que son mari fait la gueule ?
+2 militaires discutent : "Pourquoi tu t'es engagé ?". Je suis célibataire et j'aime la guerre, et toi ?
 
-Parce qu'Hiboude.
+Je suis marié et je voulais avoir la paix.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 306 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 305 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'Hiboude.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
