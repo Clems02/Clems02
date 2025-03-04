@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien peut-on compter avec nos doigts ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-1024
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-J'ai acheté une rappe à fromage pour mon ami aveugle à son anniversaire.
+Quel est le point commun entre une Ferrari et une enfant de 5 ans ?
 
-Il m'a dit plus tard que c'était le livre le plus violent qu'il ait jamais lu !
+Quand tu rentres dedans, tu déchires tout.
 ```
 
 ```diff
-Comment appelle - t - on une pute qui ne se lave pas ?
+Ce n'est pas bien de regarder sous les jupes des filles.
 
-Une sale pute.
+Il faut regarder sous la culotte.
 ```
 
 ```diff
-As-tu déjà fait la guerre ? Non ?
+Melon et Melèche mangent une glace
 
-Ben alors pourquoi as-tu un trou de balle ?
+Melon prend le cornet et Melèche les boules.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 304 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 303 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ben alors pourquoi as-tu un trou de balle ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
