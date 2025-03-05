@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Pourquoi les développeurs ont-ils toujours le même style ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+Car CSS'style !
 ```
 
 ```diff
-Quel est le point commun entre une Ferrari et une enfant de 5 ans ?
+Comment appelle-t-on une africaine enceinte ?
 
-Quand tu rentres dedans, tu déchires tout.
+Deux pour le prix d'un.
 ```
 
 ```diff
-Ce n'est pas bien de regarder sous les jupes des filles.
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-Il faut regarder sous la culotte.
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Melon et Melèche mangent une glace
+Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
 
-Melon prend le cornet et Melèche les boules.
+Quand un plat est réussi, on félicite le cuisinier pas le four !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 303 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 302 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Melon prend le cornet et Melèche les boules.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
 
 
 <p align="center">
