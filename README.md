@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ont-ils toujours le même style ?
+Chuck Norris vends le jeu, gagne des millions...
 
-Car CSS'style !
+... puis crée le jeu...
 ```
 
 ```diff
-Comment appelle-t-on une africaine enceinte ?
+Savez vous pourquoi les Chinois ne perdent jamais le nord ?
 
-Deux pour le prix d'un.
+Parce qu'ils ont le sudoku.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+La mer Méditerranée.
 ```
 
 ```diff
-Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
+Quel est le comble pour un campeur nordiste ?
 
-Quand un plat est réussi, on félicite le cuisinier pas le four !
+Démonter sa tante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 302 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 301 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand un plat est réussi, on félicite le cuisinier pas le four !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
