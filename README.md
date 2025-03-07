@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-... puis crée le jeu...
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Savez vous pourquoi les Chinois ne perdent jamais le nord ?
+Où se retrouvent les musulmans pour danser ?
 
-Parce qu'ils ont le sudoku.
+Au bal mosquée.
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Qu'est-ce qui est pire que de doigter sa sœur ?
 
-La mer Méditerranée.
+Y trouver l'alliance de son père.
 ```
 
 ```diff
-Quel est le comble pour un campeur nordiste ?
+Qu'est-ce qu'oune péniche ?
 
-Démonter sa tante.
+C'est oune zizi portouguaiche.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 301 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 300 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Démonter sa tante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
