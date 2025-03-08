@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
 
-Elle repart, car il n'y a pas de table.
+Le temps d’accès !
 ```
 
 ```diff
-Où se retrouvent les musulmans pour danser ?
+Quelle est la différence entre un camp d'entraînement terroriste et un orphelinat ?
 
-Au bal mosquée.
+Je ne sais pas, je conduis juste le drone.
 ```
 
 ```diff
-Qu'est-ce qui est pire que de doigter sa sœur ?
+Pourquoi dit-on que se palucher rend sourd ?
 
-Y trouver l'alliance de son père.
+Parce qu’on est tout le temps entrain d’écouter si personne arrive.
 ```
 
 ```diff
-Qu'est-ce qu'oune péniche ?
+Quand mon verre est plein, je le vide
 
-C'est oune zizi portouguaiche.
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 300 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 299 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est oune zizi portouguaiche.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:42-white?style=for-the-badge)
 
 
 <p align="center">
