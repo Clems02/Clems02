@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
+Que prend un développeur avant d'écrire ?
 
-Le temps d’accès !
+Il prend de la MD.
 ```
 
 ```diff
-Quelle est la différence entre un camp d'entraînement terroriste et un orphelinat ?
+Barman, c'est ici que vous avez des chiottes en or ?
 
-Je ne sais pas, je conduis juste le drone.
+Patrick ! J'ai trouvé celui qui a chié dans ton saxo !
 ```
 
 ```diff
-Pourquoi dit-on que se palucher rend sourd ?
+Chérie ! On mate un film porno ou un match de foot ce soir ?
 
-Parce qu’on est tout le temps entrain d’écouter si personne arrive.
+Un film porno, vu que tu sais déjà jouer au foot !
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
 
-Quand mon verre est vide, je me plains !
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 299 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 298 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:45-white?style=for-the-badge)
 
 
 <p align="center">
