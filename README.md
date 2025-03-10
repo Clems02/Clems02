@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que prend un développeur avant d'écrire ?
+Que fait un développeur quand il a soif ?
 
-Il prend de la MD.
+this.drink('water')
 ```
 
 ```diff
-Barman, c'est ici que vous avez des chiottes en or ?
+Comment nomme-t-on la poussette des juifs ?
 
-Patrick ! J'ai trouvé celui qui a chié dans ton saxo !
+Un barbecue
 ```
 
 ```diff
-Chérie ! On mate un film porno ou un match de foot ce soir ?
+Que dit une fille après une nuit avec un juif ?
 
-Un film porno, vu que tu sais déjà jouer au foot !
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
+As-tu déjà fait la guerre ? Non ?
 
-Je pense que je vais les faire rentrer.
+Ben alors pourquoi as-tu un trou de balle ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 298 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 297 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je pense que je vais les faire rentrer.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:45-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:45-white?style=for-the-badge)
 
 
 <p align="center">
