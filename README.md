@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a soif ?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-this.drink('water')
+Car ils font des petits Mo...
 ```
 
 ```diff
-Comment nomme-t-on la poussette des juifs ?
+Quelle est l'eau gazeuse préférée des Juifs ?
 
-Un barbecue
+L'eau Schwitz
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Quelle est la vitesse maximale autorisée lors d'un rapport ?
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+68km/h car à 69... Ça fait une tête-à-queue.
 ```
 
 ```diff
-As-tu déjà fait la guerre ? Non ?
+Ta mère c’est comme Pac-Man...
 
-Ben alors pourquoi as-tu un trou de balle ?
+Elle aime manger les boules...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 297 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 296 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ben alors pourquoi as-tu un trou de balle ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:45-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
