@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Quel est l'animal le plus connecté ?
 
-Car ils font des petits Mo...
+Le porc USB
 ```
 
 ```diff
-Quelle est l'eau gazeuse préférée des Juifs ?
+Pourquoi un orphelin n'a pas un bon pc ?
 
-L'eau Schwitz
+Car il n'a pas de carte mère.
 ```
 
 ```diff
-Quelle est la vitesse maximale autorisée lors d'un rapport ?
+Si l’avortement est un meurtre...
 
-68km/h car à 69... Ça fait une tête-à-queue.
+... la branlette, c’est quoi ? Un génocide ?
 ```
 
 ```diff
-Ta mère c’est comme Pac-Man...
+Quel est le point commun entre un lave-linge et un alcoolique ?
 
-Elle aime manger les boules...
+Plus c'est bourré, moins ça tourne bien.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 296 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 295 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle aime manger les boules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
