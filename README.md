@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal le plus connecté ?
+Pourquoi les pirates ont rarement raison ?
 
-Le porc USB
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Pourquoi un orphelin n'a pas un bon pc ?
+Deux Belges se déplacent dans le désert en tenant une portière...
 
-Car il n'a pas de carte mère.
+J'ai trop chaud ouvre la fenêtre s'il te plaît.
 ```
 
 ```diff
-Si l’avortement est un meurtre...
+Que fait un nain pour se torcher?
 
-... la branlette, c’est quoi ? Un génocide ?
+Il court dans l'herbe...
 ```
 
 ```diff
-Quel est le point commun entre un lave-linge et un alcoolique ?
+Quel est le point commun entre une femme et une piscine ?
 
-Plus c'est bourré, moins ça tourne bien.
+Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 295 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 294 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Plus c'est bourré, moins ça tourne bien.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
