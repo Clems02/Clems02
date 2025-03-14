@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
 
-Parce qu'ils ont souvent Tor.
+Alors qu’en fait, il était tar.
 ```
 
 ```diff
-Deux Belges se déplacent dans le désert en tenant une portière...
+Quelle est la différence entre Jeanne Calment et Lady Diana ?
 
-J'ai trop chaud ouvre la fenêtre s'il te plaît.
+La première est morte à 122 et la deuxième à 150
 ```
 
 ```diff
-Que fait un nain pour se torcher?
+La banane est un fruit gras.
 
-Il court dans l'herbe...
+Mais après avoir testé ton préservatif dessus.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une piscine ?
+Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
 
-Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
+L'autre répond alors : "Parfois la nuit porte conseil."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 294 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 293 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le point commun entre une femme et une piscine ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
