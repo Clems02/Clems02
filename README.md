@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-Alors qu’en fait, il était tar.
+Le mode jour des applications !
 ```
 
 ```diff
-Quelle est la différence entre Jeanne Calment et Lady Diana ?
+Je vais faire une blague sur le nazisme...
 
-La première est morte à 122 et la deuxième à 150
+Elle va faire führer !
 ```
 
 ```diff
-La banane est un fruit gras.
+Quelle est la différence entre la bite et un gîte ?
 
-Mais après avoir testé ton préservatif dessus.
+Le gîte, on l'habite et la bite, on l'agite !
 ```
 
 ```diff
-Deux hommes discutent dans un café : "J'ai lu dans le journal qu'un homme a tué sa femme le lendemain de sa nuit de noces."
+Hey Google, pourquoi je suis célibataire ?
 
-L'autre répond alors : "Parfois la nuit porte conseil."
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 293 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 292 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'autre répond alors : "Parfois la nuit porte conseil."
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
