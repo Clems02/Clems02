@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Pourquoi vaut il mieux être software que hardware ?
 
-Le mode jour des applications !
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Je vais faire une blague sur le nazisme...
+Ma grand-mère a vaincu le cancer.
 
-Elle va faire führer !
+L'héritage attendra.
 ```
 
 ```diff
-Quelle est la différence entre la bite et un gîte ?
+Tu sais ce que c'est un suppositoire ?
 
-Le gîte, on l'habite et la bite, on l'agite !
+C'est une invention qui restera dans les annales.
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Les gens disent que les femmes ne sont pas drôles...
 
-D'accord ! J'ouvre la caméra.
+... mais hier, ma femme m'a demandé de faire à manger.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 292 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 291 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
 
 
 <p align="center">
