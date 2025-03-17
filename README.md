@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
 ```
 
 ```diff
-Ma grand-mère a vaincu le cancer.
+Je vais arrêter de dire des blagues sur les orphelins…
 
-L'héritage attendra.
+… sinon ils vont aller le dire à leurs parents.
 ```
 
 ```diff
-Tu sais ce que c'est un suppositoire ?
+Quel est le point commun entre le paradis et le vagin ?
 
-C'est une invention qui restera dans les annales.
+Pour y entrer, il faut être raide.
 ```
 
 ```diff
-Les gens disent que les femmes ne sont pas drôles...
+Quelle est la couleur préférée des pédophiles ?
 
-... mais hier, ma femme m'a demandé de faire à manger.
+Violet
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 291 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 290 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les gens disent que les femmes ne sont pas drôles...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
