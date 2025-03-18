@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+Que fait un développeur quand il a peur ?
 
-Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
+Il csharpe.
 ```
 
 ```diff
-Je vais arrêter de dire des blagues sur les orphelins…
+Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
 
-… sinon ils vont aller le dire à leurs parents.
+Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
 ```
 
 ```diff
-Quel est le point commun entre le paradis et le vagin ?
+Quand Chuck Norris viole la loi...
 
-Pour y entrer, il faut être raide.
+... elle en redemande.
 ```
 
 ```diff
-Quelle est la couleur préférée des pédophiles ?
+Pourquoi les Portugais sont forts en cuisine ?
 
-Violet
+Parce qu'ils ont plein de poêles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 290 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 289 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Violet
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
