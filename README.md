@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a peur ?
+Un développeur ne descend pas du métro.
 
-Il csharpe.
+Il libère la RAM.
 ```
 
 ```diff
-Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
+Je ne suis pas raciste.
 
-Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
+Je supporte l'équipe de football française.
 ```
 
 ```diff
-Quand Chuck Norris viole la loi...
+Dis, s'il y avait les olympiques du sexe, tu penses que je pourrai representer mon pays ?
 
-... elle en redemande.
+Oh oui, si c'est une epreuve de vitesse !
 ```
 
 ```diff
-Pourquoi les Portugais sont forts en cuisine ?
+Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
 
-Parce qu'ils ont plein de poêles !
+Bonne à nez !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 289 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 288 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont plein de poêles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
