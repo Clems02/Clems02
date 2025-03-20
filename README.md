@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Chuck Norris vends le jeu, gagne des millions...
 
-Il libère la RAM.
+... puis crée le jeu...
 ```
 
 ```diff
-Je ne suis pas raciste.
+Quelle est la différence entre un Juif et une patate ?
 
-Je supporte l'équipe de football française.
+La patate ne crie pas quand on la brûle.
 ```
 
 ```diff
-Dis, s'il y avait les olympiques du sexe, tu penses que je pourrai representer mon pays ?
+2 paysannes ramassent des patates. La première en saisie deux grosses pleines de terre et dit à l'autre :
 
-Oh oui, si c'est une epreuve de vitesse !
+Vindiou ! Elles sont comme les couilles de mon mari ! Aussi grosses ? Non, aussi sales !
 ```
 
 ```diff
-Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
+Vous savez pourquoi Valbuena rigole quand il joue au foot ?
 
-Bonne à nez !
+Parce que l'herbe lui chatouille les couilles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 288 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 287 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bonne à nez !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
