@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
 
-... puis crée le jeu...
+Une RC-XD
 ```
 
 ```diff
-Quelle est la différence entre un Juif et une patate ?
+Comment la femme d'Hitler est-elle morte ?
 
-La patate ne crie pas quand on la brûle.
+Elle s'est trompée de chambre.
 ```
 
 ```diff
-2 paysannes ramassent des patates. La première en saisie deux grosses pleines de terre et dit à l'autre :
+Comment on sait quand il faut rompre ?
 
-Vindiou ! Elles sont comme les couilles de mon mari ! Aussi grosses ? Non, aussi sales !
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-Vous savez pourquoi Valbuena rigole quand il joue au foot ?
+Pourquoi les sorcières ne portent-elles jamais de culottes ?
 
-Parce que l'herbe lui chatouille les couilles !
+Pour avoir une meilleure adhérence avec le balai...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 287 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 286 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que l'herbe lui chatouille les couilles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
