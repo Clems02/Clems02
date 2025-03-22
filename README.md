@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+Qu'est ce qu'un pirateur fait le mieux ?
 
-Une RC-XD
+Ce qui lui tient hackeur (à cœur) !
 ```
 
 ```diff
-Comment la femme d'Hitler est-elle morte ?
+Quelles sont les voitures préférées des arabes ?
 
-Elle s'est trompée de chambre.
+Les voitures sans surveillances.
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Pourquoi les sorcières ne portent-elles jamais de culottes ?
+Quel est le point commun entre un homme et un tiroir ?
 
-Pour avoir une meilleure adhérence avec le balai...
+Les deux sont des fourre-tout.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 286 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 285 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir une meilleure adhérence avec le balai...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
