@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est ce qu'un pirateur fait le mieux ?
+Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
 
-Ce qui lui tient hackeur (à cœur) !
+... ensuite il demande à quoi il doit servir.
 ```
 
 ```diff
-Quelles sont les voitures préférées des arabes ?
+Pourquoi y a-t-il une barrière entre les cyclistes et les supporters ?
 
-Les voitures sans surveillances.
+Car il est dangereux de mélanger la drogue et l'alcool.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Quel est le point commun entre de la neige et une bite ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
 ```
 
 ```diff
-Quel est le point commun entre un homme et un tiroir ?
+En quel objet veut être ressuscité un clochard ?
 
-Les deux sont des fourre-tout.
+En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 285 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 284 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux sont des fourre-tout.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
