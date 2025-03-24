@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
+Ma copine m'a larguée après avoir donné son nom à une classe.
 
-... ensuite il demande à quoi il doit servir.
+Elle avait l'impression que je la traitais comme un objet.
 ```
 
 ```diff
-Pourquoi y a-t-il une barrière entre les cyclistes et les supporters ?
+Mon papi est mort dans un camp de concentration...
 
-Car il est dangereux de mélanger la drogue et l'alcool.
+Il est tombé de la tour de guet...
 ```
 
 ```diff
-Quel est le point commun entre de la neige et une bite ?
+Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
 
-On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
+Bah non, je rentre encore dans du 12 ans.
 ```
 
 ```diff
-En quel objet veut être ressuscité un clochard ?
+Pourquoi les hommes amènent-ils leur femme en vacances ?
 
-En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
+Pour que les vacances paraissent plus longues...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 284 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 283 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les ma
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
