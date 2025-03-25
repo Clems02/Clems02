@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Ma copine m'a larguée après avoir donné son nom à une classe.
+Quand est ce que Windows ne bug pas ?
 
-Elle avait l'impression que je la traitais comme un objet.
+Quand l'ordinateur est éteint.
 ```
 
 ```diff
-Mon papi est mort dans un camp de concentration...
+Connais-tu l'histoire de l'homme qui habitait juste en face du cimetière ?
 
-Il est tombé de la tour de guet...
+Eh bien, maintenant, il habite en face de chez-lui !
 ```
 
 ```diff
-Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
+Qu'est-ce qui suit la lettre X ?
 
-Bah non, je rentre encore dans du 12 ans.
+Hamster.
 ```
 
 ```diff
-Pourquoi les hommes amènent-ils leur femme en vacances ?
+Quand il était petit, quel était le nom de papy Roro ?
 
-Pour que les vacances paraissent plus longues...
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 283 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 282 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour que les vacances paraissent plus longues...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
 
 
 <p align="center">
