@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand est ce que Windows ne bug pas ?
+Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
 
-Quand l'ordinateur est éteint.
+et node_modules...
 ```
 
 ```diff
-Connais-tu l'histoire de l'homme qui habitait juste en face du cimetière ?
+Que dit-on à l’enterrement d’un comptable ?
 
-Eh bien, maintenant, il habite en face de chez-lui !
+Qu’il comptait beaucoup pour les gens
 ```
 
 ```diff
-Qu'est-ce qui suit la lettre X ?
+Si un noir veut me prendre par les sentiments.
 
-Hamster.
+Je peux dire qu'il mamadou ?
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Pourquoi la Saint-Valentin est-elle davantage fêtée dans le Nord ?
 
-Roro...
+Parce que ça se fête en famille.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 282 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 281 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
