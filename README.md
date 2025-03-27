@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
+En programmation, c'est le seul endroit où...
 
-et node_modules...
+...tu arrives à faire rentrer deux bool dans un string.
 ```
 
 ```diff
-Que dit-on à l’enterrement d’un comptable ?
+Pourquoi les pédophiles adorent Halloween ?
 
-Qu’il comptait beaucoup pour les gens
+Parce que c'est livraison à domicile ce jour-là.
 ```
 
 ```diff
-Si un noir veut me prendre par les sentiments.
+L'amour, c'est comme les cartes.
 
-Je peux dire qu'il mamadou ?
+Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
 ```
 
 ```diff
-Pourquoi la Saint-Valentin est-elle davantage fêtée dans le Nord ?
+Ce que j'ai en commun avec mon mari ?
 
-Parce que ça se fête en famille.
+On s'est mariés le même jour.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 281 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 280 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que ça se fête en famille.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
