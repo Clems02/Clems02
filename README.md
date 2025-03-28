@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-En programmation, c'est le seul endroit où...
+Quel est le biscuit préféré d'Internet ?
 
-...tu arrives à faire rentrer deux bool dans un string.
+Le cookie
 ```
 
 ```diff
-Pourquoi les pédophiles adorent Halloween ?
+Un mec gifle un aveugle...
 
-Parce que c'est livraison à domicile ce jour-là.
+Tu ne l’avais pas vu venir celle-là !
 ```
 
 ```diff
-L'amour, c'est comme les cartes.
+Le sperme c'est comme la vérité,
 
-Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
+soit ça saute aux yeux, soit c'est dur à avaler.
 ```
 
 ```diff
-Ce que j'ai en commun avec mon mari ?
+Comment appelle-t-on une vache qui joue de la musique ?
 
-On s'est mariés le même jour.
+Une meeuhsiciene.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 280 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 279 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On s'est mariés le même jour.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
 
 
 <p align="center">
