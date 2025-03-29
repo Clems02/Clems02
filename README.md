@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Quel est le logiciel qui fait le plus crash Windows ?
 
-Le cookie
+Windows Update
 ```
 
 ```diff
-Un mec gifle un aveugle...
+En 2022, on doit plus dire "pédophile".
 
-Tu ne l’avais pas vu venir celle-là !
+On dit "béta-testeurs" maintenant.
 ```
 
 ```diff
-Le sperme c'est comme la vérité,
+Qu'est-ce qui est rose, fait 5 cm, 15 cm dépliés et qui fait rêver toutes les filles de 18 ans ?
 
-soit ça saute aux yeux, soit c'est dur à avaler.
+Le permis de conduire
 ```
 
 ```diff
-Comment appelle-t-on une vache qui joue de la musique ?
+Hier, j'ai croisé 2 roux. Vous savez ce que je leur ai demandé ?
 
-Une meeuhsiciene.
+Bah alors, il est où le guidon ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 279 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 278 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une meeuhsiciene.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
