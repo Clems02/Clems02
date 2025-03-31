@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
+Quel est le réseau social où tout le monde se prend la tête ?
 
-Aujourd'hui il s'appelle "Challenge Accepted"...
+Discord
 ```
 
 ```diff
-Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
+Qu'est-ce qu'un nazi stupide ?
 
-.. Allô sœurette ?
+Un bon aryen
 ```
 
 ```diff
-Quel est le point commun entre ta mère et la coupe de la LDC ?
+Pourquoi les portes sont des putes ?
 
-Tout le monde a envie de la soulever.
+Parce qu'elles se font toucher par tout le monde.
 ```
 
 ```diff
-Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?
+Quel est le féminin de "Macho" ?
 
-Pour chaque cas c'est un homme qui la sortie trop tard.
+"Ma chose"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 277 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 276 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque cas c'est un homme qui la sortie trop tard.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
