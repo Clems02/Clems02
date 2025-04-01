@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+De nos jours, le zip...
 
-Discord
+... ça devient rar...
 ```
 
 ```diff
-Qu'est-ce qu'un nazi stupide ?
+Quel est le métier d'un pédophile ?
 
-Un bon aryen
+Prêtre
 ```
 
 ```diff
-Pourquoi les portes sont des putes ?
+A quoi sert un pénis?
 
-Parce qu'elles se font toucher par tout le monde.
+A mesurer la profondeur de la cruche.
 ```
 
 ```diff
-Quel est le féminin de "Macho" ?
+Qu'est-ce qui peut rendre un homme millionaire ?
 
-"Ma chose"
+Une femme, si il était milliardaire avant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 276 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 275 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le féminin de "Macho" ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
