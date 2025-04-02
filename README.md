@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De nos jours, le zip...
+C'est l'histoire d'une cocotte-minute connectée...
 
-... ça devient rar...
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Quel est le métier d'un pédophile ?
+Mon humour est tellement noir...
 
-Prêtre
+... qu'il manque d'eau et de nourriture.
 ```
 
 ```diff
-A quoi sert un pénis?
+Quelle est la différence entre toi et un chirurgien ?
 
-A mesurer la profondeur de la cruche.
+Le chirurgien ampute des jambes et tu enjambes des putes !
 ```
 
 ```diff
-Qu'est-ce qui peut rendre un homme millionaire ?
+Savez-vous pourquoi Dieu a créé la femme ?
 
-Une femme, si il était milliardaire avant.
+Car il ne savait pas comment créer un lave-vaisselle qui suce.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 275 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 274 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme, si il était milliardaire avant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
