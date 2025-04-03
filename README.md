@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Pourquoi ceux qui votent Trump ne font pas de programmation ?
 
-... qui utilise WinRAR pour décompresser.
+Car une erreur "403: Forbidden" arrive vite.
 ```
 
 ```diff
-Mon humour est tellement noir...
+Pourquoi les terroristes sont-ils toujours derniers aux jeux de société ?
 
-... qu'il manque d'eau et de nourriture.
+Parce qu’ils ont sauté 2 tours.
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Quelle est la différence entre un tampon et un téléphone ?
 
-Le chirurgien ampute des jambes et tu enjambes des putes !
+Avec le tampon, on sait qui est au bout du fils.
 ```
 
 ```diff
-Savez-vous pourquoi Dieu a créé la femme ?
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-Car il ne savait pas comment créer un lave-vaisselle qui suce.
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 274 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 273 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car il ne savait pas comment créer un lave-vaisselle qui suce.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
