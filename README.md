@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
 
-Discord
+Car ils préfèrent les scratch.
 ```
 
 ```diff
-Quel est le comble pour un noir ?
+Qu'est-ce qu'un noir et deux blancs dans un plan à trois ?
 
-Porter des pulls en coton
+Un pain au chocolat
 ```
 
 ```diff
-A quoi sert un pénis?
+Melon et Meleche trouvent une maison à vendre...
 
-A mesurer la profondeur de la cruche.
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Qu'est-ce qui est dur, blanc, avec le bout rouge, et qui sent la pisse ?
+Les enfants dans le noir font des bêtises.
 
-Une borne Kilométrique
+Mais les bêtises dans le noir font des enfants.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 272 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 271 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une borne Kilométrique
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
