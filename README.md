@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Car ils préfèrent les scratch.
+Car c’est le hardware qui prend des coups quand le software plante.
 ```
 
 ```diff
-Qu'est-ce qu'un noir et deux blancs dans un plan à trois ?
+Tu n'as pas besoin de parachute pour faire du parachutisme.
 
-Un pain au chocolat
+Cependant, tu as besoin d'un parachute si tu veux en faire deux fois.
 ```
 
 ```diff
-Melon et Meleche trouvent une maison à vendre...
+Quel est le point commun entre les seins d'une femme et un train électrique ?
 
-…Melon l’achète et Meleche l’habite.
+Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
 ```
 
 ```diff
-Les enfants dans le noir font des bêtises.
+Quel est le point commun entre un Gynécologue et un Pizzaiolo ?
 
-Mais les bêtises dans le noir font des enfants.
+Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 271 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 270 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais les bêtises dans le noir font des enfants.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
