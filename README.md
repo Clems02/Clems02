@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quel est le biscuit préféré d'Internet ?
 
-Car c’est le hardware qui prend des coups quand le software plante.
+Le cookie
 ```
 
 ```diff
-Tu n'as pas besoin de parachute pour faire du parachutisme.
+Je vais arrêter de dire des blagues sur les orphelins…
 
-Cependant, tu as besoin d'un parachute si tu veux en faire deux fois.
+… sinon ils vont aller le dire à leurs parents.
 ```
 
 ```diff
-Quel est le point commun entre les seins d'une femme et un train électrique ?
+Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
 
-Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
+Je sais, maman me l'a déjà dit...
 ```
 
 ```diff
-Quel est le point commun entre un Gynécologue et un Pizzaiolo ?
+Sur quel site internet peut-on trouver un lave-vaisselle pas cher ?
 
-Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
+Meetic.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 270 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 269 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
 
 
 <p align="center">
