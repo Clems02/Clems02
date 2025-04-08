@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Que fait un développeur en hiver ?
 
-Le cookie
+Du saut ASCII
 ```
 
 ```diff
-Je vais arrêter de dire des blagues sur les orphelins…
+Un pharmacien dit à son client : "Je ne peux pas vous vendre de l'arsenic sans ordonance".
 
-… sinon ils vont aller le dire à leurs parents.
+Et si je montre une photo de ma belle-mère, ça va ?
 ```
 
 ```diff
-Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
+Ce n'est pas bien de regarder sous les jupes des filles.
 
-Je sais, maman me l'a déjà dit...
+Il faut regarder sous la culotte.
 ```
 
 ```diff
-Sur quel site internet peut-on trouver un lave-vaisselle pas cher ?
+Lorsqu'une consonne suit une voyelle entre 2 mots. On doit faire la liaison. Mais il y a des exceptions.
 
-Meetic.
+"L'habit à papa" et "l'achat à maman" par exemple.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 269 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 268 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Meetic.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
