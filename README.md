@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en hiver ?
+Quel est le point commun entre le C et les impôts ?
 
-Du saut ASCII
+Il faut tout déclarer.
 ```
 
 ```diff
-Un pharmacien dit à son client : "Je ne peux pas vous vendre de l'arsenic sans ordonance".
+Superman vole au-dessus des immeubles, Spiderman vole entre les immeubles...
 
-Et si je montre une photo de ma belle-mère, ça va ?
+... et musulman vole dans les immeubles.
 ```
 
 ```diff
-Ce n'est pas bien de regarder sous les jupes des filles.
+Avec quel fromage peut-on faire grossir les seins ?
 
-Il faut regarder sous la culotte.
+Du Boursin.
 ```
 
 ```diff
-Lorsqu'une consonne suit une voyelle entre 2 mots. On doit faire la liaison. Mais il y a des exceptions.
+Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
 
-"L'habit à papa" et "l'achat à maman" par exemple.
+Un combat sanglant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 268 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 267 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsqu'une consonne suit une voyelle entre 2 mots. On doit faire la liaison. Mai
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
