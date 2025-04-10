@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre le C et les impôts ?
+C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
 
-Il faut tout déclarer.
+... PATH le chemin !
 ```
 
 ```diff
-Superman vole au-dessus des immeubles, Spiderman vole entre les immeubles...
+Quel est le point commun entre un pokémon et un cancer ?
 
-... et musulman vole dans les immeubles.
+Ils évoluent.
 ```
 
 ```diff
-Avec quel fromage peut-on faire grossir les seins ?
+Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
 
-Du Boursin.
+La femme répliqua « Je suis pro stituée ! »
 ```
 
 ```diff
-Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
+Quelle est la couleur préférée des pédophiles ?
 
-Un combat sanglant.
+Violet
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 267 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 266 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un combat sanglant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
