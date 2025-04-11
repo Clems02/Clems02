@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
+Mon processeur est super musclé :
 
-... PATH le chemin !
+Un tel corps, c'est exceptionnel !
 ```
 
 ```diff
-Quel est le point commun entre un pokémon et un cancer ?
+En Allemagne, il y a trois grands riches : le premier riche, le deuxième riche...
 
-Ils évoluent.
+... et le Troisième Reich.
 ```
 
 ```diff
-Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
+Quelle est la phrase que l'on peut dire en voiture et dans une cave ?
 
-La femme répliqua « Je suis pro stituée ! »
+« Je ne savais pas qu’il y avait autant de place dans une 2008. »
 ```
 
 ```diff
-Quelle est la couleur préférée des pédophiles ?
+Quelle est la partie de la voiture la plus dangereuse ?
 
-Violet
+La conductrice.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 266 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 265 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Violet
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
