@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Mon processeur est super musclé :
+Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 
-Un tel corps, c'est exceptionnel !
+À cause des pare-feu
 ```
 
 ```diff
-En Allemagne, il y a trois grands riches : le premier riche, le deuxième riche...
+Enfants : On a tous le droit au meilleur !
 
-... et le Troisième Reich.
+Homme blanc : Eh oui, c'est pour ça que les noirs existent, pour nous servir.
 ```
 
 ```diff
-Quelle est la phrase que l'on peut dire en voiture et dans une cave ?
+Quelle est la différence entre une femme et une haie ?
 
-« Je ne savais pas qu’il y avait autant de place dans une 2008. »
+Pour sauter la haie, pas besoin de lui faire des compliments...
 ```
 
 ```diff
-Quelle est la partie de la voiture la plus dangereuse ?
+Pourquoi le coq est-il l'emblème de la France ?
 
-La conductrice.
+Parce que c'est le seul animal à chanter les pieds dans la merde.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 265 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 264 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La conductrice.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
