@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+Quel composant a un classement correct dans la société ?
 
-À cause des pare-feu
+La carte maire
 ```
 
 ```diff
-Enfants : On a tous le droit au meilleur !
+Maman,maman, est-ce que j'ai été adopté ?
 
-Homme blanc : Eh oui, c'est pour ça que les noirs existent, pour nous servir.
+Mais non, nous n'avons mis l'annonce qu'hier.
 ```
 
 ```diff
-Quelle est la différence entre une femme et une haie ?
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-Pour sauter la haie, pas besoin de lui faire des compliments...
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-Pourquoi le coq est-il l'emblème de la France ?
+Quelle est l'église la plus petite ?
 
-Parce que c'est le seul animal à chanter les pieds dans la merde.
+Le soutien-gorge, on ne peut y mettre que deux seins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 264 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 263 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que c'est le seul animal à chanter les pieds dans la merde.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
 
 
 <p align="center">
