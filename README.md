@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+Chuck Norris vends le jeu, gagne des millions...
 
-La carte maire
+... puis crée le jeu...
 ```
 
 ```diff
-Maman,maman, est-ce que j'ai été adopté ?
+Quel est le super-héros qui vole ?
 
-Mais non, nous n'avons mis l'annonce qu'hier.
+Musulmane
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Comment on appelle les femmes des terroristes ?
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+Des bombes sexuelles.
 ```
 
 ```diff
-Quelle est l'église la plus petite ?
+Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
 
-Le soutien-gorge, on ne peut y mettre que deux seins.
+Le garçon répond : "C'est la moche qui gagne !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 263 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 262 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le soutien-gorge, on ne peut y mettre que deux seins.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
