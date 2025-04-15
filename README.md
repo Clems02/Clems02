@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
 
-... puis crée le jeu...
+... ensuite il demande à quoi il doit servir.
 ```
 
 ```diff
-Quel est le super-héros qui vole ?
+En cours de sport, le prof cri "Faites 10 pompes !"
 
-Musulmane
+Le chinois se retourne brusquement et demande "Nike ou Adidas ?"
 ```
 
 ```diff
-Comment on appelle les femmes des terroristes ?
+Que fais un zoophile dans un pré ?
 
-Des bombes sexuelles.
+Il joue à saute mouton...
 ```
 
 ```diff
-Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
+Pendant l'acte, ma femme me dit : Dis-moi des choses sales !
 
-Le garçon répond : "C'est la moche qui gagne !"
+La cuisine, la salle de bain...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 262 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 261 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le garçon répond : "C'est la moche qui gagne !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
