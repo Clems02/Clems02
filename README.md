@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
+J'ai fait un test de QI en ligne.
 
-... ensuite il demande à quoi il doit servir.
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-En cours de sport, le prof cri "Faites 10 pompes !"
+Quel est la différence entre un chômeur et une pizza ?
 
-Le chinois se retourne brusquement et demande "Nike ou Adidas ?"
+Une pizza peut nourrir une famille.
 ```
 
 ```diff
-Que fais un zoophile dans un pré ?
+Quelle est la différance entre une femme et une grue ?
 
-Il joue à saute mouton...
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Pendant l'acte, ma femme me dit : Dis-moi des choses sales !
+Comment reconnaît-on un aveugle sur une plage naturiste ?
 
-La cuisine, la salle de bain...
+Ce n'est pas dur !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 261 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 260 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La cuisine, la salle de bain...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
