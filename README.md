@@ -8,27 +8,27 @@ Apparemment, j'en ai 404.
 ```
 
 ```diff
-Quel est la différence entre un chômeur et une pizza ?
+J'appellerai ma fille coupe du monde.
 
-Une pizza peut nourrir une famille.
+Pour qu'aucun africain ne la soulève.
 ```
 
 ```diff
-Quelle est la différance entre une femme et une grue ?
+Comment appelle-t-on une lesbienne qui n'a pas de seins ?
 
-La grue débite des caisses et la femme encaisse des bites.
+Une homoplate.
 ```
 
 ```diff
-Comment reconnaît-on un aveugle sur une plage naturiste ?
+Les peintres utilisent, de l'imagination, de la créativité et...
 
-Ce n'est pas dur !
+De la peinture.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 260 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 259 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce n'est pas dur !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
 
 
 <p align="center">
