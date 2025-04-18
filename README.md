@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+Pourquoi ceux qui votent Trump ne font pas de programmation ?
 
-Apparemment, j'en ai 404.
+Car une erreur "403: Forbidden" arrive vite.
 ```
 
 ```diff
-J'appellerai ma fille coupe du monde.
+Mimie Mathy est née en 1957.
 
-Pour qu'aucun africain ne la soulève.
+Le temps passe vite, on ne l’a pas vue grandir !
 ```
 
 ```diff
-Comment appelle-t-on une lesbienne qui n'a pas de seins ?
+Quelle est la différence entre une prostituée et une boule de bowling ?
 
-Une homoplate.
+On ne peut mettre que 3 doigts à la fois dans la boule.
 ```
 
 ```diff
-Les peintres utilisent, de l'imagination, de la créativité et...
+Quel est l'avantage d'un gamer ?
 
-De la peinture.
+Il a une gigabyte...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 259 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 258 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ De la peinture.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
