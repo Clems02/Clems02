@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ceux qui votent Trump ne font pas de programmation ?
+Comment appelle-t-on un trucage photo ?
 
-Car une erreur "403: Forbidden" arrive vite.
+Un Faux-to-chopage
 ```
 
 ```diff
-Mimie Mathy est née en 1957.
+Quel est le point commun entre Claude François et Ayrton Senna ?
 
-Le temps passe vite, on ne l’a pas vue grandir !
+Les deux étaient de bons conducteurs.
 ```
 
 ```diff
-Quelle est la différence entre une prostituée et une boule de bowling ?
+Pourquoi un homme rentre-t-il dans un bar ?
 
-On ne peut mettre que 3 doigts à la fois dans la boule.
+Parce qu'il est zoophile.
 ```
 
 ```diff
-Quel est l'avantage d'un gamer ?
+Qu'est ce qu'une boite sans eau ?
 
-Il a une gigabyte...
+Une bite
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 258 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 257 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il a une gigabyte...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
