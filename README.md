@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Quel est le comble pour la mémoire vive ?
 
-Un Faux-to-chopage
+C'est qu'elle RAM.
 ```
 
 ```diff
-Quel est le point commun entre Claude François et Ayrton Senna ?
+Que font 1+2-1x2 ?
 
-Les deux étaient de bons conducteurs.
+Le nombre de jambes d'un Manchot.
 ```
 
 ```diff
-Pourquoi un homme rentre-t-il dans un bar ?
+Violer quelqu'un, c'est comme un cambriolage...
 
-Parce qu'il est zoophile.
+... tu pénètres par effraction et tu casses tout.
 ```
 
 ```diff
-Qu'est ce qu'une boite sans eau ?
+Quel est le point commun entre un homme et un tiroir ?
 
-Une bite
+Les deux sont des fourre-tout.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 257 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 256 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une bite
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
