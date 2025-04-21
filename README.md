@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour la mémoire vive ?
+Dieu a dit : "Que Windows soit !"
 
-C'est qu'elle RAM.
+Et le bug fut.
 ```
 
 ```diff
-Que font 1+2-1x2 ?
+Savez-vous où l'on trouve le meilleur jardin d'enfants à New York ?
 
-Le nombre de jambes d'un Manchot.
+À Manhattan, il y a deux tours niquées.
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
 
-... tu pénètres par effraction et tu casses tout.
+"Dans ma bouche"
 ```
 
 ```diff
-Quel est le point commun entre un homme et un tiroir ?
+Une mère demande à son fils : quel est ton animal préféré ?
 
-Les deux sont des fourre-tout.
+Le zébu parce qu'on a un point commun.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 256 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 255 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux sont des fourre-tout.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
