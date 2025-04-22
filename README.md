@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Dieu a dit : "Que Windows soit !"
+Les programmes informatiques, c’est comme la masturbation :
 
-Et le bug fut.
+Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
 ```
 
 ```diff
-Savez-vous où l'on trouve le meilleur jardin d'enfants à New York ?
+Quelle est la différence entre un cancer et un politicien ?
 
-À Manhattan, il y a deux tours niquées.
+L'un commence dans une cellule et l'autre termine dans une cellule.
 ```
 
 ```diff
-Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
+Quel plat sent le cul de vache ?
 
-"Dans ma bouche"
+La langue de bœuf !
 ```
 
 ```diff
-Une mère demande à son fils : quel est ton animal préféré ?
+Proverbe africain : Quand moustique se poser sur testicules.
 
-Le zébu parce qu'on a un point commun.
+Toi comprendre que violence pas toujours solution.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 255 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 254 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zébu parce qu'on a un point commun.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
