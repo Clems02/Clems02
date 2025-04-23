@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les programmes informatiques, c’est comme la masturbation :
+Vous voulez une blague sur la documentation ?
 
-Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
+Elle n'a pas encore été faite.
 ```
 
 ```diff
-Quelle est la différence entre un cancer et un politicien ?
+Qu'est-ce qu'un américain qui mange deux menus dans un fast food ?
 
-L'un commence dans une cellule et l'autre termine dans une cellule.
+Un américain au régime.
 ```
 
 ```diff
-Quel plat sent le cul de vache ?
+Quelle est la différence entre toi et un chirurgien ?
 
-La langue de bœuf !
+Le chirurgien ampute des jambes et tu enjambes des putes !
 ```
 
 ```diff
-Proverbe africain : Quand moustique se poser sur testicules.
+Sur quel site internet peut-on trouver un lave-vaisselle pas cher ?
 
-Toi comprendre que violence pas toujours solution.
+Meetic.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 254 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 253 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Toi comprendre que violence pas toujours solution.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
 
 
 <p align="center">
