@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous voulez une blague sur la documentation ?
+De quelle couleur sont tes yeux ?
 
-Elle n'a pas encore été faite.
+#1292f4 et toi ?
 ```
 
 ```diff
-Qu'est-ce qu'un américain qui mange deux menus dans un fast food ?
+Pourquoi n'y a-t-il pas de noirs roux ?
 
-Un américain au régime.
+Parce que Dieu ne punit jamais deux fois.
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Quelle est la fée préférée des hommes ?
 
-Le chirurgien ampute des jambes et tu enjambes des putes !
+La fée Lation
 ```
 
 ```diff
-Sur quel site internet peut-on trouver un lave-vaisselle pas cher ?
+Quel est le point commun entre une femme et une voiture de sport ?
 
-Meetic.
+Les deux font du bruit lorsqu'on accélère.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 253 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 252 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Meetic.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
