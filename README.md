@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De quelle couleur sont tes yeux ?
+Que se passe-t-il quand on secoue une clef USB ?
 
-#1292f4 et toi ?
+Les fichiers se mélangent.
 ```
 
 ```diff
-Pourquoi n'y a-t-il pas de noirs roux ?
+Hier, j'ai vu quatre hommes cagoulés agresser mon ex, je me suis demandé si je devais aider.
 
-Parce que Dieu ne punit jamais deux fois.
+Mais je me suis dit qu'ils étaient assez à quatre.
 ```
 
 ```diff
-Quelle est la fée préférée des hommes ?
+Quand Chuck Norris viole la loi...
 
-La fée Lation
+... elle en redemande.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une voiture de sport ?
+Ce que j'ai en commun avec mon mari ?
 
-Les deux font du bruit lorsqu'on accélère.
+On s'est mariés le même jour.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 252 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 251 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux font du bruit lorsqu'on accélère.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
