@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que se passe-t-il quand on secoue une clef USB ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Les fichiers se mélangent.
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Hier, j'ai vu quatre hommes cagoulés agresser mon ex, je me suis demandé si je devais aider.
+C'est quoi la différence entre les terroristes et les époux Balkany ?
 
-Mais je me suis dit qu'ils étaient assez à quatre.
+Les terroristes, ils ne détournent que des avions.
 ```
 
 ```diff
-Quand Chuck Norris viole la loi...
+Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
 
-... elle en redemande.
+Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
 ```
 
 ```diff
-Ce que j'ai en commun avec mon mari ?
+Pourquoi la diarrhée est très répandue ?
 
-On s'est mariés le même jour.
+Car c'est une maladie courante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 251 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 250 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On s'est mariés le même jour.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
