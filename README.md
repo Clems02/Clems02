@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Quel son fait la cigale d'un développeur ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+Css... css... css... css... css...
 ```
 
 ```diff
-C'est quoi la différence entre les terroristes et les époux Balkany ?
+Qui court plus vite qu'Usain Bolt ?
 
-Les terroristes, ils ne détournent que des avions.
+Un Somalien avec un ticket restaurant
 ```
 
 ```diff
-Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
+La banane est un fruit gras.
 
-Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
+Mais après avoir testé ton préservatif dessus.
 ```
 
 ```diff
-Pourquoi la diarrhée est très répandue ?
+Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
 
-Car c'est une maladie courante.
+Pour ne pas avoir les lèvres gercées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 250 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 249 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est une maladie courante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
