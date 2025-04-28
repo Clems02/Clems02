@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel son fait la cigale d'un développeur ?
+Comment un développeur se protège-t-il de la pluie ?
 
-Css... css... css... css... css...
+Il se met sous une Bash !
 ```
 
 ```diff
-Qui court plus vite qu'Usain Bolt ?
+Tous les arabes ne sont pas voleurs...
 
-Un Somalien avec un ticket restaurant
+Mais tous les voleurs sont arabes !
 ```
 
 ```diff
-La banane est un fruit gras.
+Tu connais le cri du spermatozoïde ?
 
-Mais après avoir testé ton préservatif dessus.
+Bah, la prochaine fois, au lieu de l'avaler, tu croques.
 ```
 
 ```diff
-Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
+En quel objet veut être ressuscité un clochard ?
 
-Pour ne pas avoir les lèvres gercées.
+En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 249 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 248 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour ne pas avoir les lèvres gercées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
