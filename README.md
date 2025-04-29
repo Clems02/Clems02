@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se protège-t-il de la pluie ?
+Jusqu'à combien savent compter les geeks ?
 
-Il se met sous une Bash !
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Tous les arabes ne sont pas voleurs...
+Quelle est la note de piano préférée des prêtres ?
 
-Mais tous les voleurs sont arabes !
+La mineur.
 ```
 
 ```diff
-Tu connais le cri du spermatozoïde ?
+Melon et Melèche sont en cours d'histoire...
 
-Bah, la prochaine fois, au lieu de l'avaler, tu croques.
+Melon étudie Rome et Melèche la Gaule.
 ```
 
 ```diff
-En quel objet veut être ressuscité un clochard ?
+Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
 
-En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
+"Mais justement !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 248 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 247 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les ma
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
