@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a peur ?
+Quel est l'endroit le moins vu de stackoverflow ?
 
-Il csharpe.
+La page d'accueil.
 ```
 
 ```diff
-Qu'est-ce qu'un nazi stupide ?
+Que fait un Tsunami en Afrique
 
-Un bon aryen
+Des Chokapik
 ```
 
 ```diff
-Quel est le point commun entre un vieux marseillais et une prostituée ?
+Passer le bac, c'est comme faire la lessive.
 
-Les deux aiment jouer avec des boules.
+On mouille, on sèche, et on repasse.
 ```
 
 ```diff
-Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
+Que disent deux fesses dans une pirogue ?
 
-Les deux
+Dis donc, ça commence à ramer du cul là non ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 245 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 244 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
