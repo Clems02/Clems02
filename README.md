@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'endroit le moins vu de stackoverflow ?
+Pourquoi les développeurs n'aiment pas les forêts ?
 
-La page d'accueil.
+C'est rempli de bugs !
 ```
 
 ```diff
-Que fait un Tsunami en Afrique
+Que fais-tu quand tu vois un Arabe sur un scooter ?
 
-Des Chokapik
+Tu le poursuis, car c'est probablement le tien.
 ```
 
 ```diff
-Passer le bac, c'est comme faire la lessive.
+Quelle est la différence entre une femme et une grue ?
 
-On mouille, on sèche, et on repasse.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Que disent deux fesses dans une pirogue ?
+Quel est la différence entre un terroriste et une femme avant ses règles ?
 
-Dis donc, ça commence à ramer du cul là non ?
+Tu peux négocier avec le terroriste
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 244 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 243 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Dis donc, ça commence à ramer du cul là non ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
 
 
 <p align="center">
