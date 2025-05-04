@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment pas les forêts ?
+Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
 
-C'est rempli de bugs !
+Le temps d’accès !
 ```
 
 ```diff
-Que fais-tu quand tu vois un Arabe sur un scooter ?
+Comment appelle-t'on un arabe sans bras ?
 
-Tu le poursuis, car c'est probablement le tien.
+Un détonateur
 ```
 
 ```diff
-Quelle est la différence entre une femme et une grue ?
+C'est l'histoire du nain aux 26 enfants.
 
-La grue débite des caisses et la femme encaisse des bites.
+Elle est courte, mais elle est bonne.
 ```
 
 ```diff
-Quel est la différence entre un terroriste et une femme avant ses règles ?
+Comment appelle-t-on une douche qui n'a pas d'eau ?
 
-Tu peux négocier avec le terroriste
+Une duche
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 243 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 242 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Tu peux négocier avec le terroriste
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
