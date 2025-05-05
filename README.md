@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
+Que dit un programmeur SQL pour exprimer son mépris ?
 
-Le temps d’accès !
+SELECT finger FROM hand WHERE id=3;
 ```
 
 ```diff
-Comment appelle-t'on un arabe sans bras ?
+Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
 
-Un détonateur
+... Allô sœurette ?
 ```
 
 ```diff
-C'est l'histoire du nain aux 26 enfants.
+Comment on dit bonjour aux femmes qui ont leur règles ?
 
-Elle est courte, mais elle est bonne.
+Wesh, bien ou quoi le sang !
 ```
 
 ```diff
-Comment appelle-t-on une douche qui n'a pas d'eau ?
+Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
 
-Une duche
+"Ben quoi ? T'achètes bien des soutien-gorges..."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 242 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 241 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une duche
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
