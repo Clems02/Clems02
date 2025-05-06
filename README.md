@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un programmeur SQL pour exprimer son mépris ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-SELECT finger FROM hand WHERE id=3;
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
+Plus cancéreux que moi ?
 
-... Allô sœurette ?
+Tumeur.
 ```
 
 ```diff
-Comment on dit bonjour aux femmes qui ont leur règles ?
+Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
 
-Wesh, bien ou quoi le sang !
+L'autre répond : "Désolée, j'ai roté."
 ```
 
 ```diff
-Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
+Quel est le point commun entre une pizza brûlée et une femme enceinte ?
 
-"Ben quoi ? T'achètes bien des soutien-gorges..."
+Dans les deux cas, il y en a un qui ne l’a pas sorti à temps !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 241 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 240 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voitur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
 
 
 <p align="center">
