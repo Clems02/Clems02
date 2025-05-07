@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Un développeur ne descend pas du métro.
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+Il libère la RAM.
 ```
 
 ```diff
-Plus cancéreux que moi ?
+Quel est le point commun entre une grosse dans une twingo et un prêtre dans un enfant ?
 
-Tumeur.
+Tu ne sais pas comment font les deux pour rentrer !
 ```
 
 ```diff
-Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
+Quel est le point commun entre une blonde et une princesse ?
 
-L'autre répond : "Désolée, j'ai roté."
+Elles aiment quand tu rentres dans leur palais.
 ```
 
 ```diff
-Quel est le point commun entre une pizza brûlée et une femme enceinte ?
+Pourquoi les meilleurs pains sont idiots ?
 
-Dans les deux cas, il y en a un qui ne l’a pas sorti à temps !
+Parce que le pain con plaît.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 240 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 239 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Dans les deux cas, il y en a un qui ne l’a pas sorti à temps !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
