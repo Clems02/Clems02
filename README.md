@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Jusqu'à combien savent compter les geeks ?
 
-Il libère la RAM.
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Quel est le point commun entre une grosse dans une twingo et un prêtre dans un enfant ?
+Comment un parachutiste aveugle sait-il qu'il va bientôt atterrir ?
 
-Tu ne sais pas comment font les deux pour rentrer !
+Lorsqu'il s'aperçoit, il y a du mou à la laisse de son chien.
 ```
 
 ```diff
-Quel est le point commun entre une blonde et une princesse ?
+Pourquoi les filles se frottent les yeux au réveil ?
 
-Elles aiment quand tu rentres dans leur palais.
+Parce qu’elles ont pas de boules à gratter.
 ```
 
 ```diff
-Pourquoi les meilleurs pains sont idiots ?
+Combien coûte un homme ?
 
-Parce que le pain con plaît.
+Deux boules.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 239 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 238 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que le pain con plaît.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
