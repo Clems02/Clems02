@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+Pourquoi vaut il mieux être software que hardware ?
 
-404... car après, ils ne s'y retrouvent plus !
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Comment un parachutiste aveugle sait-il qu'il va bientôt atterrir ?
+Un petit garçon demande à sa maman : "Tu es sûre que c'est comme ça qu'on prépare un rôti ?"
 
-Lorsqu'il s'aperçoit, il y a du mou à la laisse de son chien.
+"Tais-toi et rentre dans le four !"
 ```
 
 ```diff
-Pourquoi les filles se frottent les yeux au réveil ?
+Pourquoi un homme rentre-t-il dans un bar ?
 
-Parce qu’elles ont pas de boules à gratter.
+Parce qu'il est zoophile.
 ```
 
 ```diff
-Combien coûte un homme ?
+Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
 
-Deux boules.
+Une double Pen.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 238 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 237 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux boules.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
