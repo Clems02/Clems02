@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Pourquoi les développeurs vont en boîte de nuit ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Pour faire la java.
 ```
 
 ```diff
-Un petit garçon demande à sa maman : "Tu es sûre que c'est comme ça qu'on prépare un rôti ?"
+Comment on sait que Claude François était fou ?
 
-"Tais-toi et rentre dans le four !"
+Parce qu'il pétait les plombs.
 ```
 
 ```diff
-Pourquoi un homme rentre-t-il dans un bar ?
+J'ai nommé ma bite Bidou.
 
-Parce qu'il est zoophile.
+Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
 ```
 
 ```diff
-Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
+Chez les cannibales comme chez nous les civilisés...
 
-Une double Pen.
+... il faut une femme pour la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 237 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 236 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une double Pen.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
