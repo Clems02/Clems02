@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+Quand est ce que Windows ne bug pas ?
 
-Pour faire la java.
+Quand l'ordinateur est éteint.
 ```
 
 ```diff
-Comment on sait que Claude François était fou ?
+Quel est le language de programmation préféré de Hitler ?
 
-Parce qu'il pétait les plombs.
+Le CSS
 ```
 
 ```diff
-J'ai nommé ma bite Bidou.
+Que fait un nain pour se torcher?
 
-Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
+Il cour dans l'herbe.....
 ```
 
 ```diff
-Chez les cannibales comme chez nous les civilisés...
+Qu'est-ce qu'un comptable ?
 
-... il faut une femme pour la cuisine.
+C'est un con derrière une table.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 236 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 235 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Chez les cannibales comme chez nous les civilisés...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
