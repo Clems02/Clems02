@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand est ce que Windows ne bug pas ?
+Comment reconnait on un développeur quand il compte ?
 
-Quand l'ordinateur est éteint.
+Il commence toujours par 0 !
 ```
 
 ```diff
-Quel est le language de programmation préféré de Hitler ?
+Que fait-on lorsqu'un bébé s'étouffe ?
 
-Le CSS
+On recule de quelques centimètres.
 ```
 
 ```diff
-Que fait un nain pour se torcher?
+Comment s'appellent les poils de couille déjà ?
 
-Il cour dans l'herbe.....
+Je m'en souviens plus bien...
 ```
 
 ```diff
-Qu'est-ce qu'un comptable ?
+Comment reconnaît-on une femme intelligente ?
 
-C'est un con derrière une table.
+Elle commence toujours ses phrases par "Mon mari m'a dit que..."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 235 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 234 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est un con derrière une table.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
