@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment reconnait on un développeur quand il compte ?
+Pourquoi les pirates ont rarement raison ?
 
-Il commence toujours par 0 !
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Que fait-on lorsqu'un bébé s'étouffe ?
+Quel est le meilleur antivol ?
 
-On recule de quelques centimètres.
+Un jambon
 ```
 
 ```diff
-Comment s'appellent les poils de couille déjà ?
+Quel est le point commun entre un cunnilingus et un lapsus ?
 
-Je m'en souviens plus bien...
+Une erreur de langue et vous êtes vite dans la merde.
 ```
 
 ```diff
-Comment reconnaît-on une femme intelligente ?
+Quelle est la différence entre un Courtier de Wall Street et un Acteur Porno ?
 
-Elle commence toujours ses phrases par "Mon mari m'a dit que..."
+Le courtier a des actions en bourse alors que l'acteur à les bourses en action.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 234 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 233 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle commence toujours ses phrases par "Mon mari m'a dit que..."
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
