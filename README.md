@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+$ npm find LaFemmeDeMaVie
 
-Parce qu'ils ont souvent Tor.
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-Quel est le meilleur antivol ?
+Comment est-ce qu'on appelle un boomerang qui ne revient pas ?
 
-Un jambon
+Un chat mort
 ```
 
 ```diff
-Quel est le point commun entre un cunnilingus et un lapsus ?
+Quelle est la différence entre une pizza et une prositituée ?
 
-Une erreur de langue et vous êtes vite dans la merde.
+Avec la pizza, on peut choisir avec ou sans champignons…
 ```
 
 ```diff
-Quelle est la différence entre un Courtier de Wall Street et un Acteur Porno ?
+Quel président bande 2 fois le matin ?
 
-Le courtier a des actions en bourse alors que l'acteur à les bourses en action.
+Charles de Gaulle
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 233 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 232 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le courtier a des actions en bourse alors que l'acteur à les bourses en action.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
