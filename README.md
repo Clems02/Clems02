@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-$ npm find LaFemmeDeMaVie
+C'est l'histoire d'une cocotte-minute connectée...
 
-Error: Unable to find package ‘LaFemmeDeMaVie’
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Comment est-ce qu'on appelle un boomerang qui ne revient pas ?
+Comment surprendre un aveugle ?
 
-Un chat mort
+Vous laissez la ventouse dans les toilettes.
 ```
 
 ```diff
-Quelle est la différence entre une pizza et une prositituée ?
+Quelle est la boisson préférée des prostituées ?
 
-Avec la pizza, on peut choisir avec ou sans champignons…
+Le thé-sticule.
 ```
 
 ```diff
-Quel président bande 2 fois le matin ?
+Comment appelle-t-on une douche qui n'a pas d'eau ?
 
-Charles de Gaulle
+Une duche
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 232 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 231 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Charles de Gaulle
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
