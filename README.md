@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Que prend un développeur avant d'écrire ?
 
-... qui utilise WinRAR pour décompresser.
+Il prend de la MD.
 ```
 
 ```diff
-Comment surprendre un aveugle ?
+Je me rappellerai toujours des derniers mots de mon grand-père...
 
-Vous laissez la ventouse dans les toilettes.
+Arrête de bouger l'échelle !
 ```
 
 ```diff
-Quelle est la boisson préférée des prostituées ?
+Que dit un éléphant à un nudiste ?
 
-Le thé-sticule.
+"Alors c'est avec ça que tu bois ?"
 ```
 
 ```diff
-Comment appelle-t-on une douche qui n'a pas d'eau ?
+C'est en voyant un moustique se poser sur ses testicules...
 
-Une duche
+... qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 231 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 230 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une duche
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
