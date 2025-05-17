@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que prend un développeur avant d'écrire ?
+Quel est l'animal totem du scrum-master ?
 
-Il prend de la MD.
+La Jiraffe
 ```
 
 ```diff
-Je me rappellerai toujours des derniers mots de mon grand-père...
+Ma pote a invité son cruch chez elle.  Quand elle lui a demandé ce qu'il voulait manger il a répondu "es-tu une option ?"
 
-Arrête de bouger l'échelle !
+elle a moins rougi dans son assiette...
 ```
 
 ```diff
-Que dit un éléphant à un nudiste ?
+Comment dit-on "Castration", en espagnol ?
 
-"Alors c'est avec ça que tu bois ?"
+Adios, à mes gosses !
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+Comment faire pour oublier une ex ?
 
-... qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+On prend un tipp-ex.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 230 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 229 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
 
 
 <p align="center">
