@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal totem du scrum-master ?
+Comment un développeur se met-il à jour ?
 
-La Jiraffe
+Il se met à l'apache.
 ```
 
 ```diff
-Ma pote a invité son cruch chez elle.  Quand elle lui a demandé ce qu'il voulait manger il a répondu "es-tu une option ?"
+Un Français et un Arabe sont sur le toit d'un immeuble. Lequel saute en premier ?
 
-elle a moins rougi dans son assiette...
+L'immeuble
 ```
 
 ```diff
-Comment dit-on "Castration", en espagnol ?
+Comment appel t'on une gothique qui suce ?
 
-Adios, à mes gosses !
+Une pompe funèbre !
 ```
 
 ```diff
-Comment faire pour oublier une ex ?
+Pourquoi les mamies sont les meilleures putes ?
 
-On prend un tipp-ex.
+Parce qu'elles se laissent toujours peloter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 229 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 228 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On prend un tipp-ex.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
