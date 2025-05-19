@@ -8,27 +8,27 @@ Il se met à l'apache.
 ```
 
 ```diff
-Un Français et un Arabe sont sur le toit d'un immeuble. Lequel saute en premier ?
+Qu'est-ce qu'une corde pour un suicidaire ?
 
-L'immeuble
+La sortie !
 ```
 
 ```diff
-Comment appel t'on une gothique qui suce ?
+Quelle est la différence entre une femme et une haie ?
 
-Une pompe funèbre !
+Pour sauter la haie, pas besoin de lui faire des compliments...
 ```
 
 ```diff
-Pourquoi les mamies sont les meilleures putes ?
+Comment appelle-t-on une douche qui n'a pas d'eau ?
 
-Parce qu'elles se laissent toujours peloter !
+Une duche
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 228 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 227 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles se laissent toujours peloter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
