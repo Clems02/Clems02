@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
 
-Il se met à l'apache.
+... ensuite il demande à quoi il doit servir.
 ```
 
 ```diff
-Qu'est-ce qu'une corde pour un suicidaire ?
+Que fait un Chinois qui tombe de la tour Eiffel ?
 
-La sortie !
+CHIIIIIIIIIN... toc
 ```
 
 ```diff
-Quelle est la différence entre une femme et une haie ?
+Comment on dit bonjour aux femmes qui ont leur règles ?
 
-Pour sauter la haie, pas besoin de lui faire des compliments...
+Wesh, bien ou quoi le sang !
 ```
 
 ```diff
-Comment appelle-t-on une douche qui n'a pas d'eau ?
+Vous savez pourquoi Valbuena rigole quand il joue au foot ?
 
-Une duche
+Parce que l'herbe lui chatouille les couilles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 227 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 226 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une duche
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
