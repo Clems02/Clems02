@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
+Pourquoi les pirates ont rarement raison ?
 
-... ensuite il demande à quoi il doit servir.
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Que fait un Chinois qui tombe de la tour Eiffel ?
+Quelle est la carte préférée de Norman dans Clash Royal ?
 
-CHIIIIIIIIIN... toc
+Le mineur
 ```
 
 ```diff
-Comment on dit bonjour aux femmes qui ont leur règles ?
+Comment s'appellent les poils de couille déjà ?
 
-Wesh, bien ou quoi le sang !
+Je m'en souviens plus bien...
 ```
 
 ```diff
-Vous savez pourquoi Valbuena rigole quand il joue au foot ?
+Quel est l'avantage d'un gamer ?
 
-Parce que l'herbe lui chatouille les couilles !
+Il a une gigabyte...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 226 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 225 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que l'herbe lui chatouille les couilles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
