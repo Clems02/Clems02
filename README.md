@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+Pourquoi les développeurs ont-ils toujours le même style ?
 
-Parce qu'ils ont souvent Tor.
+Car CSS'style !
 ```
 
 ```diff
-Quelle est la carte préférée de Norman dans Clash Royal ?
+Un homme à une femme arabe :
 
-Le mineur
+"Wow, t'es vraiment une bombe !"
 ```
 
 ```diff
-Comment s'appellent les poils de couille déjà ?
+Sais-tu pourquoi je ne regarde jamais de porno ?
 
-Je m'en souviens plus bien...
+Parce que je suis de l'autre côté de la caméra.
 ```
 
 ```diff
-Quel est l'avantage d'un gamer ?
+Qu'est-ce qu'un cochon qui rit ?
 
-Il a une gigabyte...
+Un porc tout gai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 225 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 224 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il a une gigabyte...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
