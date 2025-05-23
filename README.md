@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ont-ils toujours le même style ?
+Pourquoi les développeurs sont-ils en bonne santé ?
 
-Car CSS'style !
+Parce qu'ils ont des fibres !
 ```
 
 ```diff
-Un homme à une femme arabe :
+Vous savez comment on convertit de l'argent africain en argent européen ?
 
-"Wow, t'es vraiment une bombe !"
+Non ? Eh bien, on fait du blanchiment d'argent !
 ```
 
 ```diff
-Sais-tu pourquoi je ne regarde jamais de porno ?
+Les actrices de porno sont les personnes les plus actives dans la vie.
 
-Parce que je suis de l'autre côté de la caméra.
+Les autres ne branlent rien.
 ```
 
 ```diff
-Qu'est-ce qu'un cochon qui rit ?
+Comment faire pour oublier une ex ?
 
-Un porc tout gai.
+On prend un tipp-ex.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 224 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 223 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un porc tout gai.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
