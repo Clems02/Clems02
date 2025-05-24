@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs sont-ils en bonne santé ?
+Que fait un geek après avoir fait l'amour ?
 
-Parce qu'ils ont des fibres !
+Il efface l'historique.
 ```
 
 ```diff
-Vous savez comment on convertit de l'argent africain en argent européen ?
+Ta mère est tellement grosse.
 
-Non ? Eh bien, on fait du blanchiment d'argent !
+Que quand elle sort y a une éclipse.
 ```
 
 ```diff
-Les actrices de porno sont les personnes les plus actives dans la vie.
+Quel est le point commun entre les hommes et les crevettes ?
 
-Les autres ne branlent rien.
+Rien dans la tête tout dans la queue.
 ```
 
 ```diff
-Comment faire pour oublier une ex ?
+Pourquoi les moutons aiment le chewing-gum ?
 
-On prend un tipp-ex.
+Car c'est bon pour la laine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 223 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 222 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On prend un tipp-ex.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
 
 
 <p align="center">
