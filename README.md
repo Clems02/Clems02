@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek après avoir fait l'amour ?
+Pourquoi les développeurs vont en boîte de nuit ?
 
-Il efface l'historique.
+Pour faire la java.
 ```
 
 ```diff
-Ta mère est tellement grosse.
+Que fait un bébé qui saute dans une piscine ?
 
-Que quand elle sort y a une éclipse.
+Il se noie.
 ```
 
 ```diff
-Quel est le point commun entre les hommes et les crevettes ?
+Quelle est la différence entre un vieux et un zizi ?
 
-Rien dans la tête tout dans la queue.
+Tu n'as pas besoin de secouer le vieux pour qu'il bave.
 ```
 
 ```diff
-Pourquoi les moutons aiment le chewing-gum ?
+C'est l'histoire d'un mec qui a 5 pénis.
 
-Car c'est bon pour la laine.
+Son slip lui va comme un gant !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 222 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 221 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est bon pour la laine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
