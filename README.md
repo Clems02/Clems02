@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+Quel est l'animal préféré des développeurs ?
 
-Pour faire la java.
+Le python
 ```
 
 ```diff
-Que fait un bébé qui saute dans une piscine ?
+Quel est le point commun entre les Juifs et les baskets ?
 
-Il se noie.
+On en trouve plus en 39 qu'en 45.
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un zizi ?
+Quel est le point commun entre une blonde et une princesse ?
 
-Tu n'as pas besoin de secouer le vieux pour qu'il bave.
+Elles aiment quand tu rentres dans leur palais.
 ```
 
 ```diff
-C'est l'histoire d'un mec qui a 5 pénis.
+Pourquoi les oiseaux volent-ils vers le sud ?
 
-Son slip lui va comme un gant !
+Car à pied, c'est beaucoup trop long.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 221 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 220 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Son slip lui va comme un gant !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
