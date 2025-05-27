@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal préféré des développeurs ?
+Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
 
-Le python
+Parce que les bugs ne se reproduisent pas à cette heure-là.
 ```
 
 ```diff
-Quel est le point commun entre les Juifs et les baskets ?
+Pourquoi les tétraplégiques se lavent-ils dans l'évier de la cuisine ?
 
-On en trouve plus en 39 qu'en 45.
+Parce que c'est là qu'on lave les légumes.
 ```
 
 ```diff
-Quel est le point commun entre une blonde et une princesse ?
+Comment sait-on quand il faut rompre ?
 
-Elles aiment quand tu rentres dans leur palais.
+C'est quand elle te casse plus les couilles qu'elle ne te les vide.
 ```
 
 ```diff
-Pourquoi les oiseaux volent-ils vers le sud ?
+Pourquoi les suppositoires sont-ils toujours fatigués ?
 
-Car à pied, c'est beaucoup trop long.
+Parce qu'ils ont la tête dans le cul.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 220 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 219 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car à pied, c'est beaucoup trop long.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
