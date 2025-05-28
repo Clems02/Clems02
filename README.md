@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+Quelle est la différence entre un catcheur et un développeur JavaScript ?
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+Le catcheur fait des techniques de catch et le développeur fait des .catch techniques
 ```
 
 ```diff
-Pourquoi les tétraplégiques se lavent-ils dans l'évier de la cuisine ?
+Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
 
-Parce que c'est là qu'on lave les légumes.
+Car il faut separer le jaune et le blanc.
 ```
 
 ```diff
-Comment sait-on quand il faut rompre ?
+Qu'est-ce qu'une gifle ?
 
-C'est quand elle te casse plus les couilles qu'elle ne te les vide.
+C'est comme une bifle, mais avec la main !
 ```
 
 ```diff
-Pourquoi les suppositoires sont-ils toujours fatigués ?
+Hey Google, pourquoi je suis célibataire ?
 
-Parce qu'ils ont la tête dans le cul.
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 219 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 218 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont la tête dans le cul.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
