@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre un catcheur et un développeur JavaScript ?
+Quel est le meilleur magazine pour développeurs ?
 
-Le catcheur fait des techniques de catch et le développeur fait des .catch techniques
+Pomme d'api
 ```
 
 ```diff
-Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
+Ma copine ne transforme pas les chats en pâtés ou en kebabs.
 
-Car il faut separer le jaune et le blanc.
+Elle les transforme en crêpes sur l'autoroute.
 ```
 
 ```diff
-Qu'est-ce qu'une gifle ?
+On aurait dû filmer notre nuit d'amour !
 
-C'est comme une bifle, mais avec la main !
+Oh ... Moi tu sais, les courts métrages...
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
 
-D'accord ! J'ouvre la caméra.
+Car le plateau ressemble au carrelage de la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 218 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 217 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
