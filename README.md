@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le meilleur magazine pour développeurs ?
+Pourquoi les pirates ont rarement raison ?
 
-Pomme d'api
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Ma copine ne transforme pas les chats en pâtés ou en kebabs.
+Maman, maman, je ne veux plus dormir avec mon petit frère.
 
-Elle les transforme en crêpes sur l'autoroute.
+Tais-toi ! Je t'ai déjà dit qu'on n'avait pas assez d'argent pour l'enterrer.
 ```
 
 ```diff
-On aurait dû filmer notre nuit d'amour !
+Sais-tu pourquoi je ne regarde jamais de porno ?
 
-Oh ... Moi tu sais, les courts métrages...
+Parce que je suis de l'autre côté de la caméra.
 ```
 
 ```diff
-Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
+A quelle fête vend-on le plus de rasoirs au Portugal ?
 
-Car le plateau ressemble au carrelage de la cuisine.
+A la fête des mères.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 217 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 216 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
