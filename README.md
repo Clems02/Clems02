@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+Quelle est la déesse du Wi-Fi ?
 
-Parce qu'ils ont souvent Tor.
+La déesse L.
 ```
 
 ```diff
-Maman, maman, je ne veux plus dormir avec mon petit frère.
+Un mendiant demande de l'argent à un juif.
 
-Tais-toi ! Je t'ai déjà dit qu'on n'avait pas assez d'argent pour l'enterrer.
+"Non, torah rien !"
 ```
 
 ```diff
-Sais-tu pourquoi je ne regarde jamais de porno ?
+Qu'est-ce que deux trous dans un trou ?
 
-Parce que je suis de l'autre côté de la caméra.
+Mon nez dans ton cul...
 ```
 
 ```diff
-A quelle fête vend-on le plus de rasoirs au Portugal ?
+Qu'est-ce qui peut rendre un homme millionaire ?
 
-A la fête des mères.
+Une femme, si il était milliardaire avant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 216 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 215 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ A la fête des mères.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
