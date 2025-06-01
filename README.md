@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse du Wi-Fi ?
+Quand Chuck Norris lance son code pour la première fois...
 
-La déesse L.
+... il fonctionne.
 ```
 
 ```diff
-Un mendiant demande de l'argent à un juif.
+Emma n'a pas de bras. On frappe à la porte. Qui est là ?
 
-"Non, torah rien !"
+Bah pas Emma...
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+C'est quoi la différence entre un homme et un sapin de Noël ?
 
-Mon nez dans ton cul...
+Le nombre de boules
 ```
 
 ```diff
-Qu'est-ce qui peut rendre un homme millionaire ?
+Ta mère est tellement grosse que quand elle meurt...
 
-Une femme, si il était milliardaire avant.
+elle n’arrive pas à monter au ciel...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 215 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 214 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme, si il était milliardaire avant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
 
 
 <p align="center">
