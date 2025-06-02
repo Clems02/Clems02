@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris lance son code pour la première fois...
+Que dit un ordinateur pour draguer ?
 
-... il fonctionne.
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Emma n'a pas de bras. On frappe à la porte. Qui est là ?
+Qu'est-ce qu'un Juif en forêt ?
 
-Bah pas Emma...
+Rabbin des bois
 ```
 
 ```diff
-C'est quoi la différence entre un homme et un sapin de Noël ?
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-Le nombre de boules
+Bah dans son cul.
 ```
 
 ```diff
-Ta mère est tellement grosse que quand elle meurt...
+Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
 
-elle n’arrive pas à monter au ciel...
+Quand un plat est réussi, on félicite le cuisinier pas le four !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 214 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 213 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ elle n’arrive pas à monter au ciel...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
