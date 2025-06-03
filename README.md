@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+Quelle est la chanteuse qui est la plus douée en informatique ?
 
-Coucou, tu veux voir mes 64 bits ?
+Taylor Swift
 ```
 
 ```diff
-Qu'est-ce qu'un Juif en forêt ?
+La Roumanie se lance dans la conquête spatiale.
 
-Rabbin des bois
+C'est le premier rom sur la Lune.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Tu connais le cri du spermatozoïde ?
 
-Bah dans son cul.
+Bah, la prochaine fois, au lieu de l'avaler, tu croques.
 ```
 
 ```diff
-Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
+Pourquoi les femmes se maquillent et se parfument ?
 
-Quand un plat est réussi, on félicite le cuisinier pas le four !
+Parce qu'elles sont moches et qu'elles puent.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 213 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 212 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand un plat est réussi, on félicite le cuisinier pas le four !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
