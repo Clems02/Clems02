@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la chanteuse qui est la plus douée en informatique ?
+Pourquoi un ordinateur se gratte-t-il tout le temps ?
 
-Taylor Swift
+Car il a des puces.
 ```
 
 ```diff
-La Roumanie se lance dans la conquête spatiale.
+Qu'est-ce qu'un groupe de somaliens sur un fond blanc ?
 
-C'est le premier rom sur la Lune.
+Un code-barres
 ```
 
 ```diff
-Tu connais le cri du spermatozoïde ?
+Une grosse queue qui rappelle un bon souvenir...
 
-Bah, la prochaine fois, au lieu de l'avaler, tu croques.
+... ça reste dans les annales.
 ```
 
 ```diff
-Pourquoi les femmes se maquillent et se parfument ?
+Tu connais l'homme qui a 5 pénis ?
 
-Parce qu'elles sont moches et qu'elles puent.
+Apparemment, son slip lui va comme un gant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 212 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 211 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles sont moches et qu'elles puent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
