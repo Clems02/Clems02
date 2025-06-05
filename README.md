@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un ordinateur se gratte-t-il tout le temps ?
+Comment sont les gardes du corps de Sonic ?
 
-Car il a des puces.
+Ses gars, c'est du lourd.
 ```
 
 ```diff
-Qu'est-ce qu'un groupe de somaliens sur un fond blanc ?
+Mon rire est tellement jaune...
 
-Un code-barres
+... qu'il mange avec des baguettes.
 ```
 
 ```diff
-Une grosse queue qui rappelle un bon souvenir...
+Quel est le point commun entre une blonde et un écureuil ?
 
-... ça reste dans les annales.
+Les deux courent après les glands !
 ```
 
 ```diff
-Tu connais l'homme qui a 5 pénis ?
+Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 
-Apparemment, son slip lui va comme un gant.
+Ça fait 2 verres en moins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 211 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 210 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Apparemment, son slip lui va comme un gant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
