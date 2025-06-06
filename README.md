@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment sont les gardes du corps de Sonic ?
+Que fait un développeur quand il a soif ?
 
-Ses gars, c'est du lourd.
+this.drink('water')
 ```
 
 ```diff
-Mon rire est tellement jaune...
+Que dit un terroriste au centre ville ?
 
-... qu'il mange avec des baguettes.
+Je vais m'éclater.
 ```
 
 ```diff
-Quel est le point commun entre une blonde et un écureuil ?
+Melon et Melèche sont en cours d'histoire...
 
-Les deux courent après les glands !
+Melon étudie Rome et Melèche la Gaule.
 ```
 
 ```diff
-Pourquoi faut-il enlever ses lunettes avant un alcootest ?
+Pourquoi les petits poissons ne vont pas à l'école ?
 
-Ça fait 2 verres en moins.
+Parce qu'ils s'en fish.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 210 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 209 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
