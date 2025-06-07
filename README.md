@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a soif ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-this.drink('water')
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Que dit un terroriste au centre ville ?
+Vous connaissez la blague avec les noirs qui se font renverser par une voiture ?
 
-Je vais m'éclater.
+Moi non, mais le début de l'histoire commence bien.
 ```
 
 ```diff
-Melon et Melèche sont en cours d'histoire...
+Ta mère, elle est comme Mario.
 
-Melon étudie Rome et Melèche la Gaule.
+Elle saute pour avoir des pièces...
 ```
 
 ```diff
-Pourquoi les petits poissons ne vont pas à l'école ?
+Je suis anti-féministe.
 
-Parce qu'ils s'en fish.
+Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 209 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 208 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils s'en fish.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
