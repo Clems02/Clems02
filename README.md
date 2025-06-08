@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Pourquoi un ordinateur se gratte-t-il tout le temps ?
 
-Les mauvais pilotes sont problématiques.
+Car il a des puces.
 ```
 
 ```diff
-Vous connaissez la blague avec les noirs qui se font renverser par une voiture ?
+Que dit un terroriste d'une jolie fille ?
 
-Moi non, mais le début de l'histoire commence bien.
+C'est une bombe.
 ```
 
 ```diff
-Ta mère, elle est comme Mario.
+Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
 
-Elle saute pour avoir des pièces...
+Il m’a proposé un plan A3, A4 et même A5.
 ```
 
 ```diff
-Je suis anti-féministe.
+Les genres, c'est comme les tours jumelles.
 
-Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
+Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 208 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 207 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais si les femmes montrent leurs nibards pour militer, je veux bien les souteni
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
