@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un ordinateur se gratte-t-il tout le temps ?
+C'est l'histoire d'une cocotte-minute connectée...
 
-Car il a des puces.
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Que dit un terroriste d'une jolie fille ?
+Qu'est-ce qui mesure 1m80 au début, et 10cm à la fin ?
 
-C'est une bombe.
+Un juif...
 ```
 
 ```diff
-Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
+Quelle est la différence entre un vieux et un renard ?
 
-Il m’a proposé un plan A3, A4 et même A5.
+Le renard a la queue touffue et le vieux a la queue foutue.
 ```
 
 ```diff
-Les genres, c'est comme les tours jumelles.
+Quel est le comble pour un campeur nordiste ?
 
-Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
+Démonter sa tante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 207 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 206 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
