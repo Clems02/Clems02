@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Que font les développeurs le matin ?
 
-... qui utilise WinRAR pour décompresser.
+Ils boivent leur CoffeeScript.
 ```
 
 ```diff
-Qu'est-ce qui mesure 1m80 au début, et 10cm à la fin ?
+Que dit-on en Afrique quand un lieu est bondé ?
 
-Un juif...
+Il est noir de monde...
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un renard ?
+Qu'est-ce que deux trous dans un trou ?
 
-Le renard a la queue touffue et le vieux a la queue foutue.
+Mon nez dans ton cul...
 ```
 
 ```diff
-Quel est le comble pour un campeur nordiste ?
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-Démonter sa tante.
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 206 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 205 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Démonter sa tante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
