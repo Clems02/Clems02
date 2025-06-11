@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que font les développeurs le matin ?
+Que fait un développeur en hiver ?
 
-Ils boivent leur CoffeeScript.
+Du saut ASCII
 ```
 
 ```diff
-Que dit-on en Afrique quand un lieu est bondé ?
+Un trisomique se rend chez un ami. Il sonne à la porte, son ami ouvre et lui dit :
 
-Il est noir de monde...
+Ben dis donc, tu t’es mis sur ton 21 aujourd’hui !
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+Monsieur le Curé, je peux rejoindre mes parents ?
 
-Mon nez dans ton cul...
+D'accord, mais remonte ton slip avant.
 ```
 
 ```diff
-Qu'est-ce qu'une future mère toujours sur son portable ?
+Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
 
-Une enceinte connectée.
+Car le plateau ressemble au carrelage de la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 205 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 204 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une enceinte connectée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
