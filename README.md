@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en hiver ?
+Quel est l'élevage préféré des programmeurs ?
 
-Du saut ASCII
+L'apiculture
 ```
 
 ```diff
-Un trisomique se rend chez un ami. Il sonne à la porte, son ami ouvre et lui dit :
+Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
 
-Ben dis donc, tu t’es mis sur ton 21 aujourd’hui !
+Il vaut mieux renverser la moitié de son verre que d'oublier de le boire.
 ```
 
 ```diff
-Monsieur le Curé, je peux rejoindre mes parents ?
+Comment appelle-t-on un préservatif pour statue ?
 
-D'accord, mais remonte ton slip avant.
+Une capote en glaise.
 ```
 
 ```diff
-Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
+Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
 
-Car le plateau ressemble au carrelage de la cuisine.
+... on est romantique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 204 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 203 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
