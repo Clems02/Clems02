@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'élevage préféré des programmeurs ?
+J'ai fait un test de QI en ligne.
 
-L'apiculture
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
+Quel est le point commun entre les petites filles et les bouteilles de vin ?
 
-Il vaut mieux renverser la moitié de son verre que d'oublier de le boire.
+Les meilleures ont douze ans d'âge et sont dans ma cave.
 ```
 
 ```diff
-Comment appelle-t-on un préservatif pour statue ?
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-Une capote en glaise.
+La mer Méditerranée.
 ```
 
 ```diff
-Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
+Un enfant dit : "Ma maman a toujours faim !"
 
-... on est romantique.
+"Elle n'arrête pas de manger le zizi de mon papa !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 203 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 202 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand on boit trop d'alcool, on est alcoolique. Quand on boit trop de rhum...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
