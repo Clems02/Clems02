@@ -8,27 +8,27 @@ Apparemment, j'en ai 404.
 ```
 
 ```diff
-Quel est le point commun entre les petites filles et les bouteilles de vin ?
+Les blagues sur George Floyd sont...
 
-Les meilleures ont douze ans d'âge et sont dans ma cave.
+... à couper le souffle.
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Une fourchette c’est une petite fourche, une camionnette est un petit camion. Et Qu’es ce qu’une salopette ?
 
-La mer Méditerranée.
+Une petite salope.
 ```
 
 ```diff
-Un enfant dit : "Ma maman a toujours faim !"
+Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
 
-"Elle n'arrête pas de manger le zizi de mon papa !"
+Alors pourquoi tu continues ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 202 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 201 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un enfant dit : "Ma maman a toujours faim !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
