@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
 
-Apparemment, j'en ai 404.
+Il s'est pris une racine !
 ```
 
 ```diff
-Les blagues sur George Floyd sont...
+Je vais arrêter de dire des blagues sur les orphelins…
 
-... à couper le souffle.
+… sinon ils vont aller le dire à leurs parents.
 ```
 
 ```diff
-Une fourchette c’est une petite fourche, une camionnette est un petit camion. Et Qu’es ce qu’une salopette ?
+2 paysannes ramassent des patates. La première en saisie deux grosses pleines de terre et dit à l'autre :
 
-Une petite salope.
+Vindiou ! Elles sont comme les couilles de mon mari ! Aussi grosses ? Non, aussi sales !
 ```
 
 ```diff
-Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
+L'amour, c'est comme la grippe...
 
-Alors pourquoi tu continues ?
+... on l'attrape dans la rue, et on le résout au lit.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 201 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 200 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Alors pourquoi tu continues ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
