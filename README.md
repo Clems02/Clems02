@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
+Vous connaissez l'histoire de l'erreur 403 ?
 
-Il s'est pris une racine !
+J'ai interdiction de vous la dire...
 ```
 
 ```diff
-Je vais arrêter de dire des blagues sur les orphelins…
+Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
 
-… sinon ils vont aller le dire à leurs parents.
+Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
 ```
 
 ```diff
-2 paysannes ramassent des patates. La première en saisie deux grosses pleines de terre et dit à l'autre :
+Comment appelle-t-on six prostituées allemandes ?
 
-Vindiou ! Elles sont comme les couilles de mon mari ! Aussi grosses ? Non, aussi sales !
+Une scie sauteuse Bosch.
 ```
 
 ```diff
-L'amour, c'est comme la grippe...
+A la maternité un nouveau père tout content demande à l'infirmière : Vous trouvez que mon fils me ressemble ?
 
-... on l'attrape dans la rue, et on le résout au lit.
+Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 200 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 199 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'amour, c'est comme la grippe...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
