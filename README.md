@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous connaissez l'histoire de l'erreur 403 ?
+Pourquoi les développeurs ont-ils toujours le même style ?
 
-J'ai interdiction de vous la dire...
+Car CSS'style !
 ```
 
 ```diff
-Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
+Quelle est le point commun entre un président et un juge ?
 
-Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
+Ils enferment tous les deux des gens pour protéger le monde.
 ```
 
 ```diff
-Comment appelle-t-on six prostituées allemandes ?
+Quel est le point commun entre un motard célibataire et sa moto ?
 
-Une scie sauteuse Bosch.
+Ils dorment tous les deux sur la béquille.
 ```
 
 ```diff
-A la maternité un nouveau père tout content demande à l'infirmière : Vous trouvez que mon fils me ressemble ?
+Pourquoi le jeu Among-US est-il autant joué par les filles ?
 
-Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé !
+Parce qu'elles n'ont pas à se battre pour avoir le droit de vote.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 199 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 198 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé 
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
