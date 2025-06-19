@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+À quoi reconnaît-on un métro ?
 
-Je ne l'ai pas trouvé...
+À son metroId !
 ```
 
 ```diff
-Quel est le point commun entre un clown et un noir ?
+Pourquoi les femmes ont de plus petits pieds que les hommes ?
 
-Le nez gros...
+Pour être plus près de l'évier!
 ```
 
 ```diff
-Quel est le point commun entre un sourd et un gynécologue ?
+Quelle est la différence entre une femme et une grue ?
 
-Les deux savent lire sur les lèvres.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
+Melon et Melèche mangent une glace
 
-Une double Pen.
+Melon prend le cornet et Melèche les boules.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 197 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 196 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une double Pen.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
