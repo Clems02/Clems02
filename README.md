@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quoi reconnaît-on un métro ?
+Comment appelle-t-on un trucage photo ?
 
-À son metroId !
+Un Faux-to-chopage
 ```
 
 ```diff
-Pourquoi les femmes ont de plus petits pieds que les hommes ?
+Quelles sont les différences entre un Perse, un Afghan, un Egyptien et un Marocain ?
 
-Pour être plus près de l'évier!
+Les instruments avec lesquels ils battents leurs femmes
 ```
 
 ```diff
-Quelle est la différence entre une femme et une grue ?
+Une fourchette c’est une petite fourche, une camionnette est un petit camion. Et Qu’es ce qu’une salopette ?
 
-La grue débite des caisses et la femme encaisse des bites.
+Une petite salope.
 ```
 
 ```diff
-Melon et Melèche mangent une glace
+Pourquoi la statue de la liberté est-elle une femme ?
 
-Melon prend le cornet et Melèche les boules.
+Parce qu'il fallait une tête vide pour y mettre un restaurant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 196 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 195 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Melon prend le cornet et Melèche les boules.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
