@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quoi reconnaît-on un métro ?
+Que fait un développeur avant d'aller faire les courses ?
 
-À son metroId !
+Il fait sa lisp.
 ```
 
 ```diff
-Un blanc avec des ailes, c'est un ange. Mais qu'est-ce qu'un noir avec des ailes ?
+Quelle est la pire musique pour les Juifs ?
 
-Une mouche
+En feu, Soprano.
 ```
 
 ```diff
-La différence entre une blonde et un écureuil ?
+Quelle est la différence entre un 69 et le brouillard ?
 
-Aucune, les deux courent après les glands !
+Dans le brouillard, on ne voit pas le trou du cul qui est devant...
 ```
 
 ```diff
-Melon et Melèche mangent une glace
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-Melon prend le cornet et Melèche les boules.
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 194 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 193 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Melon prend le cornet et Melèche les boules.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:39-white?style=for-the-badge)
 
 
 <p align="center">
