@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur avant d'aller faire les courses ?
+Que fait un développeur quand il a peur ?
 
-Il fait sa lisp.
+Il csharpe.
 ```
 
 ```diff
-Quelle est la pire musique pour les Juifs ?
+Que redoutent le plus les ouvriers de Tchernobyl ?
 
-En feu, Soprano.
+Le radiateur
 ```
 
 ```diff
-Quelle est la différence entre un 69 et le brouillard ?
+Melon et Meleche trouve une maison à vendre...
 
-Dans le brouillard, on ne voit pas le trou du cul qui est devant...
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Qu'est-ce qu'une future mère toujours sur son portable ?
+L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
 
-Une enceinte connectée.
+Depuis, elle ne m'a plus reparlé...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 193 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 192 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une enceinte connectée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:39-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
