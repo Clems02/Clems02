@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a peur ?
+Comment appelle-t-on un bug sur une plateforme musicale ?
 
-Il csharpe.
+Une Spoti-faille.
 ```
 
 ```diff
-Que redoutent le plus les ouvriers de Tchernobyl ?
+Si un Juif devient cuisinier...
 
-Le radiateur
+Est-ce qu'on peut dire que c'est un chef étoilé ?
 ```
 
 ```diff
-Melon et Meleche trouve une maison à vendre...
+Monsieur et Madame Kûlasek ont un fils, comment s'appelle-t-il ?
 
-…Melon l’achète et Meleche l’habite.
+Jean
 ```
 
 ```diff
-L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
+Pourquoi la diarrhée est très répandue ?
 
-Depuis, elle ne m'a plus reparlé...
+Car c'est une maladie courante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 192 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 191 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Depuis, elle ne m'a plus reparlé...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
 
 
 <p align="center">
