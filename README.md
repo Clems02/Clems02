@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un bug sur une plateforme musicale ?
+Quel est le meilleur magazine pour développeurs ?
 
-Une Spoti-faille.
+Pomme d'api
 ```
 
 ```diff
-Si un Juif devient cuisinier...
+Quelle est la différence entre un Juif et une patate ?
 
-Est-ce qu'on peut dire que c'est un chef étoilé ?
+La patate ne crie pas quand on la brûle.
 ```
 
 ```diff
-Monsieur et Madame Kûlasek ont un fils, comment s'appelle-t-il ?
+Quel est le point commun entre un sourd et un gynécologue ?
 
-Jean
+Les deux savent lire sur les lèvres.
 ```
 
 ```diff
-Pourquoi la diarrhée est très répandue ?
+Comment reconnaît-on un aveugle sur une plage naturiste ?
 
-Car c'est une maladie courante.
+Ce n'est pas dur !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 191 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 190 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est une maladie courante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
 
 
 <p align="center">
