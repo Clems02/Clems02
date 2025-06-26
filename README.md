@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le meilleur magazine pour développeurs ?
+Quel est le logiciel qui fait le plus crash Windows ?
 
-Pomme d'api
+Windows Update
 ```
 
 ```diff
-Quelle est la différence entre un Juif et une patate ?
+Quel est le pire combo de maladies ?
 
-La patate ne crie pas quand on la brûle.
+Gastro et Alzheimer : tu cours aux toilettes, mais tu ne te souviens plus pourquoi.
 ```
 
 ```diff
-Quel est le point commun entre un sourd et un gynécologue ?
+Qu'est-ce qui est vert et qui nique ?
 
-Les deux savent lire sur les lèvres.
+Véronique
 ```
 
 ```diff
-Comment reconnaît-on un aveugle sur une plage naturiste ?
+Comment la chouette sait que son mari fait la gueule ?
 
-Ce n'est pas dur !
+Parce qu'Hiboude.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 190 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 189 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce n'est pas dur !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
 
 
 <p align="center">
