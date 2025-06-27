@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le logiciel qui fait le plus crash Windows ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Windows Update
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Quel est le pire combo de maladies ?
+Qu'est-ce qui est jaune et qui attend ?
 
-Gastro et Alzheimer : tu cours aux toilettes, mais tu ne te souviens plus pourquoi.
+Un Ouïghours à l'entrée du camp.
 ```
 
 ```diff
-Qu'est-ce qui est vert et qui nique ?
+Papa, comment on écrit "clitoris" ?
 
-Véronique
+Tu aurais dû me le demander hier, je l'avais sur le bout de la langue...
 ```
 
 ```diff
-Comment la chouette sait que son mari fait la gueule ?
+J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 
-Parce qu'Hiboude.
+... C'est pareil que faire le ménage dans des maisons !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 189 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 188 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'Hiboude.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
 
 
 <p align="center">
