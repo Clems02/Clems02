@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Jusqu'à combien peut-on compter avec nos doigts ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+1024
 ```
 
 ```diff
-Qu'est-ce qui est jaune et qui attend ?
+Où trouve-t-on du coton ?
 
-Un Ouïghours à l'entrée du camp.
+Auchan
 ```
 
 ```diff
-Papa, comment on écrit "clitoris" ?
+Melon et melèche vont voter.
 
-Tu aurais dû me le demander hier, je l'avais sur le bout de la langue...
+Melon cherche l'isoloir et melèche la fente.
 ```
 
 ```diff
-J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
+Peut-on prendre un bain quand on a la diarrhée ?
 
-... C'est pareil que faire le ménage dans des maisons !
+Oui, si on en a assez.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 188 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 187 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
