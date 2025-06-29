@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien peut-on compter avec nos doigts ?
+Que fait un ordinateur sur un bateau?
 
-1024
+Il rame.
 ```
 
 ```diff
-Où trouve-t-on du coton ?
+Pourquoi voulez-vous cet emploi ?
 
-Auchan
+Le fait de ne pas mourir de faim me passionne depuis toujours.
 ```
 
 ```diff
-Melon et melèche vont voter.
+Quelle est la différence entre toi et un chirurgien ?
 
-Melon cherche l'isoloir et melèche la fente.
+Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
 ```
 
 ```diff
-Peut-on prendre un bain quand on a la diarrhée ?
+Que dit une bière quand elle tombe dans l'eau ?
 
-Oui, si on en a assez.
+Je sais panaché.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 187 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 186 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oui, si on en a assez.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
 
 
 <p align="center">
