@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un ordinateur sur un bateau?
+Mon processeur est super musclé :
 
-Il rame.
+Un tel corps, c'est exceptionnel !
 ```
 
 ```diff
-Pourquoi voulez-vous cet emploi ?
+Quel est le comble pour un Juif ?
 
-Le fait de ne pas mourir de faim me passionne depuis toujours.
+Ne pas finir brûlé dans une blague.
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
 
-Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
+C'était le jour du changement d'heure !
 ```
 
 ```diff
-Que dit une bière quand elle tombe dans l'eau ?
+Quand mon verre est plein, je le vide
 
-Je sais panaché.
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 186 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 185 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je sais panaché.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
 
 
 <p align="center">
