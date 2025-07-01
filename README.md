@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Mon processeur est super musclé :
+Comment appelle-t-on un bug sur une plateforme musicale ?
 
-Un tel corps, c'est exceptionnel !
+Une Spoti-faille.
 ```
 
 ```diff
-Quel est le comble pour un Juif ?
+C'est quoi le truc positif chez les pédophiles ?
 
-Ne pas finir brûlé dans une blague.
+Vous êtes sûr qu'ils vont rouler lentement dans les zones scolaires.
 ```
 
 ```diff
-Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-C'était le jour du changement d'heure !
+La mer Méditerranée.
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
 
-Quand mon verre est vide, je me plains !
+Elle ne me parle toujours pas.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 185 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 184 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
