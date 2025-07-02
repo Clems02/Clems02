@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un bug sur une plateforme musicale ?
+Pourquoi les développeurs vont en boîte de nuit ?
 
-Une Spoti-faille.
+Pour faire la java.
 ```
 
 ```diff
-C'est quoi le truc positif chez les pédophiles ?
+Que faut-il faire lorsque votre lave-vaisselle est cassé ?
 
-Vous êtes sûr qu'ils vont rouler lentement dans les zones scolaires.
+Vous lui donnez une fessée et vous lui dites d'aller travailler.
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Pourquoi Cendrillon est-elle morte à minuit ?
 
-La mer Méditerranée.
+Parce que son tampon s'est transformé en citrouille.
 ```
 
 ```diff
-L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
+Une mère demande à son fils : quel est ton animal préféré ?
 
-Elle ne me parle toujours pas.
+Le zébu parce qu'on a un point commun.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 184 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 183 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle ne me parle toujours pas.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
 
 
 <p align="center">
