@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
 
-Pour faire la java.
+Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
 ```
 
 ```diff
-Que faut-il faire lorsque votre lave-vaisselle est cassé ?
+Que chante un Juif devant un feu de camp ?
 
-Vous lui donnez une fessée et vous lui dites d'aller travailler.
+"Vous les copains je ne vous oublierai jamais !"
 ```
 
 ```diff
-Pourquoi Cendrillon est-elle morte à minuit ?
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-Parce que son tampon s'est transformé en citrouille.
+Bah dans son cul.
 ```
 
 ```diff
-Une mère demande à son fils : quel est ton animal préféré ?
+Quel est le point commun entre une femme et une piscine ?
 
-Le zébu parce qu'on a un point commun.
+Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 183 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 182 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zébu parce qu'on a un point commun.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
 
 
 <p align="center">
