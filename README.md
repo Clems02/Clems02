@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
+Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
 
-Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
+Le temps d’accès !
 ```
 
 ```diff
-Que chante un Juif devant un feu de camp ?
+Quel est le point commun entre une vache et un SS ?
 
-"Vous les copains je ne vous oublierai jamais !"
+Ils regardent tous les deux le train passer.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Comment dit-on "Castration", en espagnol ?
 
-Bah dans son cul.
+Adios, à mes gosses !
 ```
 
 ```diff
-Quel est le point commun entre une femme et une piscine ?
+Quelle est la différence entre une femme et un dobermann ?
 
-Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
+Le prix du collier
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 182 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 181 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le point commun entre une femme et une piscine ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
 
 
 <p align="center">
