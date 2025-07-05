@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
+La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
 
-Le temps d’accès !
+... c'est quand le message d'erreur qu'il obtient est différent du précédent.
 ```
 
 ```diff
-Quel est le point commun entre une vache et un SS ?
+Pourquoi n'y a-t-il pas de noirs roux ?
 
-Ils regardent tous les deux le train passer.
+Parce que Dieu ne punit jamais deux fois.
 ```
 
 ```diff
-Comment dit-on "Castration", en espagnol ?
+Comment appelle-t-on un préservatif pour statue ?
 
-Adios, à mes gosses !
+Une capote en glaise.
 ```
 
 ```diff
-Quelle est la différence entre une femme et un dobermann ?
+Je suis anti-féministe.
 
-Le prix du collier
+Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 181 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 180 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
