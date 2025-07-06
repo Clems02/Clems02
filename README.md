@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
+Que fait un développeur en hiver ?
 
-... c'est quand le message d'erreur qu'il obtient est différent du précédent.
+Du saut ASCII
 ```
 
 ```diff
-Pourquoi n'y a-t-il pas de noirs roux ?
+Pourquoi Ray Charles et Stevie Wonder chantent toujours en se balançant de gauche à droite ?
 
-Parce que Dieu ne punit jamais deux fois.
+Parce qu'ils cherchent leur micro
 ```
 
 ```diff
-Comment appelle-t-on un préservatif pour statue ?
+Pourquoi un homme rentre-t-il dans un bar ?
 
-Une capote en glaise.
+Parce qu'il est zoophile.
 ```
 
 ```diff
-Je suis anti-féministe.
+Quel est le style préféré d'un roux ?
 
-Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 180 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 179 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais si les femmes montrent leurs nibards pour militer, je veux bien les souteni
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
