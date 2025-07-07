@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en hiver ?
+Que dit un ordinateur pour draguer ?
 
-Du saut ASCII
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Pourquoi Ray Charles et Stevie Wonder chantent toujours en se balançant de gauche à droite ?
+Quelle est la différence entre un enfant et une prostituée ?
 
-Parce qu'ils cherchent leur micro
+Si tu ne la vois pas, pose toi des questions...
 ```
 
 ```diff
-Pourquoi un homme rentre-t-il dans un bar ?
+Qu'est-ce qui se lève quand tu t'en sers, qui s'abaisse quand tu as fini de t'en servir et qui goutte après usage ?
 
-Parce qu'il est zoophile.
+Un parapluie
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
 
-Le roustique.
+Pour ne pas avoir les lèvres gercées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 179 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 178 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
 
 
 <p align="center">
