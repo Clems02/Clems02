@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+Pourquoi lorsqu'on mange une poutine le goût arrive 5 secondes après ?
 
-Coucou, tu veux voir mes 64 bits ?
+Parce que le GouLag
 ```
 
 ```diff
-Quelle est la différence entre un enfant et une prostituée ?
+Selon une étude, 25 % des enfants européens savent utiliser une tablette. Ridicule :
 
-Si tu ne la vois pas, pose toi des questions...
+100 % des enfants Chinois savent les fabriquer.
 ```
 
 ```diff
-Qu'est-ce qui se lève quand tu t'en sers, qui s'abaisse quand tu as fini de t'en servir et qui goutte après usage ?
+Ma bite, je l'ai appelée la vie.
 
-Un parapluie
+Parce que la vie est dure...
 ```
 
 ```diff
-Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
+Quel est l'inverse du divorce ?
 
-Pour ne pas avoir les lèvres gercées.
+Le partage
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 178 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 177 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour ne pas avoir les lèvres gercées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
 
 
 <p align="center">
