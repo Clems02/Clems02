@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi lorsqu'on mange une poutine le goût arrive 5 secondes après ?
+Comment un développeur se met-il à jour ?
 
-Parce que le GouLag
+Il se met à l'apache.
 ```
 
 ```diff
-Selon une étude, 25 % des enfants européens savent utiliser une tablette. Ridicule :
+Comment le chirurgien procède-t-il en cas de grève de l'anesthésiste ?
 
-100 % des enfants Chinois savent les fabriquer.
+Il met des boules Quiès.
 ```
 
 ```diff
-Ma bite, je l'ai appelée la vie.
+Quelle est la différence entre la bite et un gîte ?
 
-Parce que la vie est dure...
+Le gîte, on l'habite et la bite, on l'agite !
 ```
 
 ```diff
-Quel est l'inverse du divorce ?
+Est ce que vous avez déjà vu une salade chanter ?
 
-Le partage
+Car j'ai déjà vu une carotte râpé.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 177 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 176 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le partage
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:38-white?style=for-the-badge)
 
 
 <p align="center">
