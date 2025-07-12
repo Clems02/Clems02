@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-ANSI <FONT> <FONT> <FONT>
+Quel est le 2ème métier d’un développeur ?
 
-<LI> <P> <TITLE> Mar I/O .NET
+CSharpentier
 ```
 
 ```diff
-Quel dinosaure peut aller au micro-ondes ?
+Si on remplaçait tous les animaux du parc Marineland par des partisans du FN...
 
-Le Pyrex
+... le parc porterait toujours très bien son nom.
 ```
 
 ```diff
-Que fais un zoophile dans une ferme ?
+Monsieur le Curé, je peux rejoindre mes parents ?
 
-Il passe du coq à l'âne...
+D'accord, mais remonte ton slip avant.
 ```
 
 ```diff
-Une mère demande à son fils : quel est ton animal préféré ?
+Les peintres utilisent, de l'imagination, de la créativité et...
 
-Le zébu parce qu'on a un point commun.
+De la peinture.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 174 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 173 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zébu parce qu'on a un point commun.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
 
 
 <p align="center">
