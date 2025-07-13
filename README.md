@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Comment appelle-t-on un développeur amateur de musique ?
 
-CSharpentier
+Un audiofile
 ```
 
 ```diff
-Si on remplaçait tous les animaux du parc Marineland par des partisans du FN...
+Quelle est la différence à connaître entre E.T. l'extra-terrestre et un Arabe ?
 
-... le parc porterait toujours très bien son nom.
+E.T. lui, a compris qu'il fallait rentrer à la maison !
 ```
 
 ```diff
-Monsieur le Curé, je peux rejoindre mes parents ?
+Melon et Meleche trouve une maison à vendre...
 
-D'accord, mais remonte ton slip avant.
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Les peintres utilisent, de l'imagination, de la créativité et...
+Que dit une bière quand elle tombe dans l'eau ?
 
-De la peinture.
+Je sais panaché.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 173 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 172 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ De la peinture.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
