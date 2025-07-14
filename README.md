@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un développeur amateur de musique ?
+Comment sont les gardes du corps de Sonic ?
 
-Un audiofile
+Ses gars, c'est du lourd.
 ```
 
 ```diff
-Quelle est la différence à connaître entre E.T. l'extra-terrestre et un Arabe ?
+Quel est la différence entre un chimiste maladroit et un musulman ?
 
-E.T. lui, a compris qu'il fallait rentrer à la maison !
+L’un, quand il rate, ça explose, et l’autre, ça explose quand il réussit.
 ```
 
 ```diff
-Melon et Meleche trouve une maison à vendre...
+Maman maman, comment tu m'as fait ?
 
-…Melon l’achète et Meleche l’habite.
+Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
 ```
 
 ```diff
-Que dit une bière quand elle tombe dans l'eau ?
+Connaissez-vous le slogan "ça fait du bien par où ça passe" ?
 
-Je sais panaché.
+C'est une pub de suppositoires, je crois...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 172 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 171 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je sais panaché.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:49-white?style=for-the-badge)
 
 
 <p align="center">
