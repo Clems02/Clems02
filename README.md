@@ -2,21 +2,21 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur qui a froid ?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-Il met une C-Sharp.
+Car ils font des petits Mo...
 ```
 
 ```diff
-Qu'est ce qui est jaune et qui attend ?
+Pour quelle raison les retraités adorent les bains de boue ?
 
-Un Ouïghours à l'entrée du camp
+Car ils s'habituent au goût de la terre.
 ```
 
 ```diff
-Comment appelle-t-on une actrice porno qui tombe enceinte ?
+Pourquoi dit-on que se palucher rend sourd ?
 
-Un accident de travail.
+Parce qu’on est tout le temps entrain d’écouter si personne arrive.
 ```
 
 ```diff
@@ -28,7 +28,7 @@ Les deux ont de mauvaises notes.
 <br/>
 
 > [!NOTE]
-> Il reste 170 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 169 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont de mauvaises notes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:45-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
 
 
 <p align="center">
