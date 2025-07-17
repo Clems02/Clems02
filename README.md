@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
 
-Car ils font des petits Mo...
+Parce que les bugs ne se reproduisent pas à cette heure-là.
 ```
 
 ```diff
-Pour quelle raison les retraités adorent les bains de boue ?
+Maman, est-ce que tu m'aimes ?
 
-Car ils s'habituent au goût de la terre.
+Au vu du prix auquel je t'ai acheté, y a intérêt !
 ```
 
 ```diff
-Pourquoi dit-on que se palucher rend sourd ?
+Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
 
-Parce qu’on est tout le temps entrain d’écouter si personne arrive.
+Il m’a proposé un plan A3, A4 et même A5.
 ```
 
 ```diff
-Quel est le point commun entre un mauvais musicien et un cancre ?
+Quand fête-t-on la journée des fumeurs ?
 
-Les deux ont de mauvaises notes.
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 169 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 168 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont de mauvaises notes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
 
 
 <p align="center">
