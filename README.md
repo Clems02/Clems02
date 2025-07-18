@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+C'est l'histoire d'une cocotte-minute connectée...
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Maman, est-ce que tu m'aimes ?
+Qu'est-ce qu'il faut dire aux noirs pour qu'ils partent dormir ?
 
-Au vu du prix auquel je t'ai acheté, y a intérêt !
+DARK VADOR
 ```
 
 ```diff
-Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
+Melon et Melèche nettoient le billard...
 
-Il m’a proposé un plan A3, A4 et même A5.
+Melon astique les boules et Melèche la queue !
 ```
 
 ```diff
-Quand fête-t-on la journée des fumeurs ?
+Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
 
-Le 1er juin
+Un combat sanglant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 168 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 167 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le 1er juin
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
