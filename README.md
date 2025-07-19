@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Que fait un poussin sur GitHub ?
 
-... qui utilise WinRAR pour décompresser.
+Des poule requests
 ```
 
 ```diff
-Qu'est-ce qu'il faut dire aux noirs pour qu'ils partent dormir ?
+Quel est le point commun entre une cigarette, un juif et un ascenseur ?
 
-DARK VADOR
+Ça fait des cendres
 ```
 
 ```diff
-Melon et Melèche nettoient le billard...
+Une grosse queue qui rappelle un bon souvenir...
 
-Melon astique les boules et Melèche la queue !
+... ça reste dans les annales.
 ```
 
 ```diff
-Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
+Quel est le point commun entre un homme au réveil et un élastique ?
 
-Un combat sanglant.
+Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 167 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 166 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un combat sanglant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:38-white?style=for-the-badge)
 
 
 <p align="center">
