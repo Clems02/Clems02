@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un poussin sur GitHub ?
+Quelle est la maladie la plus répandue chez les développeurs Rust ?
 
-Des poule requests
+Le tétanos.
 ```
 
 ```diff
-Quel est le point commun entre une cigarette, un juif et un ascenseur ?
+Qu'est-ce qui est jaune et qui attend ?
 
-Ça fait des cendres
+Un Juif sur un quai de gare.
 ```
 
 ```diff
-Une grosse queue qui rappelle un bon souvenir...
+À quel moment la poule a-t-elle le plus mal au cul ?
 
-... ça reste dans les annales.
+Quand elle passe du coq à l'âne.
 ```
 
 ```diff
-Quel est le point commun entre un homme au réveil et un élastique ?
+Qui va à la chasse perd sa place mais ...
 
-Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
+... qui a la chiasse tire la chasse.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 166 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 165 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:38-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:53-white?style=for-the-badge)
 
 
 <p align="center">
