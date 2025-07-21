@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+Comment un développeur se met-il à jour ?
 
-Le tétanos.
+Il se met à l'apache.
 ```
 
 ```diff
-Qu'est-ce qui est jaune et qui attend ?
+Qu'est-ce qui est pire que lancer un bébé en-bas d'un hélicoptère ?
 
-Un Juif sur un quai de gare.
+Le lancer en-haut
 ```
 
 ```diff
-À quel moment la poule a-t-elle le plus mal au cul ?
+Quel est le point commun entre les seins d'une femme et un train électrique ?
 
-Quand elle passe du coq à l'âne.
+Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
 ```
 
 ```diff
-Qui va à la chasse perd sa place mais ...
+Pourquoi les mamies sont les meilleures putes ?
 
-... qui a la chiasse tire la chasse.
+Parce qu'elles se laissent toujours peloter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 165 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 164 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Qui va à la chasse perd sa place mais ...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
 
 
 <p align="center">
