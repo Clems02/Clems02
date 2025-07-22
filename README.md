@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
 
-Il se met à l'apache.
+Parce qu'il y en a-sset
 ```
 
 ```diff
-Qu'est-ce qui est pire que lancer un bébé en-bas d'un hélicoptère ?
+Pour un cannibale, une femme enceinte, c'est quoi ?
 
-Le lancer en-haut
+Un Kinder Surprise.
 ```
 
 ```diff
-Quel est le point commun entre les seins d'une femme et un train électrique ?
+Que dit un éléphant à un nudiste ?
 
-Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
+"Alors c'est avec ça que tu bois ?"
 ```
 
 ```diff
-Pourquoi les mamies sont les meilleures putes ?
+Quel est le point commun entre la poitrine d'une femme et un train électrique ?
 
-Parce qu'elles se laissent toujours peloter !
+C'est fait pour les enfants, mais c'est papa qui y joue.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 164 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 163 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles se laissent toujours peloter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:45-white?style=for-the-badge)
 
 
 <p align="center">
