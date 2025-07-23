@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
+Que fait un développeur s'il veut se marier ?
 
-Parce qu'il y en a-sset
+Une fille en C
 ```
 
 ```diff
-Pour un cannibale, une femme enceinte, c'est quoi ?
+Comment mieux apprendre à l’école ?
 
-Un Kinder Surprise.
+Il faut faire un tour dans un camp de concentration.
 ```
 
 ```diff
-Que dit un éléphant à un nudiste ?
+Qu’est-ce qui sépare deux obsédés sexuels de trois salopes ?
 
-"Alors c'est avec ça que tu bois ?"
+Une porte de cockpit
 ```
 
 ```diff
-Quel est le point commun entre la poitrine d'une femme et un train électrique ?
+A la maternité un nouveau père tout content demande à l'infirmière : Vous trouvez que mon fils me ressemble ?
 
-C'est fait pour les enfants, mais c'est papa qui y joue.
+Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 163 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 162 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est fait pour les enfants, mais c'est papa qui y joue.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:45-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
 
 
 <p align="center">
