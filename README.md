@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Une fille en C
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Comment mieux apprendre à l’école ?
+Comment calcule-t-on le temps d'évasion d'un Juif ?
 
-Il faut faire un tour dans un camp de concentration.
+Hauteur de la cheminée multipliée par la force du vent.
 ```
 
 ```diff
-Qu’est-ce qui sépare deux obsédés sexuels de trois salopes ?
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-Une porte de cockpit
+Mais pas votre voisin.
 ```
 
 ```diff
-A la maternité un nouveau père tout content demande à l'infirmière : Vous trouvez que mon fils me ressemble ?
+Quand mon verre est plein, je le vide
 
-Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé !
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 162 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 161 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé 
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
