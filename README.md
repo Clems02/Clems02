@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Comment on appelle une situation qui est gérée ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Une situation sous CTRL
 ```
 
 ```diff
-Comment calcule-t-on le temps d'évasion d'un Juif ?
+Il existe deux types de mineurs :
 
-Hauteur de la cheminée multipliée par la force du vent.
+L'un descend dans les mines, l'autre dans la cave.
 ```
 
 ```diff
-Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
+Quelle est la différence entre toi et un chirurgien ?
 
-Mais pas votre voisin.
+Le chirurgien ampute des jambes et tu enjambes des putes !
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+Peut-on prendre un bain quand on a la diarrhée ?
 
-Quand mon verre est vide, je me plains !
+Oui, si on en a assez.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 161 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 160 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
