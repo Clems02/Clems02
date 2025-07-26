@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment on appelle une situation qui est gérée ?
+Les villageois de Minecraft ne sont que des images…
 
-Une situation sous CTRL
+ce sont des .png.
 ```
 
 ```diff
-Il existe deux types de mineurs :
+Quel est le point commun entre la sodomie et les choux-fleurs ?
 
-L'un descend dans les mines, l'autre dans la cave.
+Même avec du beurre, les enfants n'aiment pas.
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Pourquoi les pharaons ont ils 2 fesses ?
 
-Le chirurgien ampute des jambes et tu enjambes des putes !
+Parce qu'Anubis !
 ```
 
 ```diff
-Peut-on prendre un bain quand on a la diarrhée ?
+Qu'est-ce qui est pire qu'un meurtrier ?
 
-Oui, si on en a assez.
+Un policier fanatique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 160 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 159 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oui, si on en a assez.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
 
 
 <p align="center">
