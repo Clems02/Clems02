@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
 
-ce sont des .png.
+Une RC-XD
 ```
 
 ```diff
-Quel est le point commun entre la sodomie et les choux-fleurs ?
+Si on m'avait donné 1€ à chaque blague raciste...
 
-Même avec du beurre, les enfants n'aiment pas.
+... je me serais déjà fait volé tout mon argent par un bougnoule.
 ```
 
 ```diff
-Pourquoi les pharaons ont ils 2 fesses ?
+Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
 
-Parce qu'Anubis !
+Dimanche, Pique se repose.
 ```
 
 ```diff
-Qu'est-ce qui est pire qu'un meurtrier ?
+Comment appelle-t-on une orgie de nains?
 
-Un policier fanatique.
+Une passe-partouze
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 159 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 158 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un policier fanatique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:54-white?style=for-the-badge)
 
 
 <p align="center">
