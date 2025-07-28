@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+Que dit un informaticien quand il s'ennuie ?
 
-Une RC-XD
+Je me fichier.
 ```
 
 ```diff
-Si on m'avait donné 1€ à chaque blague raciste...
+Alarme qui se propage...
 
-... je me serais déjà fait volé tout mon argent par un bougnoule.
+Mamadou dans les parages.
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+Comment on sait quand il faut rompre ?
 
-Dimanche, Pique se repose.
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-Comment appelle-t-on une orgie de nains?
+Comment faire rentrer 3 pédés dans un pub archi-bondé ?
 
-Une passe-partouze
+Retourner un tabouret.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 158 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 157 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une passe-partouze
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:53-white?style=for-the-badge)
 
 
 <p align="center">
