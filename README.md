@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Les filles, c'est comme les noms de domaine.
 
-Je me fichier.
+Celles que j'aime sont déjà prises.
 ```
 
 ```diff
-Alarme qui se propage...
+Comment un parachutiste aveugle sait-il qu'il va bientôt atterrir ?
 
-Mamadou dans les parages.
+Lorsqu'il s'aperçoit, il y a du mou à la laisse de son chien.
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+L'autre répond : "Désolée, j'ai roté."
 ```
 
 ```diff
-Comment faire rentrer 3 pédés dans un pub archi-bondé ?
+Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
 
-Retourner un tabouret.
+Un combat sanglant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 157 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 156 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Retourner un tabouret.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
 
 
 <p align="center">
