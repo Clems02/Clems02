@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les filles, c'est comme les noms de domaine.
+Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
 
-Celles que j'aime sont déjà prises.
+et node_modules...
 ```
 
 ```diff
-Comment un parachutiste aveugle sait-il qu'il va bientôt atterrir ?
+Quel type de personnes a la tête dans les nuages ?
 
-Lorsqu'il s'aperçoit, il y a du mou à la laisse de son chien.
+Les japonais de 1945
 ```
 
 ```diff
-Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-L'autre répond : "Désolée, j'ai roté."
+Mais pas votre voisin.
 ```
 
 ```diff
-Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
+Que fait un prêtre avec un scout dans un garage ?
 
-Un combat sanglant.
+Il le démonte.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 156 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 155 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un combat sanglant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:50-white?style=for-the-badge)
 
 
 <p align="center">
