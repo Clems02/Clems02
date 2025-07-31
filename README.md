@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
+Quel est l'animal totem du scrum-master ?
 
-et node_modules...
+La Jiraffe
 ```
 
 ```diff
-Quel type de personnes a la tête dans les nuages ?
+Comment calcule-t-on le temps d'évasion d'un Juif ?
 
-Les japonais de 1945
+Hauteur de la cheminée multipliée par la force du vent.
 ```
 
 ```diff
-Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
+Pourquoi les filles baissent-elles toujours les yeux quand on leur dit "Je t'aime" ?
 
-Mais pas votre voisin.
+Pour voir si c'est vrai.
 ```
 
 ```diff
-Que fait un prêtre avec un scout dans un garage ?
+Tu connais l'homme qui a 5 pénis ?
 
-Il le démonte.
+Apparemment, son slip lui va comme un gant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 155 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 154 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il le démonte.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:50-white?style=for-the-badge)
 
 
 <p align="center">
