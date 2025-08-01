@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal totem du scrum-master ?
+Il y a quoi après 403 ?
 
-La Jiraffe
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-Comment calcule-t-on le temps d'évasion d'un Juif ?
+Est-ce qu'un aveugle...
 
-Hauteur de la cheminée multipliée par la force du vent.
+...peut donner son point de vue ?
 ```
 
 ```diff
-Pourquoi les filles baissent-elles toujours les yeux quand on leur dit "Je t'aime" ?
+Dis à ta mère de manger moins de citron.
 
-Pour voir si c'est vrai.
+Ma bite est toute fripée.
 ```
 
 ```diff
-Tu connais l'homme qui a 5 pénis ?
+Quel est la différence entre un terroriste et une femme avant ses règles ?
 
-Apparemment, son slip lui va comme un gant.
+Tu peux négocier avec le terroriste
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 154 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 153 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Apparemment, son slip lui va comme un gant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:03-white?style=for-the-badge)
 
 
 <p align="center">
