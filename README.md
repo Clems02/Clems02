@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a quoi après 403 ?
+Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
 
-Bah, je ne sais pas, je n'ai pas trouvé...
+Aujourd'hui il s'appelle "Challenge Accepted"...
 ```
 
 ```diff
-Est-ce qu'un aveugle...
+Quel est le point commun entre un Juif en 1943 et une tiktokeuse ?
 
-...peut donner son point de vue ?
+Les deux sont chauds, très chauds...
 ```
 
 ```diff
-Dis à ta mère de manger moins de citron.
+Le sexe, c'est l'inverse des maths.
 
-Ma bite est toute fripée.
+Plus c'est dur et mieux ça rentre.
 ```
 
 ```diff
-Quel est la différence entre un terroriste et une femme avant ses règles ?
+Qu'est-ce qu'un nem avec des écouteurs ?
 
-Tu peux négocier avec le terroriste
+Un NemP3.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 153 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 152 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Tu peux négocier avec le terroriste
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
