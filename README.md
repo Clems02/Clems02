@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Que fait un développeur quand il a peur ?
 
-Il se met à l'apache.
+Il csharpe.
 ```
 
 ```diff
-Quel est le point commun entre une grosse dans une twingo et un prêtre dans un enfant ?
+Comment appelle-t-on un professeur d’informatique qui touche ses élèves ?
 
-Tu ne sais pas comment font les deux pour rentrer !
+Un PDFile
 ```
 
 ```diff
-Dis à ta mère de manger moins de citron.
+Maman maman, comment tu m'as fait ?
 
-Ma bite est toute fripée.
+Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
 ```
 
 ```diff
-Pourquoi quand on vise on ferme un œil ?
+Pourquoi les meilleurs pains sont idiots ?
 
-Car si on fermait les deux, on ne verrait plus rien.
+Parce que le pain con plaît.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 151 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 150 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car si on fermait les deux, on ne verrait plus rien.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:04-white?style=for-the-badge)
 
 
 <p align="center">
