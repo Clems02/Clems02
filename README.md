@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a peur ?
+À quoi reconnaît-on un métro ?
 
-Il csharpe.
+À son metroId !
 ```
 
 ```diff
-Comment appelle-t-on un professeur d’informatique qui touche ses élèves ?
+Que fait un Tsunami en Afrique
 
-Un PDFile
+Des Chokapik
 ```
 
 ```diff
-Maman maman, comment tu m'as fait ?
+Quel est le point commun entre de la neige et une bite ?
 
-Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
+On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
 ```
 
 ```diff
-Pourquoi les meilleurs pains sont idiots ?
+J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 
-Parce que le pain con plaît.
+... C'est pareil que faire le ménage dans des maisons !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 150 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 149 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que le pain con plaît.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:55-white?style=for-the-badge)
 
 
 <p align="center">
