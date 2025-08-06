@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quoi reconnaît-on un métro ?
+À quel jeu jouent les développeurs russes ?
 
-À son metroId !
+À la roulette-rust.
 ```
 
 ```diff
-Que fait un Tsunami en Afrique
+Quand j'étais gamin, j'avais un ami noir.
 
-Des Chokapik
+Jusqu'au jour où mon grand-père l'a vendu.
 ```
 
 ```diff
-Quel est le point commun entre de la neige et une bite ?
+Quelle est la différence entre une femme et une haie ?
 
-On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
+Pour sauter la haie, pas besoin de lui faire des compliments...
 ```
 
 ```diff
-J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
+Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
 
-... C'est pareil que faire le ménage dans des maisons !
+Les deux
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 149 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 148 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:55-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
 
 
 <p align="center">
