@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quel jeu jouent les développeurs russes ?
+Quelle erreur ne peut-on pas abandonner ?
 
-À la roulette-rust.
+L'erreur 403.
 ```
 
 ```diff
-Quand j'étais gamin, j'avais un ami noir.
+Pourquoi les terroristes sont-ils toujours derniers aux jeux de société ?
 
-Jusqu'au jour où mon grand-père l'a vendu.
+Parce qu’ils ont sauté 2 tours.
 ```
 
 ```diff
-Quelle est la différence entre une femme et une haie ?
+Tu connais le cri du spermatozoïde ?
 
-Pour sauter la haie, pas besoin de lui faire des compliments...
+Bah, la prochaine fois, au lieu de l'avaler, tu croques.
 ```
 
 ```diff
-Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
+Quel est le point commun entre un Gynécologue et un Pizzaiolo ?
 
-Les deux
+Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 148 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 147 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
 
 
 <p align="center">
