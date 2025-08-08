@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle erreur ne peut-on pas abandonner ?
+En programmation, c'est le seul endroit où...
 
-L'erreur 403.
+...tu arrives à faire rentrer deux bool dans un string.
 ```
 
 ```diff
-Pourquoi les terroristes sont-ils toujours derniers aux jeux de société ?
+Un homme à l'hôpital dit à son infirmière : Vous êtes mon infirmière préférée, voudriez-vous passer me voir quand je serai sorti de l'hôpital ?
 
-Parce qu’ils ont sauté 2 tours.
+Je suis désolée, mais j'ai horreur des cimetières !
 ```
 
 ```diff
-Tu connais le cri du spermatozoïde ?
+C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
 
-Bah, la prochaine fois, au lieu de l'avaler, tu croques.
+Parce que je vais t’enculer.
 ```
 
 ```diff
-Quel est le point commun entre un Gynécologue et un Pizzaiolo ?
+Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
 
-Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
+Leurs parents !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 147 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 146 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils peuvent tous les deux sentir ce qu'ils font, mais pas la bouffer !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
 
 
 <p align="center">
