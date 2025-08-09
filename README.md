@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-En programmation, c'est le seul endroit où...
+Quel est le logiciel qui fait le plus crash Windows ?
 
-...tu arrives à faire rentrer deux bool dans un string.
+Windows Update
 ```
 
 ```diff
-Un homme à l'hôpital dit à son infirmière : Vous êtes mon infirmière préférée, voudriez-vous passer me voir quand je serai sorti de l'hôpital ?
+Mon humour est tellement noir...
 
-Je suis désolée, mais j'ai horreur des cimetières !
+... qu'il traverse la mer Méditerranée.
 ```
 
 ```diff
-C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
+Quelle est la différence entre une femme et une grue ?
 
-Parce que je vais t’enculer.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
+Un enfant dit : "Ma maman a toujours faim !"
 
-Leurs parents !
+"Elle n'arrête pas de manger le zizi de mon papa !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 146 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 145 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Leurs parents !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
 
 
 <p align="center">
