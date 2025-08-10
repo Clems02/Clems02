@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le logiciel qui fait le plus crash Windows ?
+Dieu a dit : "Que Windows soit !"
 
-Windows Update
+Et le bug fut.
 ```
 
 ```diff
-Mon humour est tellement noir...
+Quel est le plus gros complexe de l’homme tronc ?
 
-... qu'il traverse la mer Méditerranée.
+C’est de rester planté là.
 ```
 
 ```diff
-Quelle est la différence entre une femme et une grue ?
+Quel est le point commun entre une femme et une pantoufle?
 
-La grue débite des caisses et la femme encaisse des bites.
+Plus tu la mets plus elle sent !
 ```
 
 ```diff
-Un enfant dit : "Ma maman a toujours faim !"
+Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
 
-"Elle n'arrête pas de manger le zizi de mon papa !"
+Quand un plat est réussi, on félicite le cuisinier pas le four !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 145 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 144 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un enfant dit : "Ma maman a toujours faim !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
 
 
 <p align="center">
