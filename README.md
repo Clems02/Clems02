@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Dieu a dit : "Que Windows soit !"
+Que fait un développeur avant d'aller faire les courses ?
 
-Et le bug fut.
+Il fait sa lisp.
 ```
 
 ```diff
-Quel est le plus gros complexe de l’homme tronc ?
+J'ai vu un enfant sur un vélo, j'ai cru que c'était le mien donc je suis allé vérifier dans le garage...
 
-C’est de rester planté là.
+Mais je me suis trompé, il était toujours là, enchaîné, à réclamer à boire et à manger.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une pantoufle?
+Le viagra, c'est comme l'enfer.
 
-Plus tu la mets plus elle sent !
+Satan l'habite.
 ```
 
 ```diff
-Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
+Quel est le point commun entre les places de parking et les femmes ?
 
-Quand un plat est réussi, on félicite le cuisinier pas le four !
+Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 144 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 143 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand un plat est réussi, on félicite le cuisinier pas le four !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
 
 
 <p align="center">
