@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur avant d'aller faire les courses ?
+Quelle est la meilleure version de Windows ?
 
-Il fait sa lisp.
+Question débile, Windows Vista bien évidemment !
 ```
 
 ```diff
-J'ai vu un enfant sur un vélo, j'ai cru que c'était le mien donc je suis allé vérifier dans le garage...
+Pourquoi un aveugle tutoie ?
 
-Mais je me suis trompé, il était toujours là, enchaîné, à réclamer à boire et à manger.
+Parce qu'il ne vous voit pas.
 ```
 
 ```diff
-Le viagra, c'est comme l'enfer.
+Une grosse queue qui rappelle un bon souvenir...
 
-Satan l'habite.
+... ça reste dans les annales.
 ```
 
 ```diff
-Quel est le point commun entre les places de parking et les femmes ?
+Si je couche avec ma soeur que suis-je?
 
-Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
+Nord-mal.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 143 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 142 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
 
 
 <p align="center">
