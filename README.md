@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la meilleure version de Windows ?
+Vous connaissez l'histoire de l'erreur 403 ?
 
-Question débile, Windows Vista bien évidemment !
+J'ai interdiction de vous la dire...
 ```
 
 ```diff
-Pourquoi un aveugle tutoie ?
+Maman ! J'ai poignardé un vampire, battu à mort des zombies, et tué le diable !
 
-Parce qu'il ne vous voit pas.
+Mais tu étais juste censé leur demander des bonbons...
 ```
 
 ```diff
-Une grosse queue qui rappelle un bon souvenir...
+Comment appelle-t-on une lesbienne qui n'a pas de seins ?
 
-... ça reste dans les annales.
+Une homoplate.
 ```
 
 ```diff
-Si je couche avec ma soeur que suis-je?
+Quand mon verre est plein, je le vide
 
-Nord-mal.
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 142 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 141 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Nord-mal.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
 
 
 <p align="center">
