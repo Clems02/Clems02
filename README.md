@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous connaissez l'histoire de l'erreur 403 ?
+Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 
-J'ai interdiction de vous la dire...
+À cause des pare-feu
 ```
 
 ```diff
-Maman ! J'ai poignardé un vampire, battu à mort des zombies, et tué le diable !
+Que fait un Chinois sur une mobylette ?
 
-Mais tu étais juste censé leur demander des bonbons...
+Nèèèèmmmmm, Nèèèèmmmmm, Nèèèèmmmmm
 ```
 
 ```diff
-Comment appelle-t-on une lesbienne qui n'a pas de seins ?
+Melon et Melèche nettoient le billard...
 
-Une homoplate.
+Melon astique les boules et Melèche la queue !
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+Deux fesses se croisent.
 
-Quand mon verre est vide, je me plains !
+- Alors, ça gaze ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 141 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 140 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
