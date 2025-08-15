@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+Que se passe-t-il quand on secoue une clef USB ?
 
-À cause des pare-feu
+Les fichiers se mélangent.
 ```
 
 ```diff
-Que fait un Chinois sur une mobylette ?
+Quel est le pire combo de maladies ?
 
-Nèèèèmmmmm, Nèèèèmmmmm, Nèèèèmmmmm
+Gastro et Alzheimer : tu cours aux toilettes, mais tu ne te souviens plus pourquoi.
 ```
 
 ```diff
-Melon et Melèche nettoient le billard...
+Qu'est ce que le paradis des nécrophiles ?
 
-Melon astique les boules et Melèche la queue !
+la morgue
 ```
 
 ```diff
-Deux fesses se croisent.
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-- Alors, ça gaze ?
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 140 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 139 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux fesses se croisent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
