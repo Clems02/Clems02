@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-À cause des pare-feu
+Le mode jour des applications !
 ```
 
 ```diff
-Qu'est ce qui est jaune et qui attend ?
+Quel est le point commun entre un noir et de la crème ?
 
-Un Ouïghours à l'entrée du camp
+C'est meilleur lorsqu'il est fouetté.
 ```
 
 ```diff
-Une pucelle et une mère sont sur un bateau, l'une des deux tombe à l'eau. Laquelle ?
+Une grosse queue qui rappelle un bon souvenir...
 
-La pucelle, car elle a paniqué.
+... ça reste dans les annales.
 ```
 
 ```diff
-Qu'est-ce qui est mieux qu'un plan A ?
+Deux fesses se croisent.
 
-Un plan Q
+- Alors, ça gaze ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 138 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 137 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un plan Q
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
