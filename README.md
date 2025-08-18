@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Que dit une mère à son fils geek quand le dîner est servi ?
 
-Le mode jour des applications !
+Alt + Tab
 ```
 
 ```diff
-Quel est le point commun entre un noir et de la crème ?
+Quelle est la dernière chose que Lady Diana ait mangé ?
 
-C'est meilleur lorsqu'il est fouetté.
+Le volant
 ```
 
 ```diff
-Une grosse queue qui rappelle un bon souvenir...
+Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
 
-... ça reste dans les annales.
+Dimanche, Pique se repose.
 ```
 
 ```diff
-Deux fesses se croisent.
+2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
 
-- Alors, ça gaze ?
+Non, tatoué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 137 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 136 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux fesses se croisent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
 
 
 <p align="center">
