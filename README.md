@@ -2,9 +2,9 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit une mère à son fils geek quand le dîner est servi ?
+J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
 
-Alt + Tab
+Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
 ```
 
 ```diff
@@ -14,21 +14,21 @@ Le volant
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+Tu connais le cri du spermatozoïde ?
 
-Dimanche, Pique se repose.
+Bah, la prochaine fois, au lieu de l'avaler, tu croques.
 ```
 
 ```diff
-2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
+Quel est la différence entre un terroriste et une femme avant ses règles ?
 
-Non, tatoué.
+Tu peux négocier avec le terroriste
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 136 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 135 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non, tatoué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
