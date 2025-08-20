@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
+Comment on appelle une situation qui est gérée ?
 
-Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
+Une situation sous CTRL
 ```
 
 ```diff
-Quelle est la dernière chose que Lady Diana ait mangé ?
+Pourquoi les échecs est un jeu encore très populaire ?
 
-Le volant
+Car c'est un des seuls où l'on peut faire se battre des blancs contre des noirs sans être sanctionné.
 ```
 
 ```diff
-Tu connais le cri du spermatozoïde ?
+Papa, comment on écrit "clitoris" ?
 
-Bah, la prochaine fois, au lieu de l'avaler, tu croques.
+Tu aurais dû me le demander hier, je l'avais sur le bout de la langue...
 ```
 
 ```diff
-Quel est la différence entre un terroriste et une femme avant ses règles ?
+Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
 
-Tu peux négocier avec le terroriste
+Car le plateau ressemble au carrelage de la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 135 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 134 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Tu peux négocier avec le terroriste
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
