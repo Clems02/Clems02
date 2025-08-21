@@ -2,21 +2,21 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment on appelle une situation qui est gérée ?
+Comment appelle-t-on un trucage photo ?
 
-Une situation sous CTRL
+Un Faux-to-chopage
 ```
 
 ```diff
-Pourquoi les échecs est un jeu encore très populaire ?
+Quelle est la voiture préférée des kamikazes ?
 
-Car c'est un des seuls où l'on peut faire se battre des blancs contre des noirs sans être sanctionné.
+La Citroën C4.
 ```
 
 ```diff
-Papa, comment on écrit "clitoris" ?
+C'est quoi la différence entre un homme et un sapin de Noël ?
 
-Tu aurais dû me le demander hier, je l'avais sur le bout de la langue...
+Le nombre de boules
 ```
 
 ```diff
@@ -28,7 +28,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 > [!NOTE]
-> Il reste 134 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 133 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
