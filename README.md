@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
 
-Un Faux-to-chopage
+Il s'est pris une racine !
 ```
 
 ```diff
-Quelle est la voiture préférée des kamikazes ?
+Les musulmans envisagent de boycotter Amazon.
 
-La Citroën C4.
+Ils en ont assez de payer les frais de ports.
 ```
 
 ```diff
-C'est quoi la différence entre un homme et un sapin de Noël ?
+J'ai dit non ! Mon gynécologue m'a dit pas de sexe pendant 3 semaines.
 
-Le nombre de boules
+Et que t'as dit ton dentiste ?
 ```
 
 ```diff
-Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
+Quelle est la différence entre un macho et un pêcheur ?
 
-Car le plateau ressemble au carrelage de la cuisine.
+Le macho ne se vantera jamais d'en avoir attrapé une grosse.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 133 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 132 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
