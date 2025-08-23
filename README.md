@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-Il s'est pris une racine !
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Les musulmans envisagent de boycotter Amazon.
+Un Juif est dans un ascenseur. Soudain, l'homme à côté de lui lâche un gros pet. Le Juif le regarde l'air choqué.
 
-Ils en ont assez de payer les frais de ports.
+Oh, ça va ! C'est du gaz, ça n'a jamais tué personne !
 ```
 
 ```diff
-J'ai dit non ! Mon gynécologue m'a dit pas de sexe pendant 3 semaines.
+Le viagra, c'est comme l'enfer.
 
-Et que t'as dit ton dentiste ?
+Satan l'habite.
 ```
 
 ```diff
-Quelle est la différence entre un macho et un pêcheur ?
+En quel objet veut être récussiter un clochard ?
 
-Le macho ne se vantera jamais d'en avoir attrapé une grosse.
+En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 132 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 131 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le macho ne se vantera jamais d'en avoir attrapé une grosse.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:21-white?style=for-the-badge)
 
 
 <p align="center">
