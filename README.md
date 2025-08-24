@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Quand Chuck Norris lance son code pour la première fois...
 
-Les mauvais pilotes sont problématiques.
+... il fonctionne.
 ```
 
 ```diff
-Un Juif est dans un ascenseur. Soudain, l'homme à côté de lui lâche un gros pet. Le Juif le regarde l'air choqué.
+- Chang, fait moi 20 pompes !
 
-Oh, ça va ! C'est du gaz, ça n'a jamais tué personne !
+- D'accord Monsieur, quelle pointure ?
 ```
 
 ```diff
-Le viagra, c'est comme l'enfer.
+Une femme musulmane fait une fellation à son mari pendant le ramadan.
 
-Satan l'habite.
+Attention ma chère, vous devrez attendre ce soir avant d'avaler !
 ```
 
 ```diff
-En quel objet veut être récussiter un clochard ?
+As-tu déjà fait la guerre ? Non ?
 
-En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
+Ben alors pourquoi as-tu un trou de balle ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 131 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 130 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les ma
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:21-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
