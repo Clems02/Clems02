@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris lance son code pour la première fois...
+Pourquoi les développeurs n'aiment pas les forêts ?
 
-... il fonctionne.
+C'est rempli de bugs !
 ```
 
 ```diff
-- Chang, fait moi 20 pompes !
+Pourquoi s'embêter a créé des grenades,
 
-- D'accord Monsieur, quelle pointure ?
+quand on peut laisser la petite cuillère dans le micro-onde ?
 ```
 
 ```diff
-Une femme musulmane fait une fellation à son mari pendant le ramadan.
+Dis à ta mère de manger moins de citron.
 
-Attention ma chère, vous devrez attendre ce soir avant d'avaler !
+Ma bite est toute fripée.
 ```
 
 ```diff
-As-tu déjà fait la guerre ? Non ?
+Pourquoi le coq est-il l'emblème de la France ?
 
-Ben alors pourquoi as-tu un trou de balle ?
+Parce que c'est le seul animal à chanter les pieds dans la merde.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 130 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 129 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ben alors pourquoi as-tu un trou de balle ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
