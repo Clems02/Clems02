@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment pas les forêts ?
+Les filles, c'est comme les noms de domaine.
 
-C'est rempli de bugs !
+Celles que j'aime sont déjà prises.
 ```
 
 ```diff
-Pourquoi s'embêter a créé des grenades,
+Une ville se fait bombarder. Où est parti l'enfant ?
 
-quand on peut laisser la petite cuillère dans le micro-onde ?
+Partout...
 ```
 
 ```diff
-Dis à ta mère de manger moins de citron.
+Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
 
-Ma bite est toute fripée.
+Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
 ```
 
 ```diff
-Pourquoi le coq est-il l'emblème de la France ?
+Il ne faut pas donner du pain aux canards...
 
-Parce que c'est le seul animal à chanter les pieds dans la merde.
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 129 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 128 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que c'est le seul animal à chanter les pieds dans la merde.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
