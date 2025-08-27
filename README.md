@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les filles, c'est comme les noms de domaine.
+Que fait un développeur en hiver ?
 
-Celles que j'aime sont déjà prises.
+Du saut ASCII
 ```
 
 ```diff
-Une ville se fait bombarder. Où est parti l'enfant ?
+Comment appelle-t-on un chien qui n'a pas de pattes ?
 
-Partout...
+On ne l'appelle pas, on va le chercher.
 ```
 
 ```diff
-Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
+Le sperme, c’est comme un gros mensonge.
 
-Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
+C’est toujours difficile à faire avaler !
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+C'est quoi un morceau de patate qui tombe sur la planète ?
 
-Aux connards non plus !
+Une météofrite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 128 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 127 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
 
 
 <p align="center">
