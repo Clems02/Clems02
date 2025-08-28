@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en hiver ?
+Quel est le logiciel qui fait le plus crash Windows ?
 
-Du saut ASCII
+Windows Update
 ```
 
 ```diff
-Comment appelle-t-on un chien qui n'a pas de pattes ?
+Pourquoi on ne met pas de Somaliens dans un caddie ?
 
-On ne l'appelle pas, on va le chercher.
+Parce qu'il passe à travers les barreaux
 ```
 
 ```diff
-Le sperme, c’est comme un gros mensonge.
+Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
 
-C’est toujours difficile à faire avaler !
+Je sais, maman me l'a déjà dit...
 ```
 
 ```diff
-C'est quoi un morceau de patate qui tombe sur la planète ?
+Comment appelle-t-on un roux dans un four ?
 
-Une météofrite.
+Un roux-ti.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 127 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 126 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une météofrite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
