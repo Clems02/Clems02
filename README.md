@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le logiciel qui fait le plus crash Windows ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Windows Update
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Pourquoi on ne met pas de Somaliens dans un caddie ?
+Quelle est la différence entre un Juif et un scout ?
 
-Parce qu'il passe à travers les barreaux
+Le scout, il revient du camp.
 ```
 
 ```diff
-Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
+Quel est le point commun entre un ascenseur et un vagin ?
 
-Je sais, maman me l'a déjà dit...
+Tu mets ton doigt où t'habites.
 ```
 
 ```diff
-Comment appelle-t-on un roux dans un four ?
+Qu'est-ce qu'un comptable ?
 
-Un roux-ti.
+C'est un con derrière une table.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 126 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 125 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un roux-ti.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
