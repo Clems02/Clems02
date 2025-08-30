@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Où partent les développeurs en vacances ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Aux C-Shell
 ```
 
 ```diff
-Quelle est la différence entre un Juif et un scout ?
+Qu'est-ce qu'un bon Juif ?
 
-Le scout, il revient du camp.
+Un dur à cuire
 ```
 
 ```diff
-Quel est le point commun entre un ascenseur et un vagin ?
+Quel est l'inverse de l'exorcisme ?
 
-Tu mets ton doigt où t'habites.
+C'est quand le diable demande au prêtre de sortir de l'enfant.
 ```
 
 ```diff
-Qu'est-ce qu'un comptable ?
+Quelle est la différence entre un stressé et un puceau ?
 
-C'est un con derrière une table.
+Ils ont tous les deux pa-niqué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 125 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 124 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est un con derrière une table.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
