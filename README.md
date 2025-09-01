@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Comment les développeurs se débarrassent des fantômes ?
 
-Un Faux-to-chopage
+En effectuant un XOR-cisme.
 ```
 
 ```diff
-Quel est le point commun entre les noirs et la crème ?
+Comment appelle-t-on un chien qui n'a pas de pattes ?
 
-C'est meilleur quand c'est fouetté !
+On ne l'appelle pas, on va le chercher.
 ```
 
 ```diff
-Comment on appelle les femmes des terroristes ?
+Quel est le point commun entre un marteau piqueur et un somalien ?
 
-Des bombes sexuelles.
+Les deux crèvent la dalle.
 ```
 
 ```diff
-Hier, j'ai croisé 2 roux. Vous savez ce que je leur ai demandé ?
+Comment la chouette sait que son mari fait la gueule ?
 
-Bah alors, il est où le guidon ?
+Parce qu'Hiboude.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 123 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 122 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bah alors, il est où le guidon ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
