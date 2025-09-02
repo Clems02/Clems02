@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment les développeurs se débarrassent des fantômes ?
+Que fait un geek après avoir fait l'amour ?
 
-En effectuant un XOR-cisme.
+Il efface l'historique.
 ```
 
 ```diff
-Comment appelle-t-on un chien qui n'a pas de pattes ?
+Je ne suis pas raciste.
 
-On ne l'appelle pas, on va le chercher.
+Je supporte l'équipe de football française.
 ```
 
 ```diff
-Quel est le point commun entre un marteau piqueur et un somalien ?
+Violer quelqu'un, c'est comme un cambriolage...
 
-Les deux crèvent la dalle.
+... tu pénètres par effraction et tu casses tout.
 ```
 
 ```diff
-Comment la chouette sait que son mari fait la gueule ?
+Peut-on prendre un bain quand on a la diarrhée ?
 
-Parce qu'Hiboude.
+Oui, si on en a assez.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 122 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 121 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'Hiboude.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
