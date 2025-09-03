@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek après avoir fait l'amour ?
+J'allais faire une blague sur l'erreur 404...
 
-Il efface l'historique.
+Je ne l'ai pas trouvée...
 ```
 
 ```diff
-Je ne suis pas raciste.
+Pourquoi la petite fille est tombée de la balançoire ?
 
-Je supporte l'équipe de football française.
+Parce qu'elle n'a pas de bras.
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Quelles sont vos matières préférées ?
 
-... tu pénètres par effraction et tu casses tout.
+Maths et Dessin !
 ```
 
 ```diff
-Peut-on prendre un bain quand on a la diarrhée ?
+Savez-vous pourquoi il n’y a pas de femmes au paradis ?
 
-Oui, si on en a assez.
+Parce que ça serait l'enfer !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 121 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 120 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oui, si on en a assez.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
