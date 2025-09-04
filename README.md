@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+C'est l'histoire d'une cocotte-minute connectée...
 
-Je ne l'ai pas trouvée...
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Pourquoi la petite fille est tombée de la balançoire ?
+Qu'est-ce qu'un américain qui mange deux menus dans un fast food ?
 
-Parce qu'elle n'a pas de bras.
+Un américain au régime.
 ```
 
 ```diff
-Quelles sont vos matières préférées ?
+Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
 
-Maths et Dessin !
+L'autre répond : "Désolée, j'ai roté."
 ```
 
 ```diff
-Savez-vous pourquoi il n’y a pas de femmes au paradis ?
+Pourquoi les mamies sont les meilleures putes ?
 
-Parce que ça serait l'enfer !
+Parce qu'elles se laissent toujours peloter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 120 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 119 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que ça serait l'enfer !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
