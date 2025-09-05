@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Une notice me disait : Nécessite Windows XP ou mieux.
 
-... qui utilise WinRAR pour décompresser.
+J'ai donc installé Linux.
 ```
 
 ```diff
-Qu'est-ce qu'un américain qui mange deux menus dans un fast food ?
+L'amour n'a pas d'âge...
 
-Un américain au régime.
+mais le juge n'était pas de cet avis...
 ```
 
 ```diff
-Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
+Qu'est-ce qu'une gifle ?
 
-L'autre répond : "Désolée, j'ai roté."
+C'est comme une bifle, mais avec la main !
 ```
 
 ```diff
-Pourquoi les mamies sont les meilleures putes ?
+Qu'est-ce qu'un rassemblement de personnes âgées ?
 
-Parce qu'elles se laissent toujours peloter !
+Un festival de cannes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 119 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 118 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles se laissent toujours peloter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
