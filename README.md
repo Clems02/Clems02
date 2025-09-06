@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une notice me disait : Nécessite Windows XP ou mieux.
+Qu’est ce qu’un code obèse ?
 
-J'ai donc installé Linux.
+Un code qui ne run pas.
 ```
 
 ```diff
-L'amour n'a pas d'âge...
+Qu'est-ce qu'un Juif en forêt ?
 
-mais le juge n'était pas de cet avis...
+Rabbin des bois
 ```
 
 ```diff
-Qu'est-ce qu'une gifle ?
+Avec quel fromage peut-on faire grossir les seins ?
 
-C'est comme une bifle, mais avec la main !
+Du Boursin.
 ```
 
 ```diff
-Qu'est-ce qu'un rassemblement de personnes âgées ?
+Pourquoi les suppositoires sont-ils toujours fatigués ?
 
-Un festival de cannes.
+Parce qu'ils ont la tête dans le cul.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 118 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 117 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un festival de cannes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
