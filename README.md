@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu’est ce qu’un code obèse ?
+Un développeur ne descend pas du métro.
 
-Un code qui ne run pas.
+Il libère la RAM.
 ```
 
 ```diff
-Qu'est-ce qu'un Juif en forêt ?
+Qu'elle est l'expression favorite de John Kennedy ?
 
-Rabbin des bois
+Rien de tel qu'une balade en voiture pour se vider la tête !
 ```
 
 ```diff
-Avec quel fromage peut-on faire grossir les seins ?
+Pourquoi les poules n'ont-elles pas de seins ?
 
-Du Boursin.
+Parce que les coqs n'ont pas de mains !
 ```
 
 ```diff
-Pourquoi les suppositoires sont-ils toujours fatigués ?
+Quel est le point commun entre une pizza brûlée et une femme enceinte ?
 
-Parce qu'ils ont la tête dans le cul.
+Dans les deux cas, il y en a un qui ne l’a pas sorti à temps !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 117 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 116 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont la tête dans le cul.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
