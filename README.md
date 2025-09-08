@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Comment appelle-t-on un trucage photo ?
 
-Il libère la RAM.
+Un Faux-to-chopage
 ```
 
 ```diff
-Qu'elle est l'expression favorite de John Kennedy ?
+Ma femme a rigolé quand je lui ai dit que j’avais encore le corps d’un jeune de 18 ans.
 
-Rien de tel qu'une balade en voiture pour se vider la tête !
+Elle a beaucoup moins ri quand elle l’a vu en morceaux dans le congélateur.
 ```
 
 ```diff
-Pourquoi les poules n'ont-elles pas de seins ?
+Quel est le point commun entre une blonde et un écureuil ?
 
-Parce que les coqs n'ont pas de mains !
+Les deux courent après les glands !
 ```
 
 ```diff
-Quel est le point commun entre une pizza brûlée et une femme enceinte ?
+Qu'est-ce qu'un nem avec des écouteurs ?
 
-Dans les deux cas, il y en a un qui ne l’a pas sorti à temps !
+Un NemP3.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 116 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 115 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Dans les deux cas, il y en a un qui ne l’a pas sorti à temps !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
