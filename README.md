@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Quelle est la différence entre un jeu et un logiciel ?
 
-Un Faux-to-chopage
+Le prix de la licence !
 ```
 
 ```diff
-Ma femme a rigolé quand je lui ai dit que j’avais encore le corps d’un jeune de 18 ans.
+Quel est le point commun entre un clown et un noir ?
 
-Elle a beaucoup moins ri quand elle l’a vu en morceaux dans le congélateur.
+Le nez gros...
 ```
 
 ```diff
-Quel est le point commun entre une blonde et un écureuil ?
+Qu'est-ce qu'une gifle ?
 
-Les deux courent après les glands !
+C'est comme une bifle, mais avec la main !
 ```
 
 ```diff
-Qu'est-ce qu'un nem avec des écouteurs ?
+Quel est le point commun entre la Méditerranée et ta maman ?
 
-Un NemP3.
+Ce sont toutes les deux des mers chaudes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 115 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 114 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un NemP3.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
