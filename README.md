@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre un jeu et un logiciel ?
+Comment sont les gardes du corps de Sonic ?
 
-Le prix de la licence !
+Ses gars, c'est du lourd.
 ```
 
 ```diff
-Quel est le point commun entre un clown et un noir ?
+C'est l'histoire d'un zoophile...
 
-Le nez gros...
+... qui prend son élan.
 ```
 
 ```diff
-Qu'est-ce qu'une gifle ?
+Quelle est la différence entre toi et un chirurgien ?
 
-C'est comme une bifle, mais avec la main !
+Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
 ```
 
 ```diff
-Quel est le point commun entre la Méditerranée et ta maman ?
+Vous savez pourquoi Valbuena rigole quand il joue au foot ?
 
-Ce sont toutes les deux des mers chaudes.
+Parce que l'herbe lui chatouille les couilles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 114 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 113 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont toutes les deux des mers chaudes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
