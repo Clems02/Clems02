@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+Il y a quoi après 403 ?
 
-À cause des pare-feu
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-Quelle est la dernière chose que Lady Diana ait mangé ?
+Un homme à l'hôpital dit à son infirmière : Vous êtes mon infirmière préférée, voudriez-vous passer me voir quand je serai sorti de l'hôpital ?
 
-Le volant
+Je suis désolée, mais j'ai horreur des cimetières !
 ```
 
 ```diff
-Connaissez-vous le point commun entre Neymar et une femme ?
+Pourquoi prendre une assurance animalière à sa copine ?
 
-Les deux savent simuler.
+Pour lui péter la chatte...
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+Quand il était petit, quel était le nom de papy Roro ?
 
-...qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 112 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 111 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
