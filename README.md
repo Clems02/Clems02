@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a quoi après 403 ?
+Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
 
-Bah, je ne sais pas, je n'ai pas trouvé...
+Car ils préfèrent les scratch.
 ```
 
 ```diff
-Un homme à l'hôpital dit à son infirmière : Vous êtes mon infirmière préférée, voudriez-vous passer me voir quand je serai sorti de l'hôpital ?
+Comment a été élu Vladimir Poutine ?
 
-Je suis désolée, mais j'ai horreur des cimetières !
+Par élimination.
 ```
 
 ```diff
-Pourquoi prendre une assurance animalière à sa copine ?
+Quel est le point commun entre de la neige et une bite ?
 
-Pour lui péter la chatte...
+On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Qu'est-ce qu'un rassemblement de personnes âgées ?
 
-Roro...
+Un festival de cannes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 111 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 110 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
 
 
 <p align="center">
