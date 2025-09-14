@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
+J'ai une blague sur la mémoire vive...
 
-Car ils préfèrent les scratch.
+... mais attendez elle RAM.
 ```
 
 ```diff
-Comment a été élu Vladimir Poutine ?
+Quel est la seul solde que Eric Zemmour ne veut pas faire ?
 
-Par élimination.
+Le Black Friday.
 ```
 
 ```diff
-Quel est le point commun entre de la neige et une bite ?
+Quelle est la différence entre un vieux et un renard ?
 
-On ne sait jamais sur combien de centimètres on va tomber ni combien de temps ça va tenir.
+Le renard a la queue touffue et le vieux a la queue foutue.
 ```
 
 ```diff
-Qu'est-ce qu'un rassemblement de personnes âgées ?
+Pourquoi aucun éléphant n'est informaticien ?
 
-Un festival de cannes.
+Parce qu'ils ont peur de la souris.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 110 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 109 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un festival de cannes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/02:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
