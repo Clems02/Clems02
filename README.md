@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai une blague sur la mémoire vive...
+Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
 
-... mais attendez elle RAM.
+Parce qu'il y en a-sset
 ```
 
 ```diff
-Quel est la seul solde que Eric Zemmour ne veut pas faire ?
+Un élève demande à son professeur d'être plus clair mais...
 
-Le Black Friday.
+... son professeur est noir.
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un renard ?
+Le concombre est conseillé pour améliorer sa mémoire.
 
-Le renard a la queue touffue et le vieux a la queue foutue.
+Car si on te le met dans le cul, tu n'es pas prêt de l'oublier.
 ```
 
 ```diff
-Pourquoi aucun éléphant n'est informaticien ?
+Quelle est la différence entre un beignet et un donut ?
 
-Parce qu'ils ont peur de la souris.
+Le donut, il a percé dans le milieu.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 109 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 108 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont peur de la souris.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
