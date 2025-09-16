@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
+Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
 
-Parce qu'il y en a-sset
+Une RC-XD
 ```
 
 ```diff
-Un élève demande à son professeur d'être plus clair mais...
+Quelles sont les voitures préférées des arabes ?
 
-... son professeur est noir.
+Les voitures sans surveillances.
 ```
 
 ```diff
-Le concombre est conseillé pour améliorer sa mémoire.
+C'est l'histoire du nain aux 26 enfants.
 
-Car si on te le met dans le cul, tu n'es pas prêt de l'oublier.
+Elle est courte, mais elle est bonne.
 ```
 
 ```diff
-Quelle est la différence entre un beignet et un donut ?
+Les seins c'est comme l'argent.
 
-Le donut, il a percé dans le milieu.
+Ceux qui en ont ne veulent pas partager.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 108 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 107 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le donut, il a percé dans le milieu.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
