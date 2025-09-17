@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+Pourquoi un développeur doit être fidèle en amour ?
 
-Une RC-XD
+Il a énormément de périodes de crush !
 ```
 
 ```diff
-Quelles sont les voitures préférées des arabes ?
+Les humains, c'est comme le chocolat.
 
-Les voitures sans surveillances.
+Ceux qui préfèrent le noir ont mauvais goût.
 ```
 
 ```diff
-C'est l'histoire du nain aux 26 enfants.
+Qu'est-ce qui suit la lettre X ?
 
-Elle est courte, mais elle est bonne.
+Hamster.
 ```
 
 ```diff
-Les seins c'est comme l'argent.
+Que dit une bière quand elle tombe dans l'eau ?
 
-Ceux qui en ont ne veulent pas partager.
+Je sais panaché.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 107 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 106 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ceux qui en ont ne veulent pas partager.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
