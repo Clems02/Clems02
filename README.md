@@ -2,15 +2,15 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un développeur doit être fidèle en amour ?
+Pourquoi les développeurs vont en boîte de nuit ?
 
-Il a énormément de périodes de crush !
+Pour faire la java.
 ```
 
 ```diff
-Les humains, c'est comme le chocolat.
+Quel est le point commun entre un camp de concentration et une maison de retraite ?
 
-Ceux qui préfèrent le noir ont mauvais goût.
+Dans les deux cas, les pensionnaires n'en ressortent pas vivants.
 ```
 
 ```diff
@@ -20,15 +20,15 @@ Hamster.
 ```
 
 ```diff
-Que dit une bière quand elle tombe dans l'eau ?
+Embrasser une fille qui n'est pas ta copine, ce n'est pas tromper.
 
-Je sais panaché.
+On appelle ça "Apprendre une langue étrangère".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 106 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 105 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je sais panaché.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
