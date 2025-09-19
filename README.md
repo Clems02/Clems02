@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
 
-Pour faire la java.
+... c'est quand le message d'erreur qu'il obtient est différent du précédent.
 ```
 
 ```diff
-Quel est le point commun entre un camp de concentration et une maison de retraite ?
+Combien de bébés faut-il pour peindre un mur ?
 
-Dans les deux cas, les pensionnaires n'en ressortent pas vivants.
+Tout dépend de la force du jet.
 ```
 
 ```diff
-Qu'est-ce qui suit la lettre X ?
+Pourquoi les poules n'ont-elles pas de seins ?
 
-Hamster.
+Parce que les coqs n'ont pas de mains !
 ```
 
 ```diff
-Embrasser une fille qui n'est pas ta copine, ce n'est pas tromper.
+Quel est le légume le plus alcoolique ?
 
-On appelle ça "Apprendre une langue étrangère".
+L'épinard
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 105 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 104 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On appelle ça "Apprendre une langue étrangère".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
