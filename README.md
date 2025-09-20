@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
+Quel est le fruit préféré des développeurs ?
 
-... c'est quand le message d'erreur qu'il obtient est différent du précédent.
+La pomme d'API !
 ```
 
 ```diff
-Combien de bébés faut-il pour peindre un mur ?
+Pourquoi il n'y a pas de manifestation contre la grossophobie ?
 
-Tout dépend de la force du jet.
+Car le cortège serait essoufflé en 2 minutes.
 ```
 
 ```diff
-Pourquoi les poules n'ont-elles pas de seins ?
+Connaissez-vous le point commun entre Neymar et une femme ?
 
-Parce que les coqs n'ont pas de mains !
+Les deux savent simuler.
 ```
 
 ```diff
-Quel est le légume le plus alcoolique ?
+Certaines femmes aiment les hommes qui assument leur côté féminin.
 
-L'épinard
+Mesdames, sachez que je viens de rater un créneau.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 104 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 103 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'épinard
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
