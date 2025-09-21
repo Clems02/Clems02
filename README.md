@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le fruit préféré des développeurs ?
+Comment reconnait on un développeur quand il compte ?
 
-La pomme d'API !
+Il commence toujours par 0 !
 ```
 
 ```diff
-Pourquoi il n'y a pas de manifestation contre la grossophobie ?
+Que dit un terroriste au centre ville ?
 
-Car le cortège serait essoufflé en 2 minutes.
+Je vais m'éclater.
 ```
 
 ```diff
-Connaissez-vous le point commun entre Neymar et une femme ?
+Comment dit-on "Castration", en espagnol ?
 
-Les deux savent simuler.
+Adios, à mes gosses !
 ```
 
 ```diff
-Certaines femmes aiment les hommes qui assument leur côté féminin.
+Quel est le point commun entre un gynécologue myope et un chien en bonne santé ?
 
-Mesdames, sachez que je viens de rater un créneau.
+Ils ont tous les deux le nez mouillé.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 103 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 102 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mesdames, sachez que je viens de rater un créneau.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
 
 
 <p align="center">
