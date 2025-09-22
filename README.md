@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment reconnait on un développeur quand il compte ?
+Quel logiciel de conception est très prisé des gourmands ?
 
-Il commence toujours par 0 !
+SketchUp
 ```
 
 ```diff
-Que dit un terroriste au centre ville ?
+Quel est le produit phare des supermarchés portugais ?
 
-Je vais m'éclater.
+Le lait en brique.
 ```
 
 ```diff
-Comment dit-on "Castration", en espagnol ?
+Pourquoi les pharaons ont ils 2 fesses ?
 
-Adios, à mes gosses !
+Parce qu'Anubis !
 ```
 
 ```diff
-Quel est le point commun entre un gynécologue myope et un chien en bonne santé ?
+Quel est le comble pour un campeur nordiste ?
 
-Ils ont tous les deux le nez mouillé.
+Démonter sa tante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 102 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 101 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils ont tous les deux le nez mouillé.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
