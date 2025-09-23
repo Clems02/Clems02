@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel logiciel de conception est très prisé des gourmands ?
+Que fait un ordinateur sur un bateau?
 
-SketchUp
+Il rame.
 ```
 
 ```diff
-Quel est le produit phare des supermarchés portugais ?
+Qu'es ce que un arabe sans bras ?
 
-Le lait en brique.
+Une personne de confiance.
 ```
 
 ```diff
-Pourquoi les pharaons ont ils 2 fesses ?
+Chérie ! On mate un film porno ou un match de foot ce soir ?
 
-Parce qu'Anubis !
+Un film porno, vu que tu sais déjà jouer au foot !
 ```
 
 ```diff
-Quel est le comble pour un campeur nordiste ?
+Pourquoi les alcooliques sont-ils des animaux à sang froid ?
 
-Démonter sa tante.
+Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 101 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 100 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Démonter sa tante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
