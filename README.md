@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
+Pourquoi Half Life 3 ne sortira jamais ?
 
-Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
+Par ce qu'on arrive pas a retrouver la Source.
 ```
 
 ```diff
-Que se passe-t-il lorsqu'on écrase un diabétique ?
+Pourquoi Ray Charles et Stevie Wonder chantent toujours en se balançant de gauche à droite ?
 
-Il y a du caramel partout...
+Parce qu'ils cherchent leur micro
 ```
 
 ```diff
-Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-Parce que la vérité sort toujours de la bouche des enfants !
+Bah dans son cul.
 ```
 
 ```diff
-Vous savez pourquoi Valbuena rigole quand il joue au foot ?
+Quel président bande 2 fois le matin ?
 
-Parce que l'herbe lui chatouille les couilles !
+Charles de Gaulle
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 99 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 98 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que l'herbe lui chatouille les couilles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
