@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi Half Life 3 ne sortira jamais ?
+Jusqu'à combien savent compter les geeks ?
 
-Par ce qu'on arrive pas a retrouver la Source.
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Pourquoi Ray Charles et Stevie Wonder chantent toujours en se balançant de gauche à droite ?
+Quel est le nom de ma femme de ménage ?
 
-Parce qu'ils cherchent leur micro
+Sarah Masse.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-Bah dans son cul.
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
-Quel président bande 2 fois le matin ?
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
 
-Charles de Gaulle
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 98 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 97 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Charles de Gaulle
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
