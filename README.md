@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-404... car après, ils ne s'y retrouvent plus !
+Car ils font des petits Mo...
 ```
 
 ```diff
-Quel est le nom de ma femme de ménage ?
+Quelle est la différence entre un couple gay et un couple hétéro ?
 
-Sarah Masse.
+Le couple hétéro se démonte et le couple Gay s’emboîte.
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+Dis à ta mère de manger moins de citron.
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+Ma bite est toute fripée.
 ```
 
 ```diff
-Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
+Une mère demande à son fils : quel est ton animal préféré ?
 
-Je pense que je vais les faire rentrer.
+Le zébu parce qu'on a un point commun.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 97 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 96 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je pense que je vais les faire rentrer.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
 
 
 <p align="center">
