@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Que fait un développeur quand il est triste ?
 
-Car ils font des petits Mo...
+Il se console.
 ```
 
 ```diff
-Quelle est la différence entre un couple gay et un couple hétéro ?
+L'alcool est l'ennemi du chrétien...
 
-Le couple hétéro se démonte et le couple Gay s’emboîte.
+Mais la bible nous enseigne d'aimer nos ennemis !
 ```
 
 ```diff
-Dis à ta mère de manger moins de citron.
+Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
 
-Ma bite est toute fripée.
+Car elles aiment les gigabits!
 ```
 
 ```diff
-Une mère demande à son fils : quel est ton animal préféré ?
+Harry Potter est le seul film...
 
-Le zébu parce qu'on a un point commun.
+... où on voit des mecs se servir d'un balai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 96 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 95 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zébu parce qu'on a un point commun.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
 
 
 <p align="center">
