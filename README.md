@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il est triste ?
+Quel est l'élevage préféré des programmeurs ?
 
-Il se console.
+L'apiculture
 ```
 
 ```diff
-L'alcool est l'ennemi du chrétien...
+Comment appelle-t-on 6 gays à la guerre ?
 
-Mais la bible nous enseigne d'aimer nos ennemis !
+Rainbow six
 ```
 
 ```diff
-Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
+On aurait dû filmer notre nuit d'amour !
 
-Car elles aiment les gigabits!
+Oh, moi tu sais, les courts métrages...
 ```
 
 ```diff
-Harry Potter est le seul film...
+Je suis anti-féministe.
 
-... où on voit des mecs se servir d'un balai.
+Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 95 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 94 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Harry Potter est le seul film...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
