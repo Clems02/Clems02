@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'élevage préféré des programmeurs ?
+Que fait un développeur qui a froid ?
 
-L'apiculture
+Il met une C-Sharp.
 ```
 
 ```diff
-Comment appelle-t-on 6 gays à la guerre ?
+Tu n'as pas besoin de parachute pour faire du parachutisme.
 
-Rainbow six
+Cependant, tu as besoin d'un parachute si tu veux en faire deux fois.
 ```
 
 ```diff
-On aurait dû filmer notre nuit d'amour !
+Comment appel t'on une gothique qui suce ?
 
-Oh, moi tu sais, les courts métrages...
+Une pompe funèbre !
 ```
 
 ```diff
-Je suis anti-féministe.
+Les femmes ne sont pas vos objets sexuels.
 
-Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
+Ce sont les miens !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 94 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 93 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais si les femmes montrent leurs nibards pour militer, je veux bien les souteni
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
