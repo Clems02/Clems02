@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur qui a froid ?
+Quel est le chanteur préféré des développeurs ?
 
-Il met une C-Sharp.
+Michael Json
 ```
 
 ```diff
-Tu n'as pas besoin de parachute pour faire du parachutisme.
+Quel est le meilleur antivol ?
 
-Cependant, tu as besoin d'un parachute si tu veux en faire deux fois.
+Un jambon
 ```
 
 ```diff
-Comment appel t'on une gothique qui suce ?
+Que fait un nain pour se torcher?
 
-Une pompe funèbre !
+Il cour dans l'herbe.....
 ```
 
 ```diff
-Les femmes ne sont pas vos objets sexuels.
+Comment appelle-t-on une vache qui joue de la musique ?
 
-Ce sont les miens !
+Une meeuhsiciene.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 93 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 92 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont les miens !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
