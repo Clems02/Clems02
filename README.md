@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le chanteur préféré des développeurs ?
+Quel est le biscuit préféré d'Internet ?
 
-Michael Json
+Le cookie
 ```
 
 ```diff
-Quel est le meilleur antivol ?
+Tous les signes astrologiques ont des cheveux !
 
-Un jambon
+Sauf le cancer...
 ```
 
 ```diff
-Que fait un nain pour se torcher?
+Quel est le point commun entre ta mère et la coupe de la LDC ?
 
-Il cour dans l'herbe.....
+Tout le monde a envie de la soulever.
 ```
 
 ```diff
-Comment appelle-t-on une vache qui joue de la musique ?
+Combien coûte un homme ?
 
-Une meeuhsiciene.
+Deux boules.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 92 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 91 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une meeuhsiciene.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
