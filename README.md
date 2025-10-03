@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Que prend un développeur avant d'écrire ?
 
-Le cookie
+Il prend de la MD.
 ```
 
 ```diff
-Tous les signes astrologiques ont des cheveux !
+Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
 
-Sauf le cancer...
+Car il faut separer le jaune et le blanc.
 ```
 
 ```diff
-Quel est le point commun entre ta mère et la coupe de la LDC ?
+Comment sait-on quand il faut rompre ?
 
-Tout le monde a envie de la soulever.
+C'est quand elle te casse plus les couilles qu'elle ne te les vide.
 ```
 
 ```diff
-Combien coûte un homme ?
+Quel est le comble du boulanger ?
 
-Deux boules.
+Plus il a de la brioche, moins on voit sa baguette.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 91 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 90 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux boules.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
