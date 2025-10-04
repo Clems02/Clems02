@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que prend un développeur avant d'écrire ?
+Les villageois de Minecraft ne sont que des images…
 
-Il prend de la MD.
+ce sont des .png.
 ```
 
 ```diff
-Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
+Deux Arabes sont dans une voiture, qui conduit ?
 
-Car il faut separer le jaune et le blanc.
+La police.
 ```
 
 ```diff
-Comment sait-on quand il faut rompre ?
+Passer le bac, c'est comme faire la lessive.
 
-C'est quand elle te casse plus les couilles qu'elle ne te les vide.
+On mouille, on sèche, et on repasse.
 ```
 
 ```diff
-Quel est le comble du boulanger ?
+Quel est le point commun entre une femme et une grenade ?
 
-Plus il a de la brioche, moins on voit sa baguette.
+Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 90 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 89 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Plus il a de la brioche, moins on voit sa baguette.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
 
 
 <p align="center">
