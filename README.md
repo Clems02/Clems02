@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+Que fait un geek quand il a peur ?
 
-ce sont des .png.
+Il URL
 ```
 
 ```diff
-Deux Arabes sont dans une voiture, qui conduit ?
+Qu'est-ce qu'un lépreux dans un bain ?
 
-La police.
+Un Efferalgan
 ```
 
 ```diff
-Passer le bac, c'est comme faire la lessive.
+Si l’avortement est un meurtre...
 
-On mouille, on sèche, et on repasse.
+... la branlette, c’est quoi ? Un génocide ?
 ```
 
 ```diff
-Quel est le point commun entre une femme et une grenade ?
+Quelle est la différence entre un stressé et un puceau ?
 
-Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
+Ils ont tous les deux pa-niqué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 89 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 88 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié d
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
