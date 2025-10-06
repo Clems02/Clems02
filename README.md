@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek quand il a peur ?
+Quelle est la résolution d'un informaticien pour la nouvelle année ?
 
-Il URL
+Un 19" pouces.
 ```
 
 ```diff
-Qu'est-ce qu'un lépreux dans un bain ?
+Un homme à une femme arabe :
 
-Un Efferalgan
+"Wow, t'es vraiment une bombe !"
 ```
 
 ```diff
-Si l’avortement est un meurtre...
+Pourquoi prendre une assurance animalière à sa copine ?
 
-... la branlette, c’est quoi ? Un génocide ?
+Pour lui péter la chatte...
 ```
 
 ```diff
-Quelle est la différence entre un stressé et un puceau ?
+Hey Google, pourquoi je suis célibataire ?
 
-Ils ont tous les deux pa-niqué.
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 88 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 87 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils ont tous les deux pa-niqué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
