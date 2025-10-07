@@ -2,21 +2,21 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la résolution d'un informaticien pour la nouvelle année ?
+Que fait un développeur qui a froid ?
 
-Un 19" pouces.
+Il met une C-Sharp.
 ```
 
 ```diff
-Un homme à une femme arabe :
+Comment on appelle un bébé musulman ?
 
-"Wow, t'es vraiment une bombe !"
+Un Baby Boomer
 ```
 
 ```diff
-Pourquoi prendre une assurance animalière à sa copine ?
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-Pour lui péter la chatte...
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
@@ -28,7 +28,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 > [!NOTE]
-> Il reste 87 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 86 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
