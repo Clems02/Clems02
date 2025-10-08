@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur qui a froid ?
+Que prend un développeur avant d'écrire ?
 
-Il met une C-Sharp.
+Il prend de la MD.
 ```
 
 ```diff
-Comment on appelle un bébé musulman ?
+Quelle est la différence entre un hibou et un arabe ?
 
-Un Baby Boomer
+Y'en a pas. Ils dorment le jour et volent la nuit.
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+Qu’est ce qu’on a avec un soutien-gorge Disney ?
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+Des seins animés.
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-D'accord ! J'ouvre la caméra.
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 86 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 85 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
 
 
 <p align="center">
