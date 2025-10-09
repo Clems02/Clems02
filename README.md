@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que prend un développeur avant d'écrire ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-Il prend de la MD.
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Quelle est la différence entre un hibou et un arabe ?
+Quel est la différence entre un juif et un noir ?
 
-Y'en a pas. Ils dorment le jour et volent la nuit.
+Seulement un "H" : le premier va au camp, le deuxième va au champ.
 ```
 
 ```diff
-Qu’est ce qu’on a avec un soutien-gorge Disney ?
+Pourquoi les pharaons ont ils 2 fesses ?
 
-Des seins animés.
+Parce qu'Anubis !
 ```
 
 ```diff
-Qu'est-ce qu'une future mère toujours sur son portable ?
+Pourquoi le jeu Among-US est-il autant joué par les filles ?
 
-Une enceinte connectée.
+Parce qu'elles n'ont pas à se battre pour avoir le droit de vote.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 85 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 84 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une enceinte connectée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
