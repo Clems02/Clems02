@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Quel est le chanteur préféré des développeurs ?
 
-Les mauvais pilotes sont problématiques.
+Michael Json
 ```
 
 ```diff
-Quel est la différence entre un juif et un noir ?
+Qu'est-ce qu'un bon Juif ?
 
-Seulement un "H" : le premier va au camp, le deuxième va au champ.
+Un dur à cuire
 ```
 
 ```diff
-Pourquoi les pharaons ont ils 2 fesses ?
+Dis, s'il y avait les olympiques du sexe, tu penses que je pourrai representer mon pays ?
 
-Parce qu'Anubis !
+Oh oui, si c'est une epreuve de vitesse !
 ```
 
 ```diff
-Pourquoi le jeu Among-US est-il autant joué par les filles ?
+Tu connais l'histoire du castré décapité ?
 
-Parce qu'elles n'ont pas à se battre pour avoir le droit de vote.
+C'est une histoire sans queue ni tête !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 84 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 83 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles n'ont pas à se battre pour avoir le droit de vote.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
 
 
 <p align="center">
