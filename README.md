@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le chanteur préféré des développeurs ?
+Quand est ce que Windows ne bug pas ?
 
-Michael Json
+Quand l'ordinateur est éteint.
 ```
 
 ```diff
-Qu'est-ce qu'un bon Juif ?
+Que fais-tu quand tu vois un Arabe sur un scooter ?
 
-Un dur à cuire
+Tu le poursuis, car c'est probablement le tien.
 ```
 
 ```diff
-Dis, s'il y avait les olympiques du sexe, tu penses que je pourrai representer mon pays ?
+Maman maman, comment tu m'as fait ?
 
-Oh oui, si c'est une epreuve de vitesse !
+Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
 ```
 
 ```diff
-Tu connais l'histoire du castré décapité ?
+J'ai un chat dans la gorge...
 
-C'est une histoire sans queue ni tête !
+Vu ton haleine tu dois aussi avoir la litière...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 83 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 82 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est une histoire sans queue ni tête !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
 
 
 <p align="center">
