@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand est ce que Windows ne bug pas ?
+Quelle est la déesse du Wi-Fi ?
 
-Quand l'ordinateur est éteint.
+La déesse L.
 ```
 
 ```diff
-Que fais-tu quand tu vois un Arabe sur un scooter ?
+Quelle est la différence en LGBTQ et LGBTQ+ ?
 
-Tu le poursuis, car c'est probablement le tien.
+L'un est la version premium de l'autre.
 ```
 
 ```diff
-Maman maman, comment tu m'as fait ?
+On aurait dû filmer notre nuit d'amour !
 
-Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
+Oh ... Moi tu sais, les courts métrages...
 ```
 
 ```diff
-J'ai un chat dans la gorge...
+C'est en voyant un moustique se poser sur ses testicules...
 
-Vu ton haleine tu dois aussi avoir la litière...
+... qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 82 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 81 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Vu ton haleine tu dois aussi avoir la litière...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
