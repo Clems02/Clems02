@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse du Wi-Fi ?
+Pourquoi vaut il mieux être software que hardware ?
 
-La déesse L.
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Quelle est la différence en LGBTQ et LGBTQ+ ?
+J'adore les cannibales.
 
-L'un est la version premium de l'autre.
+Et apparemment, c'est réciproque.
 ```
 
 ```diff
-On aurait dû filmer notre nuit d'amour !
+Pourquoi les portes sont des putes ?
 
-Oh ... Moi tu sais, les courts métrages...
+Parce qu’elle se font touchée par tous le monde.
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+Quel est le point commun entre une diarrhée et une voiture électrique ?
 
-... qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+La peur de ne pas arriver à la maison !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 81 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 80 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
