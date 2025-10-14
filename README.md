@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Pourquoi les développeurs sont-ils en bonne santé ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Parce qu'ils ont des fibres !
 ```
 
 ```diff
-J'adore les cannibales.
+Qu'est-ce qu'un Somalien à poil ?
 
-Et apparemment, c'est réciproque.
+Un Mikado
 ```
 
 ```diff
-Pourquoi les portes sont des putes ?
+Comment appelle-t-on une actrice porno qui tombe enceinte ?
 
-Parce qu’elle se font touchée par tous le monde.
+Un accident de travail.
 ```
 
 ```diff
-Quel est le point commun entre une diarrhée et une voiture électrique ?
+Une mère demande à son fils : quel est ton animal préféré ?
 
-La peur de ne pas arriver à la maison !
+Le zébu parce qu'on a un point commun.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 80 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 79 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La peur de ne pas arriver à la maison !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
