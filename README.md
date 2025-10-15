@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs sont-ils en bonne santé ?
+Pourquoi Half Life 3 ne sortira jamais ?
 
-Parce qu'ils ont des fibres !
+Par ce qu'on arrive pas a retrouver la Source.
 ```
 
 ```diff
-Qu'est-ce qu'un Somalien à poil ?
+Quelle est la carte pokémon la plus rare en Afrique ?
 
-Un Mikado
+L'énergie eau.
 ```
 
 ```diff
-Comment appelle-t-on une actrice porno qui tombe enceinte ?
+Melon et melèche vont voter.
 
-Un accident de travail.
+Melon cherche l'isoloir et melèche la fente.
 ```
 
 ```diff
-Une mère demande à son fils : quel est ton animal préféré ?
+Pourquoi les alcooliques sont-ils des animaux à sang froid ?
 
-Le zébu parce qu'on a un point commun.
+Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 79 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 78 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zébu parce qu'on a un point commun.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
