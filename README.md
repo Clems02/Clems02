@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi Half Life 3 ne sortira jamais ?
+Quelle erreur ne peut-on pas abandonner ?
 
-Par ce qu'on arrive pas a retrouver la Source.
+L'erreur 403.
 ```
 
 ```diff
-Quelle est la carte pokémon la plus rare en Afrique ?
+Que fait un bébé qui saute dans une piscine ?
 
-L'énergie eau.
+Il se noie.
 ```
 
 ```diff
-Melon et melèche vont voter.
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-Melon cherche l'isoloir et melèche la fente.
+Mais pas votre voisin.
 ```
 
 ```diff
-Pourquoi les alcooliques sont-ils des animaux à sang froid ?
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 78 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 77 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
