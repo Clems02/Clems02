@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+Quel est le 2ème métier d’un développeur ?
 
-404... car après, ils ne s'y retrouvent plus !
+CSharpentier
 ```
 
 ```diff
-La vie, c'est comme une boîte de chocolat !
+Pourquoi n'y a t'il pas de juifs sur Saturne ?
 
-Ça dure moins longtemps chez les gros !
+Car c'est une planète gazeuse.
 ```
 
 ```diff
-Comment on appelle les femmes des terroristes ?
+Quelle est la tarte préférée des putes ?
 
-Des bombes sexuelles.
+La tarte catin
 ```
 
 ```diff
-Quel est l'inverse du divorce ?
+Hey Google, pourquoi je suis célibataire ?
 
-Le partage
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 76 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 75 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le partage
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
 
 
 <p align="center">
