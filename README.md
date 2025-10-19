@@ -2,21 +2,21 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Où partent les développeurs en vacances ?
 
-CSharpentier
+Aux C-Shell
 ```
 
 ```diff
-Pourquoi n'y a t'il pas de juifs sur Saturne ?
+Qu'est-ce qui est bleu, blanc et rouge ?
 
-Car c'est une planète gazeuse.
+Un Schtroumpf à qui on a coupé la tête.
 ```
 
 ```diff
-Quelle est la tarte préférée des putes ?
+Comment appelle-t-on une actrice porno qui tombe enceinte ?
 
-La tarte catin
+Un accident de travail.
 ```
 
 ```diff
@@ -28,7 +28,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 > [!NOTE]
-> Il reste 75 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 74 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
