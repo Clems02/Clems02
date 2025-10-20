@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+Que prend un développeur avant d'écrire ?
 
-Aux C-Shell
+Il prend de la MD.
 ```
 
 ```diff
-Qu'est-ce qui est bleu, blanc et rouge ?
+Un jour, quelqu'un a dit à Inch d'aller à Marrakech...
 
-Un Schtroumpf à qui on a coupé la tête.
+Et Inch alla !
 ```
 
 ```diff
-Comment appelle-t-on une actrice porno qui tombe enceinte ?
+Que fait un nain pour se torcher?
 
-Un accident de travail.
+Il cour dans l'herbe.....
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
 
-D'accord ! J'ouvre la caméra.
+L'emplacement du balai !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 74 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 73 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
