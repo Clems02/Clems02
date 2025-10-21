@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que prend un développeur avant d'écrire ?
+Vous voulez une blague sur la documentation ?
 
-Il prend de la MD.
+Elle n'a pas encore été faite.
 ```
 
 ```diff
-Un jour, quelqu'un a dit à Inch d'aller à Marrakech...
+Voici en quelques lignes le concept du billard :
 
-Et Inch alla !
+Il s'agit d'un blanc qui met hors jeu des rouges, des jaunes et un noir.
 ```
 
 ```diff
-Que fait un nain pour se torcher?
+Quelles sont vos matières préférées ?
 
-Il cour dans l'herbe.....
+Maths et Dessin !
 ```
 
 ```diff
-Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
+Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
 
-L'emplacement du balai !
+Bonne à nez !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 73 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 72 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'emplacement du balai !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
 
 
 <p align="center">
