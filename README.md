@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous voulez une blague sur la documentation ?
+Vous connaissez l'histoire de l'erreur 403 ?
 
-Elle n'a pas encore été faite.
+J'ai interdiction de vous la dire...
 ```
 
 ```diff
-Voici en quelques lignes le concept du billard :
+- Tu préfère draguer ma mère ou ma soeur ? - Bah ta soeur, bien sûr.
 
-Il s'agit d'un blanc qui met hors jeu des rouges, des jaunes et un noir.
+- Tu vois, papa ? C'est ça ton problème.
 ```
 
 ```diff
-Quelles sont vos matières préférées ?
+La vie, c'est comme un toboggan.
 
-Maths et Dessin !
+Pour aller plus vite faut coucher, même si parfois ça fait mal au cul.
 ```
 
 ```diff
-Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
+Quand un jeune couche avec une cougar...
 
-Bonne à nez !
+Il est sous l'âgée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 72 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 71 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bonne à nez !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
