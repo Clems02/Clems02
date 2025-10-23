@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous connaissez l'histoire de l'erreur 403 ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-J'ai interdiction de vous la dire...
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-- Tu préfère draguer ma mère ou ma soeur ? - Bah ta soeur, bien sûr.
+Tout à l'heure un policier m'a arrêté et m'a dit "Papier".
 
-- Tu vois, papa ? C'est ça ton problème.
+J'ai répondu "Ciseaux", j'ai gagné et j'ai accéléré. Depuis 35 minutes, il me poursuit... je pense qu'il veut une revanche.
 ```
 
 ```diff
-La vie, c'est comme un toboggan.
+L'amour, c'est comme les cartes.
 
-Pour aller plus vite faut coucher, même si parfois ça fait mal au cul.
+Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
 ```
 
 ```diff
-Quand un jeune couche avec une cougar...
+En quel objet veut être ressuscité un clochard ?
 
-Il est sous l'âgée.
+En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 71 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 70 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il est sous l'âgée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
