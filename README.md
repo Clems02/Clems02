@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Quelle est la déesse du Wi-Fi ?
 
-Elle repart, car il n'y a pas de table.
+La déesse L.
 ```
 
 ```diff
-Tout à l'heure un policier m'a arrêté et m'a dit "Papier".
+Qu'est-ce qu'un collabo ?
 
-J'ai répondu "Ciseaux", j'ai gagné et j'ai accéléré. Depuis 35 minutes, il me poursuit... je pense qu'il veut une revanche.
+Un français qui a choisi son camp et rempli ceux des Allemands.
 ```
 
 ```diff
-L'amour, c'est comme les cartes.
+Comment on appelle les femmes des terroristes ?
 
-Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
+Des bombes sexuelles.
 ```
 
 ```diff
-En quel objet veut être ressuscité un clochard ?
+Que dit une bière quand elle tombe dans l'eau ?
 
-En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
+Je sais panaché.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 70 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 69 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les ma
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
