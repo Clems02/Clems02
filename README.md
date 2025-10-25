@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse du Wi-Fi ?
+Quel composant a un classement correct dans la société ?
 
-La déesse L.
+La carte maire
 ```
 
 ```diff
-Qu'est-ce qu'un collabo ?
+Est-ce qu'un aveugle...
 
-Un français qui a choisi son camp et rempli ceux des Allemands.
+...peut donner son point de vue ?
 ```
 
 ```diff
-Comment on appelle les femmes des terroristes ?
+Pourquoi j'ai appelé mon pénis Bidou ?
 
-Des bombes sexuelles.
+Parce que quand je vais pisser, je s'coue Bidou.
 ```
 
 ```diff
-Que dit une bière quand elle tombe dans l'eau ?
+Tu connais l'histoire du castré décapité ?
 
-Je sais panaché.
+C'est une histoire sans queue ni tête !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 69 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 68 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je sais panaché.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
 
 
 <p align="center">
