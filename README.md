@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+Que fait un développeur quand il est triste ?
 
-La carte maire
+Il se console.
 ```
 
 ```diff
-Est-ce qu'un aveugle...
+J'appellerai ma fille coupe du monde.
 
-...peut donner son point de vue ?
+Pour qu'aucun africain ne la soulève.
 ```
 
 ```diff
-Pourquoi j'ai appelé mon pénis Bidou ?
+Quelle est la tarte préférée des putes ?
 
-Parce que quand je vais pisser, je s'coue Bidou.
+La tarte catin
 ```
 
 ```diff
-Tu connais l'histoire du castré décapité ?
+Peut-on prendre un bain quand on a la diarrhée ?
 
-C'est une histoire sans queue ni tête !
+Oui, si on en a assez.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 68 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 67 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est une histoire sans queue ni tête !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
