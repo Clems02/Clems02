@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un pirate informatique fait le mieux ?
+Comment les développeurs se débarrassent des fantômes ?
 
-Ce qui lui tient hackeur !
+En effectuant un XOR-cisme.
 ```
 
 ```diff
-À quel endroit se trouvent les tétraplégiques ?
+Quelle solution ont trouvé les chinois pour faire le travail de 100 hommes ?
 
-Là où on les a laissés.
+10 enfants.
 ```
 
 ```diff
-La vie c’est comme un pénis,
+Quelle est la différence entre un vieux et un renard ?
 
-Simple, relax et soudain, une femme le/la rend dur(e).
+Le renard a la queue touffue et le vieux a la queue foutue.
 ```
 
 ```diff
-Tu connais l'histoire du castré décapité ?
+Je suis anti-féministe.
 
-C'est une histoire sans queue ni tête !
+Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 66 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 65 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est une histoire sans queue ni tête !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
