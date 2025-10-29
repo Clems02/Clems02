@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment les développeurs se débarrassent des fantômes ?
+Comment appelle-t-on un trucage photo ?
 
-En effectuant un XOR-cisme.
+Un Faux-to-chopage
 ```
 
 ```diff
-Quelle solution ont trouvé les chinois pour faire le travail de 100 hommes ?
+Tu préfères ammener un noir à Auchan ou...
 
-10 enfants.
+ammener un noir au champ ?
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un renard ?
+Monsieur le Curé, je peux rejoindre mes parents ?
 
-Le renard a la queue touffue et le vieux a la queue foutue.
+D'accord, mais remonte ton slip avant.
 ```
 
 ```diff
-Je suis anti-féministe.
+Quel est le style préféré d'un roux ?
 
-Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 65 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 64 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais si les femmes montrent leurs nibards pour militer, je veux bien les souteni
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
