@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Pourquoi un ordinateur se gratte-t-il tout le temps ?
 
-Un Faux-to-chopage
+Car il a des puces.
 ```
 
 ```diff
-Tu préfères ammener un noir à Auchan ou...
+Quelle est la différence entre une tronçonneuse et un noir ?
 
-ammener un noir au champ ?
+Aucune, les deux fonctionnent mieux avec des chaînes.
 ```
 
 ```diff
-Monsieur le Curé, je peux rejoindre mes parents ?
+Que disent deux fesses sur un bateau ?
 
-D'accord, mais remonte ton slip avant.
+Dis donc ça commence à ramer du cul.
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
 
-Le roustique.
+Les deux
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 64 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 63 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
