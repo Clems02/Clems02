@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un ordinateur se gratte-t-il tout le temps ?
+Quel est le dieu favori des développeurs ?
 
-Car il a des puces.
+Tor
 ```
 
 ```diff
-Quelle est la différence entre une tronçonneuse et un noir ?
+Quelle est la différence entre un Juif et un scout ?
 
-Aucune, les deux fonctionnent mieux avec des chaînes.
+Le scout, il revient du camp.
 ```
 
 ```diff
-Que disent deux fesses sur un bateau ?
+Quel est le seul instrument à vent avec une corde ?
 
-Dis donc ça commence à ramer du cul.
+Le string.
 ```
 
 ```diff
-Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
+Comment appelle-t-on une orgie de nains?
 
-Les deux
+Une passe-partouze
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 63 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 62 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
