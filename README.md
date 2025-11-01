@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le dieu favori des développeurs ?
+Quel est le meilleur magazine pour développeurs ?
 
-Tor
+Pomme d'api
 ```
 
 ```diff
-Quelle est la différence entre un Juif et un scout ?
+En 2022, on doit plus dire "pédophile".
 
-Le scout, il revient du camp.
+On dit "béta-testeurs" maintenant.
 ```
 
 ```diff
-Quel est le seul instrument à vent avec une corde ?
+Melon et melèche vont voter.
 
-Le string.
+Melon cherche l'isoloir et melèche la fente.
 ```
 
 ```diff
-Comment appelle-t-on une orgie de nains?
+Il ne faut pas donner du pain aux canards...
 
-Une passe-partouze
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 62 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 61 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une passe-partouze
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
