@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le meilleur magazine pour développeurs ?
+Pourquoi les développeurs sont-ils en bonne santé ?
 
-Pomme d'api
+Parce qu'ils ont des fibres !
 ```
 
 ```diff
-En 2022, on doit plus dire "pédophile".
+Quel est le language de programmation préféré de Hitler ?
 
-On dit "béta-testeurs" maintenant.
+Le CSS
 ```
 
 ```diff
-Melon et melèche vont voter.
+Pourquoi Cendrillon est-elle morte à minuit ?
 
-Melon cherche l'isoloir et melèche la fente.
+Parce que son tampon s'est transformé en citrouille.
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
 
-Aux connards non plus !
+Les deux
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 61 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 60 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
