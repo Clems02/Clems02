@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs sont-ils en bonne santé ?
+Vous connaissez l'histoire de l'erreur 403 ?
 
-Parce qu'ils ont des fibres !
+J'ai interdiction de vous la dire...
 ```
 
 ```diff
-Quel est le language de programmation préféré de Hitler ?
+Qu'est-ce que la beauté intérieure ?
 
-Le CSS
+Un concept inventé par les moches pour pouvoir se reproduire.
 ```
 
 ```diff
-Pourquoi Cendrillon est-elle morte à minuit ?
+Quand Chuck Norris viole la loi...
 
-Parce que son tampon s'est transformé en citrouille.
+... elle en redemande.
 ```
 
 ```diff
-Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
+Quelle est la différence entre une dinde et ma sœur ?
 
-Les deux
+La dinde, je ne l'ai pas encore fourrée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 60 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 59 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
 
 
 <p align="center">
