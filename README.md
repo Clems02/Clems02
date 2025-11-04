@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous connaissez l'histoire de l'erreur 403 ?
+Que met un développeur sur sa voiture en hiver ?
 
-J'ai interdiction de vous la dire...
+Une bash.
 ```
 
 ```diff
-Qu'est-ce que la beauté intérieure ?
+Pourquoi un cul-de-jatte cherche-t-il à acheter une maison ?
 
-Un concept inventé par les moches pour pouvoir se reproduire.
+Pour avoir un pied-à-terre.
 ```
 
 ```diff
-Quand Chuck Norris viole la loi...
+Pourquoi j'ai appelé mon pénis Bidou ?
 
-... elle en redemande.
+Parce que quand je vais pisser, je s'coue Bidou.
 ```
 
 ```diff
-Quelle est la différence entre une dinde et ma sœur ?
+Pourquoi les hommes amènent-ils leur femme en vacances ?
 
-La dinde, je ne l'ai pas encore fourrée.
+Pour que les vacances paraissent plus longues...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 59 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 58 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La dinde, je ne l'ai pas encore fourrée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
