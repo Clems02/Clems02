@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que met un développeur sur sa voiture en hiver ?
+Un développeur ne descend pas du métro.
 
-Une bash.
+Il libère la RAM.
 ```
 
 ```diff
-Pourquoi un cul-de-jatte cherche-t-il à acheter une maison ?
+Comment appelle-t-on la maladie d'une voiture qui ne cesse de biper ?
 
-Pour avoir un pied-à-terre.
+La maladie de parking sonne !
 ```
 
 ```diff
-Pourquoi j'ai appelé mon pénis Bidou ?
+Violer quelqu'un, c'est comme un cambriolage...
 
-Parce que quand je vais pisser, je s'coue Bidou.
+... tu pénètres par effraction et tu casses tout.
 ```
 
 ```diff
-Pourquoi les hommes amènent-ils leur femme en vacances ?
+En Normandie, quand il y a de la moule...
 
-Pour que les vacances paraissent plus longues...
+On a la frite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 58 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 57 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour que les vacances paraissent plus longues...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
