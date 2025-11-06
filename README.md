@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Comment appelle-t-on un développeur amateur de musique ?
 
-Il libère la RAM.
+Un audiofile
 ```
 
 ```diff
-Comment appelle-t-on la maladie d'une voiture qui ne cesse de biper ?
+Pourquoi les noirs adorent la pâtisserie ?
 
-La maladie de parking sonne !
+C'est le seul moyen qu'ils ont de pouvoir battre les blancs.
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Monsieur le Curé, je peux rejoindre mes parents ?
 
-... tu pénètres par effraction et tu casses tout.
+D'accord, mais remonte ton slip avant.
 ```
 
 ```diff
-En Normandie, quand il y a de la moule...
+Comment la chouette sait que son mari fait la gueule ?
 
-On a la frite.
+Parce qu'Hiboude.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 57 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 56 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On a la frite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
