@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quoi reconnaît-on un métro ?
+Quel est l'animal le plus connecté ?
 
-À son metroId !
+Le porc USB
 ```
 
 ```diff
-Qu’est ce qu’un noir avec un chapeau blanc ?
+Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
 
-Un pot de Nutella !
+Il vaut mieux renverser la moitié de son verre que d'oublier de le boire.
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Pourquoi les prêtres ont-ils inventé le baptême ?
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+Parce qu'il faut toujours laver des sextoys après usage !
 ```
 
 ```diff
-Quel est le point commun entre une femme et une voiture de sport ?
+C'est en voyant un moustique se poser sur ses testicules...
 
-Les deux font du bruit lorsqu'on accélère.
+... qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 55 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 54 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux font du bruit lorsqu'on accélère.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
 
 
 <p align="center">
