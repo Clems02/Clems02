@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal le plus connecté ?
+De quelle couleur sont tes yeux ?
 
-Le porc USB
+#1292f4 et toi ?
 ```
 
 ```diff
-Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
+Quel est le point commun entre les petites filles et les bouteilles de vin ?
 
-Il vaut mieux renverser la moitié de son verre que d'oublier de le boire.
+Les meilleures ont douze ans d'âge et sont dans ma cave.
 ```
 
 ```diff
-Pourquoi les prêtres ont-ils inventé le baptême ?
+Maman maman, comment tu m'as fait ?
 
-Parce qu'il faut toujours laver des sextoys après usage !
+Tu sais il y a plusieurs facteurs qui sont rentrés dans ta conception.
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+Harry Potter est le seul film...
 
-... qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+... où on voit des mecs se servir d'un balai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 54 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 53 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
