@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ceux qui votent Trump ne font pas de programmation ?
+Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
 
-Car une erreur "403: Forbidden" arrive vite.
+Il s'est pris une racine !
 ```
 
 ```diff
-Quelle est la différence entre un Juif et une pizza ?
+Papa ! Pourquoi mamie court en zigzag ?
 
-la pizza ne crie pas quand on la met au four.
+Ta gueule p'tit con, et passe-moi les cartouches !
 ```
 
 ```diff
-Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
+Un vieux proverbe dit : qui se branle face au vent...
 
-La femme répliqua « Je suis pro stituée ! »
+... a le nombril tout gluant.
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+Les seins c'est comme l'argent.
 
-Aux connards non plus !
+Ceux qui en ont ne veulent pas partager.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 52 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 51 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
