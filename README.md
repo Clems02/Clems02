@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
+Quelle est la console préférée des chats ?
 
-Il s'est pris une racine !
+La PS cat.
 ```
 
 ```diff
-Papa ! Pourquoi mamie court en zigzag ?
+Qu'est-ce qu'une piscine remplie d'handicapés ?
 
-Ta gueule p'tit con, et passe-moi les cartouches !
+Une soupe aux légumes.
 ```
 
 ```diff
-Un vieux proverbe dit : qui se branle face au vent...
+Quel est le point commun entre les hommes et les crevettes ?
 
-... a le nombril tout gluant.
+Rien dans la tête tout dans la queue.
 ```
 
 ```diff
-Les seins c'est comme l'argent.
+L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
 
-Ceux qui en ont ne veulent pas partager.
+Depuis, elle ne m'a plus reparlé...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 51 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 50 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ceux qui en ont ne veulent pas partager.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
