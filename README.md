@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la console préférée des chats ?
+Jusqu'à combien savent compter les geeks ?
 
-La PS cat.
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Qu'est-ce qu'une piscine remplie d'handicapés ?
+Pourquoi les orphelins ont des iPhone X ?
 
-Une soupe aux légumes.
+Parce qu'il n'y a pas de bouton HOME.
 ```
 
 ```diff
-Quel est le point commun entre les hommes et les crevettes ?
+Quel est le point commun entre le paradis et le vagin ?
 
-Rien dans la tête tout dans la queue.
+Pour y entrer, il faut être raide.
 ```
 
 ```diff
-L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
+Quel est le point commun entre un ado qui s'ennuie en cours et une pute qui se gratte ?
 
-Depuis, elle ne m'a plus reparlé...
+Le morpion
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 50 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 49 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Depuis, elle ne m'a plus reparlé...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
 
 
 <p align="center">
