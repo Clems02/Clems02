@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+Quelle est la déesse du Wi-Fi ?
 
-404... car après, ils ne s'y retrouvent plus !
+La déesse L.
 ```
 
 ```diff
-Pourquoi les orphelins ont des iPhone X ?
+Qu'elle est la différence entre l'Allemagne Nazie et la Chine ?
 
-Parce qu'il n'y a pas de bouton HOME.
+L'idéologie.
 ```
 
 ```diff
-Quel est le point commun entre le paradis et le vagin ?
+Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
 
-Pour y entrer, il faut être raide.
+L'autre répond : "Désolée, j'ai roté."
 ```
 
 ```diff
-Quel est le point commun entre un ado qui s'ennuie en cours et une pute qui se gratte ?
+Comment appelle-t-on une blonde pendue par les pieds dans un garage ?
 
-Le morpion
+Une clé à pipe
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 49 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 48 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le morpion
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
