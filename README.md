@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse du Wi-Fi ?
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-La déesse L.
+Le mode jour des applications !
 ```
 
 ```diff
-Qu'elle est la différence entre l'Allemagne Nazie et la Chine ?
+Que fait un Chinois qui tombe de la tour Eiffel ?
 
-L'idéologie.
+CHIIIIIIIIIN... toc
 ```
 
 ```diff
-Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
+Pourquoi les poules n'ont-elles pas de seins ?
 
-L'autre répond : "Désolée, j'ai roté."
+Parce que les coqs n'ont pas de mains !
 ```
 
 ```diff
-Comment appelle-t-on une blonde pendue par les pieds dans un garage ?
+Un jour, une chinoise cherchait son mari dans la foule, en vain.
 
-Une clé à pipe
+C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 48 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 47 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une clé à pipe
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
