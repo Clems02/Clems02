@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Pourquoi ceux qui votent Trump ne font pas de programmation ?
 
-Le mode jour des applications !
+Car une erreur "403: Forbidden" arrive vite.
 ```
 
 ```diff
-Que fait un Chinois qui tombe de la tour Eiffel ?
+En attendant avec d'autres parents devant la maternelle, on m'a demandé "C'est lequel le votre ?"
 
-CHIIIIIIIIIN... toc
+J'ai répondu : "J'ai pas encore choisi". Bref j'ai 3 ans ferme.
 ```
 
 ```diff
-Pourquoi les poules n'ont-elles pas de seins ?
+Pourquoi les hommes sont dotés d'un pénis ?
 
-Parce que les coqs n'ont pas de mains !
+Pour vérifier la beauté intérieure des femmes.
 ```
 
 ```diff
-Un jour, une chinoise cherchait son mari dans la foule, en vain.
+C'est en voyant un moustique se poser sur ses testicules...
 
-C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
+...qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 47 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 46 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
 
 
 <p align="center">
