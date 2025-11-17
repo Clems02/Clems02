@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ceux qui votent Trump ne font pas de programmation ?
+Pourquoi les développeurs vont en boîte de nuit ?
 
-Car une erreur "403: Forbidden" arrive vite.
+Pour faire la java.
 ```
 
 ```diff
-En attendant avec d'autres parents devant la maternelle, on m'a demandé "C'est lequel le votre ?"
+Quand j'étais gamin, j'avais un ami noir.
 
-J'ai répondu : "J'ai pas encore choisi". Bref j'ai 3 ans ferme.
+Jusqu'au jour où mon grand-père l'a vendu.
 ```
 
 ```diff
-Pourquoi les hommes sont dotés d'un pénis ?
+Quel est le point commun entre un prêtre et un amateur de vin?
 
-Pour vérifier la beauté intérieure des femmes.
+Les deux préfèrent les 12 ans d'âge.
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
 
-...qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+Non, tatoué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 46 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 45 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
 
 
 <p align="center">
