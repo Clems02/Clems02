@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs vont en boîte de nuit ?
+Comment appelle-t-on un développeur amateur de musique ?
 
-Pour faire la java.
+Un audiofile
 ```
 
 ```diff
-Quand j'étais gamin, j'avais un ami noir.
+Qu'est-ce qui est pire que lancer un bébé en-bas d'un hélicoptère ?
 
-Jusqu'au jour où mon grand-père l'a vendu.
+Le lancer en-haut
 ```
 
 ```diff
-Quel est le point commun entre un prêtre et un amateur de vin?
+Quel est le point commun entre un écureuil et une prostituée ?
 
-Les deux préfèrent les 12 ans d'âge.
+Ils sucent tous les deux des glands...
 ```
 
 ```diff
-2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
+Quel est le point commun entre les blagues et les jupes ?
 
-Non, tatoué.
+Les plus courtes sont les meilleures.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 45 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 44 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non, tatoué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
