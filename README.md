@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un développeur amateur de musique ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Un audiofile
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Qu'est-ce qui est pire que lancer un bébé en-bas d'un hélicoptère ?
+Quelle est la différence entre un juif et un pompier ?
 
-Le lancer en-haut
+Les deux vont dans le feu, mais il n'y en a qu'un seul qui en ressort vivant.
 ```
 
 ```diff
-Quel est le point commun entre un écureuil et une prostituée ?
+Comment appelle-t-on un préservatif pour statue ?
 
-Ils sucent tous les deux des glands...
+Une capote en glaise.
 ```
 
 ```diff
-Quel est le point commun entre les blagues et les jupes ?
+Tu connais l'homme qui a 5 pénis ?
 
-Les plus courtes sont les meilleures.
+Apparemment, son slip lui va comme un gant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 44 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 43 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les plus courtes sont les meilleures.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
