@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Mon processeur est super musclé :
 
-Car c’est le hardware qui prend des coups quand le software plante
+Un tel corps, c'est exceptionnel !
 ```
 
 ```diff
-Quelle est la différence entre un juif et un pompier ?
+Que font 1+2-1x2 ?
 
-Les deux vont dans le feu, mais il n'y en a qu'un seul qui en ressort vivant.
+Le nombre de jambes d'un Manchot.
 ```
 
 ```diff
-Comment appelle-t-on un préservatif pour statue ?
+Quelle est le point commun entre la vie et une bite ?
 
-Une capote en glaise.
+Elles sont simples, relax, et soudain une femme les rend dures.
 ```
 
 ```diff
-Tu connais l'homme qui a 5 pénis ?
+Sur quel site internet peut-on trouver un lave-vaisselle pas cher ?
 
-Apparemment, son slip lui va comme un gant.
+Meetic.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 43 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 42 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Apparemment, son slip lui va comme un gant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
