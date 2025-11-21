@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Mon processeur est super musclé :
+Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
 
-Un tel corps, c'est exceptionnel !
+Il s'est pris une racine !
 ```
 
 ```diff
-Que font 1+2-1x2 ?
+Les maisons de retraite, c'est comme Koh-Lanta...
 
-Le nombre de jambes d'un Manchot.
+À la fin, il n'en restera qu'un.
 ```
 
 ```diff
-Quelle est le point commun entre la vie et une bite ?
+Comment appelle-t-on un préservatif pour statue ?
 
-Elles sont simples, relax, et soudain une femme les rend dures.
+Une capote en glaise.
 ```
 
 ```diff
-Sur quel site internet peut-on trouver un lave-vaisselle pas cher ?
+Pourquoi les oiseaux volent-ils vers le sud ?
 
-Meetic.
+Car à pied, c'est beaucoup trop long.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 42 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 41 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Meetic.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
