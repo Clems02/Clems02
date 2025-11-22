@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
+C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
 
-Il s'est pris une racine !
+... PATH le chemin !
 ```
 
 ```diff
-Les maisons de retraite, c'est comme Koh-Lanta...
+Qu'est-ce qu'un légume rigolo ?
 
-À la fin, il n'en restera qu'un.
+Un chou marreur
 ```
 
 ```diff
-Comment appelle-t-on un préservatif pour statue ?
+Deux amis discutent d'astrologie :   "Moi, je suis Vierge.
 
-Une capote en glaise.
+- Plus pour longtemps..."
 ```
 
 ```diff
-Pourquoi les oiseaux volent-ils vers le sud ?
+Qu'est-ce qu'une future mère toujours sur son portable ?
 
-Car à pied, c'est beaucoup trop long.
+Une enceinte connectée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 41 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 40 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car à pied, c'est beaucoup trop long.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
 
 
 <p align="center">
