@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
+Quel est le réseau social où tout le monde se prend la tête ?
 
-... PATH le chemin !
+Discord
 ```
 
 ```diff
-Qu'est-ce qu'un légume rigolo ?
+Quelle est la différence en LGBTQ et LGBTQ+ ?
 
-Un chou marreur
+L'un est la version premium de l'autre.
 ```
 
 ```diff
-Deux amis discutent d'astrologie :   "Moi, je suis Vierge.
+Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
 
-- Plus pour longtemps..."
+L'autre répond : "Désolée, j'ai roté."
 ```
 
 ```diff
-Qu'est-ce qu'une future mère toujours sur son portable ?
+Pourquoi les meilleurs pains sont idiots ?
 
-Une enceinte connectée.
+Parce que le pain con plaît.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 40 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 39 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une enceinte connectée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
 
 
 <p align="center">
