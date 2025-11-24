@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+Quel est le biscuit préféré d'Internet ?
 
-Discord
+Le cookie
 ```
 
 ```diff
-Quelle est la différence en LGBTQ et LGBTQ+ ?
+Comment appelle-t-on une révolte dans des camps de concentration ?
 
-L'un est la version premium de l'autre.
+Star wars
 ```
 
 ```diff
-Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
+Qu'est-ce qui est pire que de doigter sa sœur ?
 
-L'autre répond : "Désolée, j'ai roté."
+Y trouver l'alliance de son père.
 ```
 
 ```diff
-Pourquoi les meilleurs pains sont idiots ?
+Quel est le point commun entre un homme au réveil et un élastique ?
 
-Parce que le pain con plaît.
+Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 39 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 38 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que le pain con plaît.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
 
 
 <p align="center">
