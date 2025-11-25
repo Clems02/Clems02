@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Quelle erreur ne peut-on pas abandonner ?
 
-Le cookie
+L'erreur 403.
 ```
 
 ```diff
-Comment appelle-t-on une révolte dans des camps de concentration ?
+Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
 
-Star wars
+... Allô sœurette ?
 ```
 
 ```diff
-Qu'est-ce qui est pire que de doigter sa sœur ?
+Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
 
-Y trouver l'alliance de son père.
+"Dans ma bouche"
 ```
 
 ```diff
-Quel est le point commun entre un homme au réveil et un élastique ?
+Quel est le point commun entre une femme et une grenade ?
 
-Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
+Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 38 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 37 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
 
 
 <p align="center">
