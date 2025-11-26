@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle erreur ne peut-on pas abandonner ?
+Pourquoi lorsqu'on mange une poutine le goût arrive 5 secondes après ?
 
-L'erreur 403.
+Parce que le GouLag
 ```
 
 ```diff
-Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
+Une fillette est retrouvée égorgée dans la rue… L'enquêteur questionne le légiste : Elle a été violée ?
 
-... Allô sœurette ?
+Non pas encore, j'attendais votre autorisation.
 ```
 
 ```diff
-Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
+Violer quelqu'un, c'est comme un cambriolage...
 
-"Dans ma bouche"
+... tu pénètres par effraction et tu casses tout.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une grenade ?
+Les peintres utilisent, de l'imagination, de la créativité et...
 
-Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
+De la peinture.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 37 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 36 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié d
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
 
 
 <p align="center">
