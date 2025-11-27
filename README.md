@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi lorsqu'on mange une poutine le goût arrive 5 secondes après ?
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-Parce que le GouLag
+Le mode jour des applications !
 ```
 
 ```diff
-Une fillette est retrouvée égorgée dans la rue… L'enquêteur questionne le légiste : Elle a été violée ?
+Pourquoi Mr. PROPRE n'a aucun poil sur le caillou ?
 
-Non pas encore, j'attendais votre autorisation.
+Parce qu'il a le cancer.
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Tu sais quelle est la différence entre un moustique et moi ?
 
-... tu pénètres par effraction et tu casses tout.
+Contrairement au moustique, moi, je continue de te sucer quand tu me claques.
 ```
 
 ```diff
-Les peintres utilisent, de l'imagination, de la créativité et...
+Quand mon verre est plein, je le vide
 
-De la peinture.
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 36 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 35 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ De la peinture.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
