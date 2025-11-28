@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Pourquoi les développeurs n'aiment pas les forêts ?
 
-Le mode jour des applications !
+C'est rempli de bugs !
 ```
 
 ```diff
-Pourquoi Mr. PROPRE n'a aucun poil sur le caillou ?
+Quel est le comble pour un noir ?
 
-Parce qu'il a le cancer.
+Porter des pulls en coton
 ```
 
 ```diff
-Tu sais quelle est la différence entre un moustique et moi ?
+Melon et melèche vont voter.
 
-Contrairement au moustique, moi, je continue de te sucer quand tu me claques.
+Melon cherche l'isoloir et melèche la fente.
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+Pourquoi le pervers a connecté sa clé au porc USB ?
 
-Quand mon verre est vide, je me plains !
+Pour regarder des clips cochons.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 35 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 34 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
