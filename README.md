@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment pas les forêts ?
+Que prend un développeur avant d'écrire ?
 
-C'est rempli de bugs !
+Il prend de la MD.
 ```
 
 ```diff
-Quel est le comble pour un noir ?
+Que dit un arabe avant de faire un plongeon ?
 
-Porter des pulls en coton
+Allah une, Allah deux, Allahu akbar...
 ```
 
 ```diff
-Melon et melèche vont voter.
+Quel est le point commun entre les seins d'une femme et un train électrique ?
 
-Melon cherche l'isoloir et melèche la fente.
+Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
 ```
 
 ```diff
-Pourquoi le pervers a connecté sa clé au porc USB ?
+Quand mon verre est plein, je le vide
 
-Pour regarder des clips cochons.
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 34 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 33 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour regarder des clips cochons.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
 
 
 <p align="center">
