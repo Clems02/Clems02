@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que prend un développeur avant d'écrire ?
+Quel est le fruit préféré des développeurs ?
 
-Il prend de la MD.
+La pomme d'API !
 ```
 
 ```diff
-Que dit un arabe avant de faire un plongeon ?
+Un noir va aux toilettes et en ressort blanc, qu'a-t-il fait ?
 
-Allah une, Allah deux, Allahu akbar...
+Il a chié sa race.
 ```
 
 ```diff
-Quel est le point commun entre les seins d'une femme et un train électrique ?
+Si on pénètre Jack...
 
-Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
+Est-ce qu'on peux dire qu'on branche son casque filaire ?
 ```
 
 ```diff
-Quand mon verre est plein, je le vide
+Les seins c'est comme l'argent.
 
-Quand mon verre est vide, je me plains !
+Ceux qui en ont ne veulent pas partager.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 33 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 32 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand mon verre est vide, je me plains !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
 
 
 <p align="center">
