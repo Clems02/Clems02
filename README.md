@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le fruit préféré des développeurs ?
+Un développeur non-binaire qui code, ça ferait quoi ?
 
-La pomme d'API !
+Ça causerait des bugs.
 ```
 
 ```diff
-Un noir va aux toilettes et en ressort blanc, qu'a-t-il fait ?
+J'adore les cannibales.
 
-Il a chié sa race.
+Et apparemment, c'est réciproque.
 ```
 
 ```diff
-Si on pénètre Jack...
+Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
 
-Est-ce qu'on peux dire qu'on branche son casque filaire ?
+L'enfant djihadiste ne se fait sauter qu'une seule fois.
 ```
 
 ```diff
-Les seins c'est comme l'argent.
+Quel est le style préféré d'un roux ?
 
-Ceux qui en ont ne veulent pas partager.
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 32 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 31 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ceux qui en ont ne veulent pas partager.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:00-white?style=for-the-badge)
 
 
 <p align="center">
