@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur non-binaire qui code, ça ferait quoi ?
+Que se passe-t-il quand on secoue une clef USB ?
 
-Ça causerait des bugs.
+Les fichiers se mélangent.
 ```
 
 ```diff
-J'adore les cannibales.
+Quels sont les risques pour un pitbull de bouffer un bébé diabétique ?
 
-Et apparemment, c'est réciproque.
+Attraper des caries.
 ```
 
 ```diff
-Quelle est la différence entre un enfant de chœur catholique et un enfant djihadiste ?
+Quel est l'inverse de l'exorcisme ?
 
-L'enfant djihadiste ne se fait sauter qu'une seule fois.
+C'est quand le diable demande au prêtre de sortir de l'enfant.
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-Le roustique.
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 31 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 30 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
