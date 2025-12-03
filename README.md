@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que se passe-t-il quand on secoue une clef USB ?
+Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
 
-Les fichiers se mélangent.
+Le temps d’accès !
 ```
 
 ```diff
-Quels sont les risques pour un pitbull de bouffer un bébé diabétique ?
+J'ai plongé mon voisin, sa femme et ses enfants dans du métal en fusion...
 
-Attraper des caries.
+Ma mère m'a toujours dit qu'il fallait que je fonde une famille.
 ```
 
 ```diff
-Quel est l'inverse de l'exorcisme ?
+Quelle est la différence entre un vieux et un zizi ?
 
-C'est quand le diable demande au prêtre de sortir de l'enfant.
+Tu n'as pas besoin de secouer le vieux pour qu'il bave.
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Les femmes ne sont pas vos objets sexuels.
 
-Mr Propre
+Ce sont les miens !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 30 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 29 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
 
 
 <p align="center">
