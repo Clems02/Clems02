@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
+Quel est le comble pour un serveur ?
 
-Le temps d’accès !
+C'est de ne pas répondre.
 ```
 
 ```diff
-J'ai plongé mon voisin, sa femme et ses enfants dans du métal en fusion...
+Que fait un prêtre après avoir sodomisé un chauve ?
 
-Ma mère m'a toujours dit qu'il fallait que je fonde une famille.
+Il le repose dans son berceau.
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un zizi ?
+Hier, j'ai espionné un pote pour savoir son MDP, après quelques coups d'œil je le vois taper "PÉNIS"...
 
-Tu n'as pas besoin de secouer le vieux pour qu'il bave.
+Le PC l'a jugé "Trop court"...
 ```
 
 ```diff
-Les femmes ne sont pas vos objets sexuels.
+Quel est le point commun entre un homme et un tiroir ?
 
-Ce sont les miens !
+Les deux sont des fourre-tout.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 29 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 28 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont les miens !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:38-white?style=for-the-badge)
 
 
 <p align="center">
