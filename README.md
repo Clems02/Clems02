@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour un serveur ?
+Les villageois de Minecraft ne sont que des images…
 
-C'est de ne pas répondre.
+ce sont des .png.
 ```
 
 ```diff
-Que fait un prêtre après avoir sodomisé un chauve ?
+Est-ce qu'un muet...
 
-Il le repose dans son berceau.
+...peut donner sa parole ?
 ```
 
 ```diff
-Hier, j'ai espionné un pote pour savoir son MDP, après quelques coups d'œil je le vois taper "PÉNIS"...
+Quelle est la phrase que l'on peut dire en voiture et dans une cave ?
 
-Le PC l'a jugé "Trop court"...
+« Je ne savais pas qu’il y avait autant de place dans une 2008. »
 ```
 
 ```diff
-Quel est le point commun entre un homme et un tiroir ?
+Pourquoi aucun éléphant n'est informaticien ?
 
-Les deux sont des fourre-tout.
+Parce qu'ils ont peur de la souris.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 28 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 27 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux sont des fourre-tout.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:38-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
 
 
 <p align="center">
