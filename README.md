@@ -2,21 +2,21 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
 
-ce sont des .png.
+Il s'est pris une racine !
 ```
 
 ```diff
-Est-ce qu'un muet...
+Gordon Ramsey : "Putain Adolf je t'avais dit de mettre le lapin au four !"
 
-...peut donner sa parole ?
+Adolf Hitler : "Ah ?? Pas le rabbin ?"
 ```
 
 ```diff
-Quelle est la phrase que l'on peut dire en voiture et dans une cave ?
+Comment appelle-t-on la mère du phoque ?
 
-« Je ne savais pas qu’il y avait autant de place dans une 2008. »
+Mother phoquer
 ```
 
 ```diff
@@ -28,7 +28,7 @@ Parce qu'ils ont peur de la souris.
 <br/>
 
 > [!NOTE]
-> Il reste 27 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 26 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont peur de la souris.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
 
 
 <p align="center">
