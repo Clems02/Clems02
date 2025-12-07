@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
+Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
 
-Il s'est pris une racine !
+Parce que les bugs ne se reproduisent pas à cette heure-là.
 ```
 
 ```diff
-Gordon Ramsey : "Putain Adolf je t'avais dit de mettre le lapin au four !"
+Pourquoi ne faut-il pas faire de blague à un arabe ?
 
-Adolf Hitler : "Ah ?? Pas le rabbin ?"
+Car il risquerait d'exploser de rire.
 ```
 
 ```diff
-Comment appelle-t-on la mère du phoque ?
+Comment on sait quand il faut rompre ?
 
-Mother phoquer
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-Pourquoi aucun éléphant n'est informaticien ?
+Quelle est la différence entre les bières et les chasseurs ?
 
-Parce qu'ils ont peur de la souris.
+Les bières, on arrive à en faire sans alcool.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 26 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 25 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont peur de la souris.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
 
 
 <p align="center">
