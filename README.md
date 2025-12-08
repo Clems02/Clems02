@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+Que dit un programmeur SQL pour exprimer son mépris ?
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+SELECT finger FROM hand WHERE id=3;
 ```
 
 ```diff
-Pourquoi ne faut-il pas faire de blague à un arabe ?
+Comment appelle-t-on une bonne mère espagnole d'origine Africaine ?
 
-Car il risquerait d'exploser de rire.
+Mamadouoé
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+Si un noir veut me prendre par les sentiments.
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+Je peux dire qu'il mamadou ?
 ```
 
 ```diff
-Quelle est la différence entre les bières et les chasseurs ?
+Quelle est la différence entre un beignet et un donut ?
 
-Les bières, on arrive à en faire sans alcool.
+Le donut, il a percé dans le milieu.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 25 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 24 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les bières, on arrive à en faire sans alcool.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
