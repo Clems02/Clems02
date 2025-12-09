@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un programmeur SQL pour exprimer son mépris ?
+Un développeur non-binaire qui code, ça ferait quoi ?
 
-SELECT finger FROM hand WHERE id=3;
+Ça causerait des bugs.
 ```
 
 ```diff
-Comment appelle-t-on une bonne mère espagnole d'origine Africaine ?
+Un mec demande à son pote : "Comment faire pour ne pas commettre les mêmes erreur que mes parents ?"
 
-Mamadouoé
+Mets toujours un préservatif !
 ```
 
 ```diff
-Si un noir veut me prendre par les sentiments.
+Pourquoi un homme rentre-t-il dans un bar ?
 
-Je peux dire qu'il mamadou ?
+Parce qu'il est zoophile.
 ```
 
 ```diff
-Quelle est la différence entre un beignet et un donut ?
+Les enfants dans le noir font des bêtises.
 
-Le donut, il a percé dans le milieu.
+Mais les bêtises dans le noir font des enfants.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 24 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 23 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le donut, il a percé dans le milieu.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
 
 
 <p align="center">
