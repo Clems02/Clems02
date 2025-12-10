@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur non-binaire qui code, ça ferait quoi ?
+Jusqu'à combien savent compter les geeks ?
 
-Ça causerait des bugs.
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Un mec demande à son pote : "Comment faire pour ne pas commettre les mêmes erreur que mes parents ?"
+Tu préfères ammener un noir à Auchan ou...
 
-Mets toujours un préservatif !
+ammener un noir au champ ?
 ```
 
 ```diff
-Pourquoi un homme rentre-t-il dans un bar ?
+Monsieur et Madame Kûlasek ont un fils, comment s'appelle-t-il ?
 
-Parce qu'il est zoophile.
+Jean
 ```
 
 ```diff
-Les enfants dans le noir font des bêtises.
+Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
 
-Mais les bêtises dans le noir font des enfants.
+Parce que j'suis cuisinier et j'aimerais bien te sauter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 23 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 22 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais les bêtises dans le noir font des enfants.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
 
 
 <p align="center">
