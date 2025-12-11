@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+Que se passe-t-il quand on secoue une clef USB ?
 
-404... car après, ils ne s'y retrouvent plus !
+Les fichiers se mélangent.
 ```
 
 ```diff
-Tu préfères ammener un noir à Auchan ou...
+À tous ceux qui font des blagues sur le petit Grégory :
 
-ammener un noir au champ ?
+Vous n'êtes vraiment pas coules.
 ```
 
 ```diff
-Monsieur et Madame Kûlasek ont un fils, comment s'appelle-t-il ?
+C'est quoi la différence entre un homme et un sapin de Noël ?
 
-Jean
+Le nombre de boules
 ```
 
 ```diff
-Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
+Pourquoi Adolf Hitler détestait-il la mousse au chocolat ?
 
-Parce que j'suis cuisinier et j'aimerais bien te sauter !
+Parce que la moustache.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 22 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 21 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que j'suis cuisinier et j'aimerais bien te sauter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
 
 
 <p align="center">
