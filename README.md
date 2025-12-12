@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que se passe-t-il quand on secoue une clef USB ?
+Que fait un poussin sur GitHub ?
 
-Les fichiers se mélangent.
+Des poule requests
 ```
 
 ```diff
-À tous ceux qui font des blagues sur le petit Grégory :
+Ma femme et moi en avons discuté : nous ne voulons pas d'enfant !
 
-Vous n'êtes vraiment pas coules.
+Donc si quelqu'un en veut, laissez vos coordonnées et on le dépose le plus tôt possible.
 ```
 
 ```diff
-C'est quoi la différence entre un homme et un sapin de Noël ?
+Pourquoi un homme rentre-t-il dans un bar ?
 
-Le nombre de boules
+Parce qu'il est zoophile.
 ```
 
 ```diff
-Pourquoi Adolf Hitler détestait-il la mousse au chocolat ?
+Quel est le point commun entre un lave-linge et un alcoolique ?
 
-Parce que la moustache.
+Plus c'est bourré, moins ça tourne bien.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 21 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 20 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que la moustache.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
 
 
 <p align="center">
