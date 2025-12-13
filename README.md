@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un poussin sur GitHub ?
+Quel logiciel de conception est très prisé des gourmands ?
 
-Des poule requests
+SketchUp
 ```
 
 ```diff
-Ma femme et moi en avons discuté : nous ne voulons pas d'enfant !
+Une relation c'est comme le taxi,
 
-Donc si quelqu'un en veut, laissez vos coordonnées et on le dépose le plus tôt possible.
+Plus ça va loin, plus c'est cher quand ça s'arrête.
 ```
 
 ```diff
-Pourquoi un homme rentre-t-il dans un bar ?
+Pourquoi les pharaons ont ils 2 fesses ?
 
-Parce qu'il est zoophile.
+Parce qu'Anubis !
 ```
 
 ```diff
-Quel est le point commun entre un lave-linge et un alcoolique ?
+Comment reconnaît-on un aveugle sur une plage naturiste ?
 
-Plus c'est bourré, moins ça tourne bien.
+Ce n'est pas dur !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 20 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 19 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Plus c'est bourré, moins ça tourne bien.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
 
 
 <p align="center">
