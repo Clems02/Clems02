@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel logiciel de conception est très prisé des gourmands ?
+Que dit un informaticien quand il s'ennuie ?
 
-SketchUp
+Je me fichier.
 ```
 
 ```diff
-Une relation c'est comme le taxi,
+Comment sauver une fille d'un viol ?
 
-Plus ça va loin, plus c'est cher quand ça s'arrête.
+Il faut la convaincre.
 ```
 
 ```diff
-Pourquoi les pharaons ont ils 2 fesses ?
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-Parce qu'Anubis !
+Bah dans son cul.
 ```
 
 ```diff
-Comment reconnaît-on un aveugle sur une plage naturiste ?
+Quel est le point commun entre un gynécologue myope et un chien en bonne santé ?
 
-Ce n'est pas dur !
+Ils ont tous les deux le nez mouillé.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 19 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 18 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce n'est pas dur !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
