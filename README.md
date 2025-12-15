@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Comment les développeurs se débarrassent des fantômes ?
 
-Je me fichier.
+En effectuant un XOR-cisme.
 ```
 
 ```diff
-Comment sauver une fille d'un viol ?
+Quel point commun y-a-t-il entre grammaire et grand-mère ?
 
-Il faut la convaincre.
+Les deux ont des règles douloureuses.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Comment on dit bonjour aux femmes qui ont leur règles ?
 
-Bah dans son cul.
+Wesh, bien ou quoi le sang !
 ```
 
 ```diff
-Quel est le point commun entre un gynécologue myope et un chien en bonne santé ?
+Quelle est la différence entre une dinde et ma sœur ?
 
-Ils ont tous les deux le nez mouillé.
+La dinde, je ne l'ai pas encore fourrée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 18 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 17 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils ont tous les deux le nez mouillé.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
 
 
 <p align="center">
