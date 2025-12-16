@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment les développeurs se débarrassent des fantômes ?
+Où partent les développeurs en vacances ?
 
-En effectuant un XOR-cisme.
+Aux C-Shell
 ```
 
 ```diff
-Quel point commun y-a-t-il entre grammaire et grand-mère ?
+Tu ne peux pas être raciste ...
 
-Les deux ont des règles douloureuses.
+... si tu as exterminé toutes les autres races.
 ```
 
 ```diff
-Comment on dit bonjour aux femmes qui ont leur règles ?
+Que disent deux fesses sur un bateau ?
 
-Wesh, bien ou quoi le sang !
+Dis donc ça commence à ramer du cul.
 ```
 
 ```diff
-Quelle est la différence entre une dinde et ma sœur ?
+Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
 
-La dinde, je ne l'ai pas encore fourrée.
+Un site de rencontres.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 17 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 16 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La dinde, je ne l'ai pas encore fourrée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
 
 
 <p align="center">
