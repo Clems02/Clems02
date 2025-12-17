@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+Quel est l'animal préféré des développeurs ?
 
-Aux C-Shell
+Le python
 ```
 
 ```diff
-Tu ne peux pas être raciste ...
+Un petit garçon demande à sa maman : "Tu es sûre que c'est comme ça qu'on prépare un rôti ?"
 
-... si tu as exterminé toutes les autres races.
+"Tais-toi et rentre dans le four !"
 ```
 
 ```diff
-Que disent deux fesses sur un bateau ?
+Melon et Melèche jouent au Scrabble.
 
-Dis donc ça commence à ramer du cul.
+Melon pioche le W et Melèche le Q.
 ```
 
 ```diff
-Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
+Les femmes ne sont pas vos objets sexuels.
 
-Un site de rencontres.
+Ce sont les miens !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 16 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 15 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un site de rencontres.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
 
 
 <p align="center">
