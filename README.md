@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal préféré des développeurs ?
+Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
 
-Le python
+Car ils préfèrent les scratch.
 ```
 
 ```diff
-Un petit garçon demande à sa maman : "Tu es sûre que c'est comme ça qu'on prépare un rôti ?"
+Pourquoi la moustache de Hitler était si populaire pendant la Seconde Guerre mondiale ?
 
-"Tais-toi et rentre dans le four !"
+Car elle faisait Führer.
 ```
 
 ```diff
-Melon et Melèche jouent au Scrabble.
+Quelle est la différence entre l'homme et le homard ?
 
-Melon pioche le W et Melèche le Q.
+L'homme n'a pas besoin de mayonnaise pour qu'on lui bouffe la queue.
 ```
 
 ```diff
-Les femmes ne sont pas vos objets sexuels.
+Quel est le féminin de "Macho" ?
 
-Ce sont les miens !
+"Ma chose"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 15 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 14 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont les miens !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
