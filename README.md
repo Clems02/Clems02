@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
+Pourquoi les développeurs n'aiment pas les forêts ?
 
-Car ils préfèrent les scratch.
+C'est rempli de bugs !
 ```
 
 ```diff
-Pourquoi la moustache de Hitler était si populaire pendant la Seconde Guerre mondiale ?
+Qu'est-ce qu'une tranchée ?
 
-Car elle faisait Führer.
+Une fosse commune
 ```
 
 ```diff
-Quelle est la différence entre l'homme et le homard ?
+Sais-tu pourquoi je ne regarde jamais de porno ?
 
-L'homme n'a pas besoin de mayonnaise pour qu'on lui bouffe la queue.
+Parce que je suis de l'autre côté de la caméra.
 ```
 
 ```diff
-Quel est le féminin de "Macho" ?
+Quelle est la différence entre une femme et un dobermann ?
 
-"Ma chose"
+Le prix du collier
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 14 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 13 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le féminin de "Macho" ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
 
 
 <p align="center">
