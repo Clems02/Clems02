@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment pas les forêts ?
+Quel est l'élevage préféré des programmeurs ?
 
-C'est rempli de bugs !
+L'apiculture
 ```
 
 ```diff
-Qu'est-ce qu'une tranchée ?
+Qu’est-ce qui est blanc et qui tombe pendant les hivers rigoureux ?
 
-Une fosse commune
+Les petits vieux
 ```
 
 ```diff
-Sais-tu pourquoi je ne regarde jamais de porno ?
+Quel est le point commun entre la vaisselle et la branlette ?
 
-Parce que je suis de l'autre côté de la caméra.
+Ça fait mal au bras, mais quand c'est finis ça fait du bien.
 ```
 
 ```diff
-Quelle est la différence entre une femme et un dobermann ?
+Qu'est-ce qu'un nem avec des écouteurs ?
 
-Le prix du collier
+Un NemP3.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 13 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 12 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
 
 
 <p align="center">
