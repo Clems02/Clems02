@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'élevage préféré des programmeurs ?
+Que fait un développeur quand il est triste ?
 
-L'apiculture
+Il se console.
 ```
 
 ```diff
-Qu’est-ce qui est blanc et qui tombe pendant les hivers rigoureux ?
+J'ai arrêté de fumer il y a 13 ans.
 
-Les petits vieux
+Mais je suis encore loin du record de Jeanne d'Arc qui a arrêté il y a 592 ans.
 ```
 
 ```diff
-Quel est le point commun entre la vaisselle et la branlette ?
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-Ça fait mal au bras, mais quand c'est finis ça fait du bien.
+Mais pas votre voisin.
 ```
 
 ```diff
-Qu'est-ce qu'un nem avec des écouteurs ?
+Pourquoi la statue de la liberté est-elle une femme ?
 
-Un NemP3.
+Parce qu'il fallait une tête vide pour y mettre un restaurant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 12 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 11 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un NemP3.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
 
 
 <p align="center">
