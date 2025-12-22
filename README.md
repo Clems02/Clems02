@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il est triste ?
+Qu'est-ce qu'un pirate informatique fait le mieux ?
 
-Il se console.
+Ce qui lui tient hackeur !
 ```
 
 ```diff
-J'ai arrêté de fumer il y a 13 ans.
+Quel est le pire combo de maladies ?
 
-Mais je suis encore loin du record de Jeanne d'Arc qui a arrêté il y a 592 ans.
+Gastro et Alzheimer : tu cours aux toilettes, mais tu ne te souviens plus pourquoi.
 ```
 
 ```diff
-Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
+Comment appelle-t-on un dinosaure gay ?
 
-Mais pas votre voisin.
+Un tripotanus
 ```
 
 ```diff
-Pourquoi la statue de la liberté est-elle une femme ?
+Quel est le comble du boulanger ?
 
-Parce qu'il fallait une tête vide pour y mettre un restaurant.
+Plus il a de la brioche, moins on voit sa baguette.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 11 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 10 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'il fallait une tête vide pour y mettre un restaurant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
 
 
 <p align="center">
