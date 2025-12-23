@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un pirate informatique fait le mieux ?
+C'est l'histoire d'une cocotte-minute connectée...
 
-Ce qui lui tient hackeur !
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Quel est le pire combo de maladies ?
+Quel est la seul solde que Eric Zemmour ne veut pas faire ?
 
-Gastro et Alzheimer : tu cours aux toilettes, mais tu ne te souviens plus pourquoi.
+Le Black Friday.
 ```
 
 ```diff
-Comment appelle-t-on un dinosaure gay ?
+Si un noir veut me prendre par les sentiments.
 
-Un tripotanus
+Je peux dire qu'il mamadou ?
 ```
 
 ```diff
-Quel est le comble du boulanger ?
+Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
 
-Plus il a de la brioche, moins on voit sa baguette.
+Car le plateau ressemble au carrelage de la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 10 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 9 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Plus il a de la brioche, moins on voit sa baguette.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:45-white?style=for-the-badge)
 
 
 <p align="center">
