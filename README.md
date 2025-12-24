@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+$ npm find LaFemmeDeMaVie
 
-... qui utilise WinRAR pour décompresser.
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-Quel est la seul solde que Eric Zemmour ne veut pas faire ?
+Les compagnies ne reçoivent qu'une seule étoile quand leurs produits ne fonctionnent pas.
 
-Le Black Friday.
+Sauf les sociétés fabriquant des parachutes.
 ```
 
 ```diff
-Si un noir veut me prendre par les sentiments.
+Quel est le point commun entre un vieux marseillais et une prostituée ?
 
-Je peux dire qu'il mamadou ?
+Les deux aiment jouer avec des boules.
 ```
 
 ```diff
-Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
+Une mère demande à son fils : quel est ton animal préféré ?
 
-Car le plateau ressemble au carrelage de la cuisine.
+Le zébu parce qu'on a un point commun.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 9 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 8 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:45-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
 
 
 <p align="center">
