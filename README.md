@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-$ npm find LaFemmeDeMaVie
+Que se passe-t-il quand on secoue une clef USB ?
 
-Error: Unable to find package ‘LaFemmeDeMaVie’
+Les fichiers se mélangent.
 ```
 
 ```diff
-Les compagnies ne reçoivent qu'une seule étoile quand leurs produits ne fonctionnent pas.
+Quel est le plus gros dilemme pour un Juif ?
 
-Sauf les sociétés fabriquant des parachutes.
+Du jambon gratuit
 ```
 
 ```diff
-Quel est le point commun entre un vieux marseillais et une prostituée ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-Les deux aiment jouer avec des boules.
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Une mère demande à son fils : quel est ton animal préféré ?
+Pourquoi le cerveau des femmes est divisé en 5 ?
 
-Le zébu parce qu'on a un point commun.
+Pour chaque bouton de la cuisinière.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 8 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 7 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zébu parce qu'on a un point commun.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
