@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que se passe-t-il quand on secoue une clef USB ?
+Que dit une mère à son fils geek quand le dîner est servi ?
 
-Les fichiers se mélangent.
+Alt + Tab
 ```
 
 ```diff
-Quel est le plus gros dilemme pour un Juif ?
+Est-ce qu'un muet...
 
-Du jambon gratuit
+...peut donner sa parole ?
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Comment appelle-t-on la mère du phoque ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+Mother phoquer
 ```
 
 ```diff
-Pourquoi le cerveau des femmes est divisé en 5 ?
+Pourquoi quand on vise on ferme un œil ?
 
-Pour chaque bouton de la cuisinière.
+Car si on fermait les deux, on ne verrait plus rien.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 7 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 6 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque bouton de la cuisinière.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
 
 
 <p align="center">
