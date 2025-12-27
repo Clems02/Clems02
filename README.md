@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit une mère à son fils geek quand le dîner est servi ?
+Quelle est la différence entre un catcheur et un développeur JavaScript ?
 
-Alt + Tab
+Le catcheur fait des techniques de catch et le développeur fait des .catch techniques
 ```
 
 ```diff
-Est-ce qu'un muet...
+Un mec gifle un aveugle...
 
-...peut donner sa parole ?
+Tu ne l’avais pas vu venir celle-là !
 ```
 
 ```diff
-Comment appelle-t-on la mère du phoque ?
+Quelle est la différence entre une prostituée et une boule de bowling ?
 
-Mother phoquer
+On ne peut mettre que 3 doigts à la fois dans la boule.
 ```
 
 ```diff
-Pourquoi quand on vise on ferme un œil ?
+Quel est le point commun entre la Méditerranée et ta maman ?
 
-Car si on fermait les deux, on ne verrait plus rien.
+Ce sont toutes les deux des mers chaudes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 6 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 5 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car si on fermait les deux, on ne verrait plus rien.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
