@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre un catcheur et un développeur JavaScript ?
+C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
 
-Le catcheur fait des techniques de catch et le développeur fait des .catch techniques
+Le mode jour des applications !
 ```
 
 ```diff
-Un mec gifle un aveugle...
+Qui court plus vite qu'Usain Bolt ?
 
-Tu ne l’avais pas vu venir celle-là !
+Un Somalien avec un ticket restaurant
 ```
 
 ```diff
-Quelle est la différence entre une prostituée et une boule de bowling ?
+Que dit une fille après une nuit avec un juif ?
 
-On ne peut mettre que 3 doigts à la fois dans la boule.
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Quel est le point commun entre la Méditerranée et ta maman ?
+Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
 
-Ce sont toutes les deux des mers chaudes.
+Le prix du collier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 5 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 4 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont toutes les deux des mers chaudes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
 
 
 <p align="center">
