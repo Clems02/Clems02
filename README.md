@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est officiel, nous avons trouvé la source qui rend aveugle 80 % de la population !
+Jusqu'à combien savent compter les geeks ?
 
-Le mode jour des applications !
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Qui court plus vite qu'Usain Bolt ?
+Qu'est-ce qu'un enfant de chœur encore puceau ?
 
-Un Somalien avec un ticket restaurant
+Un enfant qui court plus vite que le prêtre.
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+Il m’a proposé un plan A3, A4 et même A5.
 ```
 
 ```diff
-Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
+Quel est le point commun entre les blagues et les jupes ?
 
-Le prix du collier.
+Les plus courtes sont les meilleures.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 4 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 3 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
 
 
 <p align="center">
