@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+Les villageois de Minecraft ne sont que des images…
 
-404... car après, ils ne s'y retrouvent plus !
+ce sont des .png.
 ```
 
 ```diff
-Qu'est-ce qu'un enfant de chœur encore puceau ?
+Qu'est-ce qu'il faut dire aux noirs pour qu'ils partent dormir ?
 
-Un enfant qui court plus vite que le prêtre.
+DARK VADOR
 ```
 
 ```diff
-Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
+Pourquoi les pharaons ont ils 2 fesses ?
 
-Il m’a proposé un plan A3, A4 et même A5.
+Parce qu'Anubis !
 ```
 
 ```diff
-Quel est le point commun entre les blagues et les jupes ?
+Pourquoi le cerveau des femmes est divisé en 5 ?
 
-Les plus courtes sont les meilleures.
+Pour chaque bouton de la cuisinière.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 3 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 2 jours de blagues avant la fin de l'année 2025 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les plus courtes sont les meilleures.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:47-white?style=for-the-badge)
 
 
 <p align="center">
