@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+Pourquoi les développeurs n'aiment-ils pas 2020 ?
 
-ce sont des .png.
+Car il y a la co vide.
 ```
 
 ```diff
-Quel est le parc où les gens tremblent ?
+Quel est le plat que les Juifs détestent le plus ?
 
-Le Parkinson
+Les petits fours
 ```
 
 ```diff
-Quel est le point commun entre une meuf et une merguez ?
+Qu'est-ce que deux trous dans un trou ?
 
-Les deux donnent du jus quand elles sont chaudes !
+Mon nez dans ton cul...
 ```
 
 ```diff
-Quand est-ce que le pain devient noir ?
+Quelle est la différence entre une dinde et ma sœur ?
 
-Quand il s'est pris une cuite.
+La dinde, je ne l'ai pas encore fourrée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 1 jours de blagues avant la fin de l'année 2025 ! <br/>
+> Il reste 365 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand il s'est pris une cuite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/12-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
 
 
 <p align="center">
