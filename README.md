@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment-ils pas 2020 ?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-Car il y a la co vide.
+Car ils font des petits Mo...
 ```
 
 ```diff
-Quel est le plat que les Juifs détestent le plus ?
+Qu'est-ce qui a deux pattes et qui saigne ?
 
-Les petits fours
+Un demi-chien...
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+C'est quoi la différence entre un homme et un sapin de Noël ?
 
-Mon nez dans ton cul...
+Le nombre de boules
 ```
 
 ```diff
-Quelle est la différence entre une dinde et ma sœur ?
+L'amour, c'est comme la grippe...
 
-La dinde, je ne l'ai pas encore fourrée.
+... on l'attrape dans la rue, et on le résout au lit.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 365 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 364 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La dinde, je ne l'ai pas encore fourrée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:50-white?style=for-the-badge)
 
 
 <p align="center">
