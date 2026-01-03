@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Que fait un développeur quand il a soif ?
 
-Car ils font des petits Mo...
+this.drink('water')
 ```
 
 ```diff
-Qu'est-ce qui a deux pattes et qui saigne ?
+Quels sont les gens les plus déprimés par les variants Covid ?
 
-Un demi-chien...
+Ceux qui savent que l'alphabet grec comporte 24 lettres.
 ```
 
 ```diff
-C'est quoi la différence entre un homme et un sapin de Noël ?
+Comment s'appelle un agent secret qui regarde un porno ?
 
-Le nombre de boules
+James Band
 ```
 
 ```diff
-L'amour, c'est comme la grippe...
+Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
 
-... on l'attrape dans la rue, et on le résout au lit.
+Parce que j'suis cuisinier et j'aimerais bien te sauter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 364 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 363 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'amour, c'est comme la grippe...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
