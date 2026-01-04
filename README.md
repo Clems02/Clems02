@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a soif ?
+Que dit un ordinateur pour draguer ?
 
-this.drink('water')
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Quels sont les gens les plus déprimés par les variants Covid ?
+Que fait un bébé qui saute dans une piscine ?
 
-Ceux qui savent que l'alphabet grec comporte 24 lettres.
+Il se noie.
 ```
 
 ```diff
-Comment s'appelle un agent secret qui regarde un porno ?
+Le sexe, c'est un peu comme les équations.
 
-James Band
+A partir de 3 inconnues ça devient intéressant.
 ```
 
 ```diff
-Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
 
-Parce que j'suis cuisinier et j'aimerais bien te sauter !
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 363 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 362 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que j'suis cuisinier et j'aimerais bien te sauter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:59-white?style=for-the-badge)
 
 
 <p align="center">
