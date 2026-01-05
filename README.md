@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+Pourquoi les bots ne parlent pas avec les humains ?
 
-Coucou, tu veux voir mes 64 bits ?
+Par peur de leur ressembler.
 ```
 
 ```diff
-Que fait un bébé qui saute dans une piscine ?
+Une fillette est retrouvée égorgée dans la rue… L'enquêteur questionne le légiste : Elle a été violée ?
 
-Il se noie.
+Non pas encore, j'attendais votre autorisation.
 ```
 
 ```diff
-Le sexe, c'est un peu comme les équations.
+Quelle est la vitesse maximale autorisée lors d'un rapport ?
 
-A partir de 3 inconnues ça devient intéressant.
+68km/h car à 69... Ça fait une tête-à-queue.
 ```
 
 ```diff
-Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
+Quand fête-t-on la journée des fumeurs ?
 
-Je pense que je vais les faire rentrer.
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 362 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 361 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je pense que je vais les faire rentrer.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:05-white?style=for-the-badge)
 
 
 <p align="center">
