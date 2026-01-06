@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les bots ne parlent pas avec les humains ?
+Quel est l'animal préféré des développeurs ?
 
-Par peur de leur ressembler.
+Le python
 ```
 
 ```diff
-Une fillette est retrouvée égorgée dans la rue… L'enquêteur questionne le légiste : Elle a été violée ?
+La peur de tomber,
 
-Non pas encore, j'attendais votre autorisation.
+...c'est ce qui fait grimacer les gens qui se pendent.
 ```
 
 ```diff
-Quelle est la vitesse maximale autorisée lors d'un rapport ?
+Quelle est la différence entre un tampon et un téléphone ?
 
-68km/h car à 69... Ça fait une tête-à-queue.
+Avec le tampon, on sait qui est au bout du fils.
 ```
 
 ```diff
-Quand fête-t-on la journée des fumeurs ?
+Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
 
-Le 1er juin
+"Mais justement !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 361 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 360 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le 1er juin
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
 
 
 <p align="center">
