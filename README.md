@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal préféré des développeurs ?
+Quel composant a un classement correct dans la société ?
 
-Le python
+La carte maire
 ```
 
 ```diff
-La peur de tomber,
+Si un Juif devient cuisinier...
 
-...c'est ce qui fait grimacer les gens qui se pendent.
+Est-ce qu'on peut dire que c'est un chef étoilé ?
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+Comment appelle-t-on la mère du phoque ?
 
-Avec le tampon, on sait qui est au bout du fils.
+Mother phoquer
 ```
 
 ```diff
-Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
+Comment appelle-t-on un roux dans un four ?
 
-"Mais justement !"
+Un roux-ti.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 360 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 359 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
 
 
 <p align="center">
