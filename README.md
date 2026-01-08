@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+Un développeur ne descend pas du métro.
 
-La carte maire
+Il libère la RAM.
 ```
 
 ```diff
-Si un Juif devient cuisinier...
+- Maman, je suis juif ou arabe ? - Je suis juive et ton père est algérien, donc les deux, pourquoi ?
 
-Est-ce qu'on peut dire que c'est un chef étoilé ?
+Il y a un scooter là-bas, et j'hésite entre le voler ou le vendre.
 ```
 
 ```diff
-Comment appelle-t-on la mère du phoque ?
+Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
 
-Mother phoquer
+D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
 ```
 
 ```diff
-Comment appelle-t-on un roux dans un four ?
+As-tu déjà fait la guerre ? Non ?
 
-Un roux-ti.
+Ben alors pourquoi as-tu un trou de balle ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 359 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 358 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un roux-ti.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
 
 
 <p align="center">
