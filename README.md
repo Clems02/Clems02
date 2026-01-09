@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Il y a quoi après 403 ?
 
-Il libère la RAM.
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-- Maman, je suis juif ou arabe ? - Je suis juive et ton père est algérien, donc les deux, pourquoi ?
+La vie, c'est comme un 100 mètres.
 
-Il y a un scooter là-bas, et j'hésite entre le voler ou le vendre.
+Les asthmatiques et les obèses n'arrivent pas jusqu'au bout.
 ```
 
 ```diff
-Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
+Qu'est-ce que les hommes apprécient plus que le sexe ?
 
-D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
+Que leurs amis les croient quand ils en parlent.
 ```
 
 ```diff
-As-tu déjà fait la guerre ? Non ?
+Pourquoi les hommes amènent-ils leur femme en vacances ?
 
-Ben alors pourquoi as-tu un trou de balle ?
+Pour que les vacances paraissent plus longues...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 358 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 357 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ben alors pourquoi as-tu un trou de balle ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:49-white?style=for-the-badge)
 
 
 <p align="center">
