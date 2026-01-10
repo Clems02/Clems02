@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a quoi après 403 ?
+Que fait un développeur en python qui a trop bu ?
 
-Bah, je ne sais pas, je n'ai pas trouvé...
+Il va faire pypi !
 ```
 
 ```diff
-La vie, c'est comme un 100 mètres.
+Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
 
-Les asthmatiques et les obèses n'arrivent pas jusqu'au bout.
+Car il faut séparer le jaune du blanc.
 ```
 
 ```diff
-Qu'est-ce que les hommes apprécient plus que le sexe ?
+La vie c’est comme un pénis,
 
-Que leurs amis les croient quand ils en parlent.
+Simple, relax et soudain, une femme le/la rend dur(e).
 ```
 
 ```diff
-Pourquoi les hommes amènent-ils leur femme en vacances ?
+Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
 
-Pour que les vacances paraissent plus longues...
+Le garçon répond : "C'est la moche qui gagne !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 357 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 356 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour que les vacances paraissent plus longues...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
 
 
 <p align="center">
