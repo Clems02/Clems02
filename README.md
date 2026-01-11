@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en python qui a trop bu ?
+Quelle est la maladie la plus répandue chez les développeurs Rust ?
 
-Il va faire pypi !
+Le tétanos.
 ```
 
 ```diff
-Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
+Quand tu sers la main à un musulman,
 
-Car il faut séparer le jaune du blanc.
+Et que tu te rappelles des morceaux de jambon sur ta main que tu avais mangés juste avant.
 ```
 
 ```diff
-La vie c’est comme un pénis,
+Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
 
-Simple, relax et soudain, une femme le/la rend dur(e).
+PAPA, CACA ! Bon ok, je me retire
 ```
 
 ```diff
-Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
+Quel est le point commun entre la poitrine d'une femme et un train électrique ?
 
-Le garçon répond : "C'est la moche qui gagne !"
+C'est fait pour les enfants, mais c'est papa qui y joue.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 356 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 355 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le garçon répond : "C'est la moche qui gagne !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
 
 
 <p align="center">
