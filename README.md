@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+Quel est l'endroit le moins vu de stackoverflow ?
 
-Le tétanos.
+La page d'accueil.
 ```
 
 ```diff
-Quand tu sers la main à un musulman,
+J'ai vu un enfant sur un vélo, j'ai cru que c'était le mien donc je suis allé vérifier dans le garage...
 
-Et que tu te rappelles des morceaux de jambon sur ta main que tu avais mangés juste avant.
+Mais je me suis trompé, il était toujours là, enchaîné, à réclamer à boire et à manger.
 ```
 
 ```diff
-Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
+Quelle est la différence entre toi et un chirurgien ?
 
-PAPA, CACA ! Bon ok, je me retire
+Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
 ```
 
 ```diff
-Quel est le point commun entre la poitrine d'une femme et un train électrique ?
+En Normandie, quand il y a de la moule...
 
-C'est fait pour les enfants, mais c'est papa qui y joue.
+On a la frite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 355 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 354 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est fait pour les enfants, mais c'est papa qui y joue.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
 
 
 <p align="center">
