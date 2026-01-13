@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'endroit le moins vu de stackoverflow ?
+Tu ne serais pas un câble Ethernet ?
 
-La page d'accueil.
+Car je sens qu'il y a une connexion entre nous deux.
 ```
 
 ```diff
-J'ai vu un enfant sur un vélo, j'ai cru que c'était le mien donc je suis allé vérifier dans le garage...
+Qu'est-ce qu'un bon Juif ?
 
-Mais je me suis trompé, il était toujours là, enchaîné, à réclamer à boire et à manger.
+Un dur à cuire
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Comment appelle-t-on six prostituées allemandes ?
 
-Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
+Une scie sauteuse Bosch.
 ```
 
 ```diff
-En Normandie, quand il y a de la moule...
+Quelle est la différence entre un homme et un bébé ?
 
-On a la frite.
+Le bébé au moins on peut le laisser seul avec la baby-sitter.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 354 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 353 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On a la frite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
 
 
 <p align="center">
