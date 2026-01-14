@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu ne serais pas un câble Ethernet ?
+Mon processeur est super musclé :
 
-Car je sens qu'il y a une connexion entre nous deux.
+Un tel corps, c'est exceptionnel !
 ```
 
 ```diff
-Qu'est-ce qu'un bon Juif ?
+Quelle est la différence entre les chauffeurs de bus et Claude François ?
 
-Un dur à cuire
+Les chauffeurs ne sont pas de bons conducteurs !
 ```
 
 ```diff
-Comment appelle-t-on six prostituées allemandes ?
+Quelle est la différence entre un vieux et un renard ?
 
-Une scie sauteuse Bosch.
+Le renard a la queue touffue et le vieux a la queue foutue.
 ```
 
 ```diff
-Quelle est la différence entre un homme et un bébé ?
+2 militaires discutent : "Pourquoi tu t'es engagé ?". Je suis célibataire et j'aime la guerre, et toi ?
 
-Le bébé au moins on peut le laisser seul avec la baby-sitter.
+Je suis marié et je voulais avoir la paix.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 353 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 352 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le bébé au moins on peut le laisser seul avec la baby-sitter.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
 
 
 <p align="center">
