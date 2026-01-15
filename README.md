@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Mon processeur est super musclé :
+Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
 
-Un tel corps, c'est exceptionnel !
+Ça s'appelle une int err 0.
 ```
 
 ```diff
-Quelle est la différence entre les chauffeurs de bus et Claude François ?
+Les éoliennes, c'est comme les migrants...
 
-Les chauffeurs ne sont pas de bons conducteurs !
+Tous les approuvent, mais personne n'en veut à côté de chez lui.
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un renard ?
+Quelle est la différence entre une pizza et une prositituée ?
 
-Le renard a la queue touffue et le vieux a la queue foutue.
+Avec la pizza, on peut choisir avec ou sans champignons…
 ```
 
 ```diff
-2 militaires discutent : "Pourquoi tu t'es engagé ?". Je suis célibataire et j'aime la guerre, et toi ?
+Pourquoi Adolf Hitler détestait-il la mousse au chocolat ?
 
-Je suis marié et je voulais avoir la paix.
+Parce que la moustache.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 352 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 351 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je suis marié et je voulais avoir la paix.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
 
 
 <p align="center">
