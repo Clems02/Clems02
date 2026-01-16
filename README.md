@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
+Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
 
-Ça s'appelle une int err 0.
+Parce que les bugs ne se reproduisent pas à cette heure-là.
 ```
 
 ```diff
-Les éoliennes, c'est comme les migrants...
+Quelle est la différence entre un séducteur et un violeur ?
 
-Tous les approuvent, mais personne n'en veut à côté de chez lui.
+La patience
 ```
 
 ```diff
-Quelle est la différence entre une pizza et une prositituée ?
+Comment ça se fait que tu regardes tout le temps des émissions de cuisine et que tu saches toujours pas cuisiner ?
 
-Avec la pizza, on peut choisir avec ou sans champignons…
+C'est un peu comme toi avec les films de cul, tu sais pas niquer !
 ```
 
 ```diff
-Pourquoi Adolf Hitler détestait-il la mousse au chocolat ?
+Une fille m'a appelé pour me dire "Viens chez moi, y a personne".
 
-Parce que la moustache.
+J'ai foncé chez elle, puis j'ai sonné, mais il n'y avait personne.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 351 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 350 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que la moustache.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
 
 
 <p align="center">
