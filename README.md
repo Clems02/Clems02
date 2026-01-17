@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+Les araignées.
 ```
 
 ```diff
-Quelle est la différence entre un séducteur et un violeur ?
+Un garçon sans bras ni jambes est envoyé dans un camp de vacances par ses parents. Ce dernier saute dans la piscine et nage comme un dauphin. L’animateur devant cette scène lui demande comment il a appris à nager ?
 
-La patience
+C’est papa qui m’a appris depuis tout petit. Le plus dur, c’est d’enlever le sac-poubelle.
 ```
 
 ```diff
-Comment ça se fait que tu regardes tout le temps des émissions de cuisine et que tu saches toujours pas cuisiner ?
+Le viagra, c'est comme l'enfer.
 
-C'est un peu comme toi avec les films de cul, tu sais pas niquer !
+Satan l'habite.
 ```
 
 ```diff
-Une fille m'a appelé pour me dire "Viens chez moi, y a personne".
+Pourquoi les hommes ne respectent-ils pas la loi ?
 
-J'ai foncé chez elle, puis j'ai sonné, mais il n'y avait personne.
+Parce qu'elle n'est pas au masculin.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 350 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 349 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ J'ai foncé chez elle, puis j'ai sonné, mais il n'y avait personne.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
 
 
 <p align="center">
