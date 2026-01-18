@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-Les araignées.
+Car ils font des petits Mo...
 ```
 
 ```diff
-Un garçon sans bras ni jambes est envoyé dans un camp de vacances par ses parents. Ce dernier saute dans la piscine et nage comme un dauphin. L’animateur devant cette scène lui demande comment il a appris à nager ?
+Quel est le point commun entre la Seconde Guerre Mondiale et un appareil à raclette ?
 
-C’est papa qui m’a appris depuis tout petit. Le plus dur, c’est d’enlever le sac-poubelle.
+C’est très chaud d’être dans la résistance.
 ```
 
 ```diff
-Le viagra, c'est comme l'enfer.
+Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
 
-Satan l'habite.
+Dimanche, Pique se repose.
 ```
 
 ```diff
-Pourquoi les hommes ne respectent-ils pas la loi ?
+2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
 
-Parce qu'elle n'est pas au masculin.
+Non, tatoué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 349 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 348 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elle n'est pas au masculin.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:54-white?style=for-the-badge)
 
 
 <p align="center">
