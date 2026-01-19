@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
 
-Car ils font des petits Mo...
+Parce qu'il y en a-sset
 ```
 
 ```diff
-Quel est le point commun entre la Seconde Guerre Mondiale et un appareil à raclette ?
+Pourquoi la femme d'Hitler l'a t'elle quitté ?
 
-C’est très chaud d’être dans la résistance.
+Elle a vu la facture de gaz.
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+Comment on sait quand il faut rompre ?
 
-Dimanche, Pique se repose.
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-2 hommes discutent : On a beaucoup écrit sur moi. Ah, vous êtes connu ?
+Certaines femmes aiment les hommes qui assument leur côté féminin.
 
-Non, tatoué.
+Mesdames, sachez que je viens de rater un créneau.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 348 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 347 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non, tatoué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:59-white?style=for-the-badge)
 
 
 <p align="center">
