@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Parce qu'il y en a-sset
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Pourquoi la femme d'Hitler l'a t'elle quitté ?
+Avant d'aller se coucher, un garçon demande à sa mère : Pourquoi on vit à Hiroshima ?
 
-Elle a vu la facture de gaz.
+Ferme tes trois yeux et dors...
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+Quel est le point commun entre un vieux marseillais et une prostituée ?
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+Les deux aiment jouer avec des boules.
 ```
 
 ```diff
-Certaines femmes aiment les hommes qui assument leur côté féminin.
+Comment faire rentrer 3 pédés dans un pub archi-bondé ?
 
-Mesdames, sachez que je viens de rater un créneau.
+Retourner un tabouret.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 347 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 346 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mesdames, sachez que je viens de rater un créneau.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:53-white?style=for-the-badge)
 
 
 <p align="center">
