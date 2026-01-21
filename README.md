@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quelle est la déesse d'Internet ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+La déesse L
 ```
 
 ```diff
-Avant d'aller se coucher, un garçon demande à sa mère : Pourquoi on vit à Hiroshima ?
+Quel est le comble de Johnny Hallyday ?
 
-Ferme tes trois yeux et dors...
+Il va toujours vendre décédé.
 ```
 
 ```diff
-Quel est le point commun entre un vieux marseillais et une prostituée ?
+Deux nains demandent au Père Noël : Ça existe les femmes naines noires et blanches au pôle nord ? Il leur répond non de la tête...
 
-Les deux aiment jouer avec des boules.
+Le nain se retourne et dit à son pote : Je t'avait bien dit ! T'as niqué un pingouin !
 ```
 
 ```diff
-Comment faire rentrer 3 pédés dans un pub archi-bondé ?
+Quel est le point commun entre la Méditerranée et ta maman ?
 
-Retourner un tabouret.
+Ce sont toutes les deux des mers chaudes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 346 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 345 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Retourner un tabouret.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:53-white?style=for-the-badge)
 
 
 <p align="center">
