@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le dieu favori des développeurs ?
+De nos jours, le zip...
 
-Tor
+... ça devient rar...
 ```
 
 ```diff
-Pourquoi faut-il toujours poursuivre un Arabe sur un scooter ?
+C'est l'histoire de deux personnes qui s'aiment dans le Nord. La femme dit à l'homme "T'es comme un frère pour moi".
 
-Car c'est probablement le tien.
+Il répondit : "Je sais sœurette".
 ```
 
 ```diff
-2 paysannes ramassent des patates. La première en saisie deux grosses pleines de terre et dit à l'autre :
+Savez-vous comment faire crier une femme deux fois de suite en lui faisant l’amour ?
 
-Vindiou ! Elles sont comme les couilles de mon mari ! Aussi grosses ? Non, aussi sales !
+La première fois en la sodomisant et la seconde en s’essuyant la bite dans le rideau !
 ```
 
 ```diff
-Qui est le plus menteur entre un boucher et un jardinier ?
+Quel est l'inverse du divorce ?
 
-Le jardinier, car il ne raconte que des salades.
+Le partage
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 344 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 343 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le jardinier, car il ne raconte que des salades.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
 
 
 <p align="center">
