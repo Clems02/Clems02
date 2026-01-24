@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De nos jours, le zip...
+Que font les développeurs le matin ?
 
-... ça devient rar...
+Ils boivent leur CoffeeScript.
 ```
 
 ```diff
-C'est l'histoire de deux personnes qui s'aiment dans le Nord. La femme dit à l'homme "T'es comme un frère pour moi".
+Quelle est la seule chose à ne jamais dire à un Juif ?
 
-Il répondit : "Je sais sœurette".
+Ça gaze ?
 ```
 
 ```diff
-Savez-vous comment faire crier une femme deux fois de suite en lui faisant l’amour ?
+À quoi reconnaît-on le slip de Dark Vador ?
 
-La première fois en la sodomisant et la seconde en s’essuyant la bite dans le rideau !
+À son côté obscur.
 ```
 
 ```diff
-Quel est l'inverse du divorce ?
+L'amour, c'est comme la grippe...
 
-Le partage
+... on l'attrape dans la rue, et on le résout au lit.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 343 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 342 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le partage
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:52-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
 
 
 <p align="center">
