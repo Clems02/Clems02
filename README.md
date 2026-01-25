@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que font les développeurs le matin ?
+Il y a quoi après 403 ?
 
-Ils boivent leur CoffeeScript.
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-Quelle est la seule chose à ne jamais dire à un Juif ?
+4 Arabes sont dans une voiture, la voiture saute dans l'eau, que regrettes-tu ?
 
-Ça gaze ?
+Qu'il n'y en ait pas plus.
 ```
 
 ```diff
-À quoi reconnaît-on le slip de Dark Vador ?
+À quel moment la poule a-t-elle le plus mal au cul ?
 
-À son côté obscur.
+Quand elle passe du coq à l'âne.
 ```
 
 ```diff
-L'amour, c'est comme la grippe...
+Connaissez-vous le slogan "ça fait du bien par où ça passe" ?
 
-... on l'attrape dans la rue, et on le résout au lit.
+C'est une pub de suppositoires, je crois...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 342 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 341 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'amour, c'est comme la grippe...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:03-white?style=for-the-badge)
 
 
 <p align="center">
