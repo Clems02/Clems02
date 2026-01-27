@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'élevage préféré des programmeurs ?
+Il y a quoi après 403 ?
 
-L'apiculture
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-Pourquoi les écolos aiment bien les lépreux ?
+Pourquoi les poulets ont des ailes alors qu'ils ne volent pas ?
 
-Parce qu'ils sont biodégradables
+Et pourquoi les Arabes n'ont pas d'ailes alors qu'ils volent ?
 ```
 
 ```diff
-Quel est le point commun entre un motard célibataire et sa moto ?
+C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
 
-Ils dorment tous les deux sur la béquille.
+Parce que je vais t’enculer.
 ```
 
 ```diff
-Que dit une bière quand elle tombe dans l'eau ?
+Quel est la différence entre un terroriste et une femme avant ses règles ?
 
-Je sais panaché.
+Tu peux négocier avec le terroriste
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 340 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 339 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je sais panaché.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
 
 
 <p align="center">
