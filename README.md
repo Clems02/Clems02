@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a quoi après 403 ?
+Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
 
-Bah, je ne sais pas, je n'ai pas trouvé...
+Il y a beaucoup trop de bugs !
 ```
 
 ```diff
-Pourquoi les poulets ont des ailes alors qu'ils ne volent pas ?
+Vous connaissez la blague avec les noirs qui se font renverser par une voiture ?
 
-Et pourquoi les Arabes n'ont pas d'ailes alors qu'ils volent ?
+Moi non, mais le début de l'histoire commence bien.
 ```
 
 ```diff
-C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
+J'ai dit non ! Mon gynécologue m'a dit pas de sexe pendant 3 semaines.
 
-Parce que je vais t’enculer.
+Et que t'as dit ton dentiste ?
 ```
 
 ```diff
-Quel est la différence entre un terroriste et une femme avant ses règles ?
+Qu'est-ce qui est pire qu'un meurtrier ?
 
-Tu peux négocier avec le terroriste
+Un policier fanatique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 339 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 338 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Tu peux négocier avec le terroriste
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:54-white?style=for-the-badge)
 
 
 <p align="center">
