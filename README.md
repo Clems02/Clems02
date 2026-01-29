@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
+Quel est le comble pour un serveur ?
 
-Il y a beaucoup trop de bugs !
+C'est de ne pas répondre.
 ```
 
 ```diff
-Vous connaissez la blague avec les noirs qui se font renverser par une voiture ?
+Quelle est la différence entre un Juif et une pizza ?
 
-Moi non, mais le début de l'histoire commence bien.
+la pizza ne crie pas quand on la met au four.
 ```
 
 ```diff
-J'ai dit non ! Mon gynécologue m'a dit pas de sexe pendant 3 semaines.
+Quelle est la différence entre un vieux et un zizi ?
 
-Et que t'as dit ton dentiste ?
+Tu n'as pas besoin de secouer le vieux pour qu'il bave.
 ```
 
 ```diff
-Qu'est-ce qui est pire qu'un meurtrier ?
+Quand il était petit, quel était le nom de papy Roro ?
 
-Un policier fanatique.
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 338 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 337 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un policier fanatique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
 
 
 <p align="center">
