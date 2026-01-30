@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour un serveur ?
+Quel est le chanteur préféré des développeurs ?
 
-C'est de ne pas répondre.
+Michael Json
 ```
 
 ```diff
-Quelle est la différence entre un Juif et une pizza ?
+Que chante un Juif devant un feu de camp ?
 
-la pizza ne crie pas quand on la met au four.
+"Vous les copains je ne vous oublierai jamais !"
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un zizi ?
+La vie c’est comme un pénis,
 
-Tu n'as pas besoin de secouer le vieux pour qu'il bave.
+Simple, relax et soudain, une femme le/la rend dur(e).
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Combien coûte un homme ?
 
-Roro...
+Deux boules.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 337 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 336 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
 
 
 <p align="center">
