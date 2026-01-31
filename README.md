@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le chanteur préféré des développeurs ?
+La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
 
-Michael Json
+... c'est quand le message d'erreur qu'il obtient est différent du précédent.
 ```
 
 ```diff
-Que chante un Juif devant un feu de camp ?
+Que regarde un juif dans le ciel ?
 
-"Vous les copains je ne vous oublierai jamais !"
+L'étoile jaune
 ```
 
 ```diff
-La vie c’est comme un pénis,
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-Simple, relax et soudain, une femme le/la rend dur(e).
+Mais pas votre voisin.
 ```
 
 ```diff
-Combien coûte un homme ?
+Harry Potter est le seul film...
 
-Deux boules.
+... où on voit des mecs se servir d'un balai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 336 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 335 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux boules.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:13-white?style=for-the-badge)
 
 
 <p align="center">
