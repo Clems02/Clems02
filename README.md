@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
+Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
 
-... c'est quand le message d'erreur qu'il obtient est différent du précédent.
+Parce que les bugs ne se reproduisent pas à cette heure-là.
 ```
 
 ```diff
-Que regarde un juif dans le ciel ?
+Arrêtez les blagues sur les aveugles...
 
-L'étoile jaune
+Imaginez qu'ils le voient...
 ```
 
 ```diff
-Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
+Quel est le point commun entre un ascenseur et un vagin ?
 
-Mais pas votre voisin.
+Tu mets ton doigt où t'habites.
 ```
 
 ```diff
-Harry Potter est le seul film...
+Quelle est l'activité préférée d'un électricien ?
 
-... où on voit des mecs se servir d'un balai.
+Branler un poteau pour voir s'il a du jus.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 335 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 334 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Harry Potter est le seul film...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/01-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:38-white?style=for-the-badge)
 
 
 <p align="center">
