@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+Quel son fait la cigale d'un développeur ?
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+Css... css... css... css... css...
 ```
 
 ```diff
-Arrêtez les blagues sur les aveugles...
+Pourquoi on n'enterre jamais les Français sur le dos ?
 
-Imaginez qu'ils le voient...
+Parce qu'il n'y aurait pas assez de terre pour remplir leur grande gueule.
 ```
 
 ```diff
-Quel est le point commun entre un ascenseur et un vagin ?
+Quel est le point commun entre une pantoufle et une pute ?
 
-Tu mets ton doigt où t'habites.
+Les deux quand tu rentre dedans tu veut plus en sortir
 ```
 
 ```diff
-Quelle est l'activité préférée d'un électricien ?
+Pourquoi les Portugais sont forts en cuisine ?
 
-Branler un poteau pour voir s'il a du jus.
+Parce qu'ils ont plein de poêles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 334 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 333 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Branler un poteau pour voir s'il a du jus.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:38-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:34-white?style=for-the-badge)
 
 
 <p align="center">
