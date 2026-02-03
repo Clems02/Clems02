@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel son fait la cigale d'un développeur ?
+Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
 
-Css... css... css... css... css...
+Il y a beaucoup trop de bugs !
 ```
 
 ```diff
-Pourquoi on n'enterre jamais les Français sur le dos ?
+Comment fait-on descendre sa belle-mère d'un arbre ?
 
-Parce qu'il n'y aurait pas assez de terre pour remplir leur grande gueule.
+En coupant la corde.
 ```
 
 ```diff
-Quel est le point commun entre une pantoufle et une pute ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-Les deux quand tu rentre dedans tu veut plus en sortir
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Pourquoi les Portugais sont forts en cuisine ?
+Quel est l'avantage d'un gamer ?
 
-Parce qu'ils ont plein de poêles !
+Il a une gigabyte...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 333 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 332 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont plein de poêles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
 
 
 <p align="center">
