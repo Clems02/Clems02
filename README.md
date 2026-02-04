@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Il y a beaucoup trop de bugs !
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Comment fait-on descendre sa belle-mère d'un arbre ?
+En 2022, on doit plus dire "pédophile".
 
-En coupant la corde.
+On dit "béta-testeurs" maintenant.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Connaissez-vous les soirées Bluetooth ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+Ces famuses soirées où tout le monde sans fil.
 ```
 
 ```diff
-Quel est l'avantage d'un gamer ?
+Les genres, c'est comme les tours jumelles.
 
-Il a une gigabyte...
+Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 332 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 331 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il a une gigabyte...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
 
 
 <p align="center">
