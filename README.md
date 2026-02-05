@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Quel est le 2ème métier d’un développeur ?
 
-Elle repart, car il n'y a pas de table.
+CSharpentier
 ```
 
 ```diff
-En 2022, on doit plus dire "pédophile".
+Quel hôtel est le plus étoilé ?
 
-On dit "béta-testeurs" maintenant.
+Auschwitz
 ```
 
 ```diff
-Connaissez-vous les soirées Bluetooth ?
+Une femme musulmane fait une fellation à son mari pendant le ramadan.
 
-Ces famuses soirées où tout le monde sans fil.
+Attention ma chère, vous devrez attendre ce soir avant d'avaler !
 ```
 
 ```diff
-Les genres, c'est comme les tours jumelles.
+Il ne faut pas donner du pain aux canards...
 
-Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 331 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 330 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
 
 
 <p align="center">
