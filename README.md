@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Il y a quoi après 403 ?
 
-CSharpentier
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-Quel hôtel est le plus étoilé ?
+Quel est le point commun entre les Juifs et les baskets ?
 
-Auschwitz
+On en trouve plus en 39 qu'en 45.
 ```
 
 ```diff
-Une femme musulmane fait une fellation à son mari pendant le ramadan.
+Si un rapeur nique sa mère, que fait un campeur ?
 
-Attention ma chère, vous devrez attendre ce soir avant d'avaler !
+Il monte sa tante !
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+Comment la chouette sait que son mari fait la gueule ?
 
-Aux connards non plus !
+Parce qu'Hiboude.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 330 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 329 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
 
 
 <p align="center">
