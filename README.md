@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a quoi après 403 ?
+Comment appelle-t-on un bug sur une plateforme musicale ?
 
-Bah, je ne sais pas, je n'ai pas trouvé...
+Une Spoti-faille.
 ```
 
 ```diff
-Quel est le point commun entre les Juifs et les baskets ?
+On m'a dit de toujours voir le bon côté des choses.
 
-On en trouve plus en 39 qu'en 45.
+Du coup quand je suis tombé de l'escalier, je me suis réjouit d'être déjà en bas.
 ```
 
 ```diff
-Si un rapeur nique sa mère, que fait un campeur ?
+Quel est le point commun entre un flirt et la diplomatie ?
 
-Il monte sa tante !
+Les deux exigent une bonne connaissance des langues et beaucoup de doigté.
 ```
 
 ```diff
-Comment la chouette sait que son mari fait la gueule ?
+Pourquoi les alcooliques sont-ils des animaux à sang froid ?
 
-Parce qu'Hiboude.
+Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 329 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 328 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'Hiboude.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:17-white?style=for-the-badge)
 
 
 <p align="center">
