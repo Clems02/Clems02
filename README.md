@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a 10 types de gens dans le monde.
+Si JavaScript avait un fils, comment s'appellerait-il ?
 
-Ceux qui parlent binaire, et les autres.
+Json
 ```
 
 ```diff
-Quelle est la différence entre ma femme et mon cancer ?
+Pourquoi les Juifs ne peuvent pas être meunier ?
 
-Mon cancer, je ne l'ai toujours pas battu.
+Car ils ne peuvent pas être au four et au moulin.
 ```
 
 ```diff
-Le sperme, c’est comme un gros mensonge.
+Comment on appelle t’on un voleur de viagra ?
 
-C’est toujours difficile à faire avaler !
+Un criminel endurci !
 ```
 
 ```diff
-Que disent deux fesses dans une pirogue ?
+Quelle est la différence entre un homme et un bébé ?
 
-Dis donc, ça commence à ramer du cul là non ?
+Le bébé au moins on peut le laisser seul avec la baby-sitter.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 327 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 326 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Dis donc, ça commence à ramer du cul là non ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:36-white?style=for-the-badge)
 
 
 <p align="center">
