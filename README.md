@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Si JavaScript avait un fils, comment s'appellerait-il ?
+ANSI <FONT> <FONT> <FONT>
 
-Json
+<LI> <P> <TITLE> Mar I/O .NET
 ```
 
 ```diff
-Pourquoi les Juifs ne peuvent pas être meunier ?
+Pourquoi les noirs ont l'intérieur des mains et des pieds blancs ?
 
-Car ils ne peuvent pas être au four et au moulin.
+Car ils étaient à quatre pattes quand Dieu les a peints.
 ```
 
 ```diff
-Comment on appelle t’on un voleur de viagra ?
+Tu veux connaître mon coin à champignons ?
 
-Un criminel endurci !
+C'est Tinder !
 ```
 
 ```diff
-Quelle est la différence entre un homme et un bébé ?
+Quelle est la différence entre un stressé et un puceau ?
 
-Le bébé au moins on peut le laisser seul avec la baby-sitter.
+Ils ont tous les deux pa-niqué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 326 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 325 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le bébé au moins on peut le laisser seul avec la baby-sitter.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:40-white?style=for-the-badge)
 
 
 <p align="center">
