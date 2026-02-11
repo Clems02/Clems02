@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-ANSI <FONT> <FONT> <FONT>
+Quelles sont les îles les plus instables au monde ?
 
-<LI> <P> <TITLE> Mar I/O .NET
+Ce sont les Îles Canaries.
 ```
 
 ```diff
-Pourquoi les noirs ont l'intérieur des mains et des pieds blancs ?
+Quelle est la différence entre Amazon et le Père Noël ?
 
-Car ils étaient à quatre pattes quand Dieu les a peints.
+Le premier exploite les Ouïghours et le second, les nains !
 ```
 
 ```diff
-Tu veux connaître mon coin à champignons ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-C'est Tinder !
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Quelle est la différence entre un stressé et un puceau ?
+On me dit souvent que je suis un boulet...
 
-Ils ont tous les deux pa-niqué.
+... et comme t'es canon, je pourrai te rentrer dedans ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 325 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 324 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils ont tous les deux pa-niqué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:38-white?style=for-the-badge)
 
 
 <p align="center">
