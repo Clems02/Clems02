@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les îles les plus instables au monde ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Ce sont les Îles Canaries.
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Quelle est la différence entre Amazon et le Père Noël ?
+Pourquoi y a-t-il une barrière entre les cyclistes et les supporters ?
 
-Le premier exploite les Ouïghours et le second, les nains !
+Car il est dangereux de mélanger la drogue et l'alcool.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-On me dit souvent que je suis un boulet...
+Quel est le point commun entre Bigard l'humoriste et Bigard la marque ?
 
-... et comme t'es canon, je pourrai te rentrer dedans ?
+Les deux aiment vérifier la viande pour voir si elle est fraîche.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 324 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 323 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On me dit souvent que je suis un boulet...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:38-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:33-white?style=for-the-badge)
 
 
 <p align="center">
