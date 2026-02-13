@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Quelle est la chanteuse qui est la plus douée en informatique ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+Taylor Swift
 ```
 
 ```diff
-Pourquoi y a-t-il une barrière entre les cyclistes et les supporters ?
+Pourquoi un groupe de Juifs rentrent déçu chez eux ?
 
-Car il est dangereux de mélanger la drogue et l'alcool.
+Parce qu'ils ont raté leur train.
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Le sperme, c’est comme un gros mensonge.
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+C’est toujours difficile à faire avaler !
 ```
 
 ```diff
-Quel est le point commun entre Bigard l'humoriste et Bigard la marque ?
+Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
 
-Les deux aiment vérifier la viande pour voir si elle est fraîche.
+Alors pourquoi tu continues ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 323 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 322 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux aiment vérifier la viande pour voir si elle est fraîche.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
 
 
 <p align="center">
