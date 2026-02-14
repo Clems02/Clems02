@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la chanteuse qui est la plus douée en informatique ?
+Où partent les développeurs en vacances ?
 
-Taylor Swift
+Aux C-Shell
 ```
 
 ```diff
-Pourquoi un groupe de Juifs rentrent déçu chez eux ?
+Qu'est-ce qui est plus terrifiant que la gestapo pour les juifs ?
 
-Parce qu'ils ont raté leur train.
+Le fisc...
 ```
 
 ```diff
-Le sperme, c’est comme un gros mensonge.
+Quel est le point commun entre un prof et des hémorroïdes ?
 
-C’est toujours difficile à faire avaler !
+Les deux sortent du corps enseignant.
 ```
 
 ```diff
-Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
+Deux fesses se croisent.
 
-Alors pourquoi tu continues ?
+- Alors, ça gaze ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 322 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 321 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Alors pourquoi tu continues ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:19-white?style=for-the-badge)
 
 
 <p align="center">
