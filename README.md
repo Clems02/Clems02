@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+Comment sont les gardes du corps de Sonic ?
 
-Aux C-Shell
+Ses gars, c'est du lourd.
 ```
 
 ```diff
-Qu'est-ce qui est plus terrifiant que la gestapo pour les juifs ?
+Pourquoi les arabes ne peuvent-ils pas aller dans des restaurants à volonté ?
 
-Le fisc...
+Pour ne pas qu'ils s'explosent le ventre...
 ```
 
 ```diff
-Quel est le point commun entre un prof et des hémorroïdes ?
+Pourquoi Cendrillon est-elle morte à minuit ?
 
-Les deux sortent du corps enseignant.
+Parce que son tampon s'est transformé en citrouille.
 ```
 
 ```diff
-Deux fesses se croisent.
+Pourquoi les alcooliques sont-ils des animaux à sang froid ?
 
-- Alors, ça gaze ?
+Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 321 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 320 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux fesses se croisent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:19-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:31-white?style=for-the-badge)
 
 
 <p align="center">
