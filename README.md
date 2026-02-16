@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment sont les gardes du corps de Sonic ?
+Que fait un développeur s'il veut se marier ?
 
-Ses gars, c'est du lourd.
+Une fille en C
 ```
 
 ```diff
-Pourquoi les arabes ne peuvent-ils pas aller dans des restaurants à volonté ?
+Quelle fut la profession de Kennedy après son mandat de président ?
 
-Pour ne pas qu'ils s'explosent le ventre...
+Ramasseur de balles
 ```
 
 ```diff
-Pourquoi Cendrillon est-elle morte à minuit ?
+Comment sait-on quand il faut rompre ?
 
-Parce que son tampon s'est transformé en citrouille.
+C'est quand elle te casse plus les couilles qu'elle ne te les vide.
 ```
 
 ```diff
-Pourquoi les alcooliques sont-ils des animaux à sang froid ?
+Quand il était petit, quel était le nom de papy Roro ?
 
-Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 320 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 319 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont en permanence 12 degrés 5 sous le bras.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:35-white?style=for-the-badge)
 
 
 <p align="center">
