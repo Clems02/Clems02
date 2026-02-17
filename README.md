@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+Quelle est la console préférée des chats ?
 
-Une fille en C
+La PS cat.
 ```
 
 ```diff
-Quelle fut la profession de Kennedy après son mandat de président ?
+Qu'est-ce qui est jaune et qui attend ?
 
-Ramasseur de balles
+Un Ouïghours à l'entrée du camp.
 ```
 
 ```diff
-Comment sait-on quand il faut rompre ?
+La différence entre une blonde et un écureuil ?
 
-C'est quand elle te casse plus les couilles qu'elle ne te les vide.
+Aucune, les deux courent après les glands !
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Arriver à un certain âge, lorsqu'un femme vous demande si vous en avez une petite ou une grosse, …
 
-Roro...
+… elle parle de votre retraite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 319 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 318 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:29-white?style=for-the-badge)
 
 
 <p align="center">
