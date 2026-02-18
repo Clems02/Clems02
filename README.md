@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la console préférée des chats ?
+Pourquoi vaut il mieux être software que hardware ?
 
-La PS cat.
+Car c’est le hardware qui prend des coups quand le software plante.
 ```
 
 ```diff
-Qu'est-ce qui est jaune et qui attend ?
+Quel est le point commun entre la Seconde Guerre Mondiale et un appareil à raclette ?
 
-Un Ouïghours à l'entrée du camp.
+C’est très chaud d’être dans la résistance.
 ```
 
 ```diff
-La différence entre une blonde et un écureuil ?
+Ma bite, je l'ai appelée la vie.
 
-Aucune, les deux courent après les glands !
+Parce que la vie est dure...
 ```
 
 ```diff
-Arriver à un certain âge, lorsqu'un femme vous demande si vous en avez une petite ou une grosse, …
+Une fille m'a appelé pour me dire "Viens chez moi, y a personne".
 
-… elle parle de votre retraite.
+J'ai foncé chez elle, puis j'ai sonné, mais il n'y avait personne.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 318 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 317 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Arriver à un certain âge, lorsqu'un femme vous demande si vous en avez une pet
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
 
 
 <p align="center">
