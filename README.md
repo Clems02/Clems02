@@ -4,31 +4,31 @@
 ```diff
 Pourquoi vaut il mieux être software que hardware ?
 
-Car c’est le hardware qui prend des coups quand le software plante.
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Quel est le point commun entre la Seconde Guerre Mondiale et un appareil à raclette ?
+Qu'est-ce qui est pire qu'un bébé dans une poubelle ?
 
-C’est très chaud d’être dans la résistance.
+Un bébé dans deux poubelles
 ```
 
 ```diff
-Ma bite, je l'ai appelée la vie.
+Deux hommes sans pénis se battent...
 
-Parce que la vie est dure...
+... ce fut un combat sanglant.
 ```
 
 ```diff
-Une fille m'a appelé pour me dire "Viens chez moi, y a personne".
+Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
 
-J'ai foncé chez elle, puis j'ai sonné, mais il n'y avait personne.
+Quand un plat est réussi, on félicite le cuisinier pas le four !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 317 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 316 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ J'ai foncé chez elle, puis j'ai sonné, mais il n'y avait personne.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:29-white?style=for-the-badge)
 
 
 <p align="center">
