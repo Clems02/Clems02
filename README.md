@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+J'allais faire une blague sur l'erreur 404...
 
-Car c’est le hardware qui prend des coups quand le software plante
+Je ne l'ai pas trouvé...
 ```
 
 ```diff
-Qu'est-ce qui est pire qu'un bébé dans une poubelle ?
+Un enfant demande à sa maman : "Est-ce que mon petit frère est un ange ?" La mère répond : "Bien sûr !"
 
-Un bébé dans deux poubelles
+Il répond donc : "Mais alors pourquoi il ne s'est pas envolé quand je l'ai jeté par la fenêtre ?"
 ```
 
 ```diff
-Deux hommes sans pénis se battent...
+La banane est un fruit gras.
 
-... ce fut un combat sanglant.
+Mais après avoir testé ton préservatif dessus.
 ```
 
 ```diff
-Un médecin félicite le mari d'un couple pour le nouveau-né. La femme demande au médecin pourquoi elle n'est pas félicitée.
+Pourquoi les femmes n’ont pas besoin de permis ?
 
-Quand un plat est réussi, on félicite le cuisinier pas le four !
+Car il n’y a pas de route entre la machine à laver et la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 316 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 315 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quand un plat est réussi, on félicite le cuisinier pas le four !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
 
 
 <p align="center">
