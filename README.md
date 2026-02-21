@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Il y a 10 types de gens dans le monde.
 
-Je ne l'ai pas trouvé...
+Ceux qui parlent binaire, et les autres.
 ```
 
 ```diff
-Un enfant demande à sa maman : "Est-ce que mon petit frère est un ange ?" La mère répond : "Bien sûr !"
+Quelle est la différence entre Princesse Diana et Christiano Ronaldo ?
 
-Il répond donc : "Mais alors pourquoi il ne s'est pas envolé quand je l'ai jeté par la fenêtre ?"
+Ronaldo c'est petit pont et but, Diana c'est grand pont et puis poteau.
 ```
 
 ```diff
-La banane est un fruit gras.
+Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
 
-Mais après avoir testé ton préservatif dessus.
+Parce que la vérité sort toujours de la bouche des enfants !
 ```
 
 ```diff
-Pourquoi les femmes n’ont pas besoin de permis ?
+Savez-vous pourquoi Dieu a créé la femme ?
 
-Car il n’y a pas de route entre la machine à laver et la cuisine.
+Car il ne savait pas comment créer un lave-vaisselle qui suce.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 315 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 314 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car il n’y a pas de route entre la machine à laver et la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
 
 
 <p align="center">
