@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a 10 types de gens dans le monde.
+J'ai une blague sur la mémoire vive...
 
-Ceux qui parlent binaire, et les autres.
+... mais attendez elle RAM.
 ```
 
 ```diff
-Quelle est la différence entre Princesse Diana et Christiano Ronaldo ?
+Un client rentre dans une animalerie asiatique et dit en pointant du doigt : "Je voudrais ce chien"
 
-Ronaldo c'est petit pont et but, Diana c'est grand pont et puis poteau.
+L'asiatique lui répond : "Sur place ou à emporter ?"
 ```
 
 ```diff
-Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
+Qu'est-ce qui commence par un B et qui finit par un G (jet) ?
 
-Parce que la vérité sort toujours de la bouche des enfants !
+Une branlette
 ```
 
 ```diff
-Savez-vous pourquoi Dieu a créé la femme ?
+Qu'est-ce qui est mieux qu'un plan A ?
 
-Car il ne savait pas comment créer un lave-vaisselle qui suce.
+Un plan Q
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 314 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 313 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car il ne savait pas comment créer un lave-vaisselle qui suce.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:27-white?style=for-the-badge)
 
 
 <p align="center">
