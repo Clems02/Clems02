@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai une blague sur la mémoire vive...
+Quel est l'élevage préféré des programmeurs ?
 
-... mais attendez elle RAM.
+L'apiculture
 ```
 
 ```diff
-Un client rentre dans une animalerie asiatique et dit en pointant du doigt : "Je voudrais ce chien"
+C'est une femme qui rentre à la maison et dit à son mari : Il faut renvoyer le chauffeur, ça fait deux fois qu'il essaye de me tuer !
 
-L'asiatique lui répond : "Sur place ou à emporter ?"
+Laisse-lui encore une chance. Réponds le mari.
 ```
 
 ```diff
-Qu'est-ce qui commence par un B et qui finit par un G (jet) ?
+Quelle est la différence entre le Pape et ton père ?
 
-Une branlette
+Tu n'iras jamais au paradis si tu suces ton père.
 ```
 
 ```diff
-Qu'est-ce qui est mieux qu'un plan A ?
+Qu'est-ce qu'un gendarme sur un tracteur ?
 
-Un plan Q
+Un poulet fermier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 313 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 312 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un plan Q
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:34-white?style=for-the-badge)
 
 
 <p align="center">
