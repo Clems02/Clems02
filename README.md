@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'élevage préféré des programmeurs ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-L'apiculture
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-C'est une femme qui rentre à la maison et dit à son mari : Il faut renvoyer le chauffeur, ça fait deux fois qu'il essaye de me tuer !
+Quel est l'endroit le plus peuplé d'Ethiopie ?
 
-Laisse-lui encore une chance. Réponds le mari.
+Ça dépend le sens du vent.
 ```
 
 ```diff
-Quelle est la différence entre le Pape et ton père ?
+Quelle est la durée de vie d’une moule ?
 
-Tu n'iras jamais au paradis si tu suces ton père.
+Douze ou treize ans, car après, il y a des poils et ça s’appelle une chatte.
 ```
 
 ```diff
-Qu'est-ce qu'un gendarme sur un tracteur ?
+Quand fête-t-on la journée des fumeurs ?
 
-Un poulet fermier.
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 312 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 311 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un poulet fermier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
 
 
 <p align="center">
