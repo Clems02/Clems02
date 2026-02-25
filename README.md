@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Vous connaissez l'histoire de l'erreur 403 ?
 
-Elle repart, car il n'y a pas de table.
+J'ai interdiction de vous la dire...
 ```
 
 ```diff
-Quel est l'endroit le plus peuplé d'Ethiopie ?
+La vie c'est comme un saut de l'ange pour un aveugle.
 
-Ça dépend le sens du vent.
+On ne sais jamais sur quoi on va tomber.
 ```
 
 ```diff
-Quelle est la durée de vie d’une moule ?
+Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
 
-Douze ou treize ans, car après, il y a des poils et ça s’appelle une chatte.
+Car elles aiment les gigabits!
 ```
 
 ```diff
-Quand fête-t-on la journée des fumeurs ?
+Pourquoi les fonctionnaires ne regardent jamais par la fenêtre le matin ?
 
-Le 1er juin
+Pour avoir quelque chose à faire l’après-midi !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 311 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 310 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le 1er juin
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:29-white?style=for-the-badge)
 
 
 <p align="center">
