@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous connaissez l'histoire de l'erreur 403 ?
+Quel est le 2ème métier d’un développeur ?
 
-J'ai interdiction de vous la dire...
+CSharpentier
 ```
 
 ```diff
-La vie c'est comme un saut de l'ange pour un aveugle.
+Quel est le chiffre préféré des arabes ?
 
-On ne sais jamais sur quoi on va tomber.
+C'est 4. (C4)
 ```
 
 ```diff
-Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
+Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
 
-Car elles aiment les gigabits!
+"Dans ma bouche"
 ```
 
 ```diff
-Pourquoi les fonctionnaires ne regardent jamais par la fenêtre le matin ?
+Quelle est la différence entre un Ricard et un 69 ?
 
-Pour avoir quelque chose à faire l’après-midi !
+Le Ricard, c’est le nez dans l’anis, le 69, c’est le nez dans l’anus.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 310 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 309 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir quelque chose à faire l’après-midi !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:26-white?style=for-the-badge)
 
 
 <p align="center">
