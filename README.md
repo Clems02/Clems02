@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Tu ne serais pas un câble Ethernet ?
 
-CSharpentier
+Car je sens qu'il y a une connexion entre nous deux.
 ```
 
 ```diff
-Quel est le chiffre préféré des arabes ?
+Pourquoi les femmes ont de plus petits pieds que les hommes ?
 
-C'est 4. (C4)
+Pour être plus près de l'évier!
 ```
 
 ```diff
-Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
+Quel est le comble pour un Arabe ?
 
-"Dans ma bouche"
+Se faire voler.
 ```
 
 ```diff
-Quelle est la différence entre un Ricard et un 69 ?
+Qu'est-ce qu'une luciole qui a pris du viagra ?
 
-Le Ricard, c’est le nez dans l’anis, le 69, c’est le nez dans l’anus.
+Un néon !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 309 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 308 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le Ricard, c’est le nez dans l’anis, le 69, c’est le nez dans l’anus.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:23-white?style=for-the-badge)
 
 
 <p align="center">
