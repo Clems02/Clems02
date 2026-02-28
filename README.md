@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu ne serais pas un câble Ethernet ?
+Quel est le logiciel qui fait le plus crash Windows ?
 
-Car je sens qu'il y a une connexion entre nous deux.
+Windows Update
 ```
 
 ```diff
-Pourquoi les femmes ont de plus petits pieds que les hommes ?
+Quelle est la note de piano préférée des prêtres ?
 
-Pour être plus près de l'évier!
+La mineur.
 ```
 
 ```diff
-Quel est le comble pour un Arabe ?
+Quel est le point commun entre une étoile d'un sapin et le clitoris ?
 
-Se faire voler.
+Les deux sont difficiles à atteindre.
 ```
 
 ```diff
-Qu'est-ce qu'une luciole qui a pris du viagra ?
+Il ne faut pas donner du pain aux canards...
 
-Un néon !
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 308 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 307 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un néon !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:04-white?style=for-the-badge)
 
 
 <p align="center">
