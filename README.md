@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le logiciel qui fait le plus crash Windows ?
+J'allais faire une blague sur l'erreur 404...
 
-Windows Update
+Je ne l'ai pas trouvé...
 ```
 
 ```diff
-Quelle est la note de piano préférée des prêtres ?
+J'avais une blague sur les orphelins.
 
-La mineur.
+Mais j'ai décidé de l'abandonner...
 ```
 
 ```diff
-Quel est le point commun entre une étoile d'un sapin et le clitoris ?
+La différence entre une blonde et un écureuil ?
 
-Les deux sont difficiles à atteindre.
+Aucune, les deux courent après les glands !
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+Pourquoi les Portugais sont forts en cuisine ?
 
-Aux connards non plus !
+Parce qu'ils ont plein de poêles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 307 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 306 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/02-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:31-white?style=for-the-badge)
 
 
 <p align="center">
