@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
 
-Je ne l'ai pas trouvé...
+Les araignées.
 ```
 
 ```diff
-J'avais une blague sur les orphelins.
+Comment mouraient les Juifs les plus rapides à Auschwitz ?
 
-Mais j'ai décidé de l'abandonner...
+Ils étaient passés au gaaaz, gaaaaaaz, gaz !
 ```
 
 ```diff
-La différence entre une blonde et un écureuil ?
+Qu'est-ce qu'un spermatozoïde avec une valise ?
 
-Aucune, les deux courent après les glands !
+Un représentant de mes couilles.
 ```
 
 ```diff
-Pourquoi les Portugais sont forts en cuisine ?
+L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
 
-Parce qu'ils ont plein de poêles !
+Elle ne me parle toujours pas.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 306 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 305 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont plein de poêles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
 
 
 <p align="center">
