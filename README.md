@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
+Qu'est-ce qui permet à un ordinateur d'avancer dans l'eau ?
 
-Les araignées.
+Les barrettes de RAMe !
 ```
 
 ```diff
-Comment mouraient les Juifs les plus rapides à Auschwitz ?
+Quel est le point commun entre un pokémon et un cancer ?
 
-Ils étaient passés au gaaaz, gaaaaaaz, gaz !
+Ils évoluent.
 ```
 
 ```diff
-Qu'est-ce qu'un spermatozoïde avec une valise ?
+Comment appelle-t-on une gothique qui suce ?
 
-Un représentant de mes couilles.
+Une pompe funèbre
 ```
 
 ```diff
-L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
+On me dit souvent que je suis un boulet...
 
-Elle ne me parle toujours pas.
+... et comme t'es canon, je pourrai te rentrer dedans ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 305 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 304 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle ne me parle toujours pas.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
 
 
 <p align="center">
