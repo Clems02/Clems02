@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qui permet à un ordinateur d'avancer dans l'eau ?
+J'allais faire une blague sur l'erreur 404...
 
-Les barrettes de RAMe !
+Je ne l'ai pas trouvé...
 ```
 
 ```diff
-Quel est le point commun entre un pokémon et un cancer ?
+Qu'est-ce qu'un exorcisme à l'envers ?
 
-Ils évoluent.
+C'est quand le diable fait sortir le prêtre de l'enfant.
 ```
 
 ```diff
-Comment appelle-t-on une gothique qui suce ?
+Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
 
-Une pompe funèbre
+Je sais, maman me l'a déjà dit...
 ```
 
 ```diff
-On me dit souvent que je suis un boulet...
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimes. Il me font de la peine...
 
-... et comme t'es canon, je pourrai te rentrer dedans ?
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 304 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 303 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On me dit souvent que je suis un boulet...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
 
 
 <p align="center">
