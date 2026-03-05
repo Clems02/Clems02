@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Les filles, c'est comme les noms de domaine.
 
-Je ne l'ai pas trouvé...
+Celles que j'aime sont déjà prises.
 ```
 
 ```diff
-Qu'est-ce qu'un exorcisme à l'envers ?
+Ma grand-mère a vaincu le cancer.
 
-C'est quand le diable fait sortir le prêtre de l'enfant.
+L'héritage attendra.
 ```
 
 ```diff
-Une fille dit à son frère : "Tu sais que tu fais l'amour beaucoup mieux que papa ?"
+Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
 
-Je sais, maman me l'a déjà dit...
+C'était le jour du changement d'heure !
 ```
 
 ```diff
-Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimes. Il me font de la peine...
+Quand fête-t-on la journée des fumeurs ?
 
-Je pense que je vais les faire rentrer.
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 303 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 302 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je pense que je vais les faire rentrer.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:21-white?style=for-the-badge)
 
 
 <p align="center">
