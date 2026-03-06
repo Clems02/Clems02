@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les filles, c'est comme les noms de domaine.
+Quelles sont les îles les plus instables au monde ?
 
-Celles que j'aime sont déjà prises.
+Ce sont les Îles Canaries.
 ```
 
 ```diff
-Ma grand-mère a vaincu le cancer.
+Que dit Jeanne d'Arc sur le bûcher ?
 
-L'héritage attendra.
+Vous ne m'avez pas cru, vous m'avez cuite !
 ```
 
 ```diff
-Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
+Comment Pinocchio a découvert qu'il était en bois ?
 
-C'était le jour du changement d'heure !
+Il s'est branlé et il a pris feu.
 ```
 
 ```diff
-Quand fête-t-on la journée des fumeurs ?
+Qu'est-ce qu'un gendarme sur un tracteur ?
 
-Le 1er juin
+Un poulet fermier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 302 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 301 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le 1er juin
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:21-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
 
 
 <p align="center">
