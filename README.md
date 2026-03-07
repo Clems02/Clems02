@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les îles les plus instables au monde ?
+Que font les développeurs le matin ?
 
-Ce sont les Îles Canaries.
+Ils boivent leur CoffeeScript.
 ```
 
 ```diff
-Que dit Jeanne d'Arc sur le bûcher ?
+Quel est le point commun entre Claude François et Ayrton Senna ?
 
-Vous ne m'avez pas cru, vous m'avez cuite !
+Les deux étaient de bons conducteurs.
 ```
 
 ```diff
-Comment Pinocchio a découvert qu'il était en bois ?
+Comment faire pour qu’un macho arrête de se vanter sur la taille de son sexe pendant l’amour ?
 
-Il s'est branlé et il a pris feu.
+En lui demandant : "Est-ce qu’elle est dedans là ?"
 ```
 
 ```diff
-Qu'est-ce qu'un gendarme sur un tracteur ?
+Une jardinerie est un endroit merveilleux !
 
-Un poulet fermier.
+Si tu te prends trois râteaux, on t'offre une pelle.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 301 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 300 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un poulet fermier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:18-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:10-white?style=for-the-badge)
 
 
 <p align="center">
