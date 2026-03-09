@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Une fille en C
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Savez-vous pourquoi le petit Grégory n'était jamais en retard ?
+Maman, j'ai peur du noir !
 
-Parce qu'il était dans l'étang !
+Ne t'inquiète pas, il est bien attaché.
 ```
 
 ```diff
-C'est l'histoire du nain aux 26 enfants.
+Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
 
-Elle est courte, mais elle est bonne.
+Dimanche, Pique se repose.
 ```
 
 ```diff
-Quelle est la différence entre un beignet et un donut ?
+Lorsqu'une consonne suit une voyelle entre 2 mots. On doit faire la liaison. Mais il y a des exceptions.
 
-Le donut, il a percé dans le milieu.
+"L'habit à papa" et "l'achat à maman" par exemple.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 299 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 298 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le donut, il a percé dans le milieu.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:21-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
 
 
 <p align="center">
