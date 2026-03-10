@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Les araignées.
 ```
 
 ```diff
-Maman, j'ai peur du noir !
+À quoi a servi Hitler ?
 
-Ne t'inquiète pas, il est bien attaché.
+Aryen.
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+Melon et Meleche trouvent une maison à vendre...
 
-Dimanche, Pique se repose.
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Lorsqu'une consonne suit une voyelle entre 2 mots. On doit faire la liaison. Mais il y a des exceptions.
+C'est en voyant un moustique se poser sur ses testicules...
 
-"L'habit à papa" et "l'achat à maman" par exemple.
+...qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 298 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 297 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsqu'une consonne suit une voyelle entre 2 mots. On doit faire la liaison. Mai
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:19-white?style=for-the-badge)
 
 
 <p align="center">
