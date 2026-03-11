@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
+Que fait un développeur avant d'aller faire les courses ?
 
-Les araignées.
+Il fait sa lisp.
 ```
 
 ```diff
-À quoi a servi Hitler ?
+Stop au racisme ! Soyez tous comme Mario :
 
-Aryen.
+Un Italien, créé par des Japonais, qui parle Anglais, qui ressemble à un Mexicain, qui court comme un Congolais, saute comme un Jamaïcain et qui attrape des pièces comme un Juif.
 ```
 
 ```diff
-Melon et Meleche trouvent une maison à vendre...
+Comment appelle-t-on un préservatif pour statue ?
 
-…Melon l’achète et Meleche l’habite.
+Une capote en glaise.
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+Quand il était petit, quel était le nom de papy Roro ?
 
-...qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 297 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 296 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:19-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:19-white?style=for-the-badge)
 
 
 <p align="center">
