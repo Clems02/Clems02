@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur avant d'aller faire les courses ?
+Quelle est la déesse d'Internet ?
 
-Il fait sa lisp.
+La déesse L
 ```
 
 ```diff
-Stop au racisme ! Soyez tous comme Mario :
+Quels éloges faut-il éviter de dire à un enterrement ?
 
-Un Italien, créé par des Japonais, qui parle Anglais, qui ressemble à un Mexicain, qui court comme un Congolais, saute comme un Jamaïcain et qui attrape des pièces comme un Juif.
+Il en savait trop...
 ```
 
 ```diff
-Comment appelle-t-on un préservatif pour statue ?
+Pourquoi utilise-t-on un préservatif 2 fois ?
 
-Une capote en glaise.
+On l'utilise une fois quand on a chaud, une fois quand on a soif.
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Comment la chouette sait que son mari fait la gueule ?
 
-Roro...
+Parce qu'Hiboude.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 296 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 295 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:19-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:23-white?style=for-the-badge)
 
 
 <p align="center">
