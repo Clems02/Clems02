@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse d'Internet ?
+Qu'est ce qu'un pirateur fait le mieux ?
 
-La déesse L
+Ce qui lui tient hackeur (à cœur) !
 ```
 
 ```diff
-Quels éloges faut-il éviter de dire à un enterrement ?
+Papa ! Pourquoi mamie court en zigzag ?
 
-Il en savait trop...
+Ta gueule p'tit con, et passe-moi les cartouches !
 ```
 
 ```diff
-Pourquoi utilise-t-on un préservatif 2 fois ?
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-On l'utilise une fois quand on a chaud, une fois quand on a soif.
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
-Comment la chouette sait que son mari fait la gueule ?
+Si je couche avec ma soeur que suis-je?
 
-Parce qu'Hiboude.
+Nord-mal.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 295 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 294 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'Hiboude.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:22-white?style=for-the-badge)
 
 
 <p align="center">
