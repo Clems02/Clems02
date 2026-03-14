@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est ce qu'un pirateur fait le mieux ?
+Que dit un informaticien quand il s'ennuie ?
 
-Ce qui lui tient hackeur (à cœur) !
+Je me fichier.
 ```
 
 ```diff
-Papa ! Pourquoi mamie court en zigzag ?
+Tu peux dire "non" à Staline.
 
-Ta gueule p'tit con, et passe-moi les cartouches !
+Mais seulement une fois.
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+Où est fabriqué le viagra ?
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+Au Boukistan
 ```
 
 ```diff
-Si je couche avec ma soeur que suis-je?
+Pourquoi les hommes ne respectent-ils pas la loi ?
 
-Nord-mal.
+Parce qu'elle n'est pas au masculin.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 294 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 293 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Nord-mal.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:20-white?style=for-the-badge)
 
 
 <p align="center">
