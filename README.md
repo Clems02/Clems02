@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Quel composant a un classement correct dans la société ?
 
-Je me fichier.
+La carte maire
 ```
 
 ```diff
-Tu peux dire "non" à Staline.
+Pourquoi y a-t-il de l'air conditionné dans les maisons de retraite ?
 
-Mais seulement une fois.
+Pour garder les légumes frais.
 ```
 
 ```diff
-Où est fabriqué le viagra ?
+Maman, c'est quoi de la lingerie coquine ?
 
-Au Boukistan
+De la hot couture !
 ```
 
 ```diff
-Pourquoi les hommes ne respectent-ils pas la loi ?
+Lorsqu'une consonne est suivie d'une voyelle entre 2 mots, on doit faire la liaison. Mais il y a des exceptions.
 
-Parce qu'elle n'est pas au masculin.
+"L'habit à papa" et "l'achat à maman" par exemple.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 293 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 292 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elle n'est pas au masculin.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:20-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:42-white?style=for-the-badge)
 
 
 <p align="center">
