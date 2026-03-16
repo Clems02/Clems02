@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+Pourquoi les bots ne parlent pas avec les humains ?
 
-La carte maire
+Par peur de leur ressembler.
 ```
 
 ```diff
-Pourquoi y a-t-il de l'air conditionné dans les maisons de retraite ?
+"Chérie, réveille-toi, le bébé pleure encore !"  Épuisée, la mère se lève en soupirant :  "C’est bon, je vais aller le changer."
 
-Pour garder les légumes frais.
+Ça c'est une bonne idée ! Et ramènes-en un qui casse moins les couilles...
 ```
 
 ```diff
-Maman, c'est quoi de la lingerie coquine ?
+Monsieur le Curé, je peux rejoindre mes parents ?
 
-De la hot couture !
+D'accord, mais remonte ton slip avant.
 ```
 
 ```diff
-Lorsqu'une consonne est suivie d'une voyelle entre 2 mots, on doit faire la liaison. Mais il y a des exceptions.
+Pourquoi les hommes amènent-ils leur femme en vacances ?
 
-"L'habit à papa" et "l'achat à maman" par exemple.
+Pour que les vacances paraissent plus longues...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 292 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 291 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsqu'une consonne est suivie d'une voyelle entre 2 mots, on doit faire la liai
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:01-white?style=for-the-badge)
 
 
 <p align="center">
