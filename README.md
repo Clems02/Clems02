@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les bots ne parlent pas avec les humains ?
+Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
 
-Par peur de leur ressembler.
+Ça s'appelle une int err 0.
 ```
 
 ```diff
-"Chérie, réveille-toi, le bébé pleure encore !"  Épuisée, la mère se lève en soupirant :  "C’est bon, je vais aller le changer."
+Comment est-ce qu'on appelle un boomerang qui ne revient pas ?
 
-Ça c'est une bonne idée ! Et ramènes-en un qui casse moins les couilles...
+Un chat mort
 ```
 
 ```diff
-Monsieur le Curé, je peux rejoindre mes parents ?
+Ta mère, elle est comme Mario.
 
-D'accord, mais remonte ton slip avant.
+Elle saute pour avoir des pièces...
 ```
 
 ```diff
-Pourquoi les hommes amènent-ils leur femme en vacances ?
+Quelle est la différence entre une dinde et ma sœur ?
 
-Pour que les vacances paraissent plus longues...
+La dinde, je ne l'ai pas encore fourrée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 291 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 290 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour que les vacances paraissent plus longues...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
 
 
 <p align="center">
