@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
+Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
 
-Ça s'appelle une int err 0.
+Aujourd'hui il s'appelle "Challenge Accepted"...
 ```
 
 ```diff
-Comment est-ce qu'on appelle un boomerang qui ne revient pas ?
+Hier, j'ai vu quatre hommes cagoulés agresser mon ex, je me suis demandé si je devais aider.
 
-Un chat mort
+Mais je me suis dit qu'ils étaient assez à quatre.
 ```
 
 ```diff
-Ta mère, elle est comme Mario.
+Sais-tu pourquoi je ne regarde jamais de porno ?
 
-Elle saute pour avoir des pièces...
+Parce que je suis de l'autre côté de la caméra.
 ```
 
 ```diff
-Quelle est la différence entre une dinde et ma sœur ?
+Mais où est donc Ornicar ?
 
-La dinde, je ne l'ai pas encore fourrée.
+Il fornique dans le car.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 290 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 289 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La dinde, je ne l'ai pas encore fourrée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:33-white?style=for-the-badge)
 
 
 <p align="center">
