@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
+Quel est le comble pour la mémoire vive ?
 
-Aujourd'hui il s'appelle "Challenge Accepted"...
+C'est qu'elle RAM.
 ```
 
 ```diff
-Hier, j'ai vu quatre hommes cagoulés agresser mon ex, je me suis demandé si je devais aider.
+Quel est le point commun entre un pédophile et Vladimir Poutine ?
 
-Mais je me suis dit qu'ils étaient assez à quatre.
+Ils entrent tout les deux sans demander.
 ```
 
 ```diff
-Sais-tu pourquoi je ne regarde jamais de porno ?
+Les actrices de porno sont les personnes les plus actives dans la vie.
 
-Parce que je suis de l'autre côté de la caméra.
+Les autres ne branlent rien.
 ```
 
 ```diff
-Mais où est donc Ornicar ?
+Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
 
-Il fornique dans le car.
+Car le plateau ressemble au carrelage de la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 289 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 288 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il fornique dans le car.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:32-white?style=for-the-badge)
 
 
 <p align="center">
