@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour la mémoire vive ?
+Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
 
-C'est qu'elle RAM.
+Il s'est pris une racine !
 ```
 
 ```diff
-Quel est le point commun entre un pédophile et Vladimir Poutine ?
+Quel est le point commun entre un camp de concentration et une maison de retraite ?
 
-Ils entrent tout les deux sans demander.
+Dans les deux cas, les pensionnaires n'en ressortent pas vivants.
 ```
 
 ```diff
-Les actrices de porno sont les personnes les plus actives dans la vie.
+Quel est le point commun entre ta mère et la coupe de la LDC ?
 
-Les autres ne branlent rien.
+Tout le monde a envie de la soulever.
 ```
 
 ```diff
-Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
+Quelle est l'église la plus petite ?
 
-Car le plateau ressemble au carrelage de la cuisine.
+Le soutien-gorge, on ne peut y mettre que deux seins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 288 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 287 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:23-white?style=for-the-badge)
 
 
 <p align="center">
