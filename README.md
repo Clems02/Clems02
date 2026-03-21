@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un x² rentre dans une forêt. Il en ressort en étant x. Qu'est-ce qu'il a fait ?
+De quelle couleur sont tes yeux ?
 
-Il s'est pris une racine !
+#1292f4 et toi ?
 ```
 
 ```diff
-Quel est le point commun entre un camp de concentration et une maison de retraite ?
+Qu'est ce qui est jaune et qui attend ?
 
-Dans les deux cas, les pensionnaires n'en ressortent pas vivants.
+Un Ouïghours à l'entrée du camp
 ```
 
 ```diff
-Quel est le point commun entre ta mère et la coupe de la LDC ?
+Que fait un zoophile qui veut sauter ?
 
-Tout le monde a envie de la soulever.
+Il prend son élan.
 ```
 
 ```diff
-Quelle est l'église la plus petite ?
+Pourquoi les sorcières ne portent-elles jamais de culottes ?
 
-Le soutien-gorge, on ne peut y mettre que deux seins.
+Pour avoir une meilleure adhérence avec le balai...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 287 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 286 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le soutien-gorge, on ne peut y mettre que deux seins.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
 
 
 <p align="center">
