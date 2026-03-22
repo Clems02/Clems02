@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De quelle couleur sont tes yeux ?
+Les villageois de Minecraft ne sont que des images…
 
-#1292f4 et toi ?
+ce sont des .png.
 ```
 
 ```diff
-Qu'est ce qui est jaune et qui attend ?
+Que dit un Africain quand il loupe une cartouche ?
 
-Un Ouïghours à l'entrée du camp
+Oups, j'ai tiré à blanc.
 ```
 
 ```diff
-Que fait un zoophile qui veut sauter ?
+Qu'est-ce que deux trous dans un trou ?
 
-Il prend son élan.
+Mon nez dans ton cul...
 ```
 
 ```diff
-Pourquoi les sorcières ne portent-elles jamais de culottes ?
+J'ai un chat dans la gorge...
 
-Pour avoir une meilleure adhérence avec le balai...
+Vu ton haleine tu dois aussi avoir la litière...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 286 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 285 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir une meilleure adhérence avec le balai...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:15-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
 
 
 <p align="center">
