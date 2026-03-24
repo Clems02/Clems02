@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+Quel est le comble pour la mémoire vive ?
 
-Le tétanos.
+C'est qu'elle RAM.
 ```
 
 ```diff
-Stop au racisme ! Soyez tous comme Mario :
+Pourquoi les douches ont-elles 11 petits trous ?
 
-Un Italien, créé par des Japonais, qui parle Anglais, qui ressemble à un Mexicain, qui court comme un Congolais, saute comme un Jamaïcain et qui attrape des pièces comme un Juif.
+Car les Juifs n'ont que 10 doigts.
 ```
 
 ```diff
-Quel est le point commun entre un vieux marseillais et une prostituée ?
+Que dit une fille après une nuit avec un juif ?
 
-Les deux aiment jouer avec des boules.
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Savez-vous pourquoi il n’y a pas de femmes au paradis ?
+Je suis anti-féministe.
 
-Parce que ça serait l'enfer !
+Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 284 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 283 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que ça serait l'enfer !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:38-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
 
 
 <p align="center">
