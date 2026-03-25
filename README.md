@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour la mémoire vive ?
+Pourquoi vaut il mieux être software que hardware ?
 
-C'est qu'elle RAM.
+Car c’est le hardware qui prend des coups quand le software plante.
 ```
 
 ```diff
-Pourquoi les douches ont-elles 11 petits trous ?
+Une mère chinoise emmena son fils au parc. Il trouva un chien et se mit à jouer avec lui. Soudain, sa mère cria :
 
-Car les Juifs n'ont que 10 doigts.
+Chen Li ! Combien de fois dois-je te le répéter ? On ne joue pas avec la nourriture !
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Pourquoi les poules n'ont-elles pas de seins ?
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+Parce que les coqs n'ont pas de mains !
 ```
 
 ```diff
-Je suis anti-féministe.
+Pourquoi les femmes se maquillent et se parfument ?
 
-Mais si les femmes montrent leurs nibards pour militer, je veux bien les soutenir.
+Parce qu'elles sont moches et qu'elles puent.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 283 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 282 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais si les femmes montrent leurs nibards pour militer, je veux bien les souteni
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
 
 
 <p align="center">
