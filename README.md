@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
 
-Car c’est le hardware qui prend des coups quand le software plante.
+... ensuite il demande à quoi il doit servir.
 ```
 
 ```diff
-Une mère chinoise emmena son fils au parc. Il trouva un chien et se mit à jouer avec lui. Soudain, sa mère cria :
+Quel est le point commun entre un shérif retraité et un ancien juif reconverti ?
 
-Chen Li ! Combien de fois dois-je te le répéter ? On ne joue pas avec la nourriture !
+Ils ont tous les deux rendu leur étoile.
 ```
 
 ```diff
-Pourquoi les poules n'ont-elles pas de seins ?
+Quelle est la différence entre un vieux et un renard ?
 
-Parce que les coqs n'ont pas de mains !
+Le renard a la queue touffue et le vieux a la queue foutue.
 ```
 
 ```diff
-Pourquoi les femmes se maquillent et se parfument ?
+Quel est le point commun entre un homme et un tiroir ?
 
-Parce qu'elles sont moches et qu'elles puent.
+Les deux sont des fourre-tout.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 282 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 281 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles sont moches et qu'elles puent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:42-white?style=for-the-badge)
 
 
 <p align="center">
