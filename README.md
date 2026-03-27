@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
+Si JavaScript avait un fils, comment s'appellerait-il ?
 
-... ensuite il demande à quoi il doit servir.
+Json
 ```
 
 ```diff
-Quel est le point commun entre un shérif retraité et un ancien juif reconverti ?
+"Dis maman, un citron, ça a des pattes ?"
 
-Ils ont tous les deux rendu leur étoile.
+"Non, pourquoi ?" "Ah, bah j'ai pressé un poussin..."
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un renard ?
+Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
 
-Le renard a la queue touffue et le vieux a la queue foutue.
+Il m’a proposé un plan A3, A4 et même A5.
 ```
 
 ```diff
-Quel est le point commun entre un homme et un tiroir ?
+Quelle est la différence entre un stressé et un puceau ?
 
-Les deux sont des fourre-tout.
+Ils ont tous les deux pa-niqué.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 281 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 280 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux sont des fourre-tout.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:43-white?style=for-the-badge)
 
 
 <p align="center">
