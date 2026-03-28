@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Si JavaScript avait un fils, comment s'appellerait-il ?
+Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
 
-Json
+Aujourd'hui il s'appelle "Challenge Accepted"...
 ```
 
 ```diff
-"Dis maman, un citron, ça a des pattes ?"
+Quel est le moyen de transport le plus populaire au 18ème siècle ?
 
-"Non, pourquoi ?" "Ah, bah j'ai pressé un poussin..."
+Le noir
 ```
 
 ```diff
-Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
+Comment dit-on "Castration", en espagnol ?
 
-Il m’a proposé un plan A3, A4 et même A5.
+Adios, à mes gosses !
 ```
 
 ```diff
-Quelle est la différence entre un stressé et un puceau ?
+Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
 
-Ils ont tous les deux pa-niqué.
+Le prix du collier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 280 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 279 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ils ont tous les deux pa-niqué.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
 
 
 <p align="center">
