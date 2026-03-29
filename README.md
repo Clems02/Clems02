@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
+Que fait un poussin sur GitHub ?
 
-Aujourd'hui il s'appelle "Challenge Accepted"...
+Des poule requests
 ```
 
 ```diff
-Quel est le moyen de transport le plus populaire au 18ème siècle ?
+En 2023, on doit plus dire "pédophile".
 
-Le noir
+On dit "béta-testeurs" maintenant.
 ```
 
 ```diff
-Comment dit-on "Castration", en espagnol ?
+J'ai nommé ma bite Bidou.
 
-Adios, à mes gosses !
+Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
 ```
 
 ```diff
-Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
+Quel est l'avantage d'un gamer ?
 
-Le prix du collier.
+Il a une gigabyte...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 279 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 278 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:57-white?style=for-the-badge)
 
 
 <p align="center">
