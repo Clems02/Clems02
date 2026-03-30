@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un poussin sur GitHub ?
+Si JavaScript avait un fils, comment s'appellerait-il ?
 
-Des poule requests
+Json
 ```
 
 ```diff
-En 2023, on doit plus dire "pédophile".
+Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
 
-On dit "béta-testeurs" maintenant.
+... Allô sœurette ?
 ```
 
 ```diff
-J'ai nommé ma bite Bidou.
+Quelle est la différence entre un vieux et un zizi ?
 
-Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
+Tu n'as pas besoin de secouer le vieux pour qu'il bave.
 ```
 
 ```diff
-Quel est l'avantage d'un gamer ?
+Qu'est ce qu'une boite sans eau ?
 
-Il a une gigabyte...
+Une bite
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 278 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 277 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il a une gigabyte...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
 
 
 <p align="center">
