@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Si JavaScript avait un fils, comment s'appellerait-il ?
+Comment on appelle une situation qui est gérée ?
 
-Json
+Une situation sous CTRL
 ```
 
 ```diff
-Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
+Ce n’est pas l’habit qui fait le moine, …
 
-... Allô sœurette ?
+… mais c’est le chinois qui fait l’habit.
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un zizi ?
+Pourquoi les pharaons ont ils 2 fesses ?
 
-Tu n'as pas besoin de secouer le vieux pour qu'il bave.
+Parce qu'Anubis !
 ```
 
 ```diff
-Qu'est ce qu'une boite sans eau ?
+Quelle est la différence entre une femme et un dobermann ?
 
-Une bite
+Le prix du collier
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 277 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 276 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une bite
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:56-white?style=for-the-badge)
 
 
 <p align="center">
