@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment on appelle une situation qui est gérée ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Une situation sous CTRL
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Ce n’est pas l’habit qui fait le moine, …
+Pourquoi le Père Noël est considéré comme le dieu des Juifs ?
 
-… mais c’est le chinois qui fait l’habit.
+Parce qu’il aurait survécu à la cheminée.
 ```
 
 ```diff
-Pourquoi les pharaons ont ils 2 fesses ?
+Qu’est-ce qui sépare deux obsédés sexuels de trois salopes ?
 
-Parce qu'Anubis !
+Une porte de cockpit
 ```
 
 ```diff
-Quelle est la différence entre une femme et un dobermann ?
+Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
 
-Le prix du collier
+Car les cyclistes pédalent et les autres pagaies.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 276 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 275 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/03-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:09-white?style=for-the-badge)
 
 
 <p align="center">
