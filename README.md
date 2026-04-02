@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Quelle est la meilleure version de Windows ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+Question débile, Windows Vista bien évidemment !
 ```
 
 ```diff
-Pourquoi le Père Noël est considéré comme le dieu des Juifs ?
+Pourquoi le numéro 10 a peur ?
 
-Parce qu’il aurait survécu à la cheminée.
+Parce qu'il est entre 9/11.
 ```
 
 ```diff
-Qu’est-ce qui sépare deux obsédés sexuels de trois salopes ?
+Qu'est-ce qui suit la lettre X ?
 
-Une porte de cockpit
+Hamster.
 ```
 
 ```diff
-Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
+Comment appelle-t-on une vache qui joue de la musique ?
 
-Car les cyclistes pédalent et les autres pagaies.
+Une meeuhsiciene.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 275 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 274 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car les cyclistes pédalent et les autres pagaies.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:39-white?style=for-the-badge)
 
 
 <p align="center">
