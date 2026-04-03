@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la meilleure version de Windows ?
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
 
-Question débile, Windows Vista bien évidemment !
+Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
 ```
 
 ```diff
-Pourquoi le numéro 10 a peur ?
+Que dit un Africain quand il loupe une cartouche ?
 
-Parce qu'il est entre 9/11.
+Oups, j'ai tiré à blanc.
 ```
 
 ```diff
-Qu'est-ce qui suit la lettre X ?
+Quelle est la différence entre un tampon et un téléphone ?
 
-Hamster.
+Avec le tampon, on sait qui est au bout du fil.
 ```
 
 ```diff
-Comment appelle-t-on une vache qui joue de la musique ?
+Qu'est-ce qu'oune péniche ?
 
-Une meeuhsiciene.
+C'est oune zizi portouguaiche.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 274 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 273 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une meeuhsiciene.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:39-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:40-white?style=for-the-badge)
 
 
 <p align="center">
