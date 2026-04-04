@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+Un développeur non-binaire qui code, ça ferait quoi ?
 
-Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
+Ça causerait des bugs.
 ```
 
 ```diff
-Que dit un Africain quand il loupe une cartouche ?
+Quel est le point commun entre un enfant africain et une fleur ?
 
-Oups, j'ai tiré à blanc.
+Ils ont besoin d'eau pendant une semaine et après, ils meurent.
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+Quelle est la différance entre une femme et une grue ?
 
-Avec le tampon, on sait qui est au bout du fil.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Qu'est-ce qu'oune péniche ?
+Quelle est l'activité préférée d'un électricien ?
 
-C'est oune zizi portouguaiche.
+Branler un poteau pour voir s'il a du jus.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 273 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 272 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est oune zizi portouguaiche.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:27-white?style=for-the-badge)
 
 
 <p align="center">
