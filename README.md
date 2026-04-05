@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur non-binaire qui code, ça ferait quoi ?
+Que fait un poussin sur GitHub ?
 
-Ça causerait des bugs.
+Des poule requests
 ```
 
 ```diff
-Quel est le point commun entre un enfant africain et une fleur ?
+Qu'est-ce qu'un hémiplégique tout nu ?
 
-Ils ont besoin d'eau pendant une semaine et après, ils meurent.
+Un légume épluché !
 ```
 
 ```diff
-Quelle est la différance entre une femme et une grue ?
+Quel est le point commun entre ta mère et le coupe de la LDC ?
 
-La grue débite des caisses et la femme encaisse des bites.
+Tout le monde a envie de la soulever.
 ```
 
 ```diff
-Quelle est l'activité préférée d'un électricien ?
+Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?
 
-Branler un poteau pour voir s'il a du jus.
+Pour chaque cas c'est un homme qui la sortie trop tard.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 272 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 271 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Branler un poteau pour voir s'il a du jus.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:58-white?style=for-the-badge)
 
 
 <p align="center">
