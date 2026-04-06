@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un poussin sur GitHub ?
+J'allais faire une blague sur l'erreur 504...
 
-Des poule requests
+Mais elle est plus sur les serveurs.
 ```
 
 ```diff
-Qu'est-ce qu'un hémiplégique tout nu ?
+D'où vient l'expression "dur à cuir" ?
 
-Un légume épluché !
+De la Seconde Guerre mondiale, pour parler des Juifs rebellent.
 ```
 
 ```diff
-Quel est le point commun entre ta mère et le coupe de la LDC ?
+Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
 
-Tout le monde a envie de la soulever.
+D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
 ```
 
 ```diff
-Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?
+Qu'est-ce qui est mieux qu'un plan A ?
 
-Pour chaque cas c'est un homme qui la sortie trop tard.
+Un plan Q
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 271 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 270 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque cas c'est un homme qui la sortie trop tard.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
 
 
 <p align="center">
