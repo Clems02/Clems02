@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 504...
+Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
 
-Mais elle est plus sur les serveurs.
+Aujourd'hui il s'appelle "Challenge Accepted"...
 ```
 
 ```diff
-D'où vient l'expression "dur à cuir" ?
+Quelle est la dernière chose que Claude François a mangée ?
 
-De la Seconde Guerre mondiale, pour parler des Juifs rebellent.
+Une décharge
 ```
 
 ```diff
-Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
+Que signifie expatriées ?
 
-D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
+Anciennes petites amies non rangées.
 ```
 
 ```diff
-Qu'est-ce qui est mieux qu'un plan A ?
+C'est quoi un morceau de patate qui tombe sur la planète ?
 
-Un plan Q
+Une météofrite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 270 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 269 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un plan Q
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:43-white?style=for-the-badge)
 
 
 <p align="center">
