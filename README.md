@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
+Que dit un ordinateur pour draguer ?
 
-Aujourd'hui il s'appelle "Challenge Accepted"...
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Quelle est la dernière chose que Claude François a mangée ?
+Qu'est-ce qui est jaune et qui attend ?
 
-Une décharge
+Un Ouïghours à l'entrée du camp.
 ```
 
 ```diff
-Que signifie expatriées ?
+Que disent deux fesses sur un bateau ?
 
-Anciennes petites amies non rangées.
+Dis donc ça commence à ramer du cul.
 ```
 
 ```diff
-C'est quoi un morceau de patate qui tombe sur la planète ?
+Qui est le plus menteur entre un boucher et un jardinier ?
 
-Une météofrite.
+Le jardinier, car il ne raconte que des salades.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 269 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 268 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une météofrite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:58-white?style=for-the-badge)
 
 
 <p align="center">
