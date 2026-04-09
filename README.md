@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+Un développeur non-binaire qui code, ça ferait quoi ?
 
-Coucou, tu veux voir mes 64 bits ?
+Ça causerait des bugs.
 ```
 
 ```diff
-Qu'est-ce qui est jaune et qui attend ?
+À quoi sert un chef d'orchestre ?
 
-Un Ouïghours à l'entrée du camp.
+Quand il arrête de remuer les bras, les sourds savent qu'ils doivent applaudir.
 ```
 
 ```diff
-Que disent deux fesses sur un bateau ?
+Comment on dit bonjour aux femmes qui ont leur règles ?
 
-Dis donc ça commence à ramer du cul.
+Wesh, bien ou quoi le sang !
 ```
 
 ```diff
-Qui est le plus menteur entre un boucher et un jardinier ?
+Pourquoi la diarrhée est très répandue ?
 
-Le jardinier, car il ne raconte que des salades.
+Car c'est une maladie courante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 268 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 267 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le jardinier, car il ne raconte que des salades.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:43-white?style=for-the-badge)
 
 
 <p align="center">
