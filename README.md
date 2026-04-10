@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur non-binaire qui code, ça ferait quoi ?
+Quelle est la maladie la plus répandue chez les développeurs Rust ?
 
-Ça causerait des bugs.
+Le tétanos.
 ```
 
 ```diff
-À quoi sert un chef d'orchestre ?
+Qu'est-ce qui a 5 bras, 3 jambes et 2 pieds ?
 
-Quand il arrête de remuer les bras, les sourds savent qu'ils doivent applaudir.
+La ligne d’arrivée du marathon de Boston.
 ```
 
 ```diff
-Comment on dit bonjour aux femmes qui ont leur règles ?
+C'est quoi la différence entre un homme et un sapin de Noël ?
 
-Wesh, bien ou quoi le sang !
+Le nombre de boules
 ```
 
 ```diff
-Pourquoi la diarrhée est très répandue ?
+Qu'est ce qu'une boite sans eau ?
 
-Car c'est une maladie courante.
+Une bite
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 267 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 266 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est une maladie courante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:10-white?style=for-the-badge)
 
 
 <p align="center">
