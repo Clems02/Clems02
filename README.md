@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
 
-Le tétanos.
+Ça s'appelle une int err 0.
 ```
 
 ```diff
-Qu'est-ce qui a 5 bras, 3 jambes et 2 pieds ?
+Qu'est-ce qui a 4 pattes et un bras ?
 
-La ligne d’arrivée du marathon de Boston.
+Un pitbull dans un jardin d'enfants
 ```
 
 ```diff
-C'est quoi la différence entre un homme et un sapin de Noël ?
+Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
 
-Le nombre de boules
+C'était le jour du changement d'heure !
 ```
 
 ```diff
-Qu'est ce qu'une boite sans eau ?
+Quel est le point commun entre une femme et une piscine ?
 
-Une bite
+Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 266 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 265 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une bite
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:31-white?style=for-the-badge)
 
 
 <p align="center">
