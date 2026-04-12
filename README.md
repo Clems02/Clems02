@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu fais plein d'erreurs dans une interro de maths et tu te chopes un 0/20.
+Quel est le biscuit préféré d'Internet ?
 
-Ça s'appelle une int err 0.
+Le cookie
 ```
 
 ```diff
-Qu'est-ce qui a 4 pattes et un bras ?
+Maman, d'ou vient l'expression "broyer du noir" ?
 
-Un pitbull dans un jardin d'enfants
+il y a longtemps, quand les gens n'était pas content, ils broyaient les noirs.
 ```
 
 ```diff
-Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
+Le sperme, c’est comme un gros mensonge.
 
-C'était le jour du changement d'heure !
+C’est toujours difficile à faire avaler !
 ```
 
 ```diff
-Quel est le point commun entre une femme et une piscine ?
+Quelle est la différence entre un Ricard et un 69 ?
 
-Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
+Le Ricard, c’est le nez dans l’anis, le 69, c’est le nez dans l’anus.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 265 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 264 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le point commun entre une femme et une piscine ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
 
 
 <p align="center">
