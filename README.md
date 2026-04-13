@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
 
-Le cookie
+Le temps d’accès !
 ```
 
 ```diff
-Maman, d'ou vient l'expression "broyer du noir" ?
+Que dit Marine Le Pen au Capitaine du Bateau sur lequel elle navigue ?
 
-il y a longtemps, quand les gens n'était pas content, ils broyaient les noirs.
+La meilleure méthode, c'est de naviguer a contre Coran !
 ```
 
 ```diff
-Le sperme, c’est comme un gros mensonge.
+L'amour, c'est comme les cartes.
 
-C’est toujours difficile à faire avaler !
+Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
 ```
 
 ```diff
-Quelle est la différence entre un Ricard et un 69 ?
+Pourquoi les Belges portent des capotes sur les oreilles ?
 
-Le Ricard, c’est le nez dans l’anis, le 69, c’est le nez dans l’anus.
+C’est pour ne pas entendre parler du sida.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 264 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 263 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le Ricard, c’est le nez dans l’anis, le 69, c’est le nez dans l’anus.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:25-white?style=for-the-badge)
 
 
 <p align="center">
