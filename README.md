@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
+De quelle couleur sont tes yeux ?
 
-Le temps d’accès !
+#1292f4 et toi ?
 ```
 
 ```diff
-Que dit Marine Le Pen au Capitaine du Bateau sur lequel elle navigue ?
+En Suède, ils ont du fer et ils ne savent pas quoi en foutre
 
-La meilleure méthode, c'est de naviguer a contre Coran !
+Au Vatican, c'est l'inverse.
 ```
 
 ```diff
-L'amour, c'est comme les cartes.
+Comment on appelle t’on un voleur de viagra ?
 
-Quand on n'a pas de partenaire, mieux vaut avoir une bonne main.
+Un criminel endurci !
 ```
 
 ```diff
-Pourquoi les Belges portent des capotes sur les oreilles ?
+Pourquoi le coq est-il l'emblème de la France ?
 
-C’est pour ne pas entendre parler du sida.
+Parce que c'est le seul animal à chanter les pieds dans la merde.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 263 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 262 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C’est pour ne pas entendre parler du sida.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
 
 
 <p align="center">
