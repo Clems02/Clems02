@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De quelle couleur sont tes yeux ?
+Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
 
-#1292f4 et toi ?
+Une RC-XD
 ```
 
 ```diff
-En Suède, ils ont du fer et ils ne savent pas quoi en foutre
+Où se situe la majeure partie de la population juive ?
 
-Au Vatican, c'est l'inverse.
+Ça dépend du vent.
 ```
 
 ```diff
-Comment on appelle t’on un voleur de viagra ?
+Pourquoi Cendrillon est-elle morte à minuit ?
 
-Un criminel endurci !
+Parce que son tampon s'est transformé en citrouille.
 ```
 
 ```diff
-Pourquoi le coq est-il l'emblème de la France ?
+Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
 
-Parce que c'est le seul animal à chanter les pieds dans la merde.
+Une double Pen.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 262 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 261 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que c'est le seul animal à chanter les pieds dans la merde.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
 
 
 <p align="center">
