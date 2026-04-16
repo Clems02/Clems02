@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+Que fait un développeur en hiver ?
 
-Une RC-XD
+Du saut ASCII
 ```
 
 ```diff
-Où se situe la majeure partie de la population juive ?
+Un farceur condamné avale deux kilos de maïs juste avant sa sentence...
 
-Ça dépend du vent.
+...dans le but de mettre l'ambiance au crématorium.
 ```
 
 ```diff
-Pourquoi Cendrillon est-elle morte à minuit ?
+Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
 
-Parce que son tampon s'est transformé en citrouille.
+La femme répliqua « Je suis pro stituée ! »
 ```
 
 ```diff
-Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
+Quand fête-t-on la journée des fumeurs ?
 
-Une double Pen.
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 261 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 260 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une double Pen.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:14-white?style=for-the-badge)
 
 
 <p align="center">
