@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en hiver ?
+Que dit un informaticien quand il s'ennuie ?
 
-Du saut ASCII
+Je me fichier.
 ```
 
 ```diff
-Un farceur condamné avale deux kilos de maïs juste avant sa sentence...
+Quelle est la différence entre un Ricard et un migrant ?
 
-...dans le but de mettre l'ambiance au crématorium.
+Le Ricard, il ne faut pas le noyer.
 ```
 
 ```diff
-Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
+Maman, maman pourquoi tu gémis ?
 
-La femme répliqua « Je suis pro stituée ! »
+Tais-toi et lèche !
 ```
 
 ```diff
-Quand fête-t-on la journée des fumeurs ?
+Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
 
-Le 1er juin
+Car les cyclistes pédalent et les autres pagaies.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 260 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 259 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le 1er juin
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:13-white?style=for-the-badge)
 
 
 <p align="center">
