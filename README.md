@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Quelle est la console préférée des chats ?
 
-Je me fichier.
+La PS cat.
 ```
 
 ```diff
-Quelle est la différence entre un Ricard et un migrant ?
+Maman, d'ou vient l'expression "broyer du noir" ?
 
-Le Ricard, il ne faut pas le noyer.
+il y a longtemps, quand les gens n'était pas content, ils broyaient les noirs.
 ```
 
 ```diff
-Maman, maman pourquoi tu gémis ?
+Quel est le point commun entre un sourd et un gynécologue ?
 
-Tais-toi et lèche !
+Les deux savent lire sur les lèvres.
 ```
 
 ```diff
-Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
+Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
 
-Car les cyclistes pédalent et les autres pagaies.
+Le prix du collier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 259 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 258 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car les cyclistes pédalent et les autres pagaies.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:42-white?style=for-the-badge)
 
 
 <p align="center">
