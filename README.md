@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la console préférée des chats ?
+J'allais faire une blague sur l'erreur 404...
 
-La PS cat.
+Je ne l'ai pas trouvée...
 ```
 
 ```diff
-Maman, d'ou vient l'expression "broyer du noir" ?
+Quelle est la différence entre un Juif et une pizza ?
 
-il y a longtemps, quand les gens n'était pas content, ils broyaient les noirs.
+Vous avez déjà vu une pizza taper à la porte du four ?
 ```
 
 ```diff
-Quel est le point commun entre un sourd et un gynécologue ?
+Maman, tu sais que papa a recommencé à fumer ? Ah bon ?
 
-Les deux savent lire sur les lèvres.
+Hier il a dit à sa copine merci pour la pipe !
 ```
 
 ```diff
-Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
+Un enfant dit : "Ma maman a toujours faim !"
 
-Le prix du collier.
+"Elle n'arrête pas de manger le zizi de mon papa !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 258 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 257 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:13-white?style=for-the-badge)
 
 
 <p align="center">
