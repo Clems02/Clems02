@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Quel est l'animal préféré des développeurs ?
 
-Je ne l'ai pas trouvée...
+Le python
 ```
 
 ```diff
-Quelle est la différence entre un Juif et une pizza ?
+Comment calcule-t-on le temps d'évasion d'un Juif ?
 
-Vous avez déjà vu une pizza taper à la porte du four ?
+Hauteur de la cheminée multipliée par la force du vent.
 ```
 
 ```diff
-Maman, tu sais que papa a recommencé à fumer ? Ah bon ?
+Quel est le seul instrument à vent avec une corde ?
 
-Hier il a dit à sa copine merci pour la pipe !
+Le string.
 ```
 
 ```diff
-Un enfant dit : "Ma maman a toujours faim !"
+Qu'est-ce qui peut rendre un homme millionaire ?
 
-"Elle n'arrête pas de manger le zizi de mon papa !"
+Une femme, si il était milliardaire avant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 257 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 256 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un enfant dit : "Ma maman a toujours faim !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:23-white?style=for-the-badge)
 
 
 <p align="center">
