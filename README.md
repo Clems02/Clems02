@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal préféré des développeurs ?
+Comment sont les gardes du corps de Sonic ?
 
-Le python
+Ses gars, c'est du lourd.
 ```
 
 ```diff
-Comment calcule-t-on le temps d'évasion d'un Juif ?
+Dans quel continent se trouve l'Allemagne ?
 
-Hauteur de la cheminée multipliée par la force du vent.
+L'Allemagne est en nazie.
 ```
 
 ```diff
-Quel est le seul instrument à vent avec une corde ?
+Mon pénis est déjà rentré dans le guinness book.
 
-Le string.
+Mais le libraire m'a demandé de le retirer.
 ```
 
 ```diff
-Qu'est-ce qui peut rendre un homme millionaire ?
+Pourquoi les Portugais sont forts en cuisine ?
 
-Une femme, si il était milliardaire avant.
+Parce qu'ils ont plein de poêles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 256 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 255 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme, si il était milliardaire avant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:11-white?style=for-the-badge)
 
 
 <p align="center">
