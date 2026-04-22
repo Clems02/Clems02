@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment sont les gardes du corps de Sonic ?
+Quelle est la résolution d'un informaticien pour la nouvelle année ?
 
-Ses gars, c'est du lourd.
+Un 19" pouces.
 ```
 
 ```diff
-Dans quel continent se trouve l'Allemagne ?
+Pourquoi faut-il toujours poursuivre un Arabe sur un scooter ?
 
-L'Allemagne est en nazie.
+Car c'est probablement le tien.
 ```
 
 ```diff
-Mon pénis est déjà rentré dans le guinness book.
+Une pucelle et une mère sont sur un bateau, l'une des deux tombe à l'eau. Laquelle ?
 
-Mais le libraire m'a demandé de le retirer.
+La pucelle, car elle a paniqué.
 ```
 
 ```diff
-Pourquoi les Portugais sont forts en cuisine ?
+Qu'est-ce qu'une luciole qui a pris du viagra ?
 
-Parce qu'ils ont plein de poêles !
+Un néon !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 255 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 254 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont plein de poêles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:10-white?style=for-the-badge)
 
 
 <p align="center">
