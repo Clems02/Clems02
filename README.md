@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la résolution d'un informaticien pour la nouvelle année ?
+Une notice me disait : Nécessite Windows XP ou mieux.
 
-Un 19" pouces.
+J'ai donc installé Linux.
 ```
 
 ```diff
-Pourquoi faut-il toujours poursuivre un Arabe sur un scooter ?
+Des scientifiques ont trouvé de l'eau sur Mars !
 
-Car c'est probablement le tien.
+Mars 1 - 0 Afrique
 ```
 
 ```diff
-Une pucelle et une mère sont sur un bateau, l'une des deux tombe à l'eau. Laquelle ?
+Comment appelle-t-on une lesbienne qui n'a pas de seins ?
 
-La pucelle, car elle a paniqué.
+Une homoplate.
 ```
 
 ```diff
-Qu'est-ce qu'une luciole qui a pris du viagra ?
+Les femmes ne sont pas vos objets sexuels.
 
-Un néon !
+Ce sont les miens !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 254 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 253 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un néon !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:13-white?style=for-the-badge)
 
 
 <p align="center">
