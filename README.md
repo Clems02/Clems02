@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une notice me disait : Nécessite Windows XP ou mieux.
+Que dit un ordinateur pour draguer ?
 
-J'ai donc installé Linux.
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Des scientifiques ont trouvé de l'eau sur Mars !
+Tu ne peux pas être raciste ...
 
-Mars 1 - 0 Afrique
+... si tu as exterminé toutes les autres races.
 ```
 
 ```diff
-Comment appelle-t-on une lesbienne qui n'a pas de seins ?
+Quelle est la phrase que l'on peut dire en voiture et dans une cave ?
 
-Une homoplate.
+« Je ne savais pas qu’il y avait autant de place dans une 2008. »
 ```
 
 ```diff
-Les femmes ne sont pas vos objets sexuels.
+Proverbe africain : Quand moustique se poser sur testicules.
 
-Ce sont les miens !
+Toi comprendre que violence pas toujours solution.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 253 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 252 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont les miens !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:18-white?style=for-the-badge)
 
 
 <p align="center">
