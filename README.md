@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+Qu’est ce qu’un code obèse ?
 
-Coucou, tu veux voir mes 64 bits ?
+Un code qui ne run pas.
 ```
 
 ```diff
-Tu ne peux pas être raciste ...
+Pourquoi Ray Charles et Stevie Wonder chantent toujours en se balançant de gauche à droite ?
 
-... si tu as exterminé toutes les autres races.
+Parce qu'ils cherchent leur micro
 ```
 
 ```diff
-Quelle est la phrase que l'on peut dire en voiture et dans une cave ?
+Qu'est-ce qui est pire que de doigter sa sœur ?
 
-« Je ne savais pas qu’il y avait autant de place dans une 2008. »
+Y trouver l'alliance de son père.
 ```
 
 ```diff
-Proverbe africain : Quand moustique se poser sur testicules.
+Chéri, préfères-tu les femmes intelligentes ou belles ?
 
-Toi comprendre que violence pas toujours solution.
+Aucune, car je n'aime que toi.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 252 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 251 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Toi comprendre que violence pas toujours solution.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:18-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:58-white?style=for-the-badge)
 
 
 <p align="center">
