@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu’est ce qu’un code obèse ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Un code qui ne run pas.
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Pourquoi Ray Charles et Stevie Wonder chantent toujours en se balançant de gauche à droite ?
+Quelle est la différence entre un divorce et la grammaire ?
 
-Parce qu'ils cherchent leur micro
+En grammaire, c'est le masculin qui l'emporte.
 ```
 
 ```diff
-Qu'est-ce qui est pire que de doigter sa sœur ?
+La vie c’est comme un pénis,
 
-Y trouver l'alliance de son père.
+Simple, relax et soudain, une femme le/la rend dur(e).
 ```
 
 ```diff
-Chéri, préfères-tu les femmes intelligentes ou belles ?
+En Normandie, quand il y a de la moule...
 
-Aucune, car je n'aime que toi.
+On a la frite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 251 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 250 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aucune, car je n'aime que toi.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:22-white?style=for-the-badge)
 
 
 <p align="center">
