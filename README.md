@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Que dit un programmeur SQL pour exprimer son mépris ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+SELECT finger FROM hand WHERE id=3;
 ```
 
 ```diff
-Quelle est la différence entre un divorce et la grammaire ?
+Quel est le point commun entre les petites filles et les bouteilles de vin ?
 
-En grammaire, c'est le masculin qui l'emporte.
+Les meilleures ont douze ans d'âge et sont dans ma cave.
 ```
 
 ```diff
-La vie c’est comme un pénis,
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-Simple, relax et soudain, une femme le/la rend dur(e).
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-En Normandie, quand il y a de la moule...
+On me dit souvent que je suis un boulet...
 
-On a la frite.
+... et comme t'es canon, je pourrai te rentrer dedans ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 250 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 249 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On a la frite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:36-white?style=for-the-badge)
 
 
 <p align="center">
