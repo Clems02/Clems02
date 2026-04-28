@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un programmeur SQL pour exprimer son mépris ?
+Quelle est la déesse du Wi-Fi ?
 
-SELECT finger FROM hand WHERE id=3;
+La déesse L.
 ```
 
 ```diff
-Quel est le point commun entre les petites filles et les bouteilles de vin ?
+Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
 
-Les meilleures ont douze ans d'âge et sont dans ma cave.
+... Allô sœurette ?
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Ce n'est pas bien de regarder sous les jupes des filles.
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+Il faut regarder sous la culotte.
 ```
 
 ```diff
-On me dit souvent que je suis un boulet...
+Les gens disent que les femmes ne sont pas drôles...
 
-... et comme t'es canon, je pourrai te rentrer dedans ?
+... mais hier, ma femme m'a demandé de faire à manger.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 249 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 248 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On me dit souvent que je suis un boulet...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:41-white?style=for-the-badge)
 
 
 <p align="center">
