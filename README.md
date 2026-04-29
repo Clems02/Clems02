@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la déesse du Wi-Fi ?
+C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
 
-La déesse L.
+... PATH le chemin !
 ```
 
 ```diff
-Deux amis discutent : - Moi et ma crush, c'est impossible ! - Mais non... Appelle-la et dis lui ! Si tu le dis...
+Papa, pourquoi mamie court en zig-zag dans le jardin ?
 
-... Allô sœurette ?
+Ta gueule fiston ! Tu vois bien que j’essaye de viser juste.
 ```
 
 ```diff
-Ce n'est pas bien de regarder sous les jupes des filles.
+Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
 
-Il faut regarder sous la culotte.
+Bah non, je rentre encore dans du 12 ans.
 ```
 
 ```diff
-Les gens disent que les femmes ne sont pas drôles...
+Que fait Jean quand il voit une femme crocodile ?
 
-... mais hier, ma femme m'a demandé de faire à manger.
+Il Lacoste !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 248 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 247 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les gens disent que les femmes ne sont pas drôles...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:37-white?style=for-the-badge)
 
 
 <p align="center">
