@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
+Que fait un développeur quand il a soif ?
 
-... PATH le chemin !
+this.drink('water')
 ```
 
 ```diff
-Papa, pourquoi mamie court en zig-zag dans le jardin ?
+Que fait un DJ djihadiste ?
 
-Ta gueule fiston ! Tu vois bien que j’essaye de viser juste.
+Il fait péter le son.
 ```
 
 ```diff
-Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
+Pourquoi Christian Quesada est aussi intelligent ?
 
-Bah non, je rentre encore dans du 12 ans.
+Parce qu'il est resté longtemps à l'école...
 ```
 
 ```diff
-Que fait Jean quand il voit une femme crocodile ?
+Quel est le point commun entre une femme et une voiture de sport ?
 
-Il Lacoste !
+Les deux font du bruit lorsqu'on accélère.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 247 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 246 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il Lacoste !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:42-white?style=for-the-badge)
 
 
 <p align="center">
