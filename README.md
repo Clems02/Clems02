@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il a soif ?
+Que fait un ordinateur sur un bateau?
 
-this.drink('water')
+Il rame.
 ```
 
 ```diff
-Que fait un DJ djihadiste ?
+Tu sais ce qui est écrit sur les portes du Bataclan ?
 
-Il fait péter le son.
+Tirez !
 ```
 
 ```diff
-Pourquoi Christian Quesada est aussi intelligent ?
+Un vieux proverbe dit : qui se branle face au vent...
 
-Parce qu'il est resté longtemps à l'école...
+... a le nombril tout gluant.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une voiture de sport ?
+Qu'est-ce qu'une luciole qui a pris du viagra ?
 
-Les deux font du bruit lorsqu'on accélère.
+Un néon !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 246 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 245 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux font du bruit lorsqu'on accélère.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/04-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:51-white?style=for-the-badge)
 
 
 <p align="center">
