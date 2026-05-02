@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un ordinateur sur un bateau?
+Comment un développeur se protège-t-il de la pluie ?
 
-Il rame.
+Il se met sous une Bash !
 ```
 
 ```diff
-Tu sais ce qui est écrit sur les portes du Bataclan ?
+Quelle est la différence entre un bébé blanc et un bébé noir ?
 
-Tirez !
+20 minutes, thermostat 8
 ```
 
 ```diff
-Un vieux proverbe dit : qui se branle face au vent...
+Tu veux connaître mon coin à champignons ?
 
-... a le nombril tout gluant.
+C'est Tinder !
 ```
 
 ```diff
-Qu'est-ce qu'une luciole qui a pris du viagra ?
+Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
 
-Un néon !
+Je pense que je vais les faire rentrer.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 245 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 244 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un néon !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:21-white?style=for-the-badge)
 
 
 <p align="center">
