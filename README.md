@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se protège-t-il de la pluie ?
+Mon processeur est super musclé :
 
-Il se met sous une Bash !
+Un tel corps, c'est exceptionnel !
 ```
 
 ```diff
-Quelle est la différence entre un bébé blanc et un bébé noir ?
+Je ne dis pas que tu es une salope.
 
-20 minutes, thermostat 8
+Mais tu es plus facile à pénétrer que la Pologne.
 ```
 
 ```diff
-Tu veux connaître mon coin à champignons ?
+Qu'est-ce qui suit la lettre X ?
 
-C'est Tinder !
+Hamster.
 ```
 
 ```diff
-Il y'a de l'orage dehors. Mes enfants regardent par la fenêtre, déprimés. Il me font de la peine...
+Qu'est-ce qu'un gendarme sur un tracteur ?
 
-Je pense que je vais les faire rentrer.
+Un poulet fermier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 244 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 243 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je pense que je vais les faire rentrer.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:21-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:40-white?style=for-the-badge)
 
 
 <p align="center">
