@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Mon processeur est super musclé :
+Comment répare-t-on un fichier corrompu ?
 
-Un tel corps, c'est exceptionnel !
+On lui donne encore plus d'argent !
 ```
 
 ```diff
-Je ne dis pas que tu es une salope.
+Qu'est-ce qu’un nain qui fait une crise d’épilepsie ?
 
-Mais tu es plus facile à pénétrer que la Pologne.
+Un vibromasseur
 ```
 
 ```diff
-Qu'est-ce qui suit la lettre X ?
+Quel est le point commun entre une blonde et un écureuil ?
 
-Hamster.
+Les deux courent après les glands !
 ```
 
 ```diff
-Qu'est-ce qu'un gendarme sur un tracteur ?
+L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
 
-Un poulet fermier.
+Elle ne me parle toujours pas.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 243 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 242 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un poulet fermier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:46-white?style=for-the-badge)
 
 
 <p align="center">
