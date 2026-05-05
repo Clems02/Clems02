@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment répare-t-on un fichier corrompu ?
+Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
 
-On lui donne encore plus d'argent !
+Aujourd'hui il s'appelle "Challenge Accepted"...
 ```
 
 ```diff
-Qu'est-ce qu’un nain qui fait une crise d’épilepsie ?
+Que dit un Camerounais le 31 décembre ?
 
-Un vibromasseur
+Bananier !
 ```
 
 ```diff
-Quel est le point commun entre une blonde et un écureuil ?
+Quel est le point commun entre les hommes et les crevettes ?
 
-Les deux courent après les glands !
+Rien dans la tête tout dans la queue.
 ```
 
 ```diff
-L’autre jour, ma femme m’a demandé de lui passer du rouge à lèvres, mais je lui ai accidentellement passé un bâton de colle.
+Comment la chouette sait que son mari fait la gueule ?
 
-Elle ne me parle toujours pas.
+Parce qu'Hiboude.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 242 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 241 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Elle ne me parle toujours pas.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:25-white?style=for-the-badge)
 
 
 <p align="center">
