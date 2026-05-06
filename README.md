@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
+Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
 
-Aujourd'hui il s'appelle "Challenge Accepted"...
+et node_modules...
 ```
 
 ```diff
-Que dit un Camerounais le 31 décembre ?
+Pourquoi compare-t-on les Somaliens à des marteaux-piqueurs ?
 
-Bananier !
+Parce qu'ils crèvent la dalle !
 ```
 
 ```diff
-Quel est le point commun entre les hommes et les crevettes ?
+Quel est le seul instrument à vent avec une corde ?
 
-Rien dans la tête tout dans la queue.
+Le string.
 ```
 
 ```diff
-Comment la chouette sait que son mari fait la gueule ?
+Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
 
-Parce qu'Hiboude.
+Parce que j'suis cuisinier et j'aimerais bien te sauter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 241 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 240 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'Hiboude.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:40-white?style=for-the-badge)
 
 
 <p align="center">
