@@ -8,27 +8,27 @@ et node_modules...
 ```
 
 ```diff
-Pourquoi compare-t-on les Somaliens à des marteaux-piqueurs ?
+Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
 
-Parce qu'ils crèvent la dalle !
+Il vaut mieux reverser la moitié de son verre que d'oublier de le boire.
 ```
 
 ```diff
-Quel est le seul instrument à vent avec une corde ?
+La banane est un fruit gras.
 
-Le string.
+Mais après avoir testé ton préservatif dessus.
 ```
 
 ```diff
-Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
+Quel est le point commun entre une femme et une piscine ?
 
-Parce que j'suis cuisinier et j'aimerais bien te sauter !
+Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 240 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 239 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que j'suis cuisinier et j'aimerais bien te sauter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:43-white?style=for-the-badge)
 
 
 <p align="center">
