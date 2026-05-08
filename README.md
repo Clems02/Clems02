@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
+ANSI <FONT> <FONT> <FONT>
 
-et node_modules...
+<LI> <P> <TITLE> Mar I/O .NET
 ```
 
 ```diff
-Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
+Pourquoi le saut à l'élastique est-il formellement interdit aux non-voyants ?
 
-Il vaut mieux reverser la moitié de son verre que d'oublier de le boire.
+Ça fait trop peur aux chiens
 ```
 
 ```diff
-La banane est un fruit gras.
+Pourquoi les filles se frottent les yeux au réveil ?
 
-Mais après avoir testé ton préservatif dessus.
+Parce qu’elles ont pas de boules à gratter.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une piscine ?
+Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
 
-Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
+L'emplacement du balai !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 239 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 238 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le point commun entre une femme et une piscine ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:14-white?style=for-the-badge)
 
 
 <p align="center">
