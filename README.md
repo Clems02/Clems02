@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-ANSI <FONT> <FONT> <FONT>
+J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
 
-<LI> <P> <TITLE> Mar I/O .NET
+Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
 ```
 
 ```diff
-Pourquoi le saut à l'élastique est-il formellement interdit aux non-voyants ?
+Comment sauver une fille d'un viol ?
 
-Ça fait trop peur aux chiens
+Il faut la convaincre.
 ```
 
 ```diff
-Pourquoi les filles se frottent les yeux au réveil ?
+Si on pénètre Jack...
 
-Parce qu’elles ont pas de boules à gratter.
+Est-ce qu'on peux dire qu'on branche son casque filaire ?
 ```
 
 ```diff
-Quelle est la différence entre une sorcière, une femme de ménage et une personne coincée ?
+Deux fesses se croisent.
 
-L'emplacement du balai !
+- Alors, ça gaze ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 238 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 237 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'emplacement du balai !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:31-white?style=for-the-badge)
 
 
 <p align="center">
