@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
+Quel est le biscuit préféré d'Internet ?
 
-Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
+Le cookie
 ```
 
 ```diff
-Comment sauver une fille d'un viol ?
+Qu'est-ce qui a deux pattes et qui saigne ?
 
-Il faut la convaincre.
+Un demi-chien...
 ```
 
 ```diff
-Si on pénètre Jack...
+Maman, maman pourquoi tu gémis ?
 
-Est-ce qu'on peux dire qu'on branche son casque filaire ?
+Tais-toi et lèche !
 ```
 
 ```diff
-Deux fesses se croisent.
+Qu'est-ce qu'un nem avec des écouteurs ?
 
-- Alors, ça gaze ?
+Un NemP3.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 237 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 236 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Deux fesses se croisent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:46-white?style=for-the-badge)
 
 
 <p align="center">
