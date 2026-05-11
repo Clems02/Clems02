@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+J'allais faire une blague sur l'erreur 504...
 
-Le cookie
+Mais elle est plus sur les serveurs.
 ```
 
 ```diff
-Qu'est-ce qui a deux pattes et qui saigne ?
+Que mangent les cannibales au dessert ?
 
-Un demi-chien...
+Des petits-suisses, un esquimau et une religieuse.
 ```
 
 ```diff
-Maman, maman pourquoi tu gémis ?
+Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
 
-Tais-toi et lèche !
+Dimanche, Pique se repose.
 ```
 
 ```diff
-Qu'est-ce qu'un nem avec des écouteurs ?
+Quel est le point commun entre les places de parking et les femmes ?
 
-Un NemP3.
+Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 236 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 235 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un NemP3.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:11-white?style=for-the-badge)
 
 
 <p align="center">
