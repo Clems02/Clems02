@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 504...
+Que fait un développeur avant d'aller faire les courses ?
 
-Mais elle est plus sur les serveurs.
+Il fait sa lisp.
 ```
 
 ```diff
-Que mangent les cannibales au dessert ?
+Mon humour est tellement noir...
 
-Des petits-suisses, un esquimau et une religieuse.
+...que la police a failli lui tirer dessus.
 ```
 
 ```diff
-Lundi : Pique-nique. Mardi : Pique-nique. Mercredi : Pique-nique. Jeudi : Pique-nique. Vendredi : Pique-nique. Samedi : Pique-nique
+Pourquoi dit-on que se palucher rend sourd ?
 
-Dimanche, Pique se repose.
+Parce qu’on est tout le temps entrain d’écouter si personne arrive.
 ```
 
 ```diff
-Quel est le point commun entre les places de parking et les femmes ?
+Qui est le plus menteur entre un boucher et un jardinier ?
 
-Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
+Le jardinier, car il ne raconte que des salades.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 235 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 234 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:49-white?style=for-the-badge)
 
 
 <p align="center">
