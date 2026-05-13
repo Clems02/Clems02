@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur avant d'aller faire les courses ?
+J'allais faire une blague sur l'erreur 404...
 
-Il fait sa lisp.
+Je ne l'ai pas trouvée...
 ```
 
 ```diff
-Mon humour est tellement noir...
+Qu'est-ce qu'un groupe de somaliens sur un fond blanc ?
 
-...que la police a failli lui tirer dessus.
+Un code-barres
 ```
 
 ```diff
-Pourquoi dit-on que se palucher rend sourd ?
+Quel est le point commun entre un prof et des hémorroïdes ?
 
-Parce qu’on est tout le temps entrain d’écouter si personne arrive.
+Les deux sortent du corps enseignant.
 ```
 
 ```diff
-Qui est le plus menteur entre un boucher et un jardinier ?
+Il ne faut pas donner du pain aux canards...
 
-Le jardinier, car il ne raconte que des salades.
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 234 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 233 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le jardinier, car il ne raconte que des salades.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:00-white?style=for-the-badge)
 
 
 <p align="center">
