@@ -8,27 +8,27 @@ Je ne l'ai pas trouvée...
 ```
 
 ```diff
-Qu'est-ce qu'un groupe de somaliens sur un fond blanc ?
+Une jeune soupçonnée de sorcellerie demande à sa mère : "Pourquoi est-ce qu'on flotte ?"
 
-Un code-barres
+"Pour la même raison qu'on brûle."
 ```
 
 ```diff
-Quel est le point commun entre un prof et des hémorroïdes ?
+Les actrices porno sont les personnes les plus actives dans la vie.
 
-Les deux sortent du corps enseignant.
+Les autres ne branlent rien.
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+Pourquoi les sorcières ne portent-elles jamais de culottes ?
 
-Aux connards non plus !
+Pour avoir une meilleure adhérence avec le balai...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 233 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 232 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:00-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:59-white?style=for-the-badge)
 
 
 <p align="center">
