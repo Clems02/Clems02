@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
 
-Je ne l'ai pas trouvée...
+et node_modules...
 ```
 
 ```diff
-Une jeune soupçonnée de sorcellerie demande à sa mère : "Pourquoi est-ce qu'on flotte ?"
+Quel est l'avantage d'être Chinois ?
 
-"Pour la même raison qu'on brûle."
+De pouvoir acheter local n'importe où.
 ```
 
 ```diff
-Les actrices porno sont les personnes les plus actives dans la vie.
+Quelle est la différence entre toi et un chirurgien ?
 
-Les autres ne branlent rien.
+Le chirurgien ampute des jambes et tu enjambes des putes !
 ```
 
 ```diff
-Pourquoi les sorcières ne portent-elles jamais de culottes ?
+Quel est le point commun entre une femme et une piscine ?
 
-Pour avoir une meilleure adhérence avec le balai...
+Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 232 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 231 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir une meilleure adhérence avec le balai...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:06-white?style=for-the-badge)
 
 
 <p align="center">
