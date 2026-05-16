@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les choses les plus lourdes de l'univers ? Soleil, Étoiles, Trou noir...
+Que fait un geek après avoir fait l'amour ?
 
-et node_modules...
+Il efface l'historique.
 ```
 
 ```diff
-Quel est l'avantage d'être Chinois ?
+Que disait Eve pour faire avancer le bateau ?
 
-De pouvoir acheter local n'importe où.
+Ramadan
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+C'est quoi la différence entre un homme et un sapin de Noël ?
 
-Le chirurgien ampute des jambes et tu enjambes des putes !
+Le nombre de boules
 ```
 
 ```diff
-Quel est le point commun entre une femme et une piscine ?
+Il ne faut pas donner du pain aux canards...
 
-Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 231 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 230 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le point commun entre une femme et une piscine ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:38-white?style=for-the-badge)
 
 
 <p align="center">
