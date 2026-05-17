@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek après avoir fait l'amour ?
+Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
 
-Il efface l'historique.
+Le temps d’accès !
 ```
 
 ```diff
-Que disait Eve pour faire avancer le bateau ?
+Deux Belges se déplacent dans le désert en tenant une portière...
 
-Ramadan
+J'ai trop chaud ouvre la fenêtre s'il te plaît.
 ```
 
 ```diff
-C'est quoi la différence entre un homme et un sapin de Noël ?
+Quel est le point commun entre un chien et toi ?
 
-Le nombre de boules
+Vous jouez tout les deux avec votre queue.
 ```
 
 ```diff
-Il ne faut pas donner du pain aux canards...
+Arriver à un certain âge, lorsqu'un femme vous demande si vous en avez une petite ou une grosse, …
 
-Aux connards non plus !
+… elle parle de votre retraite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 230 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 229 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aux connards non plus !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:38-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:58-white?style=for-the-badge)
 
 
 <p align="center">
