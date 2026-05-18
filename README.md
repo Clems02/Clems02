@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre une programmeuse en jupe et une en pantalon ?
+Quel est le 2ème métier d’un développeur ?
 
-Le temps d’accès !
+CSharpentier
 ```
 
 ```diff
-Deux Belges se déplacent dans le désert en tenant une portière...
+À quoi a servi Hitler ?
 
-J'ai trop chaud ouvre la fenêtre s'il te plaît.
+Aryen.
 ```
 
 ```diff
-Quel est le point commun entre un chien et toi ?
+Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
 
-Vous jouez tout les deux avec votre queue.
+Car elles aiment les gigabits!
 ```
 
 ```diff
-Arriver à un certain âge, lorsqu'un femme vous demande si vous en avez une petite ou une grosse, …
+Quel est le point commun entre Bigard l'humoriste et Bigard la marque ?
 
-… elle parle de votre retraite.
+Les deux aiment vérifier la viande pour voir si elle est fraîche.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 229 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 228 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Arriver à un certain âge, lorsqu'un femme vous demande si vous en avez une pet
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:35-white?style=for-the-badge)
 
 
 <p align="center">
