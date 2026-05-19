@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Pourquoi les développeurs n'aiment-ils pas 2020 ?
 
-CSharpentier
+Car il y a la co vide.
 ```
 
 ```diff
-À quoi a servi Hitler ?
+Les enfants c'est comme les clés.
 
-Aryen.
+Quand tu les perds tu en fais d'autres.
 ```
 
 ```diff
-Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
+Que dit une fille après une nuit avec un juif ?
 
-Car elles aiment les gigabits!
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Quel est le point commun entre Bigard l'humoriste et Bigard la marque ?
+Un ouvrier à son collègue :  - Le patron, c'est comme les poils, j’en ais plein le cul
 
-Les deux aiment vérifier la viande pour voir si elle est fraîche.
+Le patron qui passait derrière au même moment rétorque :  - Les primes, c'est comme les couilles, c’est suspendu
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 228 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 227 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux aiment vérifier la viande pour voir si elle est fraîche.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
 
 
 <p align="center">
