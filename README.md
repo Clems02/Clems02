@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment-ils pas 2020 ?
+Que fait un poussin sur GitHub ?
 
-Car il y a la co vide.
+Des poule requests
 ```
 
 ```diff
-Les enfants c'est comme les clés.
+Quelle est la différence entre une part de pizza et une prostituée ?
 
-Quand tu les perds tu en fais d'autres.
+La pizza, tu as le choix d'avoir des champignons.
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Un ouvrier à son collègue :  - Le patron, c'est comme les poils, j’en ais plein le cul
+Quand il était petit, quel était le nom de papy Roro ?
 
-Le patron qui passait derrière au même moment rétorque :  - Les primes, c'est comme les couilles, c’est suspendu
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 227 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 226 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le patron qui passait derrière au même moment rétorque :  - Les primes, c'est
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
 
 
 <p align="center">
