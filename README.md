@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un poussin sur GitHub ?
+Quand est ce que Windows ne bug pas ?
 
-Des poule requests
+Quand l'ordinateur est éteint.
 ```
 
 ```diff
-Quelle est la différence entre une part de pizza et une prostituée ?
+Quel est le point commun entre un restaurant et la zone 51 ?
 
-La pizza, tu as le choix d'avoir des champignons.
+Il faut un pass pour y rentrer.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Quelle est la différance entre une femme et une grue ?
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+La grue débite des caisses et la femme encaisse des bites.
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
 
-Roro...
+"Ben quoi ? T'achètes bien des soutien-gorges..."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 226 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 225 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:32-white?style=for-the-badge)
 
 
 <p align="center">
