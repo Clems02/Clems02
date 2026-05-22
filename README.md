@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand est ce que Windows ne bug pas ?
+Comment reconnait on un développeur quand il compte ?
 
-Quand l'ordinateur est éteint.
+Il commence toujours par 0 !
 ```
 
 ```diff
-Quel est le point commun entre un restaurant et la zone 51 ?
+Pourquoi Marine Le Pen ne s'épile que les poils blancs de son cul ?
 
-Il faut un pass pour y rentrer.
+Pour mettre les noirs dans la merde.
 ```
 
 ```diff
-Quelle est la différance entre une femme et une grue ?
+Pourquoi j'ai appelé mon pénis Bidou ?
 
-La grue débite des caisses et la femme encaisse des bites.
+Parce que quand je vais pisser, je s'coue Bidou.
 ```
 
 ```diff
-Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
+Pourquoi aucun éléphant n'est informaticien ?
 
-"Ben quoi ? T'achètes bien des soutien-gorges..."
+Parce qu'ils ont peur de la souris.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 225 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 224 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voitur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:29-white?style=for-the-badge)
 
 
 <p align="center">
