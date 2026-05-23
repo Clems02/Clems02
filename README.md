@@ -8,27 +8,27 @@ Il commence toujours par 0 !
 ```
 
 ```diff
-Pourquoi Marine Le Pen ne s'épile que les poils blancs de son cul ?
+Un enfant demande à sa maman : "Est-ce que mon petit frère est un ange ?" La mère répond : "Bien sûr !"
 
-Pour mettre les noirs dans la merde.
+Il répond donc : "Mais alors pourquoi il ne s'est pas envolé quand je l'ai jeté par la fenêtre ?"
 ```
 
 ```diff
-Pourquoi j'ai appelé mon pénis Bidou ?
+Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
 
-Parce que quand je vais pisser, je s'coue Bidou.
+La femme répliqua « Je suis pro stituée ! »
 ```
 
 ```diff
-Pourquoi aucun éléphant n'est informaticien ?
+Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 
-Parce qu'ils ont peur de la souris.
+Ça fait 2 verres en moins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 224 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 223 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils ont peur de la souris.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:49-white?style=for-the-badge)
 
 
 <p align="center">
