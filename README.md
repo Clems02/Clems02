@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment reconnait on un développeur quand il compte ?
+Jusqu'à combien peut-on compter avec nos doigts ?
 
-Il commence toujours par 0 !
+1024
 ```
 
 ```diff
-Un enfant demande à sa maman : "Est-ce que mon petit frère est un ange ?" La mère répond : "Bien sûr !"
+Comment appelle-t-on une bonne mère espagnole d'origine Africaine ?
 
-Il répond donc : "Mais alors pourquoi il ne s'est pas envolé quand je l'ai jeté par la fenêtre ?"
+Mamadouoé
 ```
 
 ```diff
-Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
+Quelle est la différence entre la bite et un gîte ?
 
-La femme répliqua « Je suis pro stituée ! »
+Le gîte, on l'habite et la bite, on l'agite !
 ```
 
 ```diff
-Pourquoi faut-il enlever ses lunettes avant un alcootest ?
+Pourquoi la diarrhée est très répandue ?
 
-Ça fait 2 verres en moins.
+Car c'est une maladie courante.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 223 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 222 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:13-white?style=for-the-badge)
 
 
 <p align="center">
