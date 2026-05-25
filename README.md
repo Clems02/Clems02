@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien peut-on compter avec nos doigts ?
+Pourquoi vaut il mieux être software que hardware ?
 
-1024
+Car c’est le hardware qui prend des coups quand le software plante.
 ```
 
 ```diff
-Comment appelle-t-on une bonne mère espagnole d'origine Africaine ?
+C'est un petit garçon qui dit à sa grand-mère :
 
-Mamadouoé
+Mamie ? Tu ne trouves pas que ça sent mauvais ici ? On dirait une odeur de cadavre ! Heu mamie ? Tu m'entends mamie ?
 ```
 
 ```diff
-Quelle est la différence entre la bite et un gîte ?
+J'ai mis une SDF enceinte....
 
-Le gîte, on l'habite et la bite, on l'agite !
+comme ça elle a le ventre plein pendant 9 mois
 ```
 
 ```diff
-Pourquoi la diarrhée est très répandue ?
+Quel est le style préféré d'un roux ?
 
-Car c'est une maladie courante.
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 222 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 221 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est une maladie courante.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:49-white?style=for-the-badge)
 
 
 <p align="center">
