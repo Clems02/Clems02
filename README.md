@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Quel est le meilleur magazine pour développeurs ?
 
-Car c’est le hardware qui prend des coups quand le software plante.
+Pomme d'api
 ```
 
 ```diff
-C'est un petit garçon qui dit à sa grand-mère :
+Quel est le point commun entre une vache et un SS ?
 
-Mamie ? Tu ne trouves pas que ça sent mauvais ici ? On dirait une odeur de cadavre ! Heu mamie ? Tu m'entends mamie ?
+Ils regardent tous les deux le train passer.
 ```
 
 ```diff
-J'ai mis une SDF enceinte....
+Sais-tu pourquoi je ne regarde jamais de porno ?
 
-comme ça elle a le ventre plein pendant 9 mois
+Parce que je suis de l'autre côté de la caméra.
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
 
-Le roustique.
+Pour ne pas avoir les lèvres gercées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 221 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 220 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:29-white?style=for-the-badge)
 
 
 <p align="center">
