@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le meilleur magazine pour développeurs ?
+Que dit une mère à son fils geek quand le dîner est servi ?
 
-Pomme d'api
+Alt + Tab
 ```
 
 ```diff
-Quel est le point commun entre une vache et un SS ?
+Quel est le point commun entre la Seconde Guerre Mondiale et un appareil à raclette ?
 
-Ils regardent tous les deux le train passer.
+C’est très chaud d’être dans la résistance.
 ```
 
 ```diff
-Sais-tu pourquoi je ne regarde jamais de porno ?
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-Parce que je suis de l'autre côté de la caméra.
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
+Pourquoi les oiseaux volent-ils vers le sud ?
 
-Pour ne pas avoir les lèvres gercées.
+Car à pied, c'est beaucoup trop long.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 220 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 219 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour ne pas avoir les lèvres gercées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:43-white?style=for-the-badge)
 
 
 <p align="center">
