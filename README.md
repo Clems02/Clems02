@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit une mère à son fils geek quand le dîner est servi ?
+ANSI <FONT> <FONT> <FONT>
 
-Alt + Tab
+<LI> <P> <TITLE> Mar I/O .NET
 ```
 
 ```diff
-Quel est le point commun entre la Seconde Guerre Mondiale et un appareil à raclette ?
+C'est un père Noël juif qui entre et qui dit...
 
-C’est très chaud d’être dans la résistance.
+Bonjour les enfants, qu'est-ce que je vous vends ?
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Les actrices de porno sont les personnes les plus actives dans la vie.
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+Les autres ne branlent rien.
 ```
 
 ```diff
-Pourquoi les oiseaux volent-ils vers le sud ?
+Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
 
-Car à pied, c'est beaucoup trop long.
+Leurs parents !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 219 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 218 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car à pied, c'est beaucoup trop long.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:34-white?style=for-the-badge)
 
 
 <p align="center">
