@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-ANSI <FONT> <FONT> <FONT>
+Que fait un geek quand il a peur ?
 
-<LI> <P> <TITLE> Mar I/O .NET
+Il URL
 ```
 
 ```diff
-C'est un père Noël juif qui entre et qui dit...
+Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
 
-Bonjour les enfants, qu'est-ce que je vous vends ?
+Il vaut mieux reverser la moitié de son verre que d'oublier de le boire.
 ```
 
 ```diff
-Les actrices de porno sont les personnes les plus actives dans la vie.
+Le concombre est conseillé pour améliorer sa mémoire.
 
-Les autres ne branlent rien.
+Car si on te le met dans le cul, tu n'es pas prêt de l'oublier.
 ```
 
 ```diff
-Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
+Si je couche avec ma soeur que suis-je?
 
-Leurs parents !
+Nord-mal.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 218 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 217 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Leurs parents !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:35-white?style=for-the-badge)
 
 
 <p align="center">
