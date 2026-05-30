@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek quand il a peur ?
+Qu'est ce qu'un pirateur fait le mieux ?
 
-Il URL
+Ce qui lui tient hackeur (à cœur) !
 ```
 
 ```diff
-Pourquoi un breton préfère avoir Parkinson qu'Alzheimer ?
+Que dit un terroriste d'une jolie fille ?
 
-Il vaut mieux reverser la moitié de son verre que d'oublier de le boire.
+C'est une bombe.
 ```
 
 ```diff
-Le concombre est conseillé pour améliorer sa mémoire.
+Qu'est-ce qui est rose, fait 5 cm, 15 cm dépliés et qui fait rêver toutes les filles de 18 ans ?
 
-Car si on te le met dans le cul, tu n'es pas prêt de l'oublier.
+Le permis de conduire
 ```
 
 ```diff
-Si je couche avec ma soeur que suis-je?
+Qu'est-ce qui est mieux qu'un plan A ?
 
-Nord-mal.
+Un plan Q
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 217 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 216 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Nord-mal.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:35-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:58-white?style=for-the-badge)
 
 
 <p align="center">
