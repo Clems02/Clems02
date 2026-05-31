@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est ce qu'un pirateur fait le mieux ?
+Il y a 10 types de gens dans le monde.
 
-Ce qui lui tient hackeur (à cœur) !
+Ceux qui parlent binaire, et les autres.
 ```
 
 ```diff
-Que dit un terroriste d'une jolie fille ?
+Pourquoi les femmes ont de plus petits pieds que les hommes ?
 
-C'est une bombe.
+Pour être plus près de l'évier!
 ```
 
 ```diff
-Qu'est-ce qui est rose, fait 5 cm, 15 cm dépliés et qui fait rêver toutes les filles de 18 ans ?
+Quel est le point commun entre la vérité et la sodomie ?
 
-Le permis de conduire
+Elles sont toutes les deux dures à encaisser.
 ```
 
 ```diff
-Qu'est-ce qui est mieux qu'un plan A ?
+Quel est le point commun entre une femme et une grenade ?
 
-Un plan Q
+Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 216 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 215 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un plan Q
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:37-white?style=for-the-badge)
 
 
 <p align="center">
