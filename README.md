@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a 10 types de gens dans le monde.
+Comment appelle-t-on un bug sur une plateforme musicale ?
 
-Ceux qui parlent binaire, et les autres.
+Une Spoti-faille.
 ```
 
 ```diff
-Pourquoi les femmes ont de plus petits pieds que les hommes ?
+Où est passé le petit garçon après le bombardement ?
 
-Pour être plus près de l'évier!
+Partout...
 ```
 
 ```diff
-Quel est le point commun entre la vérité et la sodomie ?
+Melon et melèche veulent faire un couscous.
 
-Elles sont toutes les deux dures à encaisser.
+Melon achète la semoule et melèche la saucisse.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une grenade ?
+Quel est le point commun entre la Méditerranée et ta maman ?
 
-Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
+Ce sont toutes les deux des mers chaudes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 215 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 214 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié d
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/05-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:26-white?style=for-the-badge)
 
 
 <p align="center">
