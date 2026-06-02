@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un bug sur une plateforme musicale ?
+Quelle est la console préférée des chats ?
 
-Une Spoti-faille.
+La PS cat.
 ```
 
 ```diff
-Où est passé le petit garçon après le bombardement ?
+Que font 1+2-1x2 ?
 
-Partout...
+Le nombre de jambes d'un Manchot.
 ```
 
 ```diff
-Melon et melèche veulent faire un couscous.
+Quel est le point commun entre les seins d'une femme et un train électrique ?
 
-Melon achète la semoule et melèche la saucisse.
+Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
 ```
 
 ```diff
-Quel est le point commun entre la Méditerranée et ta maman ?
+Les femmes ne sont pas vos objets sexuels.
 
-Ce sont toutes les deux des mers chaudes.
+Ce sont les miens !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 214 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 213 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont toutes les deux des mers chaudes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:04-white?style=for-the-badge)
 
 
 <p align="center">
