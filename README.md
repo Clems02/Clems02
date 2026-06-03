@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la console préférée des chats ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-La PS cat.
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Que font 1+2-1x2 ?
+Qu'elle est la différence entre l'Allemagne Nazie et la Chine ?
 
-Le nombre de jambes d'un Manchot.
+L'idéologie.
 ```
 
 ```diff
-Quel est le point commun entre les seins d'une femme et un train électrique ?
+Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
 
-Les deux sont destinés aux enfants, mais c'est le père qui joue avec.
+L'autre répond : "Désolée, j'ai roté."
 ```
 
 ```diff
-Les femmes ne sont pas vos objets sexuels.
+Pourquoi les femmes n’ont pas besoin de permis ?
 
-Ce sont les miens !
+Car il n’y a pas de route entre la machine à laver et la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 213 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 212 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Ce sont les miens !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:18-white?style=for-the-badge)
 
 
 <p align="center">
