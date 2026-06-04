@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Que met un développeur sur sa voiture en hiver ?
 
-Les mauvais pilotes sont problématiques.
+Une bash.
 ```
 
 ```diff
-Qu'elle est la différence entre l'Allemagne Nazie et la Chine ?
+Comment Mimie Mathy est-elle décédée ?
 
-L'idéologie.
+Elle s'est pendue sur un bonsaï.
 ```
 
 ```diff
-Deux putes sont dans un ascenseur. L'une dit : "Tiens, ça sent le sperme..."
+Pourquoi Cendrillon est-elle morte à minuit ?
 
-L'autre répond : "Désolée, j'ai roté."
+Parce que son tampon s'est transformé en citrouille.
 ```
 
 ```diff
-Pourquoi les femmes n’ont pas besoin de permis ?
+Quel est le point commun entre une femme et une grenade ?
 
-Car il n’y a pas de route entre la machine à laver et la cuisine.
+Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 212 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 211 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car il n’y a pas de route entre la machine à laver et la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:18-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:58-white?style=for-the-badge)
 
 
 <p align="center">
