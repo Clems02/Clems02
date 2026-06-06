@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le dieu favori des développeurs ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Tor
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Quelle est la différence entre une Geox et George Floyd ?
+Quel est le super-héros qui vole ?
 
-La Geox, elle respire.
+Musulmane
 ```
 
 ```diff
-Où est fabriqué le viagra ?
+Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
 
-Au Boukistan
+Car elles aiment les gigabits!
 ```
 
 ```diff
-Qu’est-ce qu’un Gaspacho ?
+Un enfant dit : "Ma maman a toujours faim !"
 
-Un pet froid.
+"Elle n'arrête pas de manger le zizi de mon papa !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 210 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 209 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un pet froid.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:05-white?style=for-the-badge)
 
 
 <p align="center">
