@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Quel est le super-héros qui vole ?
+Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
 
-Musulmane
+Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
 ```
 
 ```diff
-Vous savez pourquoi les gameuses aiment beaucoup les jeux vidéos et les PC ?
+Quel est le point commun entre un cunnilingus et un lapsus ?
 
-Car elles aiment les gigabits!
+Une erreur de langue et vous êtes vite dans la merde.
 ```
 
 ```diff
-Un enfant dit : "Ma maman a toujours faim !"
+Qu’est-ce qu’un Gaspacho ?
 
-"Elle n'arrête pas de manger le zizi de mon papa !"
+Un pet froid.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 209 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 208 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un enfant dit : "Ma maman a toujours faim !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:46-white?style=for-the-badge)
 
 
 <p align="center">
