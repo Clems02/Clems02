@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Pourquoi les développeurs ont-ils toujours le même style ?
 
-Elle repart, car il n'y a pas de table.
+Car CSS'style !
 ```
 
 ```diff
-Quel est le point commun entre une bouteille de vin de 8 mois et une enfant de 8 ans ?
+Comment appelle-t-on une entreprise dont les travailleurs sont exclusivement chauves ?
 
-Les deux se gardent à la cave en attendant qu'elles deviennent bonnes !
+Une boite à œufs
 ```
 
 ```diff
-Quel est le point commun entre un cunnilingus et un lapsus ?
+Quel est le point commun entre une pantoufle et une pute ?
 
-Une erreur de langue et vous êtes vite dans la merde.
+Les deux quand tu rentre dedans tu veut plus en sortir
 ```
 
 ```diff
-Qu’est-ce qu’un Gaspacho ?
+Quel est le point commun entre les places de parking et les femmes ?
 
-Un pet froid.
+Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 208 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 207 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un pet froid.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:10-white?style=for-the-badge)
 
 
 <p align="center">
