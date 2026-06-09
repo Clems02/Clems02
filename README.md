@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ont-ils toujours le même style ?
+Que dit un informaticien quand il s'ennuie ?
 
-Car CSS'style !
+Je me fichier.
 ```
 
 ```diff
-Comment appelle-t-on une entreprise dont les travailleurs sont exclusivement chauves ?
+Quel est la phrase préféré des pédophiles ?
 
-Une boite à œufs
+Quand y'a du poil c'est légal, quand y'en a pas c'est un régale
 ```
 
 ```diff
-Quel est le point commun entre une pantoufle et une pute ?
+Pourquoi les filles baissent t'elles toujours les yeux quand on leur dit " je t'aime" ?
 
-Les deux quand tu rentre dedans tu veut plus en sortir
+Pour voir si c'est vrai.
 ```
 
 ```diff
-Quel est le point commun entre les places de parking et les femmes ?
+Quel est le point commun entre une diarrhée et une voiture électrique ?
 
-Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
+La peur de ne pas arriver à la maison !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 207 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 206 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les bonnes sont déjà prises, il ne reste que les payantes et les handicapées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:29-white?style=for-the-badge)
 
 
 <p align="center">
