@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Quel est le chanteur préféré des développeurs ?
 
-Je me fichier.
+Michael Json
 ```
 
 ```diff
-Quel est la phrase préféré des pédophiles ?
+Quand un juif me dit qu'il fume.
 
-Quand y'a du poil c'est légal, quand y'en a pas c'est un régale
+Je ne sais pas dans quel sens le prendre…
 ```
 
 ```diff
-Pourquoi les filles baissent t'elles toujours les yeux quand on leur dit " je t'aime" ?
+Pourquoi les portes sont des putes ?
 
-Pour voir si c'est vrai.
+Parce qu’elle se font touchée par tous le monde.
 ```
 
 ```diff
-Quel est le point commun entre une diarrhée et une voiture électrique ?
+Chéri, préfères-tu les femmes intelligentes ou belles ?
 
-La peur de ne pas arriver à la maison !
+Aucune, car je n'aime que toi.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 206 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 205 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ La peur de ne pas arriver à la maison !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:46-white?style=for-the-badge)
 
 
 <p align="center">
