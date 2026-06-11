@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le chanteur préféré des développeurs ?
+Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
 
-Michael Json
+Il y a beaucoup trop de bugs !
 ```
 
 ```diff
-Quand un juif me dit qu'il fume.
+Quelle est la partie le plus brillante chez les arabes ?
 
-Je ne sais pas dans quel sens le prendre…
+Les menottes.
 ```
 
 ```diff
-Pourquoi les portes sont des putes ?
+Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
 
-Parce qu’elle se font touchée par tous le monde.
+D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
 ```
 
 ```diff
-Chéri, préfères-tu les femmes intelligentes ou belles ?
+Quel est la différence entre un terroriste et une femme avant ses règles ?
 
-Aucune, car je n'aime que toi.
+Tu peux négocier avec le terroriste
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 205 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 204 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Aucune, car je n'aime que toi.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:11-white?style=for-the-badge)
 
 
 <p align="center">
