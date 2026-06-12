@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
+Que fait un développeur avant d'aller faire les courses ?
 
-Il y a beaucoup trop de bugs !
+Il fait sa lisp.
 ```
 
 ```diff
-Quelle est la partie le plus brillante chez les arabes ?
+Un jeune homme demande à son boucher : Bonjour Monsieur, je voudrais la main de votre fille !
 
-Les menottes.
+D'accord, avec ou sans os ?
 ```
 
 ```diff
-Au lit, un homme dit tendrement à sa femme : J'aimerais bien mettre mon zizi dans ton oreille.
+Papa, comment on écrit "clitoris" ?
 
-D'accord, mais fais gaffe à ce que je ne devienne pas sourde. Y a pas de danger : depuis 30 ans, je te le mets dans la bouche, et jamais tu ne l'as fermée.
+Tu aurais dû me le demander hier, je l'avais sur le bout de la langue...
 ```
 
 ```diff
-Quel est la différence entre un terroriste et une femme avant ses règles ?
+Qu'est-ce qu'un cochon qui rit ?
 
-Tu peux négocier avec le terroriste
+Un porc tout gai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 204 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 203 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Tu peux négocier avec le terroriste
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:58-white?style=for-the-badge)
 
 
 <p align="center">
