@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur avant d'aller faire les courses ?
+Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
 
-Il fait sa lisp.
+Une RC-XD
 ```
 
 ```diff
-Un jeune homme demande à son boucher : Bonjour Monsieur, je voudrais la main de votre fille !
+Que disait Eve pour faire avancer le bateau ?
 
-D'accord, avec ou sans os ?
+Ramadan
 ```
 
 ```diff
-Papa, comment on écrit "clitoris" ?
+Quel est le point commun entre un cunnilingus et un lapsus ?
 
-Tu aurais dû me le demander hier, je l'avais sur le bout de la langue...
+Une erreur de langue et vous êtes vite dans la merde.
 ```
 
 ```diff
-Qu'est-ce qu'un cochon qui rit ?
+Que dit une bière quand elle tombe dans l'eau ?
 
-Un porc tout gai.
+Je sais panaché.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 203 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 202 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un porc tout gai.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:34-white?style=for-the-badge)
 
 
 <p align="center">
