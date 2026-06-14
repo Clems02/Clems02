@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+Chuck Norris vends le jeu, gagne des millions...
 
-Une RC-XD
+... puis crée le jeu...
 ```
 
 ```diff
-Que disait Eve pour faire avancer le bateau ?
+En Allemagne, il y a trois grands riches : le premier riche, le deuxième riche...
 
-Ramadan
+... et le Troisième Reich.
 ```
 
 ```diff
-Quel est le point commun entre un cunnilingus et un lapsus ?
+Toto, à quoi sert un fusil ? À fusilier !  À quoi sert une mitraillette ?  À mitrailler ! Et à quoi sert un tank ?
 
-Une erreur de langue et vous êtes vite dans la merde.
+À tankuler !
 ```
 
 ```diff
-Que dit une bière quand elle tombe dans l'eau ?
+Quelle est la différence entre un zèbre et un barman ?
 
-Je sais panaché.
+Le zèbre a des barres autour de son trou du cul, alors que le barman a des trous du cul autour de son bar.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 202 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 201 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je sais panaché.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:03-white?style=for-the-badge)
 
 
 <p align="center">
