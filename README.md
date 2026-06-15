@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
 
-... puis crée le jeu...
+... c'est quand le message d'erreur qu'il obtient est différent du précédent.
 ```
 
 ```diff
-En Allemagne, il y a trois grands riches : le premier riche, le deuxième riche...
+Un pessimiste voit un tunnel sombre. Un optimiste voit la lumière au bout du tunnel. Un réalise voit...
 
-... et le Troisième Reich.
+un train qui approche
 ```
 
 ```diff
-Toto, à quoi sert un fusil ? À fusilier !  À quoi sert une mitraillette ?  À mitrailler ! Et à quoi sert un tank ?
+Qu'est-ce que les hommes apprécient plus que le sexe ?
 
-À tankuler !
+Que leurs amis les croient quand ils en parlent.
 ```
 
 ```diff
-Quelle est la différence entre un zèbre et un barman ?
+Quel est l'avantage d'un gamer ?
 
-Le zèbre a des barres autour de son trou du cul, alors que le barman a des trous du cul autour de son bar.
+Il a une gigabyte...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 201 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 200 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zèbre a des barres autour de son trou du cul, alors que le barman a des trou
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:03-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:42-white?style=for-the-badge)
 
 
 <p align="center">
