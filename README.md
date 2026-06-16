@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
+Quel est le shell préféré des adolescents ?
 
-... c'est quand le message d'erreur qu'il obtient est différent du précédent.
+Le WESH
 ```
 
 ```diff
-Un pessimiste voit un tunnel sombre. Un optimiste voit la lumière au bout du tunnel. Un réalise voit...
+Quel est le comble pour un Juif ?
 
-un train qui approche
+Ne pas finir brûlé dans une blague.
 ```
 
 ```diff
-Qu'est-ce que les hommes apprécient plus que le sexe ?
+Comment appelle-t-on la mère du phoque ?
 
-Que leurs amis les croient quand ils en parlent.
+Mother phoquer
 ```
 
 ```diff
-Quel est l'avantage d'un gamer ?
+En quel objet veut être récussiter un clochard ?
 
-Il a une gigabyte...
+En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 200 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 199 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il a une gigabyte...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:23-white?style=for-the-badge)
 
 
 <p align="center">
