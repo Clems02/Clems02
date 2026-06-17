@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le shell préféré des adolescents ?
+Vous voulez une blague sur la documentation ?
 
-Le WESH
+Elle n'a pas encore été faite.
 ```
 
 ```diff
-Quel est le comble pour un Juif ?
+Quelles sont les différences entre un Perse, un Afghan, un Egyptien et un Marocain ?
 
-Ne pas finir brûlé dans une blague.
+Les instruments avec lesquels ils battents leurs femmes
 ```
 
 ```diff
-Comment appelle-t-on la mère du phoque ?
+Quand Chuck Norris viole la loi...
 
-Mother phoquer
+... elle en redemande.
 ```
 
 ```diff
-En quel objet veut être récussiter un clochard ?
+On ne dit pas ménopause.
 
-En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les mains d’une femme.
+Mais game-ovaire
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 199 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 198 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ En casserole pour avoir le ventre plein, le cul au chaud et la queue dans les ma
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:30-white?style=for-the-badge)
 
 
 <p align="center">
