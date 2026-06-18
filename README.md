@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous voulez une blague sur la documentation ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Elle n'a pas encore été faite.
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Quelles sont les différences entre un Perse, un Afghan, un Egyptien et un Marocain ?
+La femme ayant été décapitée...
 
-Les instruments avec lesquels ils battents leurs femmes
+... il nous a été impossible jusqu’à présent de mettre un nom sur son visage.
 ```
 
 ```diff
-Quand Chuck Norris viole la loi...
+Quel est le point commun entre une pantoufle et une pute ?
 
-... elle en redemande.
+Les deux quand tu rentre dedans tu veut plus en sortir
 ```
 
 ```diff
-On ne dit pas ménopause.
+Qu'est-ce qu'un rassemblement de personnes âgées ?
 
-Mais game-ovaire
+Un festival de cannes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 198 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 197 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mais game-ovaire
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:13-white?style=for-the-badge)
 
 
 <p align="center">
