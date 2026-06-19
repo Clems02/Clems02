@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Quel est le réseau social où tout le monde se prend la tête ?
 
-Elle repart, car il n'y a pas de table.
+Discord
 ```
 
 ```diff
-La femme ayant été décapitée...
+Quelle est la différence entre une prostituée et une meule de reblochon ?
 
-... il nous a été impossible jusqu’à présent de mettre un nom sur son visage.
+La meule de reblochon, plus elle est vieille, plus elle est bonne.
 ```
 
 ```diff
-Quel est le point commun entre une pantoufle et une pute ?
+C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
 
-Les deux quand tu rentre dedans tu veut plus en sortir
+Parce que je vais t’enculer.
 ```
 
 ```diff
-Qu'est-ce qu'un rassemblement de personnes âgées ?
+Quel est le point commun entre une femme et une grenade ?
 
-Un festival de cannes.
+Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 197 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 196 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un festival de cannes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:34-white?style=for-the-badge)
 
 
 <p align="center">
