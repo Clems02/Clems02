@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le réseau social où tout le monde se prend la tête ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-Discord
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Quelle est la différence entre une prostituée et une meule de reblochon ?
+Quelle est la différence entre un cancer et un politicien ?
 
-La meule de reblochon, plus elle est vieille, plus elle est bonne.
+L'un commence dans une cellule et l'autre termine dans une cellule.
 ```
 
 ```diff
-C’est un homme à table avec sa femme. Il lui dit : Tu vas plus me voir pendant 5 minutes. Elle lui demande, pourquoi ? Il lui répondit :
+Violer quelqu'un, c'est comme un cambriolage...
 
-Parce que je vais t’enculer.
+... tu pénètres par effraction et tu casses tout.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une grenade ?
+Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
 
-Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié de la maison.
+Alors pourquoi tu continues ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 196 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 195 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Lorsque tu leur enlèves l'anneau, elles te prennent toute les deux la moitié d
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:43-white?style=for-the-badge)
 
 
 <p align="center">
