@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Quel est l'animal le plus connecté ?
 
-Les mauvais pilotes sont problématiques.
+Le porc USB
 ```
 
 ```diff
-Quelle est la différence entre un cancer et un politicien ?
+Quelle est la seule personne à avoir dite "Je vais te niquer ta race" et à l'avoir vraiment fait ?
 
-L'un commence dans une cellule et l'autre termine dans une cellule.
+Adolf Hitler
 ```
 
 ```diff
-Violer quelqu'un, c'est comme un cambriolage...
+Hier, j'ai espionné un pote pour savoir son MDP, après quelques coups d'œil je le vois taper "PÉNIS"...
 
-... tu pénètres par effraction et tu casses tout.
+Le PC l'a jugé "Trop court"...
 ```
 
 ```diff
-Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
+Qui va à la chasse perd sa place mais ...
 
-Alors pourquoi tu continues ?
+... qui a la chiasse tire la chasse.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 195 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 194 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Alors pourquoi tu continues ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:13-white?style=for-the-badge)
 
 
 <p align="center">
