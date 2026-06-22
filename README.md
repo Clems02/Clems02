@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal le plus connecté ?
+Pourquoi les pirates ont rarement raison ?
 
-Le porc USB
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Quelle est la seule personne à avoir dite "Je vais te niquer ta race" et à l'avoir vraiment fait ?
+Mon chat est mort... Je voudrais tellement en avoir un autre pareil !
 
-Adolf Hitler
+Mais qu'est-ce que tu ferais de deux chats morts ?
 ```
 
 ```diff
-Hier, j'ai espionné un pote pour savoir son MDP, après quelques coups d'œil je le vois taper "PÉNIS"...
+Tu connais le cri du spermatozoïde ?
 
-Le PC l'a jugé "Trop court"...
+Bah, la prochaine fois, au lieu de l'avaler, tu croques.
 ```
 
 ```diff
-Qui va à la chasse perd sa place mais ...
+Un homme dit à sa femme : Ton cul est comme le Soleil.
 
-... qui a la chiasse tire la chasse.
+On le voit de loin...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 194 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 193 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Qui va à la chasse perd sa place mais ...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:34-white?style=for-the-badge)
 
 
 <p align="center">
