@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Parce qu'ils ont souvent Tor.
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Mon chat est mort... Je voudrais tellement en avoir un autre pareil !
+C'est un chat sur une île déserte. Il fait caca, mais il a rien pour s'essuyer. Comment il fait ?
 
-Mais qu'est-ce que tu ferais de deux chats morts ?
+Tu donnes ta langue au chat ?
 ```
 
 ```diff
-Tu connais le cri du spermatozoïde ?
+Quel est le point commun entre un ascenseur et un vagin ?
 
-Bah, la prochaine fois, au lieu de l'avaler, tu croques.
+Tu mets ton doigt où t'habites.
 ```
 
 ```diff
-Un homme dit à sa femme : Ton cul est comme le Soleil.
+Quel est le point commun entre la science et les femmes ?
 
-On le voit de loin...
+Je leur ai fait don de mon corps.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 193 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 192 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On le voit de loin...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
 
 
 <p align="center">
