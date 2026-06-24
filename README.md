@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Que fait un geek quand il a peur ?
 
-Elle repart, car il n'y a pas de table.
+Il URL
 ```
 
 ```diff
-C'est un chat sur une île déserte. Il fait caca, mais il a rien pour s'essuyer. Comment il fait ?
+La peur de tomber,
 
-Tu donnes ta langue au chat ?
+...c'est ce qui fait grimacer les gens qui se pendent.
 ```
 
 ```diff
-Quel est le point commun entre un ascenseur et un vagin ?
+Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
 
-Tu mets ton doigt où t'habites.
+Mais pas votre voisin.
 ```
 
 ```diff
-Quel est le point commun entre la science et les femmes ?
+Quel président bande 2 fois le matin ?
 
-Je leur ai fait don de mon corps.
+Charles de Gaulle
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 192 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 191 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je leur ai fait don de mon corps.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:27-white?style=for-the-badge)
 
 
 <p align="center">
