@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek quand il a peur ?
+Qu’est ce qu’un code obèse ?
 
-Il URL
+Un code qui ne run pas.
 ```
 
 ```diff
-La peur de tomber,
+Un mendiant demande de l'argent à un juif.
 
-...c'est ce qui fait grimacer les gens qui se pendent.
+"Non, torah rien !"
 ```
 
 ```diff
-Ne faites pas l'amour dans votre jardin, l'amour est aveugle...
+Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
 
-Mais pas votre voisin.
+Il m’a proposé un plan A3, A4 et même A5.
 ```
 
 ```diff
-Quel président bande 2 fois le matin ?
+Quand un jeune couche avec une cougar...
 
-Charles de Gaulle
+Il est sous l'âgée.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 191 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 190 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Charles de Gaulle
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
 
 
 <p align="center">
