@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu’est ce qu’un code obèse ?
+Il y a 10 types de gens dans le monde.
 
-Un code qui ne run pas.
+Ceux qui parlent binaire, et les autres.
 ```
 
 ```diff
-Un mendiant demande de l'argent à un juif.
+Comment appelle-t-on une femme qui a perdu son intelligence ?
 
-"Non, torah rien !"
+Une veuve.
 ```
 
 ```diff
-Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
+Si un noir veut me prendre par les sentiments.
 
-Il m’a proposé un plan A3, A4 et même A5.
+Je peux dire qu'il mamadou ?
 ```
 
 ```diff
-Quand un jeune couche avec une cougar...
+Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
 
-Il est sous l'âgée.
+Un site de rencontres.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 190 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 189 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il est sous l'âgée.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:32-white?style=for-the-badge)
 
 
 <p align="center">
