@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a 10 types de gens dans le monde.
+Quel est l'endroit le moins vu de stackoverflow ?
 
-Ceux qui parlent binaire, et les autres.
+La page d'accueil.
 ```
 
 ```diff
-Comment appelle-t-on une femme qui a perdu son intelligence ?
+Tu as déjà mangé en Ethiopie ? Non ?
 
-Une veuve.
+Bah eux non plus.
 ```
 
 ```diff
-Si un noir veut me prendre par les sentiments.
+Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
 
-Je peux dire qu'il mamadou ?
+PAPA, CACA ! Bon ok, je me retire
 ```
 
 ```diff
-Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
+Que dit une bière quand elle tombe dans l'eau ?
 
-Un site de rencontres.
+Je sais panaché.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 189 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 188 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un site de rencontres.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:05-white?style=for-the-badge)
 
 
 <p align="center">
