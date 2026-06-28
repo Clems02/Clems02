@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'endroit le moins vu de stackoverflow ?
+Que dit un programmeur SQL pour exprimer son mépris ?
 
-La page d'accueil.
+SELECT finger FROM hand WHERE id=3;
 ```
 
 ```diff
-Tu as déjà mangé en Ethiopie ? Non ?
+Celui qui m'achète ne s'en sert pas. Celui qui s'en sert ne me voit pas. Que suis-je ?
 
-Bah eux non plus.
+Un cercueil
 ```
 
 ```diff
-Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
+Une fourchette est une petite fourche, une camionnette est un petit camion. Mais qu’est-ce qu’une salopette ?
 
-PAPA, CACA ! Bon ok, je me retire
+Une petite salope.
 ```
 
 ```diff
-Que dit une bière quand elle tombe dans l'eau ?
+Quelle est l'église la plus petite ?
 
-Je sais panaché.
+Le soutien-gorge, on ne peut y mettre que deux seins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 188 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 187 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je sais panaché.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:05-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:40-white?style=for-the-badge)
 
 
 <p align="center">
