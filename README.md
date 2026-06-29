@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un programmeur SQL pour exprimer son mépris ?
+Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
 
-SELECT finger FROM hand WHERE id=3;
+Les araignées.
 ```
 
 ```diff
-Celui qui m'achète ne s'en sert pas. Celui qui s'en sert ne me voit pas. Que suis-je ?
+Mon humour est tellement noir...
 
-Un cercueil
+... qu'il traverse la mer Méditerranée.
 ```
 
 ```diff
-Une fourchette est une petite fourche, une camionnette est un petit camion. Mais qu’est-ce qu’une salopette ?
+Ce n'est pas bien de regarder sous les jupes des filles.
 
-Une petite salope.
+Il faut regarder sous la culotte.
 ```
 
 ```diff
-Quelle est l'église la plus petite ?
+J'ai un chat dans la gorge...
 
-Le soutien-gorge, on ne peut y mettre que deux seins.
+Vu ton haleine tu dois aussi avoir la litière...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 187 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 186 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le soutien-gorge, on ne peut y mettre que deux seins.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:10-white?style=for-the-badge)
 
 
 <p align="center">
