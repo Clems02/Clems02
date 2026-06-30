@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quels sont les seuls développeurs Web qui sont heureux d'avoir des bugs?
+Quelle est la résolution d'un informaticien pour la nouvelle année ?
 
-Les araignées.
+Un 19" pouces.
 ```
 
 ```diff
-Mon humour est tellement noir...
+Quel est le pire combo de maladies ?
 
-... qu'il traverse la mer Méditerranée.
+Gastro et Alzheimer : tu cours aux toilettes, mais tu ne te souviens plus pourquoi.
 ```
 
 ```diff
-Ce n'est pas bien de regarder sous les jupes des filles.
+Tu veux connaître mon coin à champignons ?
 
-Il faut regarder sous la culotte.
+C'est Tinder !
 ```
 
 ```diff
-J'ai un chat dans la gorge...
+Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
 
-Vu ton haleine tu dois aussi avoir la litière...
+Car les cyclistes pédalent et les autres pagaies.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 186 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 185 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Vu ton haleine tu dois aussi avoir la litière...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:36-white?style=for-the-badge)
 
 
 <p align="center">
