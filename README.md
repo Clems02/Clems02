@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la résolution d'un informaticien pour la nouvelle année ?
+Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
 
-Un 19" pouces.
+... ensuite il demande à quoi il doit servir.
 ```
 
 ```diff
-Quel est le pire combo de maladies ?
+Qu'est-ce qu'un vol de macchabée ?
 
-Gastro et Alzheimer : tu cours aux toilettes, mais tu ne te souviens plus pourquoi.
+Un Voldemort
 ```
 
 ```diff
-Tu veux connaître mon coin à champignons ?
+On aurait dû filmer notre nuit d'amour !
 
-C'est Tinder !
+Oh, moi tu sais, les courts métrages...
 ```
 
 ```diff
-Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
+Quel est le point commun entre une femme et une voiture de sport ?
 
-Car les cyclistes pédalent et les autres pagaies.
+Les deux font du bruit lorsqu'on accélère.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 185 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 184 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car les cyclistes pédalent et les autres pagaies.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/06-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:49-white?style=for-the-badge)
 
 
 <p align="center">
