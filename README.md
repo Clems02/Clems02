@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
+Pourquoi Half Life 3 ne sortira jamais ?
 
-... ensuite il demande à quoi il doit servir.
+Par ce qu'on arrive pas a retrouver la Source.
 ```
 
 ```diff
-Qu'est-ce qu'un vol de macchabée ?
+Où est passé le petit garçon après le bombardement ?
 
-Un Voldemort
+Partout...
 ```
 
 ```diff
-On aurait dû filmer notre nuit d'amour !
+Pourquoi les filles baissent-elles toujours les yeux quand on leur dit "Je t'aime" ?
 
-Oh, moi tu sais, les courts métrages...
+Pour voir si c'est vrai.
 ```
 
 ```diff
-Quel est le point commun entre une femme et une voiture de sport ?
+En Normandie, quand il y a de la moule...
 
-Les deux font du bruit lorsqu'on accélère.
+On a la frite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 184 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 183 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux font du bruit lorsqu'on accélère.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:13-white?style=for-the-badge)
 
 
 <p align="center">
