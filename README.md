@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi Half Life 3 ne sortira jamais ?
+Pourquoi les développeurs doivent-ils suivre une formation incendie ?
 
-Par ce qu'on arrive pas a retrouver la Source.
+À cause des pare-feu
 ```
 
 ```diff
-Où est passé le petit garçon après le bombardement ?
+Que chante un Juif devant un feu de camp ?
 
-Partout...
+"Vous les copains je ne vous oublierai jamais !"
 ```
 
 ```diff
-Pourquoi les filles baissent-elles toujours les yeux quand on leur dit "Je t'aime" ?
+Chérie ! On mate un film porno ou un match de foot ce soir ?
 
-Pour voir si c'est vrai.
+Un film porno, vu que tu sais déjà jouer au foot !
 ```
 
 ```diff
-En Normandie, quand il y a de la moule...
+Quel est le féminin de "Macho" ?
 
-On a la frite.
+"Ma chose"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 183 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 182 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On a la frite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:06-white?style=for-the-badge)
 
 
 <p align="center">
