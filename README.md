@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs doivent-ils suivre une formation incendie ?
+Comment appelle-t-on un trucage photo ?
 
-À cause des pare-feu
+Un Faux-to-chopage
 ```
 
 ```diff
-Que chante un Juif devant un feu de camp ?
+Pourquoi Johnny Hallyday s'est fait incinérer ?
 
-"Vous les copains je ne vous oublierai jamais !"
+Parce qu'il a allumé le feu...
 ```
 
 ```diff
-Chérie ! On mate un film porno ou un match de foot ce soir ?
+Toto, à quoi sert un fusil ? À fusilier !  À quoi sert une mitraillette ?  À mitrailler ! Et à quoi sert un tank ?
 
-Un film porno, vu que tu sais déjà jouer au foot !
+À tankuler !
 ```
 
 ```diff
-Quel est le féminin de "Macho" ?
+J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 
-"Ma chose"
+... C'est pareil que faire le ménage dans des maisons !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 182 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 181 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le féminin de "Macho" ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:57-white?style=for-the-badge)
 
 
 <p align="center">
