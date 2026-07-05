@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-Un Faux-to-chopage
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Pourquoi Johnny Hallyday s'est fait incinérer ?
+Qu'est-ce qui est vert et qui pue ?
 
-Parce qu'il a allumé le feu...
+Un scout mort au fond d'un bois.
 ```
 
 ```diff
-Toto, à quoi sert un fusil ? À fusilier !  À quoi sert une mitraillette ?  À mitrailler ! Et à quoi sert un tank ?
+Quelle est la différence entre un 69 et le brouillard ?
 
-À tankuler !
+Dans le brouillard, on ne voit pas le trou du cul qui est devant...
 ```
 
 ```diff
-J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
+Pendant l'acte, ma femme me dit : Dis-moi des choses sales !
 
-... C'est pareil que faire le ménage dans des maisons !
+La cuisine, la salle de bain...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 181 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 180 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:22-white?style=for-the-badge)
 
 
 <p align="center">
