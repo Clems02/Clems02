@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+Quelle est la maladie la plus répandue chez les développeurs Rust ?
 
-... qui utilise WinRAR pour décompresser.
+Le tétanos.
 ```
 
 ```diff
-Qu’est-ce que deux chinois l’un sur l’autre ?
+Ne fais pas ton Kennedy !
 
-Un lee superposé
+ Ne te laisse pas abattre !
 ```
 
 ```diff
-Quel est le point commun entre le paradis et le vagin ?
+Quelle est la différence entre toi et un chirurgien ?
 
-Pour y entrer, il faut être raide.
+Le chirurgien ampute des jambes et tu enjambes des putes !
 ```
 
 ```diff
-Quel est le point commun entre une femme et une voiture de sport ?
+Quel est le point commun entre un homme et un tiroir ?
 
-Les deux font du bruit lorsqu'on accélère.
+Les deux sont des fourre-tout.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 179 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 178 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux font du bruit lorsqu'on accélère.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:27-white?style=for-the-badge)
 
 
 <p align="center">
