@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Le tétanos.
+Car c’est le hardware qui prend des coups quand le software plante.
 ```
 
 ```diff
-Ne fais pas ton Kennedy !
+Pourquoi les suicidaires aiment-ils les jours de forte pluie ?
 
- Ne te laisse pas abattre !
+Car il pleut des cordes !
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Qu'est-ce que deux trous dans un trou ?
 
-Le chirurgien ampute des jambes et tu enjambes des putes !
+Mon nez dans ton cul...
 ```
 
 ```diff
-Quel est le point commun entre un homme et un tiroir ?
+Comment faire rentrer 3 pédés dans un pub archi-bondé ?
 
-Les deux sont des fourre-tout.
+Retourner un tabouret.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 178 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 177 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux sont des fourre-tout.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:33-white?style=for-the-badge)
 
 
 <p align="center">
