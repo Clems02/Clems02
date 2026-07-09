@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Que fait un développeur s'il veut se marier ?
 
-Car c’est le hardware qui prend des coups quand le software plante.
+Une fille en C
 ```
 
 ```diff
-Pourquoi les suicidaires aiment-ils les jours de forte pluie ?
+Comment appelle-t-on une africaine enceinte ?
 
-Car il pleut des cordes !
+Deux pour le prix d'un
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+Maman, c'est quoi de la lingerie coquine ?
 
-Mon nez dans ton cul...
+De la hot couture !
 ```
 
 ```diff
-Comment faire rentrer 3 pédés dans un pub archi-bondé ?
+Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
 
-Retourner un tabouret.
+Alors pourquoi tu continues ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 177 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 176 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Retourner un tabouret.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:34-white?style=for-the-badge)
 
 
 <p align="center">
