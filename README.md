@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
 
-Une fille en C
+Aujourd'hui il s'appelle "Challenge Accepted"...
 ```
 
 ```diff
-Comment appelle-t-on une africaine enceinte ?
+Quand j'étais gamin, j'avais un ami noir.
 
-Deux pour le prix d'un
+Jusqu'au jour où mon grand-père l'a vendu.
 ```
 
 ```diff
-Maman, c'est quoi de la lingerie coquine ?
+Pourquoi les filles baissent t'elles toujours les yeux quand on leur dit " je t'aime" ?
 
-De la hot couture !
+Pour voir si c'est vrai.
 ```
 
 ```diff
-Un mari demande a sa femme : "Est-ce que je t'ai déjà dit une fois que tu cuisines bien ?"  - Non pourquoi ?
+Quels sont les hommes qui n'ont pas peur des pickpockets ?
 
-Alors pourquoi tu continues ?
+Les nudistes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 176 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 175 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Alors pourquoi tu continues ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:23-white?style=for-the-badge)
 
 
 <p align="center">
