@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Hier, j'ai renommé mon réseau WIFI "Hack me if you can"
+Pourquoi vaut il mieux être software que hardware ?
 
-Aujourd'hui il s'appelle "Challenge Accepted"...
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Quand j'étais gamin, j'avais un ami noir.
+Que dit un terroriste d'une jolie fille ?
 
-Jusqu'au jour où mon grand-père l'a vendu.
+C'est une bombe.
 ```
 
 ```diff
-Pourquoi les filles baissent t'elles toujours les yeux quand on leur dit " je t'aime" ?
+Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
 
-Pour voir si c'est vrai.
+La femme répliqua « Je suis pro stituée ! »
 ```
 
 ```diff
-Quels sont les hommes qui n'ont pas peur des pickpockets ?
+Pourquoi les oiseaux volent-ils vers le sud ?
 
-Les nudistes.
+Car à pied, c'est beaucoup trop long.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 175 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 174 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les nudistes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:24-white?style=for-the-badge)
 
 
 <p align="center">
