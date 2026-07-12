@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+Que fait un geek après avoir fait l'amour ?
 
-Car c’est le hardware qui prend des coups quand le software plante
+Il efface l'historique.
 ```
 
 ```diff
-Que dit un terroriste d'une jolie fille ?
+Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
 
-C'est une bombe.
+Car il faut séparer le jaune du blanc.
 ```
 
 ```diff
-Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
+J'ai nommé ma bite Bidou.
 
-La femme répliqua « Je suis pro stituée ! »
+Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
 ```
 
 ```diff
-Pourquoi les oiseaux volent-ils vers le sud ?
+Bon, on joue au poker ou on s'encule ?
 
-Car à pied, c'est beaucoup trop long.
+Perso, je n'aime pas trop le poker alors...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 174 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 173 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car à pied, c'est beaucoup trop long.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:40-white?style=for-the-badge)
 
 
 <p align="center">
