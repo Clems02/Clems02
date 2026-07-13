@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek après avoir fait l'amour ?
+Que font les développeurs le matin ?
 
-Il efface l'historique.
+Ils boivent leur CoffeeScript.
 ```
 
 ```diff
-Pourquoi les Chinois et les Français ne cuisinent pas ensemble ?
+Pourquoi un Européen et un Asiatique ne peuvent pas cuisiner ensemble ?
 
-Car il faut séparer le jaune du blanc.
+Parce qu'il y a toujours écrit de séparer les blancs et les jaunes.
 ```
 
 ```diff
-J'ai nommé ma bite Bidou.
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
+La mer Méditerranée.
 ```
 
 ```diff
-Bon, on joue au poker ou on s'encule ?
+Quelle est la différence entre un zèbre et un barman ?
 
-Perso, je n'aime pas trop le poker alors...
+Le zèbre a des barres autour de son trou du cul, alors que le barman a des trous du cul autour de son bar.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 173 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 172 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Perso, je n'aime pas trop le poker alors...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:50-white?style=for-the-badge)
 
 
 <p align="center">
