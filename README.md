@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que font les développeurs le matin ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Ils boivent leur CoffeeScript.
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Pourquoi un Européen et un Asiatique ne peuvent pas cuisiner ensemble ?
+Fiston, tu sais ce qu’a dit ta sœur quand elle a perdu sa virginité ? Oh non papa…
 
-Parce qu'il y a toujours écrit de séparer les blancs et les jaunes.
+Exactement !
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
 
-La mer Méditerranée.
+Parce que la vérité sort toujours de la bouche des enfants !
 ```
 
 ```diff
-Quelle est la différence entre un zèbre et un barman ?
+Hier, j'ai croisé 2 roux. Vous savez ce que je leur ai demandé ?
 
-Le zèbre a des barres autour de son trou du cul, alors que le barman a des trous du cul autour de son bar.
+Bah alors, il est où le guidon ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 172 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 171 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le zèbre a des barres autour de son trou du cul, alors que le barman a des trou
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:11-white?style=for-the-badge)
 
 
 <p align="center">
