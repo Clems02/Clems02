@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Les programmes informatiques, c’est comme la masturbation :
 
-Elle repart, car il n'y a pas de table.
+Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
 ```
 
 ```diff
-Fiston, tu sais ce qu’a dit ta sœur quand elle a perdu sa virginité ? Oh non papa…
+Qu'elle est la différence entre l'Allemagne Nazie et la Chine ?
 
-Exactement !
+L'idéologie.
 ```
 
 ```diff
-Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
+Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
 
-Parce que la vérité sort toujours de la bouche des enfants !
+Bah non, je rentre encore dans du 12 ans.
 ```
 
 ```diff
-Hier, j'ai croisé 2 roux. Vous savez ce que je leur ai demandé ?
+Quel est le style préféré d'un roux ?
 
-Bah alors, il est où le guidon ?
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 171 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 170 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bah alors, il est où le guidon ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:12-white?style=for-the-badge)
 
 
 <p align="center">
