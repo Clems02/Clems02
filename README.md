@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les programmes informatiques, c’est comme la masturbation :
+Quel est le biscuit préféré d'Internet ?
 
-Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
+Le cookie
 ```
 
 ```diff
-Qu'elle est la différence entre l'Allemagne Nazie et la Chine ?
+Stop au racisme ! Soyez tous comme Mario :
 
-L'idéologie.
+Un Italien, créé par des Japonais, qui parle Anglais, qui ressemble à un Mexicain, qui court comme un Congolais, saute comme un Jamaïcain et qui attrape des pièces comme un Juif.
 ```
 
 ```diff
-Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
+À quoi sert le Dolipranus ?
 
-Bah non, je rentre encore dans du 12 ans.
+À aller mieux lorsque tu as la tête dans le cul !
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Tu connais l'homme qui a 5 pénis ?
 
-Le roustique.
+Apparemment, son slip lui va comme un gant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 170 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 169 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:22-white?style=for-the-badge)
 
 
 <p align="center">
