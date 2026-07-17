@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le biscuit préféré d'Internet ?
+Ma copine m'a larguée après avoir donné son nom à une classe.
 
-Le cookie
+Elle avait l'impression que je la traitais comme un objet.
 ```
 
 ```diff
-Stop au racisme ! Soyez tous comme Mario :
+Quelle est la différence entre Johnny Hallyday et Michael Jackson ?
 
-Un Italien, créé par des Japonais, qui parle Anglais, qui ressemble à un Mexicain, qui court comme un Congolais, saute comme un Jamaïcain et qui attrape des pièces comme un Juif.
+Les enfants de Johnny se battent pour toucher quelque chose.
 ```
 
 ```diff
-À quoi sert le Dolipranus ?
+C'est quoi la différence entre un homme et un sapin de Noël ?
 
-À aller mieux lorsque tu as la tête dans le cul !
+Le nombre de boules
 ```
 
 ```diff
-Tu connais l'homme qui a 5 pénis ?
+Pourquoi la statue de la liberté est-elle une femme ?
 
-Apparemment, son slip lui va comme un gant.
+Parce qu'il fallait une tête vide pour y mettre un restaurant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 169 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 168 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Apparemment, son slip lui va comme un gant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:24-white?style=for-the-badge)
 
 
 <p align="center">
