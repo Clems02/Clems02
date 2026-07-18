@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Ma copine m'a larguée après avoir donné son nom à une classe.
+Quel logiciel de conception est très prisé des gourmands ?
 
-Elle avait l'impression que je la traitais comme un objet.
+SketchUp
 ```
 
 ```diff
-Quelle est la différence entre Johnny Hallyday et Michael Jackson ?
+Je connais un esquimau en phase terminale...
 
-Les enfants de Johnny se battent pour toucher quelque chose.
+Il est à l'Arctique de la mort.
 ```
 
 ```diff
-C'est quoi la différence entre un homme et un sapin de Noël ?
+Quelle est la différence entre les blagues et les pénis ?
 
-Le nombre de boules
+Les blagues les plus courtes sont les meilleures !
 ```
 
 ```diff
-Pourquoi la statue de la liberté est-elle une femme ?
+Si l'hiver, dans la brume, on s'enrhume...
 
-Parce qu'il fallait une tête vide pour y mettre un restaurant.
+est-ce que l'été, avec la canicule, on s'encule ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 168 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 167 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'il fallait une tête vide pour y mettre un restaurant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:07-white?style=for-the-badge)
 
 
 <p align="center">
