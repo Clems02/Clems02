@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel logiciel de conception est très prisé des gourmands ?
+Pourquoi vaut il mieux être software que hardware ?
 
-SketchUp
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Je connais un esquimau en phase terminale...
+Quelle est la seule solde qu'Eric Zemmour ne veut pas faire ?
 
-Il est à l'Arctique de la mort.
+Le Black Friday.
 ```
 
 ```diff
-Quelle est la différence entre les blagues et les pénis ?
+Comment faire pour qu’un macho arrête de se vanter sur la taille de son sexe pendant l’amour ?
 
-Les blagues les plus courtes sont les meilleures !
+En lui demandant : "Est-ce qu’elle est dedans là ?"
 ```
 
 ```diff
-Si l'hiver, dans la brume, on s'enrhume...
+Quel est la différence entre un terroriste et une femme avant ses règles ?
 
-est-ce que l'été, avec la canicule, on s'encule ?
+Tu peux négocier avec le terroriste
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 167 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 166 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ est-ce que l'été, avec la canicule, on s'encule ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:07-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:34-white?style=for-the-badge)
 
 
 <p align="center">
