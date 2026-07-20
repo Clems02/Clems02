@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+$ npm find LaFemmeDeMaVie
 
-Car c’est le hardware qui prend des coups quand le software plante
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-Quelle est la seule solde qu'Eric Zemmour ne veut pas faire ?
+Combien faut-il d'hommes pour peindre une voiture en rouge ?
 
-Le Black Friday.
+Un seul ! Mais il faut le lancer très fort.
 ```
 
 ```diff
-Comment faire pour qu’un macho arrête de se vanter sur la taille de son sexe pendant l’amour ?
+Que fait un zoophile qui veut sauter ?
 
-En lui demandant : "Est-ce qu’elle est dedans là ?"
+Il prend son élan.
 ```
 
 ```diff
-Quel est la différence entre un terroriste et une femme avant ses règles ?
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-Tu peux négocier avec le terroriste
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 166 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 165 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Tu peux négocier avec le terroriste
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:51-white?style=for-the-badge)
 
 
 <p align="center">
