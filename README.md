@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-$ npm find LaFemmeDeMaVie
+Quel est le 2ème métier d’un développeur ?
 
-Error: Unable to find package ‘LaFemmeDeMaVie’
+CSharpentier
 ```
 
 ```diff
-Combien faut-il d'hommes pour peindre une voiture en rouge ?
+Quel est la différence entre un chômeur et une pizza ?
 
-Un seul ! Mais il faut le lancer très fort.
+Une pizza peut nourrir une famille.
 ```
 
 ```diff
-Que fait un zoophile qui veut sauter ?
+Quelle est le point commun entre la vie et une bite ?
 
-Il prend son élan.
+Elles sont simples, relax, et soudain une femme les rend dures.
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Les genres, c'est comme les tours jumelles.
 
-Mr Propre
+Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 165 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 164 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:32-white?style=for-the-badge)
 
 
 <p align="center">
