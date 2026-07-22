@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Que fait un geek quand il a peur ?
 
-CSharpentier
+Il URL
 ```
 
 ```diff
-Quel est la différence entre un chômeur et une pizza ?
+Les blagues sur le 11 septembre...
 
-Une pizza peut nourrir une famille.
+Ça vole pas haut...
 ```
 
 ```diff
-Quelle est le point commun entre la vie et une bite ?
+Comment dit-on "Castration", en espagnol ?
 
-Elles sont simples, relax, et soudain une femme les rend dures.
+Adios, à mes gosses !
 ```
 
 ```diff
-Les genres, c'est comme les tours jumelles.
+2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
 
-Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
+Non. La guerre, c'est pour les durs !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 164 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 163 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:31-white?style=for-the-badge)
 
 
 <p align="center">
