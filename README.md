@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un geek quand il a peur ?
+De quelle couleur sont tes yeux ?
 
-Il URL
+#1292f4 et toi ?
 ```
 
 ```diff
-Les blagues sur le 11 septembre...
+J’ai une blague sur les arabes !
 
-Ça vole pas haut...
+Mais ils me l’ont volé…
 ```
 
 ```diff
-Comment dit-on "Castration", en espagnol ?
+Quelle est la différence entre toi et un chirurgien ?
 
-Adios, à mes gosses !
+Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
 ```
 
 ```diff
-2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
+Pourquoi quand on vise on ferme un œil ?
 
-Non. La guerre, c'est pour les durs !
+Car si on fermait les deux, on ne verrait plus rien.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 163 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 162 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non. La guerre, c'est pour les durs !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:31-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:37-white?style=for-the-badge)
 
 
 <p align="center">
