@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De quelle couleur sont tes yeux ?
+J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
 
-#1292f4 et toi ?
+Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
 ```
 
 ```diff
-J’ai une blague sur les arabes !
+Une fillette est retrouvée égorgée dans la rue… L'enquêteur questionne le légiste : Elle a été violée ?
 
-Mais ils me l’ont volé…
+Non pas encore, j'attendais votre autorisation.
 ```
 
 ```diff
-Quelle est la différence entre toi et un chirurgien ?
+Une grosse queue qui rappelle un bon souvenir...
 
-Le chirurgien il ampute des jambes et toi, tu enjambes des putes !
+... ça reste dans les annales.
 ```
 
 ```diff
-Pourquoi quand on vise on ferme un œil ?
+Monsieur, savez-vous que votre chien aboie toute la nuit ?
 
-Car si on fermait les deux, on ne verrait plus rien.
+Oh, ce n'est pas grave, il dort toute la journée !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 162 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 161 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car si on fermait les deux, on ne verrait plus rien.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:37-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:32-white?style=for-the-badge)
 
 
 <p align="center">
