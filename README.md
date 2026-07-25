@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
+Jusqu'à combien savent compter les geeks ?
 
-Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
+404... car après, ils ne s'y retrouvent plus !
 ```
 
 ```diff
-Une fillette est retrouvée égorgée dans la rue… L'enquêteur questionne le légiste : Elle a été violée ?
+Quelle partie du légume ne passe pas dans le mixer ?
 
-Non pas encore, j'attendais votre autorisation.
+Le fauteuil roulant.
 ```
 
 ```diff
-Une grosse queue qui rappelle un bon souvenir...
+Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
 
-... ça reste dans les annales.
+Parce que la vérité sort toujours de la bouche des enfants !
 ```
 
 ```diff
-Monsieur, savez-vous que votre chien aboie toute la nuit ?
+Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
 
-Oh, ce n'est pas grave, il dort toute la journée !
+"Ben quoi ? T'achètes bien des soutien-gorges..."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 161 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 160 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oh, ce n'est pas grave, il dort toute la journée !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:26-white?style=for-the-badge)
 
 
 <p align="center">
