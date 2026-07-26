@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien savent compter les geeks ?
+Pourquoi les documents Word sont parfaits pour discuter ?
 
-404... car après, ils ne s'y retrouvent plus !
+Car ils font des petits Mo...
 ```
 
 ```diff
-Quelle partie du légume ne passe pas dans le mixer ?
+Je ne comprends pas les gens qui me disent que je n'aime pas les noirs.
 
-Le fauteuil roulant.
+Je trouve même dommage qu'on ne puisse plus les acheter !
 ```
 
 ```diff
-Pourquoi les pédophiles appellent-ils leur quéquette "La vérité" ?
+Quel est l'inverse de l'exorcisme ?
 
-Parce que la vérité sort toujours de la bouche des enfants !
+C'est quand le diable demande au prêtre de sortir de l'enfant.
 ```
 
 ```diff
-Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
+L'amour, c'est comme la grippe...
 
-"Ben quoi ? T'achètes bien des soutien-gorges..."
+... on l'attrape dans la rue, et on le résout au lit.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 160 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 159 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voitur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:43-white?style=for-the-badge)
 
 
 <p align="center">
