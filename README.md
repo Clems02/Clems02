@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les documents Word sont parfaits pour discuter ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Car ils font des petits Mo...
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Je ne comprends pas les gens qui me disent que je n'aime pas les noirs.
+Pourquoi les douches ont-elles 11 petits trous ?
 
-Je trouve même dommage qu'on ne puisse plus les acheter !
+Car les Juifs n'ont que 10 doigts.
 ```
 
 ```diff
-Quel est l'inverse de l'exorcisme ?
+Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
 
-C'est quand le diable demande au prêtre de sortir de l'enfant.
+Oh oui, si c'est une épreuve de vitesse !
 ```
 
 ```diff
-L'amour, c'est comme la grippe...
+Quel est le comble pour un joueur de rugby ?
 
-... on l'attrape dans la rue, et on le résout au lit.
+Se faire plaquer par sa femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 159 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 158 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'amour, c'est comme la grippe...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:02-white?style=for-the-badge)
 
 
 <p align="center">
