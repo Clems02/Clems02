@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Quel est le comble pour la mémoire vive ?
 
-Elle repart, car il n'y a pas de table.
+C'est qu'elle RAM.
 ```
 
 ```diff
-Pourquoi les douches ont-elles 11 petits trous ?
+Quand j'étais gamin, j'avais un ami noir.
 
-Car les Juifs n'ont que 10 doigts.
+Jusqu'au jour où mon grand-père l'a vendu.
 ```
 
 ```diff
-Dis, s'il y avait les jeux olympiques du sexe, tu penses que je pourrai représenter mon pays ?
+Qu'est-ce qui est vert et qui nique ?
 
-Oh oui, si c'est une épreuve de vitesse !
+Véronique
 ```
 
 ```diff
-Quel est le comble pour un joueur de rugby ?
+Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 
-Se faire plaquer par sa femme.
+Ça fait 2 verres en moins.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 158 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 157 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Se faire plaquer par sa femme.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/06:02-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:27-white?style=for-the-badge)
 
 
 <p align="center">
