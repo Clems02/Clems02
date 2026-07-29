@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le comble pour la mémoire vive ?
+Comment on appelle une situation qui est gérée ?
 
-C'est qu'elle RAM.
+Une situation sous CTRL
 ```
 
 ```diff
-Quand j'étais gamin, j'avais un ami noir.
+Je ne suis pas raciste, le racisme est un crime...
 
-Jusqu'au jour où mon grand-père l'a vendu.
+et ce sont les étrangers qui font des crimes.
 ```
 
 ```diff
-Qu'est-ce qui est vert et qui nique ?
+Que fais un zoophile dans une ferme ?
 
-Véronique
+Il passe du coq à l'âne...
 ```
 
 ```diff
-Pourquoi faut-il enlever ses lunettes avant un alcootest ?
+Pourquoi les mamies sont les meilleures putes ?
 
-Ça fait 2 verres en moins.
+Parce qu'elles se laissent toujours peloter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 157 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 156 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pourquoi faut-il enlever ses lunettes avant un alcootest ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:34-white?style=for-the-badge)
 
 
 <p align="center">
