@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment on appelle une situation qui est gérée ?
+Quel est l'endroit le moins vu de stackoverflow ?
 
-Une situation sous CTRL
+La page d'accueil.
 ```
 
 ```diff
-Je ne suis pas raciste, le racisme est un crime...
+Quel est le plus gros dilemme pour un Juif ?
 
-et ce sont les étrangers qui font des crimes.
+Du jambon gratuit
 ```
 
 ```diff
-Que fais un zoophile dans une ferme ?
+Pourquoi les filles baissent t'elles toujours les yeux quand on leur dit " je t'aime" ?
 
-Il passe du coq à l'âne...
+Pour voir si c'est vrai.
 ```
 
 ```diff
-Pourquoi les mamies sont les meilleures putes ?
+Quel est le point commun entre une diarrhée et une voiture électrique ?
 
-Parce qu'elles se laissent toujours peloter !
+La peur de ne pas arriver à la maison !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 156 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 155 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles se laissent toujours peloter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:21-white?style=for-the-badge)
 
 
 <p align="center">
