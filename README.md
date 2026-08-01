@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le shell préféré des adolescents ?
+Chuck Norris vends le jeu, gagne des millions...
 
-Le WESH
+... puis crée le jeu...
 ```
 
 ```diff
-Qui court plus vite qu'Usain Bolt ?
+Hier il y a eu un concours de sosie en Chine...
 
-Un Somalien avec un ticket restaurant
+Et tout le monde a gagné.
 ```
 
 ```diff
-Le viagra, c'est comme l'enfer.
+Deux amis discutent d'astrologie :   "Moi, je suis Vierge.
 
-Satan l'habite.
+- Plus pour longtemps..."
 ```
 
 ```diff
-Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
+Quelle est la différence entre une femme et un dobermann ?
 
-L'aspirateur
+Le prix du collier
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 154 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 153 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'aspirateur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/07-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:38-white?style=for-the-badge)
 
 
 <p align="center">
