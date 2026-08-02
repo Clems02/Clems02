@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Chuck Norris vends le jeu, gagne des millions...
+Pourquoi les développeurs n'aiment-ils pas 2020 ?
 
-... puis crée le jeu...
+Car il y a la co vide.
 ```
 
 ```diff
-Hier il y a eu un concours de sosie en Chine...
+Comment s'appelle le meilleur ami de Bob l'éponge ?
 
-Et tout le monde a gagné.
+Le petit Grégory.
 ```
 
 ```diff
-Deux amis discutent d'astrologie :   "Moi, je suis Vierge.
+Comment on appelle les femmes des terroristes ?
 
-- Plus pour longtemps..."
+Des bombes sexuelles.
 ```
 
 ```diff
-Quelle est la différence entre une femme et un dobermann ?
+Hey Google, pourquoi je suis célibataire ?
 
-Le prix du collier
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 153 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 152 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:38-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:39-white?style=for-the-badge)
 
 
 <p align="center">
