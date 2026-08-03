@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs n'aiment-ils pas 2020 ?
+Que dit un ordinateur pour draguer ?
 
-Car il y a la co vide.
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Comment s'appelle le meilleur ami de Bob l'éponge ?
+Papa, papa, je n'aime pas mamie...
 
-Le petit Grégory.
+Tu n'as qu'à la laisser sur le bord de l'assiette.
 ```
 
 ```diff
-Comment on appelle les femmes des terroristes ?
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-Des bombes sexuelles.
+La mer Méditerranée.
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Pourquoi les Belges portent des capotes sur les oreilles ?
 
-D'accord ! J'ouvre la caméra.
+C’est pour ne pas entendre parler du sida.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 152 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 151 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:39-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:54-white?style=for-the-badge)
 
 
 <p align="center">
