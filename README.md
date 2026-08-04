@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+Pourquoi les développeurs sont-ils en bonne santé ?
 
-Coucou, tu veux voir mes 64 bits ?
+Parce qu'ils ont des fibres !
 ```
 
 ```diff
-Papa, papa, je n'aime pas mamie...
+La Roumanie se lance dans la conquête spatiale.
 
-Tu n'as qu'à la laisser sur le bord de l'assiette.
+C'est le premier rom sur la Lune.
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Qu'est-ce qui commence par un B et qui finit par un G (jet) ?
 
-La mer Méditerranée.
+Une branlette
 ```
 
 ```diff
-Pourquoi les Belges portent des capotes sur les oreilles ?
+Comment appelle-t-on une orgie de nains?
 
-C’est pour ne pas entendre parler du sida.
+Une passe-partouze
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 151 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 150 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C’est pour ne pas entendre parler du sida.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:27-white?style=for-the-badge)
 
 
 <p align="center">
