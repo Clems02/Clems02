@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs sont-ils en bonne santé ?
+Un développeur non-binaire qui code, ça ferait quoi ?
 
-Parce qu'ils ont des fibres !
+Ça causerait des bugs.
 ```
 
 ```diff
-La Roumanie se lance dans la conquête spatiale.
+Maman, maman, je ne veux plus dormir avec mon petit frère.
 
-C'est le premier rom sur la Lune.
+Tais-toi ! Je t'ai déjà dit qu'on n'avait pas assez d'argent pour l'enterrer.
 ```
 
 ```diff
-Qu'est-ce qui commence par un B et qui finit par un G (jet) ?
+Mon papa, il a un pénis de 20cm!
 
-Une branlette
+Mon papa lui, il a juste 15cm mais ça fait mal quand même
 ```
 
 ```diff
-Comment appelle-t-on une orgie de nains?
+Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
 
-Une passe-partouze
+Parce que j'suis cuisinier et j'aimerais bien te sauter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 150 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 149 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une passe-partouze
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:27-white?style=for-the-badge)
 
 
 <p align="center">
