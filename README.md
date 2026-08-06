@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur non-binaire qui code, ça ferait quoi ?
+Comment un développeur se protège-t-il de la pluie ?
 
-Ça causerait des bugs.
+Il se met sous une Bash !
 ```
 
 ```diff
-Maman, maman, je ne veux plus dormir avec mon petit frère.
+Quelle est la console préférée des nazis ?
 
-Tais-toi ! Je t'ai déjà dit qu'on n'avait pas assez d'argent pour l'enterrer.
+La Nintend'Auschwitz !
 ```
 
 ```diff
-Mon papa, il a un pénis de 20cm!
+Tu veux connaître mon coin à champignons ?
 
-Mon papa lui, il a juste 15cm mais ça fait mal quand même
+C'est Tinder !
 ```
 
 ```diff
-Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
+Quel est le point commun entre un homme et un tiroir ?
 
-Parce que j'suis cuisinier et j'aimerais bien te sauter !
+Les deux sont des fourre-tout.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 149 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 148 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que j'suis cuisinier et j'aimerais bien te sauter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:29-white?style=for-the-badge)
 
 
 <p align="center">
