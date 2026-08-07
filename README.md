@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se protège-t-il de la pluie ?
+Jusqu'à combien peut-on compter avec nos doigts ?
 
-Il se met sous une Bash !
+1024
 ```
 
 ```diff
-Quelle est la console préférée des nazis ?
+L'eau résout vraiment tout les problèmes. Tu veux maigrir ? Bois de l'eau. Tu veux une belle peau ? Bois de l'eau.
 
-La Nintend'Auschwitz !
+Tu n'aimes pas quelqu'un ? Noie le.
 ```
 
 ```diff
-Tu veux connaître mon coin à champignons ?
+J'ai nommé ma bite Bidou.
 
-C'est Tinder !
+Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
 ```
 
 ```diff
-Quel est le point commun entre un homme et un tiroir ?
+Quand il était petit, quel était le nom de papy Roro ?
 
-Les deux sont des fourre-tout.
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 148 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 147 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux sont des fourre-tout.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/05:29-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:34-white?style=for-the-badge)
 
 
 <p align="center">
