@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Jusqu'à combien peut-on compter avec nos doigts ?
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-1024
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-L'eau résout vraiment tout les problèmes. Tu veux maigrir ? Bois de l'eau. Tu veux une belle peau ? Bois de l'eau.
+Quel est la ville préférée des diabétiques ?
 
-Tu n'aimes pas quelqu'un ? Noie le.
+Sucre.
 ```
 
 ```diff
-J'ai nommé ma bite Bidou.
+Pourquoi les portes sont des putes ?
 
-Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
+Parce qu'elles se font toucher par tout le monde.
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
 
-Roro...
+Les deux
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 147 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 146 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
 
 
 <p align="center">
