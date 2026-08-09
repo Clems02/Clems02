@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le point commun entre les voitures et les ordinateurs ?
+Comment un développeur se protège-t-il de la pluie ?
 
-Les mauvais pilotes sont problématiques.
+Il se met sous une Bash !
 ```
 
 ```diff
-Quel est la ville préférée des diabétiques ?
+Que faisaient les parents de Gilbert Montagné pour le punir ?
 
-Sucre.
+Ils déplaçaient les meubles.
 ```
 
 ```diff
-Pourquoi les portes sont des putes ?
+Si on pénètre Jack...
 
-Parce qu'elles se font toucher par tout le monde.
+Est-ce qu'on peux dire qu'on branche son casque filaire ?
 ```
 
 ```diff
-Quel bout de la corde envoie-t-on à sa belle-mère qui se noie ?
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-Les deux
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 146 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 145 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:56-white?style=for-the-badge)
 
 
 <p align="center">
