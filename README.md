@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Il y a quoi après 403 ?
 
-Je ne l'ai pas trouvée...
+Bah, je ne sais pas, je n'ai pas trouvé...
 ```
 
 ```diff
-Pourquoi les tirelires sont en forme de cochon ?
+À quoi sert un chef d'orchestre ?
 
-Pour que les Arabes n'y touchent pas.
+Quand il arrête de remuer les bras, les sourds savent qu'ils doivent applaudir.
 ```
 
 ```diff
-Quelle est la femme la plus pénétrée de Paris ?
+Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
 
-Notre-Dame de Paris
+Tous les amateurs de sexe ont un jour lu Brifié.
 ```
 
 ```diff
-Pourquoi le cerveau des femmes est divisé en 5 ?
+Quand il était petit, quel était le nom de papy Roro ?
 
-Pour chaque bouton de la cuisinière.
+Roro...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 144 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 143 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque bouton de la cuisinière.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:57-white?style=for-the-badge)
 
 
 <p align="center">
