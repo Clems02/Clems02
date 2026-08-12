@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Il y a quoi après 403 ?
+J'allais faire une blague sur l'erreur 404...
 
-Bah, je ne sais pas, je n'ai pas trouvé...
+Je ne l'ai pas trouvé...
 ```
 
 ```diff
-À quoi sert un chef d'orchestre ?
+Comment s'appelle le meilleur ami de Bon l'éponge ?
 
-Quand il arrête de remuer les bras, les sourds savent qu'ils doivent applaudir.
+Le petit Grégory.
 ```
 
 ```diff
-Saviez-vous qu'un auteur appelé Brifié écrivait des classiques XXX ?
+Melon et melèche vont voter.
 
-Tous les amateurs de sexe ont un jour lu Brifié.
+Melon cherche l'isoloir et melèche la fente.
 ```
 
 ```diff
-Quand il était petit, quel était le nom de papy Roro ?
+Quelle est la différence entre un Ricard et un 69 ?
 
-Roro...
+Le Ricard, c’est le nez dans l’anis, le 69, c’est le nez dans l’anus.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 143 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 142 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Roro...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:19-white?style=for-the-badge)
 
 
 <p align="center">
