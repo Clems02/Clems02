@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le meilleur magazine pour développeurs ?
+Tu ne serais pas un câble Ethernet ?
 
-Pomme d'api
+Car je sens qu'il y a une connexion entre nous deux.
 ```
 
 ```diff
-Faire un signalement, c'est bien.
+C'est un petit garçon qui dit à sa grand-mère :
 
-Faire un signe allemand, c'est moins bien.
+Mamie ? Tu ne trouves pas que ça sent mauvais ici ? On dirait une odeur de cadavre ! Heu mamie ? Tu m'entends mamie ?
 ```
 
 ```diff
-Quel est le point commun entre un vieux marseillais et une prostituée ?
+Ta mère, elle est comme Mario.
 
-Les deux aiment jouer avec des boules.
+Elle saute pour avoir des pièces...
 ```
 
 ```diff
-Pourquoi les moutons aiment le chewing-gum ?
+Pourquoi les femmes se maquillent et se parfument ?
 
-Car c'est bon pour la laine.
+Parce qu'elles sont moches et qu'elles puent.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 141 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 140 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car c'est bon pour la laine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:20-white?style=for-the-badge)
 
 
 <p align="center">
