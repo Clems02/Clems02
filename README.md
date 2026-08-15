@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Tu ne serais pas un câble Ethernet ?
+Quelle est la déesse du Wi-Fi ?
 
-Car je sens qu'il y a une connexion entre nous deux.
+La déesse L.
 ```
 
 ```diff
-C'est un petit garçon qui dit à sa grand-mère :
+Quel est le point commun entre mon bureau et celui de Jean-Luc Lahaye ?
 
-Mamie ? Tu ne trouves pas que ça sent mauvais ici ? On dirait une odeur de cadavre ! Heu mamie ? Tu m'entends mamie ?
+On y a tous les deux mis une petite enceinte.
 ```
 
 ```diff
-Ta mère, elle est comme Mario.
+Maman, c'est quoi de la lingerie coquine ?
 
-Elle saute pour avoir des pièces...
+De la hot couture !
 ```
 
 ```diff
-Pourquoi les femmes se maquillent et se parfument ?
+Harry Potter est le seul film...
 
-Parce qu'elles sont moches et qu'elles puent.
+... où on voit des mecs se servir d'un balai.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 140 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 139 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles sont moches et qu'elles puent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/04:20-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:09-white?style=for-the-badge)
 
 
 <p align="center">
