@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+Les villageois de Minecraft ne sont que des images…
 
-Apparemment, j'en ai 404.
+ce sont des .png.
 ```
 
 ```diff
-Pourquoi les orphelins regards beaucoup de films pour adulte ?
+Qu'est-ce qui est plus terrifiant que la gestapo pour les juifs ?
 
-Car il n'y a pas le contrôle parental.
+Le fisc...
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+Que dit une fille après une nuit avec un juif ?
 
-Avec le tampon, on sait qui est au bout du fil.
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Quel est le meilleur site pour un homme qui cherche un lave-vaisselle ?
+Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
 
-Un site de rencontres.
+L'aspirateur
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 138 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 137 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un site de rencontres.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
 
 
 <p align="center">
