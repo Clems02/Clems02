@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
 
-ce sont des .png.
+... ensuite il demande à quoi il doit servir.
 ```
 
 ```diff
-Qu'est-ce qui est plus terrifiant que la gestapo pour les juifs ?
+Quel est le point commun entre une Ferrari et une enfant de 5 ans ?
 
-Le fisc...
+Quand tu rentres dedans, tu déchires tout.
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Quel est le point commun entre un marteau piqueur et un somalien ?
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+Les deux crèvent la dalle.
 ```
 
 ```diff
-Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
+Est ce que vous avez déjà vu une salade chanter ?
 
-L'aspirateur
+Car j'ai déjà vu une carotte râpé.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 137 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 136 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'aspirateur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
 
 
 <p align="center">
