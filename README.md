@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris fait un programme, il installe les modules, code et vend le programme...
+La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
 
-... ensuite il demande à quoi il doit servir.
+... c'est quand le message d'erreur qu'il obtient est différent du précédent.
 ```
 
 ```diff
-Quel est le point commun entre une Ferrari et une enfant de 5 ans ?
+Quelle est la différence entre un noir et une roue de voiture ?
 
-Quand tu rentres dedans, tu déchires tout.
+La roue de voiture au moins elle ne chante pas du blues quand on lui met les chaînes.
 ```
 
 ```diff
-Quel est le point commun entre un marteau piqueur et un somalien ?
+Quel est le point commun entre une meuf et une merguez ?
 
-Les deux crèvent la dalle.
+Les deux donnent du jus quand elles sont chaudes !
 ```
 
 ```diff
-Est ce que vous avez déjà vu une salade chanter ?
+Quel est le comble du boulanger ?
 
-Car j'ai déjà vu une carotte râpé.
+Plus il a de la brioche, moins on voit sa baguette.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 136 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 135 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car j'ai déjà vu une carotte râpé.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
 
 
 <p align="center">
