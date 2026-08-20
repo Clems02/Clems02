@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
+Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
 
-... c'est quand le message d'erreur qu'il obtient est différent du précédent.
+Parce qu'il y en a-sset
 ```
 
 ```diff
-Quelle est la différence entre un noir et une roue de voiture ?
+Mon chat est mort... Je voudrais tellement en avoir un autre pareil !
 
-La roue de voiture au moins elle ne chante pas du blues quand on lui met les chaînes.
+Mais qu'est-ce que tu ferais de deux chats morts ?
 ```
 
 ```diff
-Quel est le point commun entre une meuf et une merguez ?
+Comment appelle-t-on un préservatif pour statue ?
 
-Les deux donnent du jus quand elles sont chaudes !
+Une capote en glaise.
 ```
 
 ```diff
-Quel est le comble du boulanger ?
+Quel est le point commun entre la science et les femmes ?
 
-Plus il a de la brioche, moins on voit sa baguette.
+Je leur ai fait don de mon corps.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 135 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 134 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Plus il a de la brioche, moins on voit sa baguette.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
 
 
 <p align="center">
