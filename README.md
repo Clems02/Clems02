@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
+Une notice me disait : Nécessite Windows XP ou mieux.
 
-Parce qu'il y en a-sset
+J'ai donc installé Linux.
 ```
 
 ```diff
-Mon chat est mort... Je voudrais tellement en avoir un autre pareil !
+Quel est le point commun entre les petites filles et les bouteilles de vin ?
 
-Mais qu'est-ce que tu ferais de deux chats morts ?
+Les meilleures ont douze ans d'âge et sont dans ma cave.
 ```
 
 ```diff
-Comment appelle-t-on un préservatif pour statue ?
+Maman, tu sais que papa a recommencé à fumer ? Ah bon ?
 
-Une capote en glaise.
+Hier il a dit à sa copine merci pour la pipe !
 ```
 
 ```diff
-Quel est le point commun entre la science et les femmes ?
+J'ai un chat dans la gorge...
 
-Je leur ai fait don de mon corps.
+Vu ton haleine tu dois aussi avoir la litière...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 134 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 133 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Je leur ai fait don de mon corps.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
 
 
 <p align="center">
