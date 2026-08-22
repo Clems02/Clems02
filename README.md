@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une notice me disait : Nécessite Windows XP ou mieux.
+Quel est le point commun entre les voitures et les ordinateurs ?
 
-J'ai donc installé Linux.
+Les mauvais pilotes sont problématiques.
 ```
 
 ```diff
-Quel est le point commun entre les petites filles et les bouteilles de vin ?
+Que faire lorsqu'on trouve un épileptique en crise dans une baignoire ?
 
-Les meilleures ont douze ans d'âge et sont dans ma cave.
+Ajouter de la lessive et y jeter son linge sale.
 ```
 
 ```diff
-Maman, tu sais que papa a recommencé à fumer ? Ah bon ?
+Quel plat sent le cul de vache ?
 
-Hier il a dit à sa copine merci pour la pipe !
+La langue de bœuf !
 ```
 
 ```diff
-J'ai un chat dans la gorge...
+J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 
-Vu ton haleine tu dois aussi avoir la litière...
+... C'est pareil que faire le ménage dans des maisons !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 133 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 132 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Vu ton haleine tu dois aussi avoir la litière...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:12-white?style=for-the-badge)
 
 
 <p align="center">
