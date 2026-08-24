@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en python qui a trop bu ?
+Quel composant a un classement correct dans la société ?
 
-Il va faire pypi !
+La carte maire
 ```
 
 ```diff
-Mon chat est mort... Je voudrais tellement en avoir un autre pareil !
+Quel est le point commun entre l'humour noir et l'eau ?
 
-Mais qu'est-ce que tu ferais de deux chats morts ?
+Tout le monde n'en a pas !
 ```
 
 ```diff
-Dis, s'il y avait les olympiques du sexe, tu penses que je pourrai representer mon pays ?
+Quel est le point commun entre la vaisselle et la branlette ?
 
-Oh oui, si c'est une epreuve de vitesse !
+Ça fait mal au bras, mais quand c'est finis ça fait du bien.
 ```
 
 ```diff
-C'est en voyant un moustique se poser sur ses testicules...
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-... qu'on réalise qu'on ne peut pas régler tous ses problèmes par la violence.
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 131 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 130 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est en voyant un moustique se poser sur ses testicules...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
 
 
 <p align="center">
