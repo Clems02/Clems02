@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel composant a un classement correct dans la société ?
+Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
 
-La carte maire
+Il y a beaucoup trop de bugs !
 ```
 
 ```diff
-Quel est le point commun entre l'humour noir et l'eau ?
+Mohammed et Karim sont devant une porte. Qui sonne en premier ?
 
-Tout le monde n'en a pas !
+L'alarme
 ```
 
 ```diff
-Quel est le point commun entre la vaisselle et la branlette ?
+J'ai nommé ma bite Bidou.
 
-Ça fait mal au bras, mais quand c'est finis ça fait du bien.
+Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
 
-Mr Propre
+Car le plateau ressemble au carrelage de la cuisine.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 130 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 129 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
 
 
 <p align="center">
