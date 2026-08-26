@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous savez pourquoi un développeur ne peut pas aller au musée d'histoire naturelle ?
+$ npm find LaFemmeDeMaVie
 
-Il y a beaucoup trop de bugs !
+Error: Unable to find package ‘LaFemmeDeMaVie’
 ```
 
 ```diff
-Mohammed et Karim sont devant une porte. Qui sonne en premier ?
+Quels sont les risques pour un pitbull de bouffer un bébé diabétique ?
 
-L'alarme
+Attraper des caries.
 ```
 
 ```diff
-J'ai nommé ma bite Bidou.
+Comment sait-on quand il faut rompre ?
 
-Parce que à chaque fois que je vais aux toilettes, je s'coue Bidou.
+C'est quand elle te casse plus les couilles qu'elle ne te les vide.
 ```
 
 ```diff
-Pourquoi la reine est-elle la pièce qui se déplace le mieux aux échecs ?
+Qu'est-ce qu'une luciole qui a pris du viagra ?
 
-Car le plateau ressemble au carrelage de la cuisine.
+Un néon !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 129 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 128 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car le plateau ressemble au carrelage de la cuisine.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
 
 
 <p align="center">
