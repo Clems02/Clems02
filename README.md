@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-$ npm find LaFemmeDeMaVie
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
 
-Error: Unable to find package ‘LaFemmeDeMaVie’
+Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
 ```
 
 ```diff
-Quels sont les risques pour un pitbull de bouffer un bébé diabétique ?
+Tout à l'heure un policier m'a arrêté et m'a dit "Papier".
 
-Attraper des caries.
+J'ai répondu "Ciseaux", j'ai gagné et j'ai accéléré. Depuis 35 minutes, il me poursuit... je pense qu'il veut une revanche.
 ```
 
 ```diff
-Comment sait-on quand il faut rompre ?
+Quelle est la tarte préférée des putes ?
 
-C'est quand elle te casse plus les couilles qu'elle ne te les vide.
+La tarte catin
 ```
 
 ```diff
-Qu'est-ce qu'une luciole qui a pris du viagra ?
+Comment faire pour oublier une ex ?
 
-Un néon !
+On prend un tipp-ex.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 128 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 126 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un néon !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/03:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/12:56-white?style=for-the-badge)
 
 
 <p align="center">
