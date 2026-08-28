@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
 
-Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
+Alors qu’en fait, il était tar.
 ```
 
 ```diff
-Tout à l'heure un policier m'a arrêté et m'a dit "Papier".
+Pourquoi les échecs est un jeu encore très populaire ?
 
-J'ai répondu "Ciseaux", j'ai gagné et j'ai accéléré. Depuis 35 minutes, il me poursuit... je pense qu'il veut une revanche.
+Car c'est un des seuls où l'on peut faire se battre des blancs contre des noirs sans être sanctionné.
 ```
 
 ```diff
-Quelle est la tarte préférée des putes ?
+Le sperme c'est comme la vérité,
 
-La tarte catin
+soit ça saute aux yeux, soit c'est dur à avaler.
 ```
 
 ```diff
-Comment faire pour oublier une ex ?
+Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
 
-On prend un tipp-ex.
+... par contre ne pas trouver de chiottes ça fait chier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 126 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 125 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On prend un tipp-ex.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/12:56-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/14:26-white?style=for-the-badge)
 
 
 <p align="center">
