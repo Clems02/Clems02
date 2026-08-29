@@ -2,27 +2,27 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
+Quelle est la résolution d'un informaticien pour la nouvelle année ?
 
-Alors qu’en fait, il était tar.
+Un 19" pouces.
 ```
 
 ```diff
-Pourquoi les échecs est un jeu encore très populaire ?
+Que voit un malvoyant après s'être battu ?
 
-Car c'est un des seuls où l'on peut faire se battre des blancs contre des noirs sans être sanctionné.
+Il voit flou.
 ```
 
 ```diff
-Le sperme c'est comme la vérité,
+Comment appelle-t-on une gothique qui suce ?
 
-soit ça saute aux yeux, soit c'est dur à avaler.
+Une pompe funèbre
 ```
 
 ```diff
-Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
+Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
 
-... par contre ne pas trouver de chiottes ça fait chier.
+Parce que j'suis cuisinier et j'aimerais bien te sauter !
 ```
 
 <br/>
@@ -40,7 +40,7 @@ Voir un bar, ça donne soif, voir un restaurant, ça donne faim...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/14:26-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:13-white?style=for-the-badge)
 
 
 <p align="center">
