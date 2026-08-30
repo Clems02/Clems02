@@ -2,21 +2,21 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la résolution d'un informaticien pour la nouvelle année ?
+De nos jours, le zip...
 
-Un 19" pouces.
+... ça devient rar...
 ```
 
 ```diff
-Que voit un malvoyant après s'être battu ?
+Quel est le plat que les Juifs détestent le plus ?
 
-Il voit flou.
+Les petits fours
 ```
 
 ```diff
-Comment appelle-t-on une gothique qui suce ?
+Connaissez-vous les soirées Bluetooth ?
 
-Une pompe funèbre
+Ces famuses soirées où tout le monde sans fil.
 ```
 
 ```diff
@@ -28,7 +28,7 @@ Parce que j'suis cuisinier et j'aimerais bien te sauter !
 <br/>
 
 > [!NOTE]
-> Il reste 125 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 124 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que j'suis cuisinier et j'aimerais bien te sauter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:25-white?style=for-the-badge)
 
 
 <p align="center">
