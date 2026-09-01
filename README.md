@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'endroit le moins vu de stackoverflow ?
+Que fait un développeur quand il est triste ?
 
-La page d'accueil.
+Il se console.
 ```
 
 ```diff
-Qu'est-ce que le point commun entre mes ex et les ouvriers en Chine ?
+Comment droguer un juif ?
 
-Tous ont moins de 10 ans.
+Au gaz hilarant
 ```
 
 ```diff
-Quel est le point commun entre un ascenseur et un vagin ?
+Qu'est-ce qui suit la lettre X ?
 
-Tu mets ton doigt où t'habites.
+Hamster.
 ```
 
 ```diff
-Les gens disent que les femmes ne sont pas drôles...
+L'amour, c'est comme la grippe...
 
-... mais hier, ma femme m'a demandé de faire à manger.
+... on l'attrape dans la rue, et on le résout au lit.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 123 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 122 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les gens disent que les femmes ne sont pas drôles...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/08-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:45-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:54-white?style=for-the-badge)
 
 
 <p align="center">
