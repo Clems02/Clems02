@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il est triste ?
+Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
 
-Il se console.
+Parce que les bugs ne se reproduisent pas à cette heure-là.
 ```
 
 ```diff
-Comment droguer un juif ?
+Pourquoi les chinois sont cons ?
 
-Au gaz hilarant
+Parce que les cons plissent...
 ```
 
 ```diff
-Qu'est-ce qui suit la lettre X ?
+J'ai mis une SDF enceinte...
 
-Hamster.
+... comme ça elle a le ventre plein pendant 9 mois.
 ```
 
 ```diff
-L'amour, c'est comme la grippe...
+Hey Google, pourquoi je suis célibataire ?
 
-... on l'attrape dans la rue, et on le résout au lit.
+D'accord ! J'ouvre la caméra.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 122 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 121 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'amour, c'est comme la grippe...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:11-white?style=for-the-badge)
 
 
 <p align="center">
