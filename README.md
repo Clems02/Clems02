@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+Comment on appelle une situation qui est gérée ?
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+Une situation sous CTRL
 ```
 
 ```diff
-Pourquoi les chinois sont cons ?
+Pourquoi les orphelins regardent beaucoup de films pour adultes ?
 
-Parce que les cons plissent...
+Car il n'y a pas le contrôle parental.
 ```
 
 ```diff
-J'ai mis une SDF enceinte...
+Qu'est-ce qui rentre dur et sec et qui ressort mou et mouillé ?
 
-... comme ça elle a le ventre plein pendant 9 mois.
+Un chewing-gum.
 ```
 
 ```diff
-Hey Google, pourquoi je suis célibataire ?
+Les peintres utilisent, de l'imagination, de la créativité et...
 
-D'accord ! J'ouvre la caméra.
+De la peinture.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 121 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 120 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ D'accord ! J'ouvre la caméra.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:11-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:16-white?style=for-the-badge)
 
 
 <p align="center">
