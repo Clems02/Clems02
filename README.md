@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment on appelle une situation qui est gérée ?
+L'index.js, c'est comme ton cœur...
 
-Une situation sous CTRL
+... si il tombe en panne y'a tout qui foire.
 ```
 
 ```diff
-Pourquoi les orphelins regardent beaucoup de films pour adultes ?
+Pourquoi la femme d'Hitler l'a t'elle quitté ?
 
-Car il n'y a pas le contrôle parental.
+Elle a vu la facture de gaz.
 ```
 
 ```diff
-Qu'est-ce qui rentre dur et sec et qui ressort mou et mouillé ?
+À quoi reconnaît-on le slip de Dark Vador ?
 
-Un chewing-gum.
+À son côté obscur.
 ```
 
 ```diff
-Les peintres utilisent, de l'imagination, de la créativité et...
+Quel est le légume le plus alcoolique ?
 
-De la peinture.
+L'épinard
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 120 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 119 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ De la peinture.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:16-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:23-white?style=for-the-badge)
 
 
 <p align="center">
