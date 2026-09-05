@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-L'index.js, c'est comme ton cœur...
+Pourquoi les bots ne parlent pas avec les humains ?
 
-... si il tombe en panne y'a tout qui foire.
+Par peur de leur ressembler.
 ```
 
 ```diff
-Pourquoi la femme d'Hitler l'a t'elle quitté ?
+Vous savez ce qui m'empêche de réaliser mes projets ?
 
-Elle a vu la facture de gaz.
+La convention de Genève.
 ```
 
 ```diff
-À quoi reconnaît-on le slip de Dark Vador ?
+Que dit un éléphant à un nudiste ?
 
-À son côté obscur.
+"Alors c'est avec ça que tu bois ?"
 ```
 
 ```diff
-Quel est le légume le plus alcoolique ?
+Les gens disent que les femmes ne sont pas drôles...
 
-L'épinard
+... mais hier, ma femme m'a demandé de faire à manger.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 119 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 118 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'épinard
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:23-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:00-white?style=for-the-badge)
 
 
 <p align="center">
