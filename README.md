@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel son fait la cigale d'un développeur ?
+Que fait un ordinateur sur un bateau?
 
-Css... css... css... css... css...
+Il rame.
 ```
 
 ```diff
-C'est quoi la différence entre les terroristes et les époux Balkany ?
+Où trouve-t-on du coton ?
 
-Les terroristes, ils ne détournent que des avions.
+Auchan
 ```
 
 ```diff
-Quel est l'inverse de l'exorcisme ?
+Comment appelle-t-on une actrice porno qui tombe enceinte ?
 
-C'est quand le diable demande au prêtre de sortir de l'enfant.
+Un accident de travail.
 ```
 
 ```diff
-Quelle est la différence entre des haricots et un pet ?
+A quelle fête vend-on le plus de rasoirs au Portugal ?
 
-Environ 1 heure.
+A la fête des mères.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 117 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 116 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Environ 1 heure.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:25-white?style=for-the-badge)
 
 
 <p align="center">
