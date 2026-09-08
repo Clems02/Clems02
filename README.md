@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un ordinateur sur un bateau?
+Quel est le logiciel qui fait le plus crash Windows ?
 
-Il rame.
+Windows Update
 ```
 
 ```diff
-Où trouve-t-on du coton ?
+Qu'est-ce qu'un nazi stupide ?
 
-Auchan
+Un bon aryen
 ```
 
 ```diff
-Comment appelle-t-on une actrice porno qui tombe enceinte ?
+Quel est le point commun entre une blonde et un écureuil ?
 
-Un accident de travail.
+Les deux courent après les glands !
 ```
 
 ```diff
-A quelle fête vend-on le plus de rasoirs au Portugal ?
+Qu'est ce qu'une boite sans eau ?
 
-A la fête des mères.
+Une bite
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 116 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 115 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ A la fête des mères.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:19-white?style=for-the-badge)
 
 
 <p align="center">
