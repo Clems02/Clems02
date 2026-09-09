@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le logiciel qui fait le plus crash Windows ?
+Comment un développeur fait-il un choix capital dans sa vie ?
 
-Windows Update
+print(random.choice(['Fais-le', 'Ne le fais pas']))
 ```
 
 ```diff
-Qu'est-ce qu'un nazi stupide ?
+Quel est la différence entre un chimiste maladroit et un musulman ?
 
-Un bon aryen
+L’un, quand il rate, ça explose, et l’autre, ça explose quand il réussit.
 ```
 
 ```diff
-Quel est le point commun entre une blonde et un écureuil ?
+Que disent deux fesses sur un bateau ?
 
-Les deux courent après les glands !
+Dis donc ça commence à ramer du cul.
 ```
 
 ```diff
-Qu'est ce qu'une boite sans eau ?
+Ce que j'ai en commun avec mon mari ?
 
-Une bite
+On s'est mariés le même jour.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 115 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 114 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une bite
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:19-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:28-white?style=for-the-badge)
 
 
 <p align="center">
