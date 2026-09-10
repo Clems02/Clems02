@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur fait-il un choix capital dans sa vie ?
+Quelles sont les îles les plus instables au monde ?
 
-print(random.choice(['Fais-le', 'Ne le fais pas']))
+Ce sont les Îles Canaries.
 ```
 
 ```diff
-Quel est la différence entre un chimiste maladroit et un musulman ?
+Les éoliennes, c'est comme les migrants...
 
-L’un, quand il rate, ça explose, et l’autre, ça explose quand il réussit.
+Tous les approuvent, mais personne n'en veut à côté de chez lui.
 ```
 
 ```diff
-Que disent deux fesses sur un bateau ?
+Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
 
-Dis donc ça commence à ramer du cul.
+Bah non, je rentre encore dans du 12 ans.
 ```
 
 ```diff
-Ce que j'ai en commun avec mon mari ?
+Savez-vous pourquoi Dieu a créé la femme ?
 
-On s'est mariés le même jour.
+Car il ne savait pas comment créer un lave-vaisselle qui suce.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 114 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 113 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On s'est mariés le même jour.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:24-white?style=for-the-badge)
 
 
 <p align="center">
