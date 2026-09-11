@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelles sont les îles les plus instables au monde ?
+Dieu a dit : "Que Windows soit !"
 
-Ce sont les Îles Canaries.
+Et le bug fut.
 ```
 
 ```diff
-Les éoliennes, c'est comme les migrants...
+Qu'est-ce que les Arabes ont de plus ?
 
-Tous les approuvent, mais personne n'en veut à côté de chez lui.
+Ton vélo
 ```
 
 ```diff
-Deux curés sous la douche discutent : Dis donc, tu n’as pas grossi de la bite ?
+Si l’avortement est un meurtre...
 
-Bah non, je rentre encore dans du 12 ans.
+... la branlette, c’est quoi ? Un génocide ?
 ```
 
 ```diff
-Savez-vous pourquoi Dieu a créé la femme ?
+Si l'hiver, dans la brume, on s'enrhume...
 
-Car il ne savait pas comment créer un lave-vaisselle qui suce.
+est-ce que l'été, avec la canicule, on s'encule ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 113 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 112 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car il ne savait pas comment créer un lave-vaisselle qui suce.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:22-white?style=for-the-badge)
 
 
 <p align="center">
