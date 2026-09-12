@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Dieu a dit : "Que Windows soit !"
+Quelle est la différence entre un catcheur et un développeur JavaScript ?
 
-Et le bug fut.
+Le catcheur fait des techniques de catch et le développeur fait des .catch techniques
 ```
 
 ```diff
-Qu'est-ce que les Arabes ont de plus ?
+Pourquoi grand-mère sait faire un bon café ?
 
-Ton vélo
+Parce qu’elle a que ça à foutre cette vieille peau.
 ```
 
 ```diff
-Si l’avortement est un meurtre...
+Quelle est la vitesse maximale autorisée lors d'un rapport ?
 
-... la branlette, c’est quoi ? Un génocide ?
+68km/h car à 69... Ça fait une tête-à-queue.
 ```
 
 ```diff
-Si l'hiver, dans la brume, on s'enrhume...
+Quel est le point commun entre un homme et un chat ?
 
-est-ce que l'été, avec la canicule, on s'encule ?
+Les deux ont très peur de l'aspirateur.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 112 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 111 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ est-ce que l'été, avec la canicule, on s'encule ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:14-white?style=for-the-badge)
 
 
 <p align="center">
