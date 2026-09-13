@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre un catcheur et un développeur JavaScript ?
+Les filles, c'est comme les noms de domaine.
 
-Le catcheur fait des techniques de catch et le développeur fait des .catch techniques
+Celles que j'aime sont déjà prises.
 ```
 
 ```diff
-Pourquoi grand-mère sait faire un bon café ?
+Peut-on dire 'adieu' quand on n'est pas croyant ?
 
-Parce qu’elle a que ça à foutre cette vieille peau.
+Remarque, j'ai bien un ami manchot qui dit 'à demain'
 ```
 
 ```diff
-Quelle est la vitesse maximale autorisée lors d'un rapport ?
+Que dit une fille après une nuit avec un juif ?
 
-68km/h car à 69... Ça fait une tête-à-queue.
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Quel est le point commun entre un homme et un chat ?
+Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
 
-Les deux ont très peur de l'aspirateur.
+Une double Pen.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 111 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 110 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont très peur de l'aspirateur.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:14-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:32-white?style=for-the-badge)
 
 
 <p align="center">
