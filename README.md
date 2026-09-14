@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les filles, c'est comme les noms de domaine.
+Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
 
-Celles que j'aime sont déjà prises.
+Car ils préfèrent les scratch.
 ```
 
 ```diff
-Peut-on dire 'adieu' quand on n'est pas croyant ?
+À quoi a servi Hitler ?
 
-Remarque, j'ai bien un ami manchot qui dit 'à demain'
+Aryen.
 ```
 
 ```diff
-Que dit une fille après une nuit avec un juif ?
+Tu connais le cri du spermatozoïde ?
 
-Je savais qu'on les circonsisait, mais pas à ce point.
+Bah, la prochaine fois, au lieu de l'avaler, tu croques.
 ```
 
 ```diff
-Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
+Pourquoi les mamies sont les meilleures putes ?
 
-Une double Pen.
+Parce qu'elles se laissent toujours peloter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 110 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 109 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une double Pen.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:59-white?style=for-the-badge)
 
 
 <p align="center">
