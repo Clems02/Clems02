@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi ne peut on pas mettre plus de 7 images dans un programme ?
+Quel est le dieu favori des développeurs ?
 
-Parce qu'il y en a-sset
+Tor
 ```
 
 ```diff
-Qui a inventé le triathlon ?
+Quelle est la différence entre une prostituée et une meule de reblochon ?
 
-Les Arabes, ils vont à la piscine à pied et reviennent à vélo.
+La meule de reblochon, plus elle est vieille, plus elle est bonne.
 ```
 
 ```diff
-La vie c’est comme un pénis,
+Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
 
-Simple, relax et soudain, une femme le/la rend dur(e).
+La femme répliqua « Je suis pro stituée ! »
 ```
 
 ```diff
-Quel est le point commun entre la poitrine d'une femme et un train électrique ?
+Qu'est-ce qu'une luciole qui a pris du viagra ?
 
-C'est fait pour les enfants, mais c'est papa qui y joue.
+Un néon !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 108 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 107 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est fait pour les enfants, mais c'est papa qui y joue.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:47-white?style=for-the-badge)
 
 
 <p align="center">
