@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le dieu favori des développeurs ?
+Que fait un développeur qui a froid ?
 
-Tor
+Il met une C-Sharp.
 ```
 
 ```diff
-Quelle est la différence entre une prostituée et une meule de reblochon ?
+Que fait un Juif dans un tas de cendres ?
 
-La meule de reblochon, plus elle est vieille, plus elle est bonne.
+Il cherche ses parents.
 ```
 
 ```diff
-Un homme demande à une femme son métier, la femme lui répond « Je suis pro. » L’homme répond « Pro ? Dans quel domaine ? »
+Melon et Meleche trouvent une maison à vendre...
 
-La femme répliqua « Je suis pro stituée ! »
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Qu'est-ce qu'une luciole qui a pris du viagra ?
+A la maternité un nouveau père tout content demande à l'infirmière : Vous trouvez que mon fils me ressemble ?
 
-Un néon !
+Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 107 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 106 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un néon !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:53-white?style=for-the-badge)
 
 
 <p align="center">
