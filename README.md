@@ -2,15 +2,15 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur qui a froid ?
+C'est l'histoire d'une cocotte-minute connectée...
 
-Il met une C-Sharp.
+... qui utilise WinRAR pour décompresser.
 ```
 
 ```diff
-Que fait un Juif dans un tas de cendres ?
+Quelle partie du légume ne passe pas dans le mixer ?
 
-Il cherche ses parents.
+Le fauteuil roulant.
 ```
 
 ```diff
@@ -20,15 +20,15 @@ Melon et Meleche trouvent une maison à vendre...
 ```
 
 ```diff
-A la maternité un nouveau père tout content demande à l'infirmière : Vous trouvez que mon fils me ressemble ?
+Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
 
-Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé !
+Le prix du collier.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 106 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 105 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oui, mais c’est pas grave, l’essentiel c’est qu’il soit en bonne santé 
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:30-white?style=for-the-badge)
 
 
 <p align="center">
