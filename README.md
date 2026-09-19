@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'une cocotte-minute connectée...
+C'est l'histoire d'un administrateur qui configure ses variables d'environnement...
 
-... qui utilise WinRAR pour décompresser.
+... PATH le chemin !
 ```
 
 ```diff
-Quelle partie du légume ne passe pas dans le mixer ?
+Quelle est la différence entre un livre et un Arabe ?
 
-Le fauteuil roulant.
+Le livre a ses papiers.
 ```
 
 ```diff
-Melon et Meleche trouvent une maison à vendre...
+Que dit une fille après une nuit avec un juif ?
 
-…Melon l’achète et Meleche l’habite.
+Je savais qu'on les circonsisait, mais pas à ce point.
 ```
 
 ```diff
-Pour un chasseur, qu'elle est la différence entre son chien et sa femme ?
+Quand mon verre est plein, je le vide
 
-Le prix du collier.
+Quand mon verre est vide, je me plains !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 105 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 104 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:26-white?style=for-the-badge)
 
 
 <p align="center">
