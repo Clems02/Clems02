@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qu'un terroriste sur un fauteuil roulant ?
+Que fait un geek quand il a peur ?
 
-Une RC-XD
+Il URL
 ```
 
 ```diff
-Que font 4 noirs dans une Ferrari rouge ?
+Qu'est-ce qui ne cuit pas dans un légume ?
 
-Un KitKat
+Le fauteuil roulant
 ```
 
 ```diff
-Quelles sont vos matières préférées ?
+Ma bite, je l'ai appelée la vie.
 
-Maths et Dessin !
+Parce que la vie est dure...
 ```
 
 ```diff
-Pourquoi les femmes se maquillent et se parfument ?
+Quelle est la différence entre un Courtier de Wall Street et un Acteur Porno ?
 
-Parce qu'elles sont moches et qu'elles puent.
+Le courtier a des actions en bourse alors que l'acteur à les bourses en action.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 103 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 102 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elles sont moches et qu'elles puent.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:06-white?style=for-the-badge)
 
 
 <p align="center">
