@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De nos jours, le zip...
+Quand Chuck Norris lance son code pour la première fois...
 
-... ça devient rar...
+... il fonctionne.
 ```
 
 ```diff
-Quelle question est posée dans le bac de chimie en Allemagne ?
+Qu'est-ce qu'un nazi stupide ?
 
-Déterminer la concentration de la solution finale.
+Un bon aryen
 ```
 
 ```diff
-Quelle est la différence entre une femme et une haie ?
+Quel plat sent le cul de vache ?
 
-Pour sauter la haie, pas besoin de lui faire des compliments...
+La langue de beuf !
 ```
 
 ```diff
-C'est quoi un morceau de patate qui tombe sur la planète ?
+Mais où est donc Ornicar ?
 
-Une météofrite.
+Il fornique dans le car.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 101 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 100 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une météofrite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:51-white?style=for-the-badge)
 
 
 <p align="center">
