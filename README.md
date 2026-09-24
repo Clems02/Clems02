@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand Chuck Norris lance son code pour la première fois...
+Comment répare-t-on un fichier corrompu ?
 
-... il fonctionne.
+On lui donne encore plus d'argent !
 ```
 
 ```diff
-Qu'est-ce qu'un nazi stupide ?
+La France, c'est comme un paquet de Dragibus.
 
-Un bon aryen
+Il y a de toutes les couleurs.
 ```
 
 ```diff
-Quel plat sent le cul de vache ?
+Quelle est la différence entre un vieux et un zizi ?
 
-La langue de beuf !
+Tu n'as pas besoin de secouer le vieux pour qu'il bave.
 ```
 
 ```diff
-Mais où est donc Ornicar ?
+Que fait un prêtre avec un scout dans un garage ?
 
-Il fornique dans le car.
+Il le démonte.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 100 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 99 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il fornique dans le car.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:41-white?style=for-the-badge)
 
 
 <p align="center">
