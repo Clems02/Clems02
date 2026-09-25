@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment répare-t-on un fichier corrompu ?
+Quand est ce que Windows ne bug pas ?
 
-On lui donne encore plus d'argent !
+Quand l'ordinateur est éteint.
 ```
 
 ```diff
-La France, c'est comme un paquet de Dragibus.
+Je vais arrêter de dire des blagues sur les orphelins…
 
-Il y a de toutes les couleurs.
+… sinon ils vont aller le dire à leurs parents.
 ```
 
 ```diff
-Quelle est la différence entre un vieux et un zizi ?
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-Tu n'as pas besoin de secouer le vieux pour qu'il bave.
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-Que fait un prêtre avec un scout dans un garage ?
+Que disent deux fesses dans une pirogue ?
 
-Il le démonte.
+Dis donc, ça commence à ramer du cul là non ?
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 99 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 98 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il le démonte.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:41-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:01-white?style=for-the-badge)
 
 
 <p align="center">
