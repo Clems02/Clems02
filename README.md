@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quand est ce que Windows ne bug pas ?
+Que se passe-t-il quand on secoue une clef USB ?
 
-Quand l'ordinateur est éteint.
+Les fichiers se mélangent.
 ```
 
 ```diff
-Je vais arrêter de dire des blagues sur les orphelins…
+Qu'est-ce qui est mieux que de gagner une médaille d'or aux jeux paralympiques ?
 
-… sinon ils vont aller le dire à leurs parents.
+Marcher.
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+Il m’a proposé un plan A3, A4 et même A5.
 ```
 
 ```diff
-Que disent deux fesses dans une pirogue ?
+Pourquoi les fonctionnaires ne regardent jamais par la fenêtre le matin ?
 
-Dis donc, ça commence à ramer du cul là non ?
+Pour avoir quelque chose à faire l’après-midi !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 98 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 97 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Dis donc, ça commence à ramer du cul là non ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:01-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:53-white?style=for-the-badge)
 
 
 <p align="center">
