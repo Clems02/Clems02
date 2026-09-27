@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que se passe-t-il quand on secoue une clef USB ?
+Que fait un ordinateur sur un bateau?
 
-Les fichiers se mélangent.
+Il rame.
 ```
 
 ```diff
-Qu'est-ce qui est mieux que de gagner une médaille d'or aux jeux paralympiques ?
+J'avais une blague sur les arabes...
 
-Marcher.
+Mais ils me l’ont volé…
 ```
 
 ```diff
-Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-Il m’a proposé un plan A3, A4 et même A5.
+La mer Méditerranée.
 ```
 
 ```diff
-Pourquoi les fonctionnaires ne regardent jamais par la fenêtre le matin ?
+Quel est le point commun entre un ado qui s'ennuie en cours et une pute qui se gratte ?
 
-Pour avoir quelque chose à faire l’après-midi !
+Le morpion
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 97 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 96 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour avoir quelque chose à faire l’après-midi !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:53-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:24-white?style=for-the-badge)
 
 
 <p align="center">
