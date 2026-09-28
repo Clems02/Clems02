@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un ordinateur sur un bateau?
+Vous voulez une blague sur la documentation ?
 
-Il rame.
+Elle n'a pas encore été faite.
 ```
 
 ```diff
-J'avais une blague sur les arabes...
+Qu'est-ce qu'un noir et deux blancs dans un plan à trois ?
 
-Mais ils me l’ont volé…
+Un pain au chocolat
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Quelle est la différence entre un 69 et le brouillard ?
 
-La mer Méditerranée.
+Dans le brouillard, on ne voit pas le trou du cul qui est devant...
 ```
 
 ```diff
-Quel est le point commun entre un ado qui s'ennuie en cours et une pute qui se gratte ?
+Qu'est-ce qu'un rassemblement de personnes âgées ?
 
-Le morpion
+Un festival de cannes.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 96 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 95 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le morpion
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:24-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:49-white?style=for-the-badge)
 
 
 <p align="center">
