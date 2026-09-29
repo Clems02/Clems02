@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Vous voulez une blague sur la documentation ?
+Quel est l'animal préféré des développeurs ?
 
-Elle n'a pas encore été faite.
+Le python
 ```
 
 ```diff
-Qu'est-ce qu'un noir et deux blancs dans un plan à trois ?
+Pourquoi faut-il toujours écouter Jésus ?
 
-Un pain au chocolat
+Parce que lui au moins il est fixé.
 ```
 
 ```diff
-Quelle est la différence entre un 69 et le brouillard ?
+Comment appelle-t-on un dinosaure gay ?
 
-Dans le brouillard, on ne voit pas le trou du cul qui est devant...
+Un tripotanus
 ```
 
 ```diff
-Qu'est-ce qu'un rassemblement de personnes âgées ?
+Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
 
-Un festival de cannes.
+Le garçon répond : "C'est la moche qui gagne !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 95 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 94 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un festival de cannes.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:49-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:47-white?style=for-the-badge)
 
 
 <p align="center">
