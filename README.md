@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est l'animal préféré des développeurs ?
+À quel jeu jouent les développeurs russes ?
 
-Le python
+À la roulette-rust.
 ```
 
 ```diff
-Pourquoi faut-il toujours écouter Jésus ?
+Quelle est le point commun entre un président et un juge ?
 
-Parce que lui au moins il est fixé.
+Ils enferment tous les deux des gens pour protéger le monde.
 ```
 
 ```diff
-Comment appelle-t-on un dinosaure gay ?
+Melon et Melèche jouent au Scrabble.
 
-Un tripotanus
+Melon pioche le W et Melèche le Q.
 ```
 
 ```diff
-Une personne appelle la police pour leur dire que deux filles se battaient pour lui. La police lui demande donc quel est le problème.
+Quelle est la différence entre un Courtier de Wall Street et un Acteur Porno ?
 
-Le garçon répond : "C'est la moche qui gagne !"
+Le courtier a des actions en bourse alors que l'acteur à les bourses en action.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 94 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 93 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le garçon répond : "C'est la moche qui gagne !"
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:47-white?style=for-the-badge)
 
 
 <p align="center">
