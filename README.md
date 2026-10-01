@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quel jeu jouent les développeurs russes ?
+Quelle est la chanteuse qui est la plus douée en informatique ?
 
-À la roulette-rust.
+Taylor Swift
 ```
 
 ```diff
-Quelle est le point commun entre un président et un juge ?
+Qui écrit cent fautes, mets que paire sonne qu'on prend ?
 
-Ils enferment tous les deux des gens pour protéger le monde.
+Un dix lexcique...
 ```
 
 ```diff
-Melon et Melèche jouent au Scrabble.
+Si on pénètre Jack...
 
-Melon pioche le W et Melèche le Q.
+Est-ce qu'on peux dire qu'on branche son casque filaire ?
 ```
 
 ```diff
-Quelle est la différence entre un Courtier de Wall Street et un Acteur Porno ?
+Est ce que vous avez déjà vu une salade chanter ?
 
-Le courtier a des actions en bourse alors que l'acteur à les bourses en action.
+Car j'ai déjà vu une carotte râpé.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 93 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 92 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le courtier a des actions en bourse alors que l'acteur à les bourses en action.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/09-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:10-white?style=for-the-badge)
 
 
 <p align="center">
