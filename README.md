@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la chanteuse qui est la plus douée en informatique ?
+Que fait un développeur s'il veut se marier ?
 
-Taylor Swift
+Une fille en C
 ```
 
 ```diff
-Qui écrit cent fautes, mets que paire sonne qu'on prend ?
+Quel est le point commun entre un noir et de la crème ?
 
-Un dix lexcique...
+C'est meilleur lorsqu'il est fouetté.
 ```
 
 ```diff
-Si on pénètre Jack...
+Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
 
-Est-ce qu'on peux dire qu'on branche son casque filaire ?
+Il m’a proposé un plan A3, A4 et même A5.
 ```
 
 ```diff
-Est ce que vous avez déjà vu une salade chanter ?
+Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
 
-Car j'ai déjà vu une carotte râpé.
+Leurs parents !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 92 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 91 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car j'ai déjà vu une carotte râpé.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:44-white?style=for-the-badge)
 
 
 <p align="center">
