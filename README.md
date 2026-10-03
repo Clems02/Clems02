@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur s'il veut se marier ?
+Si JavaScript avait un fils, comment s'appellerait-il ?
 
-Une fille en C
+Json
 ```
 
 ```diff
-Quel est le point commun entre un noir et de la crème ?
+Quel est la différence entre un chimiste maladroit et un musulman ?
 
-C'est meilleur lorsqu'il est fouetté.
+L’un, quand il rate, ça explose, et l’autre, ça explose quand il réussit.
 ```
 
 ```diff
-Je pense que l’imprimeur à côté de chez moi dissimule un club libertin.
+Quelle est la différence entre un tampon et un téléphone ?
 
-Il m’a proposé un plan A3, A4 et même A5.
+Avec le tampon, on sait qui est au bout du fil.
 ```
 
 ```diff
-Quelle est la collation que les enfants cannibales ne mangent pas quand leurs parents sont absents ?
+Si je couche avec ma soeur que suis-je?
 
-Leurs parents !
+Nord-mal.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 91 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 90 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Leurs parents !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:22-white?style=for-the-badge)
 
 
 <p align="center">
