@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Si JavaScript avait un fils, comment s'appellerait-il ?
+Que dit un informaticien quand il s'ennuie ?
 
-Json
+Je me fichier.
 ```
 
 ```diff
-Quel est la différence entre un chimiste maladroit et un musulman ?
+J'avais une blague sur les arabes...
 
-L’un, quand il rate, ça explose, et l’autre, ça explose quand il réussit.
+Mais ils me l’ont volé…
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+Pourquoi utilise-t-on un préservatif 2 fois ?
 
-Avec le tampon, on sait qui est au bout du fil.
+On l'utilise une fois quand on a chaud, une fois quand on a soif.
 ```
 
 ```diff
-Si je couche avec ma soeur que suis-je?
+Pourquoi les hommes ont-ils toujours les jambes écartées lorsqu'ils sont assis ?
 
-Nord-mal.
+Pour aérer leur cerveau.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 90 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 89 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Nord-mal.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:36-white?style=for-the-badge)
 
 
 <p align="center">
