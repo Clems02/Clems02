@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un informaticien quand il s'ennuie ?
+Que fait un développeur en python qui a trop bu ?
 
-Je me fichier.
+Il va faire pypi !
 ```
 
 ```diff
-J'avais une blague sur les arabes...
+Pourquoi les homophobes n'aiment pas les vélos ?
 
-Mais ils me l’ont volé…
+Parce qu'ils n'aiment pas les pédales.
 ```
 
 ```diff
-Pourquoi utilise-t-on un préservatif 2 fois ?
+Que fait un nain pour se torcher?
 
-On l'utilise une fois quand on a chaud, une fois quand on a soif.
+Il cour dans l'herbe.....
 ```
 
 ```diff
-Pourquoi les hommes ont-ils toujours les jambes écartées lorsqu'ils sont assis ?
+Pourquoi les Belges portent des capotes sur les oreilles ?
 
-Pour aérer leur cerveau.
+C’est pour ne pas entendre parler du sida.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 89 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 88 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour aérer leur cerveau.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:18-white?style=for-the-badge)
 
 
 <p align="center">
