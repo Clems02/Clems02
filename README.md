@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur en python qui a trop bu ?
+Quelle est la différence entre un jeu et un logiciel ?
 
-Il va faire pypi !
+Le prix de la licence !
 ```
 
 ```diff
-Pourquoi les homophobes n'aiment pas les vélos ?
+Qu'est-ce qui est vert et qui pue ?
 
-Parce qu'ils n'aiment pas les pédales.
+Un scout mort au fond d'un bois.
 ```
 
 ```diff
-Que fait un nain pour se torcher?
+Connaissez-vous les soirées Bluetooth ?
 
-Il cour dans l'herbe.....
+Ces famuses soirées où tout le monde sans fil.
 ```
 
 ```diff
-Pourquoi les Belges portent des capotes sur les oreilles ?
+Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
 
-C’est pour ne pas entendre parler du sida.
+"Mais justement !"
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 88 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 87 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C’est pour ne pas entendre parler du sida.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:18-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:09-white?style=for-the-badge)
 
 
 <p align="center">
