@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la différence entre un jeu et un logiciel ?
+J'allais faire une blague sur l'erreur 404...
 
-Le prix de la licence !
+Je ne l'ai pas trouvée...
 ```
 
 ```diff
-Qu'est-ce qui est vert et qui pue ?
+Que mangent les cannibales au dessert ?
 
-Un scout mort au fond d'un bois.
+Des petits-suisses, un esquimau et une religieuse.
 ```
 
 ```diff
-Connaissez-vous les soirées Bluetooth ?
+Melon et Melèche nettoient le billard...
 
-Ces famuses soirées où tout le monde sans fil.
+Melon astique les boules et Melèche la queue !
 ```
 
 ```diff
-Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais... on n'était pas ensemble, hier soir !"
+Quand fête-t-on la journée des fumeurs ?
 
-"Mais justement !"
+Le 1er juin
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 87 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 86 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une fille à un gars : "Merci beaucoup pour la géniale soirée d'hier !" "Mais.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:09-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:58-white?style=for-the-badge)
 
 
 <p align="center">
