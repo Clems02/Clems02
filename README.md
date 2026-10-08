@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'allais faire une blague sur l'erreur 404...
+Pourquoi les pirates ont rarement raison ?
 
-Je ne l'ai pas trouvée...
+Parce qu'ils ont souvent Tor.
 ```
 
 ```diff
-Que mangent les cannibales au dessert ?
+Quel était le couteau préféré de Jean-Marie Le Pen ?
 
-Des petits-suisses, un esquimau et une religieuse.
+Le couteau à beur.
 ```
 
 ```diff
-Melon et Melèche nettoient le billard...
+Qu’est-ce qui sépare deux obsédés sexuels de trois salopes ?
 
-Melon astique les boules et Melèche la queue !
+Une porte de cockpit
 ```
 
 ```diff
-Quand fête-t-on la journée des fumeurs ?
+Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?
 
-Le 1er juin
+Pour chaque cas c'est un homme qui la sortie trop tard.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 86 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 85 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le 1er juin
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:13-white?style=for-the-badge)
 
 
 <p align="center">
