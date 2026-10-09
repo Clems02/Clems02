@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les pirates ont rarement raison ?
+Que fait un développeur quand il a peur ?
 
-Parce qu'ils ont souvent Tor.
+Il csharpe.
 ```
 
 ```diff
-Quel était le couteau préféré de Jean-Marie Le Pen ?
+En Suède, ils ont du fer mais ne savent pas quoi en foutre.
 
-Le couteau à beur.
+Au Vatican, c'est l'inverse.
 ```
 
 ```diff
-Qu’est-ce qui sépare deux obsédés sexuels de trois salopes ?
+Qu'est-ce qu'un spermatozoïde avec une valise ?
 
-Une porte de cockpit
+Un représentant de mes couilles.
 ```
 
 ```diff
-Quel est le point commun entre une bière congelée, une pizza carbonisées et une femme enceinte ?
+Qu'est-ce qu'un nem avec des écouteurs ?
 
-Pour chaque cas c'est un homme qui la sortie trop tard.
+Un NemP3.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 85 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 84 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour chaque cas c'est un homme qui la sortie trop tard.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:22-white?style=for-the-badge)
 
 
 <p align="center">
