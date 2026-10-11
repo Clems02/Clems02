@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs préfèrent-ils la nuit plutôt que le jour ?
+Quelle est la résolution d'un informaticien pour la nouvelle année ?
 
-Parce que les bugs ne se reproduisent pas à cette heure-là.
+Un 19" pouces.
 ```
 
 ```diff
-Pourquoi les chinois ne sont pas éco-responsables ?
+Pourquoi le prince Harry n’aime pas le rugby ?
 
-Car les souvenirs qu'ils ramènent de Paris sont toujours fabriqués dans leur pays.
+Parce que le pilier a tué sa mère
 ```
 
 ```diff
-Quel est le point commun entre un ascenseur et un vagin ?
+Comment appelle-t-on une gothique qui suce ?
 
-Tu mets ton doigt où t'habites.
+Une pompe funèbre
 ```
 
 ```diff
-Pourquoi les cyclistes et les pratiquants de Stand-up Paddle ne s'entendent pas bien ?
+Quel est le point commun entre un homme et un chat ?
 
-Car les cyclistes pédalent et les autres pagaies.
+Les deux ont très peur de l'aspirateur.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 83 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 82 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Car les cyclistes pédalent et les autres pagaies.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:43-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:06-white?style=for-the-badge)
 
 
 <p align="center">
