@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la résolution d'un informaticien pour la nouvelle année ?
+Que dit un informaticien quand il s'ennuie ?
 
-Un 19" pouces.
+Je me fichier.
 ```
 
 ```diff
-Pourquoi le prince Harry n’aime pas le rugby ?
+Comment appelle-t-on les artistes arabes ?
 
-Parce que le pilier a tué sa mère
+Les arabes straits.
 ```
 
 ```diff
-Comment appelle-t-on une gothique qui suce ?
+Maman, tu sais que papa a recommencé à fumer ? Ah bon ?
 
-Une pompe funèbre
+Hier il a dit à sa copine merci pour la pipe !
 ```
 
 ```diff
-Quel est le point commun entre un homme et un chat ?
+Il ne faut pas donner du pain aux canards...
 
-Les deux ont très peur de l'aspirateur.
+Aux connards non plus !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 82 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 81 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Les deux ont très peur de l'aspirateur.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:30-white?style=for-the-badge)
 
 
 <p align="center">
