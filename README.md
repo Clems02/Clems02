@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-À quel jeu jouent les développeurs russes ?
+Le protocole RIP...
 
-À la roulette-rust.
+Est-ce qu'on peut dire qu'il est mort ?
 ```
 
 ```diff
-Alzheimer possède plusieurs avantages : 1. On peut aller chercher les œufs de Pâques qu'on a nous même cachés.
+Quel est le nom de ma femme de ménage ?
 
-2. On rencontre de nouvelles personnes chaque jour.  3. On peut aller chercher les œufs de Pâques qu'on a nous-même cachés.
+Sarah Masse.
 ```
 
 ```diff
-Une fois, j'ai fait l'amour pendant une heure et cinq minutes.
+Maman, tu sais que papa a recommencé à fumer ? Ah bon ?
 
-C'était le jour du changement d'heure !
+Hier il a dit à sa copine merci pour la pipe !
 ```
 
 ```diff
-Qui est le plus menteur entre un boucher et un jardinier ?
+Mais où est donc Ornicar ?
 
-Le jardinier, car il ne raconte que des salades.
+Il fornique dans le car.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 79 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 78 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le jardinier, car il ne raconte que des salades.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:50-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:36-white?style=for-the-badge)
 
 
 <p align="center">
