@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Le protocole RIP...
+Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
 
-Est-ce qu'on peut dire qu'il est mort ?
+Car ils préfèrent les scratch.
 ```
 
 ```diff
-Quel est le nom de ma femme de ménage ?
+Qu'est-ce qu'un enfant de chœur encore puceau ?
 
-Sarah Masse.
+Un enfant qui court plus vite que le prêtre.
 ```
 
 ```diff
-Maman, tu sais que papa a recommencé à fumer ? Ah bon ?
+À quoi sert le Dolipranus ?
 
-Hier il a dit à sa copine merci pour la pipe !
+À aller mieux lorsque tu as la tête dans le cul !
 ```
 
 ```diff
-Mais où est donc Ornicar ?
+Pourquoi les hommes ne respectent-ils pas la loi ?
 
-Il fornique dans le car.
+Parce qu'elle n'est pas au masculin.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 78 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 77 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il fornique dans le car.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:22-white?style=for-the-badge)
 
 
 <p align="center">
