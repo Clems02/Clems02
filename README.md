@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ne portent-ils pas de chaussures à lacets ?
+Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
 
-Car ils préfèrent les scratch.
+Elle repart, car il n'y a pas de table.
 ```
 
 ```diff
-Qu'est-ce qu'un enfant de chœur encore puceau ?
+Arrêter les blagues sur les gros...
 
-Un enfant qui court plus vite que le prêtre.
+ça devient lourd.
 ```
 
 ```diff
-À quoi sert le Dolipranus ?
+Qu'est-ce qui sépare l'espèce humaine du singe ?
 
-À aller mieux lorsque tu as la tête dans le cul !
+La mer Méditerranée.
 ```
 
 ```diff
-Pourquoi les hommes ne respectent-ils pas la loi ?
+Un jour, une chinoise cherchait son mari dans la foule, en vain.
 
-Parce qu'elle n'est pas au masculin.
+C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 77 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 76 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'elle n'est pas au masculin.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:22-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:04-white?style=for-the-badge)
 
 
 <p align="center">
