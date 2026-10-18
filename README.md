@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Une requête NoSQL entre dans un bar, qu'est-ce qu'elle fait ?
+Pourquoi vaut il mieux être software que hardware ?
 
-Elle repart, car il n'y a pas de table.
+Car c’est le hardware qui prend des coups quand le software plante
 ```
 
 ```diff
-Arrêter les blagues sur les gros...
+Mon papi disait toujours "L'école, c'est comme une cave à vin..."
 
-ça devient lourd.
+"On sais jamais sur quel âge on vas tomber..."
 ```
 
 ```diff
-Qu'est-ce qui sépare l'espèce humaine du singe ?
+Melon et Melèche sont en cours d'histoire...
 
-La mer Méditerranée.
+Melon étudie Rome et Melèche la Gaule.
 ```
 
 ```diff
-Un jour, une chinoise cherchait son mari dans la foule, en vain.
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 76 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 75 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:19-white?style=for-the-badge)
 
 
 <p align="center">
