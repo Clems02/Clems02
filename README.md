@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi vaut il mieux être software que hardware ?
+J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
 
-Car c’est le hardware qui prend des coups quand le software plante
+Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
 ```
 
 ```diff
-Mon papi disait toujours "L'école, c'est comme une cave à vin..."
+Où se situe la majeure partie de la population juive ?
 
-"On sais jamais sur quel âge on vas tomber..."
+Ça dépend du vent.
 ```
 
 ```diff
-Melon et Melèche sont en cours d'histoire...
+Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
 
-Melon étudie Rome et Melèche la Gaule.
+"Dans ma bouche"
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Quelle est la différence entre des haricots et un pet ?
 
-Mr Propre
+Environ 1 heure.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 75 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 74 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:19-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:57-white?style=for-the-badge)
 
 
 <p align="center">
