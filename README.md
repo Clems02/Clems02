@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai essayé d'apprendre à coder à mon neveu de 8 ans...
+Quelle erreur ne peut-on pas abandonner ?
 
-Il a compris le truc, 2 minutes plus tard, il était déjà en train de crier et de frapper le clavier !
+L'erreur 403.
 ```
 
 ```diff
-Où se situe la majeure partie de la population juive ?
+Quels sont les publics visés par Kinder ?
 
-Ça dépend du vent.
+Les enfants et les pédophiles
 ```
 
 ```diff
-Un enfant dit à sa mère -"Maman,maman, j'ai eu 20 aujourd'hui" -"Bravo, 20 dans quoi ?"
+Melon et Meleche trouve une maison à vendre...
 
-"Dans ma bouche"
+…Melon l’achète et Meleche l’habite.
 ```
 
 ```diff
-Quelle est la différence entre des haricots et un pet ?
+C'est quoi un morceau de patate qui tombe sur la planète ?
 
-Environ 1 heure.
+Une météofrite.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 74 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 73 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Environ 1 heure.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:47-white?style=for-the-badge)
 
 
 <p align="center">
