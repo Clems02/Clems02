@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle erreur ne peut-on pas abandonner ?
+Quelle est la maladie la plus répandue chez les développeurs Rust ?
 
-L'erreur 403.
+Le tétanos.
 ```
 
 ```diff
-Quels sont les publics visés par Kinder ?
+La France, c'est comme un paquet de Dragibus.
 
-Les enfants et les pédophiles
+Il y a de toutes les couleurs.
 ```
 
 ```diff
-Melon et Meleche trouve une maison à vendre...
+Quelle est la différence entre un tampon et un téléphone ?
 
-…Melon l’achète et Meleche l’habite.
+Avec le tampon, on sait qui est au bout du fil.
 ```
 
 ```diff
-C'est quoi un morceau de patate qui tombe sur la planète ?
+Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
 
-Une météofrite.
+Parce que j'suis cuisinier et j'aimerais bien te sauter !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 73 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 72 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une météofrite.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:51-white?style=for-the-badge)
 
 
 <p align="center">
