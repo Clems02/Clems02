@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+J'ai fait un test de QI en ligne.
 
-Le tétanos.
+Apparemment, j'en ai 404.
 ```
 
 ```diff
-La France, c'est comme un paquet de Dragibus.
+Un homme demande à son iPhone : dis Siri, pourquoi suis-je célibataire ?
 
-Il y a de toutes les couleurs.
+"J'ouvre la caméra !"
 ```
 
 ```diff
-Quelle est la différence entre un tampon et un téléphone ?
+Toto, à quoi sert un fusil ? À fusilier !  À quoi sert une mitraillette ?  À mitrailler ! Et à quoi sert un tank ?
 
-Avec le tampon, on sait qui est au bout du fil.
+À tankuler !
 ```
 
 ```diff
-Eh mam'zelle, Eh mam'zelle, tu ne serais pas une patate ?
+Quel est le style préféré d'un roux ?
 
-Parce que j'suis cuisinier et j'aimerais bien te sauter !
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 72 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 71 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que j'suis cuisinier et j'aimerais bien te sauter !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:51-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:47-white?style=for-the-badge)
 
 
 <p align="center">
