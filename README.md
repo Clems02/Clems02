@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai fait un test de QI en ligne.
+À quel jeu jouent les développeurs russes ?
 
-Apparemment, j'en ai 404.
+À la roulette-rust.
 ```
 
 ```diff
-Un homme demande à son iPhone : dis Siri, pourquoi suis-je célibataire ?
+Qu'est-ce qui est pire qu'un bébé dans une poubelle ?
 
-"J'ouvre la caméra !"
+Un bébé dans deux poubelles
 ```
 
 ```diff
-Toto, à quoi sert un fusil ? À fusilier !  À quoi sert une mitraillette ?  À mitrailler ! Et à quoi sert un tank ?
+Tu sais ce que c'est un suppositoire ?
 
-À tankuler !
+C'est une invention qui restera dans les annales.
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Les genres, c'est comme les tours jumelles.
 
-Le roustique.
+Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 71 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 70 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:46-white?style=for-the-badge)
 
 
 <p align="center">
