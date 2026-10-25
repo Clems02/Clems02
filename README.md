@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi lorsqu'on mange une poutine le goût arrive 5 secondes après ?
+Comment appelle-t-on un développeur amateur de musique ?
 
-Parce que le GouLag
+Un audiofile
 ```
 
 ```diff
-Au Kenya les notes de musiques sont « ré mi fa sol la si »...
+Que fait un lépreux qui joue de la guitare ?
 
-... car là-bas, il n'y a pas do.
+Du steak haché.
 ```
 
 ```diff
-Comment appelle-t-on un préservatif pour statue ?
+Que fait un nain pour se torcher?
 
-Une capote en glaise.
+Il cour dans l'herbe.....
 ```
 
 ```diff
-Quel est le point commun entre une femme et une piscine ?
+Qu'est-ce qu'un comptable ?
 
-Ça coûte cher à l'entretien par rapport au temps que l'on passe dedans.
+C'est un con derrière une table.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 69 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 68 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Quel est le point commun entre une femme et une piscine ?
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:28-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:42-white?style=for-the-badge)
 
 
 <p align="center">
