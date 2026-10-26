@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un développeur amateur de musique ?
+Qu'est ce qu'un pirateur fait le mieux ?
 
-Un audiofile
+Ce qui lui tient hackeur (à cœur) !
 ```
 
 ```diff
-Que fait un lépreux qui joue de la guitare ?
+Un arabe et un français s'ennuient dans une salle. Ils font un concours de pets. Qui pètent en premier ?
 
-Du steak haché.
+La salle.
 ```
 
 ```diff
-Que fait un nain pour se torcher?
+Quel est le point commun entre ta mère et le coupe de la LDC ?
 
-Il cour dans l'herbe.....
+Tout le monde a envie de la soulever.
 ```
 
 ```diff
-Qu'est-ce qu'un comptable ?
+Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
 
-C'est un con derrière une table.
+L'aspirateur
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 68 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 67 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est un con derrière une table.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:57-white?style=for-the-badge)
 
 
 <p align="center">
