@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est ce qu'un pirateur fait le mieux ?
+Un développeur ne descend pas du métro.
 
-Ce qui lui tient hackeur (à cœur) !
+Il libère la RAM.
 ```
 
 ```diff
-Un arabe et un français s'ennuient dans une salle. Ils font un concours de pets. Qui pètent en premier ?
+Voici en quelques lignes le concept du billard :
 
-La salle.
+Il s'agit d'un blanc qui met hors jeu des rouges, des jaunes et un noir.
 ```
 
 ```diff
-Quel est le point commun entre ta mère et le coupe de la LDC ?
+Le sperme c'est comme la vérité,
 
-Tout le monde a envie de la soulever.
+soit ça saute aux yeux, soit c'est dur à avaler.
 ```
 
 ```diff
-Quel est le véhicule le plus puissant que les femmes savent bien conduire ?
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-L'aspirateur
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 67 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 66 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ L'aspirateur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/07:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:06-white?style=for-the-badge)
 
 
 <p align="center">
