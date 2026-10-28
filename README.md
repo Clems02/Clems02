@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur ne descend pas du métro.
+Comment appelle-t-on un bug sur une plateforme musicale ?
 
-Il libère la RAM.
+Une Spoti-faille.
 ```
 
 ```diff
-Voici en quelques lignes le concept du billard :
+Quel est le comble pour un Juif ?
 
-Il s'agit d'un blanc qui met hors jeu des rouges, des jaunes et un noir.
+Ne pas finir brûlé dans une blague.
 ```
 
 ```diff
-Le sperme c'est comme la vérité,
+Pourquoi les pharaons ont ils 2 fesses ?
 
-soit ça saute aux yeux, soit c'est dur à avaler.
+Parce qu'Anubis !
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Bon, on joue au poker ou on s'encule ?
 
-Mr Propre
+Perso, je n'aime pas trop le poker alors...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 66 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 65 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:06-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:46-white?style=for-the-badge)
 
 
 <p align="center">
