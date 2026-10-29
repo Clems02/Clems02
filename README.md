@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un bug sur une plateforme musicale ?
+Pourquoi les développeurs ont-ils toujours le même style ?
 
-Une Spoti-faille.
+Car CSS'style !
 ```
 
 ```diff
-Quel est le comble pour un Juif ?
+Pourquoi le petit garçon a fait tomber sa glace ?
 
-Ne pas finir brûlé dans une blague.
+Parce qu'il s'est fait renverser par un bus.
 ```
 
 ```diff
-Pourquoi les pharaons ont ils 2 fesses ?
+Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
 
-Parce qu'Anubis !
+Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
 ```
 
 ```diff
-Bon, on joue au poker ou on s'encule ?
+Quel est le point commun entre un ado qui s'ennuie en cours et une pute qui se gratte ?
 
-Perso, je n'aime pas trop le poker alors...
+Le morpion
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 65 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 64 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Perso, je n'aime pas trop le poker alors...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:42-white?style=for-the-badge)
 
 
 <p align="center">
