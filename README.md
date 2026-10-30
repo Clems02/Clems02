@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi les développeurs ont-ils toujours le même style ?
+Que fait un poussin sur GitHub ?
 
-Car CSS'style !
+Des poule requests
 ```
 
 ```diff
-Pourquoi le petit garçon a fait tomber sa glace ?
+Qu'est-ce qui disparaît lors des mariages ?
 
-Parce qu'il s'est fait renverser par un bus.
+La petite Maëlys.
 ```
 
 ```diff
-Quel est la différence entre un footballeur, un handballeur, et un pédophile ?
+Comment on sait quand il faut rompre ?
 
-Le footballeur marque du pied, le handballeur de la main, et le pédophile Marc Dutroux
+C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
 ```
 
 ```diff
-Quel est le point commun entre un ado qui s'ennuie en cours et une pute qui se gratte ?
+2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
 
-Le morpion
+Non. La guerre, c'est pour les durs !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 64 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 63 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le morpion
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/29/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:48-white?style=for-the-badge)
 
 
 <p align="center">
