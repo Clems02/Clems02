@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un poussin sur GitHub ?
+Quelle erreur ne peut-on pas abandonner ?
 
-Des poule requests
+L'erreur 403.
 ```
 
 ```diff
-Qu'est-ce qui disparaît lors des mariages ?
+Vous connaissez la blague avec les noirs qui se font renverser par une voiture ?
 
-La petite Maëlys.
+Moi non, mais le début de l'histoire commence bien.
 ```
 
 ```diff
-Comment on sait quand il faut rompre ?
+Comment appelle-t-on une actrice porno qui tombe enceinte ?
 
-C'est quand elle te casse plus les couilles que ce qu'elle te les vides.
+Un accident de travail.
 ```
 
 ```diff
-2 cacas vont à la guerre et rencontrent une diarrhée : Je peux venir ?
+Pourquoi les petits poissons ne vont pas à l'école ?
 
-Non. La guerre, c'est pour les durs !
+Parce qu'ils s'en fish.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 63 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 62 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Non. La guerre, c'est pour les durs !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/30/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:48-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:36-white?style=for-the-badge)
 
 
 <p align="center">
