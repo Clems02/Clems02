@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle erreur ne peut-on pas abandonner ?
+Où partent les développeurs en vacances ?
 
-L'erreur 403.
+Aux C-Shell
 ```
 
 ```diff
-Vous connaissez la blague avec les noirs qui se font renverser par une voiture ?
+Quel est le point commun entre un aveugle et un orphelin ?
 
-Moi non, mais le début de l'histoire commence bien.
+Ils ne verront jamais leur parents...
 ```
 
 ```diff
-Comment appelle-t-on une actrice porno qui tombe enceinte ?
+Tu sais ce que c'est un suppositoire ?
 
-Un accident de travail.
+C'est une invention qui restera dans les annales.
 ```
 
 ```diff
-Pourquoi les petits poissons ne vont pas à l'école ?
+J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 
-Parce qu'ils s'en fish.
+... C'est pareil que faire le ménage dans des maisons !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 62 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 61 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils s'en fish.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/31/10-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:36-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:27-white?style=for-the-badge)
 
 
 <p align="center">
