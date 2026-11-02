@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Où partent les développeurs en vacances ?
+Pourquoi un ordinateur se gratte-t-il tout le temps ?
 
-Aux C-Shell
+Car il a des puces.
 ```
 
 ```diff
-Quel est le point commun entre un aveugle et un orphelin ?
+Qui sont les plus grands magiciens ?
 
-Ils ne verront jamais leur parents...
+Les mafieux, car ils arrivent à faire disparaître des gens !
 ```
 
 ```diff
-Tu sais ce que c'est un suppositoire ?
+Pourquoi les filles baissent-elles toujours les yeux quand on leur dit "Je t'aime" ?
 
-C'est une invention qui restera dans les annales.
+Pour voir si c'est vrai.
 ```
 
 ```diff
-J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
+Pourquoi les petits poissons ne vont pas à l'école ?
 
-... C'est pareil que faire le ménage dans des maisons !
+Parce qu'ils s'en fish.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 61 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 60 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ J'comprend pas pourquoi les femmes ne pourraient pas être archéologue...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/01/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:27-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:42-white?style=for-the-badge)
 
 
 <p align="center">
