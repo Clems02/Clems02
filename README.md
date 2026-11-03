@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un ordinateur se gratte-t-il tout le temps ?
+ANSI <FONT> <FONT> <FONT>
 
-Car il a des puces.
+<LI> <P> <TITLE> Mar I/O .NET
 ```
 
 ```diff
-Qui sont les plus grands magiciens ?
+Quel est le moyen de transport le plus populaire au 18ème siècle ?
 
-Les mafieux, car ils arrivent à faire disparaître des gens !
+Le noir
 ```
 
 ```diff
-Pourquoi les filles baissent-elles toujours les yeux quand on leur dit "Je t'aime" ?
+Lui : Moi tu sais : cinq centimètres de plus et je serais un roi.
 
-Pour voir si c'est vrai.
+Elle : Oui et deux centimètres de moins tu serais une reine.
 ```
 
 ```diff
-Pourquoi les petits poissons ne vont pas à l'école ?
+Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
 
-Parce qu'ils s'en fish.
+Un combat sanglant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 60 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 59 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'ils s'en fish.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/02/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:42-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:46-white?style=for-the-badge)
 
 
 <p align="center">
