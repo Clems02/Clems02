@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-ANSI <FONT> <FONT> <FONT>
+De nos jours, le zip...
 
-<LI> <P> <TITLE> Mar I/O .NET
+... ça devient rar.
 ```
 
 ```diff
-Quel est le moyen de transport le plus populaire au 18ème siècle ?
+4 Arabes sont dans une voiture, la voiture saute dans l'eau, que regrettes-tu ?
 
-Le noir
+Qu'il n'y en ait pas plus.
 ```
 
 ```diff
-Lui : Moi tu sais : cinq centimètres de plus et je serais un roi.
+Quel est le point commun entre une blonde et un écureuil ?
 
-Elle : Oui et deux centimètres de moins tu serais une reine.
+Les deux courent après les glands !
 ```
 
 ```diff
-Comment appelle-t-on des gars dépourvus de testicules qui se battent ?
+Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
 
-Un combat sanglant.
+Mr Propre
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 59 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 58 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Un combat sanglant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/03/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:46-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:33-white?style=for-the-badge)
 
 
 <p align="center">
