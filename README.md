@@ -4,31 +4,31 @@
 ```diff
 De nos jours, le zip...
 
-... ça devient rar.
+... ça devient rar...
 ```
 
 ```diff
-4 Arabes sont dans une voiture, la voiture saute dans l'eau, que regrettes-tu ?
+Un prêtre entre dans un McDo et demande un menu enfant. On lui demande : Frites et coca ?
 
-Qu'il n'y en ait pas plus.
+Juste l’enfant, s’il vous plaît !
 ```
 
 ```diff
-Quel est le point commun entre une blonde et un écureuil ?
+Pourquoi les portes sont des putes ?
 
-Les deux courent après les glands !
+Parce qu'elles se font toucher par tout le monde.
 ```
 
 ```diff
-Quel est le nom de l'homme qui a mis le plus de femmes à quatre pattes ?
+Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
 
-Mr Propre
+Bonne à nez !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 58 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 57 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Mr Propre
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/04/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:33-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:40-white?style=for-the-badge)
 
 
 <p align="center">
