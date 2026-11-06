@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-De nos jours, le zip...
+Comment on appelle une situation qui est gérée ?
 
-... ça devient rar...
+Une situation sous CTRL
 ```
 
 ```diff
-Un prêtre entre dans un McDo et demande un menu enfant. On lui demande : Frites et coca ?
+Selon une étude, 25 % des enfants européens savent utiliser une tablette. Ridicule :
 
-Juste l’enfant, s’il vous plaît !
+100 % des enfants Chinois savent les fabriquer.
 ```
 
 ```diff
-Pourquoi les portes sont des putes ?
+Que fais un zoophile dans un pré ?
 
-Parce qu'elles se font toucher par tout le monde.
+Il joue à saute mouton...
 ```
 
 ```diff
-Que souhaitait-on aux servantes ayant une grosse patate au milieu du visage le jour de la Saint-Sylvestre ?
+Un homme dit à sa femme : Ton cul est comme le Soleil.
 
-Bonne à nez !
+On le voit de loin...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 57 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 56 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Bonne à nez !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/05/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:34-white?style=for-the-badge)
 
 
 <p align="center">
