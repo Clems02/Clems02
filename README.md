@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment on appelle une situation qui est gérée ?
+Quel son fait la cigale d'un développeur ?
 
-Une situation sous CTRL
+Css... css... css... css... css...
 ```
 
 ```diff
-Selon une étude, 25 % des enfants européens savent utiliser une tablette. Ridicule :
+Quel est le point commun entre de la cocaïne et une bombe au napalm ?
 
-100 % des enfants Chinois savent les fabriquer.
+Tous les deux, t'exploses !
 ```
 
 ```diff
-Que fais un zoophile dans un pré ?
+Qu'est-ce qu'une gifle ?
 
-Il joue à saute mouton...
+C'est comme une bifle, mais avec la main !
 ```
 
 ```diff
-Un homme dit à sa femme : Ton cul est comme le Soleil.
+Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
 
-On le voit de loin...
+"Ben quoi ? T'achètes bien des soutien-gorges..."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 56 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 55 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ On le voit de loin...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/06/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:34-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:59-white?style=for-the-badge)
 
 
 <p align="center">
