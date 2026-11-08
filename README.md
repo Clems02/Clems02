@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel son fait la cigale d'un développeur ?
+Les villageois de Minecraft ne sont que des images…
 
-Css... css... css... css... css...
+ce sont des .png.
 ```
 
 ```diff
-Quel est le point commun entre de la cocaïne et une bombe au napalm ?
+Pourquoi les compagnies aériennes arabes sont-elles aussi réputées ?
 
-Tous les deux, t'exploses !
+Parce que ce sont celles qui volent le mieux.
 ```
 
 ```diff
-Qu'est-ce qu'une gifle ?
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-C'est comme une bifle, mais avec la main !
+Ah, tu sais, mets en beaucoup ; c'est jamais assez long ce genre de chose.
 ```
 
 ```diff
-Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
+Pourquoi les tornades ont-elles des noms féminins ?
 
-"Ben quoi ? T'achètes bien des soutien-gorges..."
+Pour deux raisons : la première, parce qu’elles arrivent chaudes et humides. La deuxième parce qu’elles repartent avec tes affaires.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 55 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 54 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voitur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/07/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/08:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:17-white?style=for-the-badge)
 
 
 <p align="center">
