@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les villageois de Minecraft ne sont que des images…
+J'ai une blague sur la mémoire vive...
 
-ce sont des .png.
+... mais attendez elle RAM.
 ```
 
 ```diff
-Pourquoi les compagnies aériennes arabes sont-elles aussi réputées ?
+Que fait un Juif dans un tas de cendres ?
 
-Parce que ce sont celles qui volent le mieux.
+Il cherche ses parents.
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Que fait un zoophile qui veut sauter ?
 
-Ah, tu sais, mets en beaucoup ; c'est jamais assez long ce genre de chose.
+Il prend son élan.
 ```
 
 ```diff
-Pourquoi les tornades ont-elles des noms féminins ?
+Que fait un prêtre avec un scout dans un garage ?
 
-Pour deux raisons : la première, parce qu’elles arrivent chaudes et humides. La deuxième parce qu’elles repartent avec tes affaires.
+Il le démonte.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 54 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 53 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour deux raisons : la première, parce qu’elles arrivent chaudes et humides. 
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/08/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:17-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
 
 
 <p align="center">
