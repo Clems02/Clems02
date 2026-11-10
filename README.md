@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-J'ai une blague sur la mémoire vive...
+Que fait un développeur quand il est triste ?
 
-... mais attendez elle RAM.
+Il se console.
 ```
 
 ```diff
-Que fait un Juif dans un tas de cendres ?
+Je me rappellerai toujours des derniers mots de mon grand-père...
 
-Il cherche ses parents.
+Arrête de bouger l'échelle !
 ```
 
 ```diff
-Que fait un zoophile qui veut sauter ?
+Quel est le point commun entre un sourd et un gynécologue ?
 
-Il prend son élan.
+Les deux savent lire sur les lèvres.
 ```
 
 ```diff
-Que fait un prêtre avec un scout dans un garage ?
+Quelle est l'activité préférée d'un électricien ?
 
-Il le démonte.
+Branler un poteau pour voir s'il a du jus.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 53 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 52 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Il le démonte.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/09/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:08-white?style=for-the-badge)
 
 
 <p align="center">
