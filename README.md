@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que fait un développeur quand il est triste ?
+Un développeur non-binaire qui code, ça ferait quoi ?
 
-Il se console.
+Ça causerait des bugs.
 ```
 
 ```diff
-Je me rappellerai toujours des derniers mots de mon grand-père...
+Pourquoi Marine Le Pen ne s'épile que les poils blancs de son cul ?
 
-Arrête de bouger l'échelle !
+Pour mettre les noirs dans la merde.
 ```
 
 ```diff
-Quel est le point commun entre un sourd et un gynécologue ?
+J'ai mis une SDF enceinte...
 
-Les deux savent lire sur les lèvres.
+... comme ça elle a le ventre plein pendant 9 mois.
 ```
 
 ```diff
-Quelle est l'activité préférée d'un électricien ?
+Quel est le point commun entre un homme au réveil et un élastique ?
 
-Branler un poteau pour voir s'il a du jus.
+Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 52 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 51 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Branler un poteau pour voir s'il a du jus.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/10/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:08-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:39-white?style=for-the-badge)
 
 
 <p align="center">
