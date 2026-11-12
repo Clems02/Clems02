@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Un développeur non-binaire qui code, ça ferait quoi ?
+Les programmes informatiques, c’est comme la masturbation :
 
-Ça causerait des bugs.
+Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
 ```
 
 ```diff
-Pourquoi Marine Le Pen ne s'épile que les poils blancs de son cul ?
+Quel type de personnes a la tête dans les nuages ?
 
-Pour mettre les noirs dans la merde.
+Les japonais de 1945
 ```
 
 ```diff
-J'ai mis une SDF enceinte...
+Melon et melèche veulent faire un couscous.
 
-... comme ça elle a le ventre plein pendant 9 mois.
+Melon achète la semoule et melèche la saucisse.
 ```
 
 ```diff
-Quel est le point commun entre un homme au réveil et un élastique ?
+Quel est le comble pour un joueur de rugby ?
 
-Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
+Se faire plaquer par sa femme.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 51 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 50 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Eh bien, il s'étire, il s'étire, il s'étire, et il pète !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/11/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:39-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
 
 
 <p align="center">
