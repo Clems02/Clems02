@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Les programmes informatiques, c’est comme la masturbation :
+Pourquoi un ordinateur se gratte-t-il tout le temps ?
 
-Pendant, on se dit que c’est vachement bien. Et après, on se demande pourquoi on l’a fait…
+Car il a des puces.
 ```
 
 ```diff
-Quel type de personnes a la tête dans les nuages ?
+Mamadou, au tableau!
 
-Les japonais de 1945
+J'y suis déjà, madame...
 ```
 
 ```diff
-Melon et melèche veulent faire un couscous.
+Pourquoi utilise-t-on un préservatif 2 fois ?
 
-Melon achète la semoule et melèche la saucisse.
+On l'utilise une fois quand on a chaud, une fois quand on a soif.
 ```
 
 ```diff
-Quel est le comble pour un joueur de rugby ?
+Vous savez pourquoi Valbuena rigole quand il joue au foot ?
 
-Se faire plaquer par sa femme.
+Parce que l'herbe lui chatouille les couilles !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 50 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 49 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Se faire plaquer par sa femme.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/12/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:47-white?style=for-the-badge)
 
 
 <p align="center">
