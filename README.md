@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Pourquoi un ordinateur se gratte-t-il tout le temps ?
+Quel est le 2ème métier d’un développeur ?
 
-Car il a des puces.
+CSharpentier
 ```
 
 ```diff
-Mamadou, au tableau!
+Est-ce qu'un muet...
 
-J'y suis déjà, madame...
+...peut donner sa parole ?
 ```
 
 ```diff
-Pourquoi utilise-t-on un préservatif 2 fois ?
+Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
 
-On l'utilise une fois quand on a chaud, une fois quand on a soif.
+Bah dans son cul.
 ```
 
 ```diff
-Vous savez pourquoi Valbuena rigole quand il joue au foot ?
+Quelle est la différence entre une femme et un dobermann ?
 
-Parce que l'herbe lui chatouille les couilles !
+Le prix du collier
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 49 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 48 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce que l'herbe lui chatouille les couilles !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/13/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:47-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:10-white?style=for-the-badge)
 
 
 <p align="center">
