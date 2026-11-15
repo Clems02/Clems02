@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quel est le 2ème métier d’un développeur ?
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
 
-CSharpentier
+Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
 ```
 
 ```diff
-Est-ce qu'un muet...
+Mon rire est tellement jaune...
 
-...peut donner sa parole ?
+... qu'il mange avec des baguettes.
 ```
 
 ```diff
-Le soir, un homme lit le journal et dit à sa femme : Dis c'est chaud quand même, une femme s'est faite baiser par 100 personnes, mais où va le monde ? Et sa femme répond :
+Quel plat sent le cul de vache ?
 
-Bah dans son cul.
+La langue de beuf !
 ```
 
 ```diff
-Quelle est la différence entre une femme et un dobermann ?
+Comment appelle-t-on une orgie de nains?
 
-Le prix du collier
+Une passe-partouze
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 48 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 47 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le prix du collier
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/14/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:10-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:40-white?style=for-the-badge)
 
 
 <p align="center">
