@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
 
-Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
+... c'est quand le message d'erreur qu'il obtient est différent du précédent.
 ```
 
 ```diff
-Mon rire est tellement jaune...
+Quel est le point commun entre un surdoué et un pédophile ?
 
-... qu'il mange avec des baguettes.
+Ils ont tous les deux sauté la classe de CE1.
 ```
 
 ```diff
-Quel plat sent le cul de vache ?
+Le sexe, c'est un peu comme les équations.
 
-La langue de beuf !
+A partir de 3 inconnues ça devient intéressant.
 ```
 
 ```diff
-Comment appelle-t-on une orgie de nains?
+Monsieur, savez-vous que votre chien aboie toute la nuit ?
 
-Une passe-partouze
+Oh, ce n'est pas grave, il dort toute la journée !
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 47 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 46 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une passe-partouze
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/15/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:40-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:58-white?style=for-the-badge)
 
 
 <p align="center">
