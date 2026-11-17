@@ -8,27 +8,27 @@ La joie la plus profonde du développeur qui travaille sur un projet depuis plus
 ```
 
 ```diff
-Quel est le point commun entre un surdoué et un pédophile ?
+L'humour noir, c'est raciste.
 
-Ils ont tous les deux sauté la classe de CE1.
+Alors pourquoi on ne crée pas l'humour blanc ?
 ```
 
 ```diff
-Le sexe, c'est un peu comme les équations.
+Maman, maman pourquoi tu gémis ?
 
-A partir de 3 inconnues ça devient intéressant.
+Tais-toi et lèche !
 ```
 
 ```diff
-Monsieur, savez-vous que votre chien aboie toute la nuit ?
+A quelle fête vend-on le plus de rasoirs au Portugal ?
 
-Oh, ce n'est pas grave, il dort toute la journée !
+A la fête des mères.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 46 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 45 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Oh, ce n'est pas grave, il dort toute la journée !
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/16/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:58-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:54-white?style=for-the-badge)
 
 
 <p align="center">
