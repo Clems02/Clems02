@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-La joie la plus profonde du développeur qui travaille sur un projet depuis plusieurs heures...
+Quelle est la meilleure version de Windows ?
 
-... c'est quand le message d'erreur qu'il obtient est différent du précédent.
+Question débile, Windows Vista bien évidemment !
 ```
 
 ```diff
-L'humour noir, c'est raciste.
+- Tu préfère draguer ma mère ou ma soeur ? - Bah ta soeur, bien sûr.
 
-Alors pourquoi on ne crée pas l'humour blanc ?
+- Tu vois, papa ? C'est ça ton problème.
 ```
 
 ```diff
-Maman, maman pourquoi tu gémis ?
+Si l’avortement est un meurtre...
 
-Tais-toi et lèche !
+... la branlette, c’est quoi ? Un génocide ?
 ```
 
 ```diff
-A quelle fête vend-on le plus de rasoirs au Portugal ?
+Un jour, une chinoise cherchait son mari dans la foule, en vain.
 
-A la fête des mères.
+C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 45 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 44 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ A la fête des mères.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/17/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:54-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:25-white?style=for-the-badge)
 
 
 <p align="center">
