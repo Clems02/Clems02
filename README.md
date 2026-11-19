@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la meilleure version de Windows ?
+Comment un développeur se met-il à jour ?
 
-Question débile, Windows Vista bien évidemment !
+Il se met à l'apache.
 ```
 
 ```diff
-- Tu préfère draguer ma mère ou ma soeur ? - Bah ta soeur, bien sûr.
+Qu'est-ce qu'une étoile filante ?
 
-- Tu vois, papa ? C'est ça ton problème.
+Un Juif qui court.
 ```
 
 ```diff
-Si l’avortement est un meurtre...
+Qu'est-ce que deux trous dans un trou ?
 
-... la branlette, c’est quoi ? Un génocide ?
+Mon nez dans ton cul...
 ```
 
 ```diff
-Un jour, une chinoise cherchait son mari dans la foule, en vain.
+A quelle fête vend-on le plus de rasoirs au Portugal ?
 
-C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
+A la fête des mères.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 44 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 43 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ C'est ainsi que naquit l'expression "les hommes sont tous les mêmes".
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/18/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:25-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:32-white?style=for-the-badge)
 
 
 <p align="center">
