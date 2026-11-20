@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment un développeur se met-il à jour ?
+Que dit un ordinateur pour draguer ?
 
-Il se met à l'apache.
+Coucou, tu veux voir mes 64 bits ?
 ```
 
 ```diff
-Qu'est-ce qu'une étoile filante ?
+Que fait un bébé qui saute dans une piscine ?
 
-Un Juif qui court.
+Il se noie.
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+Comment appelle-t-on six prostituées allemandes ?
 
-Mon nez dans ton cul...
+Une scie sauteuse Bosch.
 ```
 
 ```diff
-A quelle fête vend-on le plus de rasoirs au Portugal ?
+Pourquoi la statue de la liberté est-elle une femme ?
 
-A la fête des mères.
+Parce qu'il fallait une tête vide pour y mettre un restaurant.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 43 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 42 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ A la fête des mères.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/19/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:32-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:13-white?style=for-the-badge)
 
 
 <p align="center">
