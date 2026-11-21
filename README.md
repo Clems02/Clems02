@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un ordinateur pour draguer ?
+C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
 
-Coucou, tu veux voir mes 64 bits ?
+Alors qu’en fait, il était tar.
 ```
 
 ```diff
-Que fait un bébé qui saute dans une piscine ?
+Quel est le meilleur antivol ?
 
-Il se noie.
+Un jambon
 ```
 
 ```diff
-Comment appelle-t-on six prostituées allemandes ?
+On aurait dû filmer notre nuit d'amour !
 
-Une scie sauteuse Bosch.
+Oh ... Moi tu sais, les courts métrages...
 ```
 
 ```diff
-Pourquoi la statue de la liberté est-elle une femme ?
+Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
 
-Parce qu'il fallait une tête vide pour y mettre un restaurant.
+Une double Pen.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 42 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 41 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Parce qu'il fallait une tête vide pour y mettre un restaurant.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/20/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:13-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
 
 
 <p align="center">
