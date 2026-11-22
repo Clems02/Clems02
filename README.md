@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-C'est l'histoire d'un fichier compressé qui en regardant l'heure croyait qu'il était tôt...
+L'index.js, c'est comme ton cœur...
 
-Alors qu’en fait, il était tar.
+... si il tombe en panne y'a tout qui foire.
 ```
 
 ```diff
-Quel est le meilleur antivol ?
+Quel est le point commun entre un camp de concentration et une maison de retraite ?
 
-Un jambon
+Dans les deux cas, les pensionnaires n'en ressortent pas vivants.
 ```
 
 ```diff
-On aurait dû filmer notre nuit d'amour !
+Monsieur le Curé, je peux rejoindre mes parents ?
 
-Oh ... Moi tu sais, les courts métrages...
+D'accord, mais remonte ton slip avant.
 ```
 
 ```diff
-Comment appelle-t-on le fait de se retrouver coincé entre Marine et Jean-Marie ?
+Quel est le style préféré d'un roux ?
 
-Une double Pen.
+Le roustique.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 41 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 40 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une double Pen.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/21/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
 
 
 <p align="center">
