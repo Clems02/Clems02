@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-L'index.js, c'est comme ton cœur...
+Que dit un programmeur SQL pour exprimer son mépris ?
 
-... si il tombe en panne y'a tout qui foire.
+SELECT finger FROM hand WHERE id=3;
 ```
 
 ```diff
-Quel est le point commun entre un camp de concentration et une maison de retraite ?
+Pourquoi les arabes ne peuvent-ils pas aller dans des restaurants à volonté ?
 
-Dans les deux cas, les pensionnaires n'en ressortent pas vivants.
+Pour pas qu'ils s'explosent le ventre...
 ```
 
 ```diff
-Monsieur le Curé, je peux rejoindre mes parents ?
+Si l’avortement est un meurtre...
 
-D'accord, mais remonte ton slip avant.
+... la branlette, c’est quoi ? Un génocide ?
 ```
 
 ```diff
-Quel est le style préféré d'un roux ?
+Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
 
-Le roustique.
+"Ben quoi ? T'achètes bien des soutien-gorges..."
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 40 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 39 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le roustique.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/22/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/09:59-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:57-white?style=for-the-badge)
 
 
 <p align="center">
