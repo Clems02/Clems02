@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Que dit un programmeur SQL pour exprimer son mépris ?
+Quelle est la maladie la plus répandue chez les développeurs Rust ?
 
-SELECT finger FROM hand WHERE id=3;
+Le tétanos.
 ```
 
 ```diff
-Pourquoi les arabes ne peuvent-ils pas aller dans des restaurants à volonté ?
+Que faut-il pour réunir les Beatles ?
 
-Pour pas qu'ils s'explosent le ventre...
+Encore deux morts
 ```
 
 ```diff
-Si l’avortement est un meurtre...
+Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
 
-... la branlette, c’est quoi ? Un génocide ?
+PAPA, CACA ! Bon ok, je me retire
 ```
 
 ```diff
-Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voiture !"
+Les genres, c'est comme les tours jumelles.
 
-"Ben quoi ? T'achètes bien des soutien-gorges..."
+Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 39 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 37 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Une femme à son homme : "Pourquoi tu as acheté un pneu ? Tu n'as pas de voitur
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/23/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:57-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/12:44-white?style=for-the-badge)
 
 
 <p align="center">
