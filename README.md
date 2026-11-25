@@ -2,27 +2,27 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la maladie la plus répandue chez les développeurs Rust ?
+Qu'est-ce qui permet à un ordinateur d'avancer dans l'eau ?
 
-Le tétanos.
+Les barrettes de RAMe !
 ```
 
 ```diff
-Que faut-il pour réunir les Beatles ?
+Vous saviez que Freddie Mercury était dépressif à la fin de sa vie ?
 
-Encore deux morts
+Il était toujours en mode zéro positif
 ```
 
 ```diff
-Papa, caca. Pas maintenant mon fils. Papa caca. Je t'ai dis plus tard.
+Que fait un zoophile qui veut sauter ?
 
-PAPA, CACA ! Bon ok, je me retire
+Il prend son élan.
 ```
 
 ```diff
-Les genres, c'est comme les tours jumelles.
+Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
 
-Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
+Pour ne pas avoir les lèvres gercées.
 ```
 
 <br/>
@@ -40,7 +40,7 @@ Au bon vieux temps y'en avait deux, maintenant c'est un sujet sensible...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/24/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/12:44-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/11:30-white?style=for-the-badge)
 
 
 <p align="center">
