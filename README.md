@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Qu'est-ce qui permet à un ordinateur d'avancer dans l'eau ?
+Comment appelle-t-on un trucage photo ?
 
-Les barrettes de RAMe !
+Un Faux-to-chopage
 ```
 
 ```diff
-Vous saviez que Freddie Mercury était dépressif à la fin de sa vie ?
+Qu'est-ce qu'un américain qui mange deux menus dans un fast food ?
 
-Il était toujours en mode zéro positif
+Un américain au régime.
 ```
 
 ```diff
-Que fait un zoophile qui veut sauter ?
+Maman, maman, ça prend combien de "T" le mot "bite" ?
 
-Il prend son élan.
+Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
 ```
 
 ```diff
-Pourquoi les filles ne mettent pas de mini-jupes en hiver ?
+J'ai un chat dans la gorge...
 
-Pour ne pas avoir les lèvres gercées.
+Vu ton haleine tu dois aussi avoir la litière...
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 37 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 36 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Pour ne pas avoir les lèvres gercées.
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/25/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/11:30-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/11:12-white?style=for-the-badge)
 
 
 <p align="center">
