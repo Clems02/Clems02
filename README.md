@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Comment appelle-t-on un trucage photo ?
+Quelle est la meilleure version de Windows ?
 
-Un Faux-to-chopage
+Question débile, Windows Vista bien évidemment !
 ```
 
 ```diff
-Qu'est-ce qu'un américain qui mange deux menus dans un fast food ?
+C'est quoi la différence entre les terroristes et les époux Balkany ?
 
-Un américain au régime.
+Les terroristes, ils ne détournent que des avions.
 ```
 
 ```diff
-Maman, maman, ça prend combien de "T" le mot "bite" ?
+Qu'est-ce que deux trous dans un trou ?
 
-Ah, tu sais, mets en beaucoup. C'est jamais assez long ce genre de chose...
+Mon nez dans ton cul...
 ```
 
 ```diff
-J'ai un chat dans la gorge...
+Quel est le temps de "le bébé est né" ?
 
-Vu ton haleine tu dois aussi avoir la litière...
+Le préservatif imparfait
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 36 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 35 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Vu ton haleine tu dois aussi avoir la litière...
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/26/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/11:12-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/11:04-white?style=for-the-badge)
 
 
 <p align="center">
