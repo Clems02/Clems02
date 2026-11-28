@@ -2,33 +2,33 @@
 <h1>Les blagues du jour pour se détendre ! 😇</h1>
 
 ```diff
-Quelle est la meilleure version de Windows ?
+Pourquoi les développeurs sont-ils en bonne santé ?
 
-Question débile, Windows Vista bien évidemment !
+Parce qu'ils ont des fibres !
 ```
 
 ```diff
-C'est quoi la différence entre les terroristes et les époux Balkany ?
+Quel est le point commun entre un enfant africain et une fleur ?
 
-Les terroristes, ils ne détournent que des avions.
+Ils ont besoin d'eau pendant une semaine et après, ils meurent.
 ```
 
 ```diff
-Qu'est-ce que deux trous dans un trou ?
+Qu'est ce que le paradis des nécrophiles ?
 
-Mon nez dans ton cul...
+la morgue
 ```
 
 ```diff
-Quel est le temps de "le bébé est né" ?
+Pourquoi le pervers a connecté sa clé au porc USB ?
 
-Le préservatif imparfait
+Pour regarder des clips cochons.
 ```
 
 <br/>
 
 > [!NOTE]
-> Il reste 35 jours de blagues avant la fin de l'année 2026 ! <br/>
+> Il reste 34 jours de blagues avant la fin de l'année 2026 ! <br/>
 > Alors à demain pour ne rien manquer !
 
 <br/>
@@ -40,7 +40,7 @@ Le préservatif imparfait
 <br/>
 
 
-![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/27/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/11:04-white?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Last%20updated%20on-white?style=for-the-badge&logo=clockify)   ![Badge](https://img.shields.io/badge/28/11-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/at-white?style=for-the-badge) ![Badge](https://img.shields.io/badge/10:41-white?style=for-the-badge)
 
 
 <p align="center">
